@@ -1,0 +1,1760 @@
+************************************************************
+f0003: Cause-Effect links
+************************************************************
+
+CASE: 1
+Stag: 3
+	Pattern: 265 [['so']]---- [['&C', '(,)', '(&AND)'], ['&R']]
+	sentTXT: -LRB- 1 -RRB- machines know little link and rules in the physical space , physiological space , psychological space , socio space and mental space , so it is not realistic to expect machines to discover laws and solve problems in these spaces ;
+	Cause: -LRB- 1 -RRB- machines know little link and rules in the physical space , physiological space , psychological space , socio space and mental space
+	Effect: it is not realistic to expect machines to discover laws and solve problems in these spaces ;
+
+CASE: 2
+Stag: 6
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Linking various spaces will create a complex space -- the Cyber-Physical-Physiological-Psychological-SocioMental Environment CP3SME .
+	Cause: Linking various spaces
+	Effect: will create a complex space -- the Cyber-Physical-Physiological-Psychological-SocioMental Environment CP3SME .
+
+CASE: 3
+Stag: 7
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Linking various spaces will create a complex space -- the Cyber-Physical-Physiological-Psychological-SocioMental Environment CP3SME . Diverse spaces will emerge , evolve , compete and cooperate with each other to extend machine intelligence and human intelligence .
+	Cause: Linking various spaces
+	Effect: will create a complex space -- the Cyber-Physical-Physiological-Psychological-SocioMental Environment CP3SME . Diverse spaces will emerge , evolve , compete and cooperate with each other to extend machine intelligence and human intelligence .
+
+CASE: 4
+Stag: 8
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: From multi-disciplinary perspective , this paper reviews previous ideas on various links , introduces the concept of cyberphysical society , proposes the ideal of the CP3SME including its definition , characteristics , and multi-disciplinary revolution , and explores the methodology of linking through spaces for cyber-physical-socio intelligence .
+	Cause: cyber-physical-socio intelligence
+	Effect: From multi-disciplinary perspective , this paper reviews previous ideas on various links , introduces the concept of cyberphysical society , proposes the ideal of the CP3SME including its definition , characteristics , and multi-disciplinary revolution , and explores the methodology of linking through spaces
+
+CASE: 5
+Stag: 14
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: He described computer intelligence as a machine that can learn from experience and can alter its own instructions in 1947 and then proposed Turing test -LSB- 68 -RSB- -LSB- 69 -RSB- .
+	Cause: a machine that can learn from experience and can alter its own instructions in 1947 and then proposed Turing test -LSB- 68 -RSB- -LSB- 69 -RSB- .
+	Effect: He described computer intelligence
+
+CASE: 6
+Stag: 16
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: In 1945 , Vannevar Bush introduced the ideal of memex , which could browse and make notes in an extensive on-line text and graphical system , and contain a very large library , personal notes , photographs and sketches , and several screens and a facility for establishing a labeled link between any two points in the entire library -LSB- 8 -RSB- .
+	Cause: establishing a labeled link between any two points in the entire library -LSB- 8 -RSB-
+	Effect: In 1945 , Vannevar Bush introduced the ideal of memex , which could browse and make notes in an extensive on-line text and graphical system , and contain a very large library , personal notes , photographs and sketches , and several screens and a facility
+
+CASE: 7
+Stag: 18
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: Hypertext pioneer Engelbart proposed a conceptual framework for augmenting man 's intellect in 1963 -LSB- 21 -RSB- .
+	Cause: augmenting man 's intellect in 1963 -LSB- 21 -RSB-
+	Effect: Hypertext pioneer Engelbart proposed a conceptual framework
+
+CASE: 8
+Stag: 20
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: He regarded information system as automated external symbol manipulation , and designed the system H-LAM/T -LRB- Human using Language , Artifacts , and Methodology , in which he Trained -RRB- .
+	Cause: automated external symbol manipulation , and designed the system H-LAM/T -LRB- Human using Language , Artifacts , and Methodology , in which he Trained -RRB- .
+	Effect: He regarded information system
+
+CASE: 9
+Stag: 21
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: In 1968 , he created NLS -LRB- oN Line System -RRB- as the early hypertext system with three features : a database of nonlinear text , view filters for selecting information from the database , and views that structure the display of information for the terminal .
+	Cause: the early hypertext system with three features : a database of nonlinear text , view filters for selecting information from the database , and views that structure the display of information for the terminal
+	Effect: In 1968 , he created NLS -LRB- oN Line System -RRB-
+
+CASE: 10
+Stag: 22
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: a database of nonlinear text , view filters for selecting information from the database , and views that structure the display of information for the terminal .
+	Cause: the terminal
+	Effect: a database of nonlinear text , view filters for selecting information from the database , and views that structure the display of information
+
+CASE: 11
+Stag: 27
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: The hypertext can be regarded as the prototype of the World Wide Web . The Web implements the hyperlink network on the Internet so that people all over the world can browse and search web pages in different machines distributed around the world .
+	Cause: the prototype of the World Wide Web . The Web implements the hyperlink network on the Internet so that people all over the world can browse and search web pages in different machines distributed around the world
+	Effect: The hypertext can be regarded
+
+CASE: 12
+Stag: 28
+	Pattern: 45 [['so', 'that']]---- [['&C'], ['&R']]
+	sentTXT: The Web implements the hyperlink network on the Internet so that people all over the world can browse and search web pages in different machines distributed around the world .
+	Cause: The Web implements the hyperlink network on the Internet
+	Effect: people all over the world can browse and search web pages in different machines distributed around the world .
+
+CASE: 13
+Stag: 31
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: the reference link for cross-referring , the summarization link for summarizing , the supersede link for versioning , and the precede link for ordering .
+	Cause: ordering
+	Effect: the reference link for cross-referring , the summarization link for summarizing , the supersede link for versioning , and the precede link
+
+CASE: 14
+Stag: 33
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: the replacement link for replacing the texts in the current window , the note link for displaying text in a pop-up window , and the reference link for bringing up a new window with the destination text -LSB- 7 -RSB- .
+	Cause: bringing up a new window with the destination text
+	Effect: the replacement link for replacing the texts in the current window , the note link for displaying text in a pop-up window , and the reference link
+
+CASE: 15
+Stag: 49
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: Machine-enabled links within and between documents were regarded as a new opportunity to improve the ability of information systems at the early stage of hypertext research .
+	Cause: a new opportunity to improve the ability of information systems at the early stage of hypertext research .
+	Effect: Machine-enabled links within and between documents were regarded
+
+CASE: 16
+Stag: 53
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: The concept dependency was used for natural language understanding -LSB- 63 -RSB- .
+	Cause: natural language
+	Effect: The concept dependency was used
+
+CASE: 17
+Stag: 54
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: Some expert systems adopted SN as a kind of knowledge representation method . While SN was developing in AI related areas , hyperlink was developing in the hypertext area and Web area .
+	Cause: a kind of knowledge representation method . While SN was developing in AI related areas , hyperlink was developing in the hypertext area and Web area
+	Effect: Some expert systems adopted SN
+
+CASE: 18
+Stag: 61
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: Various data structures like the linked list and tree can be regarded as a kind of link on data or data types for machine processing rather than for human to read -LSB- 85 -RSB- .
+	Cause: a kind of link on data or data types for machine processing rather than for human to read -LSB- 85 -RSB- .
+	Effect: Various data structures like the linked list and tree can be regarded
+
+CASE: 19
+Stag: 65
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: Relations like inheritance were defined in the object-oriented method for modeling the world -LSB- 6 -RSB- -LSB- 61 -RSB- .
+	Cause: modeling the world
+	Effect: Relations like inheritance were defined in the object-oriented method
+
+CASE: 20
+Stag: 66
+	Pattern: 0 [['based', 'on'], [',']]---- [[], ['&V-ing/&NP@C@', '(&Clause@C@)'], ['&R']]
+	sentTXT: The linked data is to connect Web data based on URIs , HTTP , RDF -LRB- Resource Description Framework -RRB- and metadata . Some linked data can be extracted from the collaborative online repository like Wikipedia on the Web .
+	Cause: URIs
+	Effect: HTTP , RDF -LRB- Resource Description Framework -RRB- and metadata . Some linked data can be extracted from the collaborative online repository like Wikipedia on the Web
+
+CASE: 21
+Stag: 68
+	Pattern: 23 [['since']]---- [['&R@NCTime@', '(,)'], ['&C@NCTime@']]
+	sentTXT: Much effort has been made on the Semantic Web since Berners-Lee initiated the vision -LSB- 2 -RSB- .
+	Cause: Berners-Lee initiated the vision -LSB- 2 -RSB- .
+	Effect: Much effort has been made on the Semantic Web
+
+CASE: 22
+Stag: 72
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: Semantic Web research has formed a research community , although there are some different opinions -LSB- 45 -RSB- , for example , the logic-based semantic web technologies cover only a fraction of relevant phenomena related to semantics , and RDF is similar to SN and the classic conceptual modeling approaches such as entity-relation model and class diagrams in the object-oriented modeling .
+	Cause: example
+	Effect: Semantic Web research has formed a research community , although there are some different opinions -LSB- 45 -RSB- ,
+
+CASE: 23
+Stag: 74
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: Hyperlink is mainly for human to browse , while SN and RDF are for supporting application systems .
+	Cause: supporting application systems
+	Effect: Hyperlink is mainly for human to browse , while SN and RDF are
+
+CASE: 24
+Stag: 76
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: The similar relation can be detected by analyzing the contents of nodes based on such approaches as the Latent Semantic Analysis -LRB- LSA -RRB- and the Vector Space Model -LRB- VSM -RRB- -LSB- 46 -RSB- -LSB- 62 -RSB- .
+	Cause: the Latent Semantic Analysis -LRB- LSA -RRB- and the Vector Space Model -LRB- VSM -RRB- -LSB- 46 -RSB- -LSB- 62 -RSB- .
+	Effect: The similar relation can be detected by analyzing the contents of nodes based on such approaches
+
+CASE: 25
+Stag: 87
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: Hyperlinks and previous typed links are created for structuring the cyber space .
+	Cause: structuring the cyber space
+	Effect: Hyperlinks and previous typed links are created
+
+CASE: 26
+Stag: 89
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Assigning semantic indicators and rules to links enables some implicit links to be derived and some semantics to emerge with network motion -LSB- 87 -RSB- -LSB- 90 -RSB- .
+	Cause: Assigning semantic indicators and rules to links
+	Effect: enables some implicit links to be derived and some semantics to emerge with network motion -LSB- 87 -RSB- -LSB- 90 -RSB- .
+
+CASE: 27
+Stag: 90
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Assigning semantic indicators and rules to links enables some implicit links to be derived and some semantics to emerge with network motion -LSB- 87 -RSB- -LSB- 90 -RSB- . A set of semantic links such as implication , subtype , cause-effect and reference as well as a set of reasoning rules were suggested -LSB- 77 -RSB- .
+	Cause: Assigning semantic indicators and rules to links
+	Effect: enables some implicit links to be derived and some semantics to emerge with network motion -LSB- 87 -RSB- -LSB- 90 -RSB- . A set of semantic links such as implication , subtype , cause-effect and reference as well as a set of reasoning rules were suggested -LSB- 77 -RSB- .
+
+CASE: 28
+Stag: 92
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: A simple semantic space suggested for regulating the semantics of a Semantic Link Network -LRB- SLN -RRB- consists of a classification hierarchy of concepts and a set of linking rules -LSB- 81 -RSB- -LSB- 87 -RSB- .
+	Cause: regulating the semantics of a Semantic Link Network
+	Effect: A simple semantic space suggested
+
+CASE: 29
+Stag: 96
+	Pattern: 407 [['because']]---- [['&R', '(,)', '(&ADV)'], ['&C']]
+	sentTXT: It pursues diversity and user experience of linking and exploring rather than the correctness , because users mainly concern satisfactory rather than correctness during experience . A system based on SLN is expected to have some preliminary intelligence such as answering queries on relations , guided browsing , and explanation based on reasoning .
+	Cause: users mainly concern satisfactory rather than correctness during experience . A system based on SLN is expected to have some preliminary intelligence such as answering queries on relations , guided browsing , and explanation based on reasoning
+	Effect: It pursues diversity and user experience of linking and exploring rather than the correctness
+
+CASE: 30
+Stag: 97
+	Pattern: 0 [['based', 'on'], [',']]---- [[], ['&V-ing/&NP@C@', '(&Clause@C@)'], ['&R']]
+	sentTXT: A system based on SLN is expected to have some preliminary intelligence such as answering queries on relations , guided browsing , and explanation based on reasoning .
+	Cause: SLN is expected to have some preliminary intelligence such as answering queries on relations
+	Effect: guided browsing , and explanation based on reasoning .
+
+CASE: 31
+Stag: 103
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: An object-oriented SLN language was suggested to implement the SLN -LSB- 66 -RSB- . A virtual ring method for building small-world structured P2P overlays was proposed -LSB- 84 -RSB- .
+	Cause: building small-world structured P2P overlays
+	Effect: object-oriented SLN language was suggested to implement the SLN -LSB- 66 -RSB- . A virtual ring method
+
+CASE: 32
+Stag: 106
+	Pattern: 0 [['based', 'on']]---- [['&V-ing/&NP@R@', '(&Clause@R@)', '&BE', '(&ADV)'], ['&NP@C@', '(&Clause@C@)']]
+	sentTXT: Reasoning on instances is based on reasoning rules defined in the schema .
+	Cause: reasoning rules defined in the schema
+	Effect: Reasoning on instances
+
+CASE: 33
+Stag: 113
+	Pattern: 407 [['because']]---- [['&R', '(,)', '(&ADV)'], ['&C']]
+	sentTXT: Different from the schemas of databases , the self-organized SLN needs an adaptable schema that meets the need of changes because the clusters and links may need adapting when new instances are continuously generated .
+	Cause: the clusters and links may need adapting when new instances are continuously generated .
+	Effect: Different from the schemas of databases , the self-organized SLN needs an adaptable schema that meets the need of changes
+
+CASE: 34
+Stag: 114
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Different from the schemas of databases , the self-organized SLN needs an adaptable schema that meets the need of changes because the clusters and links may need adapting when new instances are continuously generated . Much research has shown the feasibility of establishing links between language units -LRB- e.g. , a limited set of words -RRB- and brain signals -LSB- 5 -RSB- -LSB- 22 -RSB- -LSB- 40 -RSB- .
+	Cause: Different from the schemas of databases
+	Effect: the self-organized SLN needs an adaptable schema that meets the need of changes because the clusters and links may need adapting when new instances are continuously generated . Much research has shown the feasibility of establishing links between language units -LRB- e.g. , a limited set of words -RRB- and brain signals -LSB- 5 -RSB- -LSB- 22 -RSB- -LSB- 40 -RSB- .
+
+CASE: 35
+Stag: 119
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: But the current devices for obtaining brain signals limit the applications . If some soft , light and mobile detection devices can be invented in the future , many new applications can be imagined , for example , people can get some services while thinking .
+	Cause: example
+	Effect: But the current devices for obtaining brain signals limit the applications . If some soft , light and mobile detection devices can be invented in the future , many new applications can be imagined ,
+
+CASE: 36
+Stag: 120
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: If some soft , light and mobile detection devices can be invented in the future , many new applications can be imagined , for example , people can get some services while thinking .
+	Cause: example
+	Effect: If some soft , light and mobile detection devices can be invented in the future , many new applications can be imagined ,
+
+CASE: 37
+Stag: 124
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: Human brain uses different maps to plan for different behaviors .
+	Cause: different behaviors
+	Effect: Human brain uses different maps to plan
+
+CASE: 38
+Stag: 127
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: Mind is different from brain just as software is different from hardware .
+	Cause: software is different from hardware .
+	Effect: Mind is different from brain just
+
+CASE: 39
+Stag: 131
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: K-lines are generated as experience by grouping the net effects of a problem-solving episode .
+	Cause: experience by grouping the net effects of a problem-solving
+	Effect: K-lines are generated
+
+CASE: 40
+Stag: 133
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: The associate mechanism polynemes invoke partial states of agents for representing some different aspects of a thing 's meaning , e.g. , recognizing an apple arouses its properties and relevant experience .
+	Cause: representing some different aspects of a thing 's meaning
+	Effect: The associate mechanism polynemes invoke partial states of agents
+
+CASE: 41
+Stag: 136
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: The associate mechanism called isonomes inform agents of performing the same type of operations , for example , they can ask some agents to save their current state to short-term memory and load in a different state , or ask them to begin training a new long-term k-line to reproduce the current state , or ask them to imagine the consequences of taking a certain action .
+	Cause: example
+	Effect: The associate mechanism called isonomes inform agents of performing the same type of operations ,
+
+CASE: 42
+Stag: 137
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: Pronomes are isonomes for controlling the use of short-term memory representations , especially in a larger situation .
+	Cause: controlling the use of short-term memory representations , especially in a larger situation
+	Effect: Pronomes are isonomes
+
+CASE: 43
+Stag: 139
+	Pattern: 45 [['so', 'that']]---- [['&C'], ['&R']]
+	sentTXT: Paranomes are sets of pronomes linked to each other so that assignments or changes made by one pronome to some representation produce corresponding operations to related representations .
+	Cause: Paranomes are sets of pronomes linked to each other
+	Effect: assignments or changes made by one pronome to some representation produce corresponding operations to related representations .
+
+CASE: 44
+Stag: 141
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Using paranomes , one can coordinate the use of these multiple representations .
+	Cause: Using paranomes
+	Effect: one can coordinate the use of these multiple representations .
+
+CASE: 45
+Stag: 142
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Using paranomes , one can coordinate the use of these multiple representations . Newell proposed the unified theory of cognition to explain how intelligent organisms flexibly react to stimuli from the environment , how they exhibit goal-directed behavior and reach goals rationally , how they represent knowledge , and how they learn -LSB- 56 -RSB- .
+	Cause: Using paranomes
+	Effect: one can coordinate the use of these multiple representations . Newell proposed the unified theory of cognition to explain how intelligent organisms flexibly react to stimuli from the environment , how they exhibit goal-directed behavior and reach goals rationally , how they represent knowledge , and how they learn -LSB- 56 -RSB- .
+
+CASE: 46
+Stag: 145
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Extending Bush 's memex vision , Gray proposed the notion of personal memex and world memex .
+	Cause: Extending Bush 's memex vision
+	Effect: Gray proposed the notion of personal memex and world memex .
+
+CASE: 47
+Stag: 146
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Extending Bush 's memex vision , Gray proposed the notion of personal memex and world memex . The personal memex can record everything a person sees and hears , and can quickly retrieve any item on request .
+	Cause: Extending Bush 's memex vision
+	Effect: Gray proposed the notion of personal memex and world memex . The personal memex can record everything a person sees and hears , and can quickly retrieve any item on request .
+
+CASE: 48
+Stag: 151
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: an Eco-Grid balances the competing interests of its numerous species as its social , economic and technological environments evolve .
+	Cause: its social , economic and technological environments evolve .
+	Effect: balances the competing interests of its numerous species
+
+CASE: 49
+Stag: 163
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: The future interconnection environment was regarded as a large-scale human-machine environment that unites the nature , society and cyber space . Harmonious development of the physical space , society , and cyber space becomes more and more important .
+	Cause: a large-scale human-machine environment that unites the nature , society and cyber space . Harmonious development of the physical space , society , and cyber space becomes more and more important
+	Effect: The future interconnection environment was regarded
+
+CASE: 50
+Stag: 165
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Exploring the uniformity and diversity in the complex environment will be a challenge .
+	Cause: Exploring the uniformity and diversity in the complex environment
+	Effect: will be a challenge .
+
+CASE: 51
+Stag: 166
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Exploring the uniformity and diversity in the complex environment will be a challenge . Various links pervade the physical space , society , and cyber space , giving the structure and function to a variety of resources and behaviors .
+	Cause: Exploring the uniformity and diversity in the complex environment
+	Effect: will be a challenge . Various links pervade the physical space , society , and cyber space , giving the structure and function to a variety of resources and behaviors .
+
+CASE: 52
+Stag: 171
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: The situated or grounded issues have been studied , for example , how to linking language to the physical space -LSB- 34 -RSB- .
+	Cause: example
+	Effect: The situated or grounded issues have been studied ,
+
+CASE: 53
+Stag: 172
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: A mechanism for linking perceptions to language description was introduced -LSB- 37 -RSB- . A framework called semiotic schemas for grounding language was introduced -LSB- 60 -RSB- .
+	Cause: grounding language
+	Effect: A mechanism for linking perceptions to language description was introduced -LSB- 37 -RSB- . A framework called semiotic schemas
+
+CASE: 54
+Stag: 173
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: A framework called semiotic schemas for grounding language was introduced -LSB- 60 -RSB- .
+	Cause: grounding language
+	Effect: A framework called semiotic schemas
+
+CASE: 55
+Stag: 192
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: McCarthy and Minsky studied the commonsense for AI -LSB- 49 -RSB- -LSB- 52 -RSB- .
+	Cause: AI -LSB- 49 -RSB- -LSB- 52 -RSB-
+	Effect: McCarthy and Minsky studied the commonsense
+
+CASE: 56
+Stag: 193
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: Efforts have been made to create large commonsense base in the cyber space , for example , the Cyc project -LRB- started in 1984 -RRB- and the Open Mind Common Sense project -LRB- started in 1999 -RRB- .
+	Cause: example , the Cyc project -LRB- started in 1984 -RRB- and the Open Mind Common Sense project -LRB- started in 1999 -RRB-
+	Effect: Efforts have been made to create large commonsense base in the cyber space ,
+
+CASE: 57
+Stag: 207
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: Both rely on humans to add information to the cyber space for sharing with others .
+	Cause: sharing with others
+	Effect: Both rely on humans to add information to the cyber space
+
+CASE: 58
+Stag: 210
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: Web of things can be regarded as a kind of cyber-physical space . Fig. 1 -LRB- c -RRB- depicts an important extension of -LRB- b -RRB- :
+	Cause: a kind of cyber-physical space . Fig. 1 -LRB- c -RRB- depicts an important extension of -LRB- b -RRB-
+	Effect: Web of things can be regarded
+
+CASE: 59
+Stag: 212
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: user behaviors can be sensed and fed back to the cyber space for analyzing the patterns of behaviors , and humans can remotely control the actuators to behave in the physical space through the cyber space .
+	Cause: analyzing the patterns of behaviors
+	Effect: user behaviors can be sensed and fed back to the cyber space
+
+CASE: 60
+Stag: 213
+	Pattern: 23 [['since']]---- [['&R@NCTime@', '(,)'], ['&C@NCTime@']]
+	sentTXT: This enables the cyber space to adapt services according to the feedback since behavior change may indicate some psychological change .
+	Cause: behavior change may indicate some psychological change .
+	Effect: to adapt services according to the feedback
+
+CASE: 61
+Stag: 214
+	Pattern: 45 [['so', 'that']]---- [['&C'], ['&R']]
+	sentTXT: For example , this enables e-learning systems to capture student behaviors during studying so that leaning materials and processes can be organized and adapted in real time to raise the effectiveness of study .
+	Cause: For example , this enables e-learning systems to capture student behaviors during studying
+	Effect: leaning materials and processes can be organized and adapted in real time to raise the effectiveness of study .
+
+CASE: 62
+Stag: 217
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: Not only individual 's behaviors but also socio interactions can be fed back into the cyber space for further processing .
+	Cause: further processing
+	Effect: Not only individual 's behaviors but also socio interactions can be fed back into the cyber space
+
+CASE: 63
+Stag: 219
+	Pattern: 265 [['so']]---- [['&C', '(,)', '(&AND)'], ['&R']]
+	sentTXT: Sensors are limited in ability to collect all information in the physical space , so users still need to directly collect the significant information in the physical space and then put them into the cyber space after analysis -LRB- including experiment -RRB- .
+	Cause: Sensors are limited in ability to collect all information in the physical space
+	Effect: users still need to directly collect the significant information in the physical space and then put them into the cyber space after analysis -LRB- including experiment -RRB- .
+
+CASE: 64
+Stag: 224
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: From perspective of multiple disciplines , this paper explores the methodology of semantic linking through spaces for cyber-physical-socio intelligence under the background of developing a complex space ?
+	Cause: cyber-physical-socio intelligence under the background of developing a complex space
+	Effect: From perspective of multiple disciplines , this paper explores the methodology of semantic linking through spaces
+
+CASE: 65
+Stag: 228
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: Versatile individuals and socio roles coexist and harmoniously co-evolve , provide appropriate on-demand material , information , knowledge and services for each other , transform from one form into another , interact with each other directly or through links , and self-organize according to socio value chains .
+	Cause: each other
+	Effect: Versatile individuals and socio roles coexist and harmoniously co-evolve , provide appropriate on-demand material , information , knowledge and services
+
+CASE: 66
+Stag: 231
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: The environment and individuals have cyber semantic images to reflect their past and present status and the effect of interactions . Cooperation and competition as well as composition and decomposition accompany the evolution of the CP3SME .
+	Cause: composition and decomposition accompany the evolution of the CP3SME .
+	Effect: environment and individuals have cyber semantic images to reflect their past and present status and the effect of interactions . Cooperation and competition as well
+
+CASE: 67
+Stag: 234
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: Research concerns origin and essence of material , energy , information , knowledge , service , life , mind and society in the environment , harmonious and sustainable development of the environment , and the methodology for studying , developing and maintaining the environment .
+	Cause: studying , developing and maintaining the environment
+	Effect: Research concerns origin and essence of material , energy , information , knowledge , service , life , mind and society in the environment , harmonious and sustainable development of the environment , and the methodology
+
+CASE: 68
+Stag: 238
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: Photos in personal Web pages will be real-time images in the multi-dimensional classification space including such dimensions as time , location , event , audio , and video about the person . People with different privileges can view information from different dimensions and different scales .
+	Cause: time , location , event , audio , and video about the person . People with different privileges can view information from different dimensions and different scales
+	Effect: Photos in personal Web pages will be real-time images in the multi-dimensional classification space including such dimensions
+
+CASE: 69
+Stag: 254
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Different from the processes of controlling and computing , CP3SME executes with pervasive interactions between individuals within and cross spaces .
+	Cause: Different from the processes of controlling and computing
+	Effect: CP3SME executes with pervasive interactions between individuals within and cross spaces .
+
+CASE: 70
+Stag: 255
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Different from the processes of controlling and computing , CP3SME executes with pervasive interactions between individuals within and cross spaces . Interactions follow different types of rules in different spaces .
+	Cause: Different from the processes of controlling and computing
+	Effect: CP3SME executes with pervasive interactions between individuals within and cross spaces . Interactions follow different types of rules in different spaces .
+
+CASE: 71
+Stag: 258
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Different from digital archival , the CP3SME 's preserving will be real-time , lifetime , and at multiple semantic layers .
+	Cause: Different from digital archival
+	Effect: the CP3SME 's preserving will be real-time , lifetime , and at multiple semantic layers .
+
+CASE: 72
+Stag: 259
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Different from digital archival , the CP3SME 's preserving will be real-time , lifetime , and at multiple semantic layers . -LRB- 7 -RRB- Coordinating spaces .
+	Cause: Different from digital archival
+	Effect: the CP3SME 's preserving will be real-time , lifetime , and at multiple semantic layers . -LRB- 7 -RRB- Coordinating spaces .
+
+CASE: 73
+Stag: 269
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: CP3SME reflects minds by establishing and evolving cyber semantic images for various behaviors in multiple spaces , for example , by tracing language using , interactions , and the change of various patterns during behaving .
+	Cause: example
+	Effect: CP3SME reflects minds by establishing and evolving cyber semantic images for various behaviors in multiple spaces ,
+
+CASE: 74
+Stag: 270
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: A multi-dimensional classification space is suitable for organizing classes in different spaces -LSB- 77 -RSB- -LSB- 82 -RSB- .
+	Cause: organizing classes in different spaces -LSB- 77 -RSB- -LSB- 82 -RSB-
+	Effect: A multi-dimensional classification space is suitable
+
+CASE: 75
+Stag: 275
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: This requires CP3SME to have an elastic time dimension and the models for the evolution of communities and individuals .
+	Cause: the evolution of communities and individuals
+	Effect: This requires CP3SME to have an elastic time dimension and the models
+
+CASE: 76
+Stag: 276
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Adding a time dimension to the multi-dimensional classification space can form the space for showing the change of resources when compressing and stretching the time dimension -LSB- 82 -RSB- .
+	Cause: Adding a time dimension to the multi-dimensional classification space
+	Effect: can form the space for showing the change of resources when compressing and stretching the time dimension -LSB- 82 -RSB- .
+
+CASE: 77
+Stag: 277
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Adding a time dimension to the multi-dimensional classification space can form the space for showing the change of resources when compressing and stretching the time dimension -LSB- 82 -RSB- . Sciences and technologies specific to a single space will converge to a general theory and methodology for studying and developing the CP3SME .
+	Cause: Adding a time dimension to the multi-dimensional classification space
+	Effect: can form the space for showing the change of resources when compressing and stretching the time dimension -LSB- 82 -RSB- . Sciences and technologies specific to a single space will converge to a general theory and methodology for studying and developing the CP3SME .
+
+CASE: 78
+Stag: 293
+	Pattern: 45 [['so', 'that']]---- [['&C'], ['&R']]
+	sentTXT: The statuses of artifacts -LRB- e.g. , bridges -RRB- can be monitored in lifetime so that necessary maintenance can be carried out on time to ensure healthy status .
+	Cause: The statuses of artifacts -LRB- e.g. , bridges -RRB- can be monitored in lifetime
+	Effect: necessary maintenance can be carried out on time to ensure healthy status .
+
+CASE: 79
+Stag: 303
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: Society will be safer and life quality will be higher as the status of key individuals -LRB- e.g. , people , socio facilities , and production sites -RRB- , communities , and events will have cyber semantic images that can help make precaution .
+	Cause: the status of key individuals -LRB- e.g. , people , socio facilities , and production sites -RRB- , communities , and events will have cyber semantic images that can help make precaution .
+	Effect: Society will be safer and life quality will be higher
+
+CASE: 80
+Stag: 309
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: transforming one form of symbols into another form of symbols with the help of grammar analysis , statistics and corpus . They are limited in ability to support effective intercultural collaboration as little semantics and culture are concerned .
+	Cause: transforming one form of symbols into another form of symbols with the help of grammar analysis , statistics and corpus
+	Effect: . They are limited in ability to support effective intercultural collaboration as little semantics and culture are concerned
+
+CASE: 81
+Stag: 310
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: transforming one form of symbols into another form of symbols with the help of grammar analysis , statistics and corpus . They are limited in ability to support effective intercultural collaboration as little semantics and culture are concerned .
+	Cause: transforming one form of symbols into another form of symbols with the help of grammar analysis , statistics and corpus
+	Effect: . They are limited in ability to support effective intercultural collaboration as little semantics and culture are concerned
+
+CASE: 82
+Stag: 315
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: The CP3SME will be efficient and low carbon as it will ensure optimal coordination between knowledge flow , information flow , material flow , energy flow , and value flow through spaces .
+	Cause: it will ensure optimal coordination between knowledge flow , information flow , material flow , energy flow , and value flow through spaces .
+	Effect: The CP3SME will be efficient and low carbon
+
+CASE: 83
+Stag: 327
+	Pattern: 0 [['based', 'on']]---- [['&R', '(,)', '(&ADV)'], ['&V-ing/&NP@C@', '(&Clause@C@)']]
+	sentTXT: Traffic jam will be avoided based on certain socio priority and real-time situation .
+	Cause: certain socio priority and real-time situation
+	Effect: Traffic jam will be avoided
+
+CASE: 84
+Stag: 332
+	Pattern: 45 [['so', 'that']]---- [['&C'], ['&R']]
+	sentTXT: The Cyber-Physical-Socio Ecology concerns how to keep a reasonable expansion of the cyber space and the socio space so that they can harmoniously evolve with the physical space otherwise it may form negative influence on the whole environment -LSB- 64 -RSB- .
+	Cause: The Cyber-Physical-Socio Ecology concerns how to keep a reasonable expansion of the cyber space and the socio space
+	Effect: they can harmoniously evolve with the physical space otherwise it may form negative influence on the whole environment -LSB- 64 -RSB- .
+
+CASE: 85
+Stag: 338
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: Versatile spaces such as the mental space and the socio space are generated as the effect of evolution . New spaces will have special functions and operate with special rules .
+	Cause: the effect of evolution . New spaces will have special functions and operate with special rules
+	Effect: Versatile spaces such as the mental space and the socio space are generated
+
+CASE: 86
+Stag: 342
+	Pattern: 0 [['based', 'on'], [',']]---- [[], ['&V-ing/&NP@C@', '(&Clause@C@)'], ['&R']]
+	sentTXT: Based on individual interactive semantic base , individual mental spaces can also self-organize into communities through multiple interaction channels .
+	Cause: individual interactive semantic base
+	Effect: individual mental spaces can also self-organize into communities through multiple interaction channels .
+
+CASE: 87
+Stag: 348
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: If the organs are abstracted as service nodes and the relations between organs are abstracted as semantic links , an individual physiological space can be abstracted as a complex semantic link network evolving with physiological rules and the flows of material , energy and information through the links .
+	Cause: a complex semantic link network evolving with physiological rules and the flows of material , energy and information through
+	Effect: If the organs are abstracted as service nodes and the relations between organs are abstracted as semantic links , an individual physiological space can be abstracted
+
+CASE: 88
+Stag: 351
+	Pattern: 0 [['based', 'on']]---- [['&R', '(,)', '(&ADV)'], ['&V-ing/&NP@C@', '(&Clause@C@)']]
+	sentTXT: Communities construct their psychological spaces through social construction process based on individual psychological spaces -LSB- 71 -RSB- .
+	Cause: individual psychological spaces -LSB- 71 -RSB-
+	Effect: Communities construct their psychological spaces through social construction process
+
+CASE: 89
+Stag: 352
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Abstracting behaviors as active semantic nodes and abstracting the relations between behaviors and the relations between the external situation and internal condition as semantic links , the psychological space can be regarded as a complex semantic link network evolving with psychological rules .
+	Cause: Abstracting behaviors as active semantic nodes
+	Effect: and abstracting the relations between behaviors and the relations between the external situation and internal condition as semantic links , the psychological space can be regarded as a complex semantic link network evolving with psychological rules .
+
+CASE: 90
+Stag: 353
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Abstracting behaviors as active semantic nodes and abstracting the relations between behaviors and the relations between the external situation and internal condition as semantic links , the psychological space can be regarded as a complex semantic link network evolving with psychological rules . -LRB- 4 -RRB- The generation of the artifact space as the effect of the mental space development and interactions between the mental space , psychological space , physiological space , and physical space .
+	Cause: Abstracting behaviors as active semantic nodes
+	Effect: and abstracting the relations between behaviors and the relations between the external situation and internal condition as semantic links , the psychological space can be regarded as a complex semantic link network evolving with psychological rules . -LRB- 4 -RRB- The generation of the artifact space as the effect of the mental space development and interactions between the mental space , psychological space , physiological space , and physical space .
+
+CASE: 91
+Stag: 357
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: If artifacts are abstracted as semantic nodes with function descriptions , and the relations between artifacts are abstracted as semantic links , the artifact space can be regarded as a semantic link network evolving with scientific , technological and socio rules .
+	Cause: a semantic link network evolving with scientific ,
+	Effect: If artifacts are abstracted as semantic nodes with function descriptions , and the relations between artifacts are abstracted as semantic links , the artifact space can be regarded
+
+CASE: 92
+Stag: 360
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: Various languages are interaction tools for constructing the socio space .
+	Cause: constructing the socio space
+	Effect: Various languages are interaction tools
+
+CASE: 93
+Stag: 362
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: If socio individuals are abstracted as active semantic nodes and socio relations between individuals are abstracted as semantic links , the socio space can be regarded as a complex semantic link network evolving with socio rules and interactions . -LRB- 6 -RRB- The generation of the symbol space to help indicate semantics according to rules of languages .
+	Cause: a complex semantic link network evolving with socio rules and interactions . -LRB- 6 -RRB- The generation of the symbol space to help indicate semantics according to rules of languages
+	Effect: If socio individuals are abstracted as active semantic nodes and socio relations between individuals are abstracted as semantic links , the socio space can be regarded
+
+CASE: 94
+Stag: 364
+	Pattern: 0 [['based', 'on'], [',']]---- [[], ['&V-ing/&NP@C@', '(&Clause@C@)'], ['&R']]
+	sentTXT: Some symbol spaces are based on mathematical languages , while some are based on natural languages .
+	Cause: mathematical languages
+	Effect: while some are based on natural languages .
+
+CASE: 95
+Stag: 366
+	Pattern: 0 [['due', 'to']]---- [[], ['&NP@C@', '(,)', '&R']]
+	sentTXT: Individuals can only know a small part of the space and will know relatively less due to the limitation of lifetime and unlimited expansion of documents . Humans have been creating various subspaces of the symbol space such as the Euclidean space and the resource space -LSB- 82 -RSB- -LSB- 83 -RSB- .
+	Cause: the limitation of lifetime
+	Effect: and unlimited expansion of documents . Humans have been creating various subspaces of the symbol space such as the Euclidean space and the resource space -LSB- 82 -RSB- -LSB- 83 -RSB-
+
+CASE: 96
+Stag: 378
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Different from other individuals , humans can actively link symbols to the physical space , and to the socio space through the physiological space , psychological space , and mental space .
+	Cause: Different from other individuals
+	Effect: humans can actively link symbols to the physical space , and to the socio space through the physiological space , psychological space , and mental space .
+
+CASE: 97
+Stag: 379
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Different from other individuals , humans can actively link symbols to the physical space , and to the socio space through the physiological space , psychological space , and mental space . Humans have the ability of mapping a continuous space into discrete space and linking discrete spaces into a continuous space .
+	Cause: Different from other individuals
+	Effect: humans can actively link symbols to the physical space , and to the socio space through the physiological space , psychological space , and mental space . Humans have the ability of mapping a continuous space into discrete space and linking discrete spaces into a continuous space .
+
+CASE: 98
+Stag: 382
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: These spaces will co-evolve , reflect one another , and interact with each other as a complex space . Individuals link one another according to the rules in different spaces .
+	Cause: a complex space . Individuals link one another according
+	Effect: These spaces will co-evolve , reflect one another , and interact with each other
+
+CASE: 99
+Stag: 386
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: More spaces will be generated with continuous evolution of the CP3SME . Competition and cooperation as well as unification and separation will accompany the evolution of the environment .
+	Cause: unification and separation will accompany the evolution of the environment .
+	Effect: spaces will be generated with continuous evolution of the CP3SME . Competition and cooperation as well
+
+CASE: 100
+Stag: 393
+	Pattern: 0 [['based', 'on'], [',']]---- [[], ['&V-ing/&NP@C@', '(&Clause@C@)'], ['&R']]
+	sentTXT: For example , the complex distance between individuals involved in a socio event can be defined according to the physical distances such as road length and straight-line distance , socio distances based on friendship or harmonious interaction , and symbol distances based on profiles .
+	Cause: friendship or harmonious interaction
+	Effect: and symbol distances based on
+
+CASE: 101
+Stag: 405
+	Pattern: 0 [['based', 'on']]---- [['&V-ing/&NP@R@', '(&Clause@R@)', '&BE', '(&ADV)'], ['&NP@C@', '(&Clause@C@)']]
+	sentTXT: Human behaviors and reasons are based on various processes of co-experiencing in multiple spaces .
+	Cause: various processes of co-experiencing in multiple spaces
+	Effect: Human behaviors and reasons
+
+CASE: 102
+Stag: 408
+	Pattern: 0 [['due', 'to']]---- [[], ['&NP@C@', '(,)', '&R']]
+	sentTXT: Some communities have long life while others have only short life due to the differences between individuals . Humans are the bridges between the mental space and the other spaces .
+	Cause: the differences between individuals
+	Effect: . Humans are the bridges between the mental space and the other spaces
+
+CASE: 103
+Stag: 418
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: The mental space has the mechanism for processing languages .
+	Cause: processing languages
+	Effect: The mental space has the mechanism
+
+CASE: 104
+Stag: 419
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: Languages are rules of composing symbols for indicating and linking semantic images in the mental space during interaction -LSB- 24 -RSB- . As the effect of learning and using languages for interaction , languages develop with the evolution of the mental space and the symbol space .
+	Cause: interaction
+	Effect: Languages are rules of composing symbols for indicating and linking semantic images in the mental space during interaction -LSB- 24 -RSB- . As the effect of learning and using languages
+
+CASE: 105
+Stag: 420
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: As the effect of learning and using languages for interaction , languages develop with the evolution of the mental space and the symbol space .
+	Cause: interaction
+	Effect: As the effect of learning and using languages
+
+CASE: 106
+Stag: 422
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: Humans obtain language ability and establish individual interactive semantic bases for effective interaction through the process of learning , interaction and co-experiencing .
+	Cause: effective interaction through the process of learning , interaction and co-experiencing
+	Effect: Humans obtain language ability and establish individual interactive semantic bases
+
+CASE: 107
+Stag: 430
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: Minds reflect various spaces , and guide behaviors for interaction , reflection and creation .
+	Cause: interaction , reflection and creation
+	Effect: Minds reflect various spaces , and guide behaviors
+
+CASE: 108
+Stag: 433
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Exploring the mystery of minds is a grand challenge .
+	Cause: Exploring the mystery of minds
+	Effect: is a grand challenge .
+
+CASE: 109
+Stag: 434
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Exploring the mystery of minds is a grand challenge . Behaviors in CP3SME follow some principles :
+	Cause: Exploring the mystery of minds
+	Effect: is a grand challenge . Behaviors in CP3SME follow some principles :
+
+CASE: 110
+Stag: 438
+	Pattern: 0 [['due', 'to']]---- [[], ['&NP@C@', '(,)', '&R']]
+	sentTXT: Firstly , individuals can only know a small part of the large-scale networks due to energy limitation and privacy . Secondly , to minimize energy , behaviors need to be localized .
+	Cause: energy limitation and privacy
+	Effect: . Secondly , to minimize energy , behaviors need to be localized
+
+CASE: 111
+Stag: 441
+	Pattern: 45 [['so', 'that']]---- [['&C'], ['&R']]
+	sentTXT: Thirdly , individuals of the same class should be organized in nearby locations so that they can be assessed at the same time .
+	Cause: Thirdly , individuals of the same class should be organized in nearby locations
+	Effect: they can be assessed at the same time .
+
+CASE: 112
+Stag: 443
+	Pattern: 0 [['due', 'to']]---- [[], ['&NP@C@', '(,)', '&R']]
+	sentTXT: Any behavior may influence the whole community or the whole network due to the long-term movement of the network -LRB- e.g. , continuous evolution , complex reasoning , and information flow cycle -RRB- . Influence will propagate within community first , and then it will propagate in the other communities through inter-community links in the long run .
+	Cause: the long-term movement of the network -LRB- e.g. , continuous evolution , complex reasoning , and information flow cycle -RRB-
+	Effect: . Influence will propagate within community first , and then it will propagate in the other communities through inter-community links in the long run
+
+CASE: 113
+Stag: 447
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: It is an important concept in science , for example , symmetry refers to the invariance under any transformation in physics .
+	Cause: example
+	Effect: It is an important concept in science ,
+
+CASE: 114
+Stag: 449
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Knowing symmetry and self-similarity can help raise the effectiveness of operations such as control and navigation .
+	Cause: Knowing symmetry and self-similarity
+	Effect: can help raise the effectiveness of operations such as control and navigation .
+
+CASE: 115
+Stag: 450
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Exploring symmetry and self-similarity is an important research method and research topic in many scientific areas -LSB- 16 -RSB- -LSB- 26 -RSB- -LSB- 33 -RSB- -LSB- 43 -RSB- .
+	Cause: Exploring symmetry and self-similarity
+	Effect: is an important research method and research topic in many scientific areas -LSB- 16 -RSB- -LSB- 26 -RSB- -LSB- 33 -RSB- -LSB- 43 -RSB- .
+
+CASE: 116
+Stag: 451
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Exploring symmetry and self-similarity is an important research method and research topic in many scientific areas -LSB- 16 -RSB- -LSB- 26 -RSB- -LSB- 33 -RSB- -LSB- 43 -RSB- . Symmetry and self-similarity could exist in different spaces and at different abstraction levels and scales in CP3SME .
+	Cause: Exploring symmetry and self-similarity
+	Effect: is an important research method and research topic in many scientific areas -LSB- 16 -RSB- -LSB- 26 -RSB- -LSB- 33 -RSB- -LSB- 43 -RSB- . Symmetry and self-similarity could exist in different spaces and at different abstraction levels and scales in CP3SME .
+
+CASE: 117
+Stag: 452
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: Human minds reflect one another and reflect the patterns in the physical space and socio space and evolve themselves patterns , make artifacts such as mirrors and lens to reflect more of themselves and the other spaces , and create the cyber space to reflect the society . As a kind of mirror , the cyber space reflects the other spaces by recording and linking various interactions in other spaces -LSB- 89 -RSB- .
+	Cause: a kind of mirror , the cyber space reflects the other spaces by recording and linking various interactions in other spaces -LSB- 89 -RSB- .
+	Effect: Human minds reflect one another and reflect the patterns in the physical space and socio space and evolve themselves patterns , make artifacts such as mirrors and lens to reflect more of themselves and the other spaces , and create the cyber space to reflect the society .
+
+CASE: 118
+Stag: 454
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Exploring the symmetry and self-similarity in various spaces is an approach to understand the intrinsic principles in these spaces .
+	Cause: Exploring the symmetry and self-similarity in various spaces
+	Effect: is an approach to understand the intrinsic principles in these spaces .
+
+CASE: 119
+Stag: 455
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Exploring the symmetry and self-similarity in various spaces is an approach to understand the intrinsic principles in these spaces . To create an adaptive model enables the cyber space to reflect the other spaces as depicted in Fig. 5 .
+	Cause: Exploring the symmetry and self-similarity in various spaces
+	Effect: is an approach to understand the intrinsic principles in these spaces . To create an adaptive model enables the cyber space to reflect the other spaces as depicted in Fig. 5 .
+
+CASE: 120
+Stag: 458
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: The cyber-mental interface , cyber-socio interface , cyber-physiological interface , and cyber-physical interface are responsible for various reflections .
+	Cause: various reflections
+	Effect: The cyber-mental interface , cyber-socio interface , cyber-physiological interface , and cyber-physical interface are responsible
+
+CASE: 121
+Stag: 469
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: Different spaces have different types of distance , for example , friendship between individuals , the difference between interests , and the distance between offices .
+	Cause: example
+	Effect: Different spaces have different types of distance ,
+
+CASE: 122
+Stag: 470
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Reflecting different aspects of the objects needs to use the distances in different spaces .
+	Cause: Reflecting different aspects of the objects
+	Effect: needs to use the distances in different spaces .
+
+CASE: 123
+Stag: 471
+	Pattern: 45 [['so', 'that']]---- [['&C'], ['&R']]
+	sentTXT: Various sensors and mobile devices link the cyber space to the physical space and the socio space so that the real-time status in the places and buildings as well as individuals , communities and events can be assessed .
+	Cause: Various sensors and mobile devices link the cyber space to the physical space and the socio space
+	Effect: the real-time status in the places and buildings as well as individuals , communities and events can be assessed .
+
+CASE: 124
+Stag: 474
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: For example , the cyber space search can be extended to the socio space search , to the physical space search , to the artifact space search , and even to the physiological space search -LRB- for medical applications -RRB- .
+	Cause: medical applications
+	Effect: For example , the cyber space search can be extended to the socio space search , to the physical space search , to the artifact space search , and even to the physiological space search -LRB-
+
+CASE: 125
+Stag: 483
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Different from previous notions about the mental space -LSB- 23 -RSB- -LSB- 47 -RSB- -LSB- 51 -RSB- , the mental space model depicted in Fig. 7 is based on the multi-dimensional classification space , link and the Interactive Semantic Base ISB -LSB- 89 -RSB- , since classification , link and interaction are the basis of the development of the mental space .
+	Cause: Different from previous notions about the mental space -LSB- 23 -RSB- -LSB- 47 -RSB- -LSB- 51 -RSB- , the mental space model depicted in Fig. 7
+	Effect: is based on the multi-dimensional classification space , link and the Interactive Semantic Base ISB -LSB- 89 -RSB- , since classification , link and interaction are the basis of the development of the mental space .
+
+CASE: 126
+Stag: 484
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Different from previous notions about the mental space -LSB- 23 -RSB- -LSB- 47 -RSB- -LSB- 51 -RSB- , the mental space model depicted in Fig. 7 is based on the multi-dimensional classification space , link and the Interactive Semantic Base ISB -LSB- 89 -RSB- , since classification , link and interaction are the basis of the development of the mental space . The stimulus-response mechanism links the physical space and the socio space to the mental space through the physiological space and the psychological space .
+	Cause: Different from previous notions about the mental space -LSB- 23 -RSB- -LSB- 47 -RSB- -LSB- 51 -RSB- , the mental space model depicted in Fig. 7
+	Effect: is based on the multi-dimensional classification space , link and the Interactive Semantic Base ISB -LSB- 89 -RSB- , since classification , link and interaction are the basis of the development of the mental space . The stimulus-response mechanism links the physical space and the socio space to the mental space through the physiological space and the psychological space .
+
+CASE: 127
+Stag: 500
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Different from previous understanding of knowledge , knowledge flow can generate and evolve knowledge during flow process -LSB- 80 -RSB- .
+	Cause: Different from previous understanding of knowledge
+	Effect: knowledge flow can generate and evolve knowledge during flow process -LSB- 80 -RSB- .
+
+CASE: 128
+Stag: 501
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Different from previous understanding of knowledge , knowledge flow can generate and evolve knowledge during flow process -LSB- 80 -RSB- . The following are major operations of the mental space :
+	Cause: Different from previous understanding of knowledge
+	Effect: knowledge flow can generate and evolve knowledge during flow process -LSB- 80 -RSB- . The following are major operations of the mental space :
+
+CASE: 129
+Stag: 502
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: -LRB- 1 -RRB- Selecting the situation for reflection according to the active points in the mental space reflecting the physical , physiological , psychological , and socio requirements .
+	Cause: reflection according to the active points in the mental space reflecting the physical , physiological , psychological , and socio requirements
+	Effect: -LRB- 1 -RRB- Selecting the situation
+
+CASE: 130
+Stag: 506
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: Points can cooperate with each other for rendering and remembering semantic images as well as for generating and operating flows through semantic links .
+	Cause: generating and operating flows through semantic links
+	Effect: Points can cooperate with each other for rendering and remembering semantic images as well as
+
+CASE: 131
+Stag: 518
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Zooming along the scale dimension : zoom-in to emerge the small-scale semantic image , and zoom-out to emerge the large-scale semantic image .
+	Cause: Zooming along the scale dimension
+	Effect: : zoom-in to emerge the small-scale semantic image , and zoom-out to emerge the large-scale semantic
+
+CASE: 132
+Stag: 519
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Zooming along the scale dimension : zoom-in to emerge the small-scale semantic image , and zoom-out to emerge the large-scale semantic image .
+	Cause: Zooming along the scale dimension
+	Effect: : zoom-in to emerge the small-scale semantic image , and zoom-out to emerge the large-scale semantic
+
+CASE: 133
+Stag: 521
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Zooming along the abstraction dimension : zoom-in to emerge the specific semantic image , and zoom-out to emerge a more general semantic image .
+	Cause: Zooming along the abstraction dimension
+	Effect: : zoom-in to emerge the specific semantic image , and zoom-out to emerge a more general semantic
+
+CASE: 134
+Stag: 522
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Zooming along the abstraction dimension : zoom-in to emerge the specific semantic image , and zoom-out to emerge a more general semantic image .
+	Cause: Zooming along the abstraction dimension
+	Effect: : zoom-in to emerge the specific semantic image , and zoom-out to emerge a more general semantic
+
+CASE: 135
+Stag: 526
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Linking a new semantic image to an existing semantic image , feeding back physical , psychological , physiological , and socio effect , and remembering the links between the macro processes and the effects .
+	Cause: Linking a new semantic image to an existing semantic image , feeding back physical , psychological , physiological , and socio effect
+	Effect: and remembering the links between the macro processes and the effects .
+
+CASE: 136
+Stag: 527
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Linking a new semantic image to an existing semantic image , feeding back physical , psychological , physiological , and socio effect , and remembering the links between the macro processes and the effects . Writing can be regarded as a process of selecting and organizing the appropriate language units corresponding to the semantic image emerged in mind .
+	Cause: Linking a new semantic image to an existing semantic image , feeding back physical , psychological , physiological , and socio effect
+	Effect: and remembering the links between the macro processes and the effects . Writing can be regarded as a process of selecting and organizing the appropriate language units corresponding to the semantic image emerged in mind .
+
+CASE: 137
+Stag: 528
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: Reading can be regarded as a process of emerging semantic images with sensing the flow of language units in texts . The mental space can compose semantic images and externalize it through various languages .
+	Cause: a process of emerging semantic images with sensing the flow of language units in texts . The mental space can compose semantic images and externalize it through various languages
+	Effect: Reading can be regarded
+
+CASE: 138
+Stag: 532
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: Different people may have different semantic images when sensing the same artifact as people may have different experiences .
+	Cause: people may have different experiences .
+	Effect: Different people may have different semantic images when sensing the same artifact
+
+CASE: 139
+Stag: 533
+	Pattern: 407 [['because']]---- [['&R', '(,)', '(&ADV)'], ['&C']]
+	sentTXT: Even for the author , different semantic images may emerge when sensing his/her artifact at different times , because semantic images in the author 's mind keep evolving with experience .
+	Cause: semantic images in the author 's mind keep evolving with experience .
+	Effect: Even for the author , different semantic images may emerge when sensing his/her artifact at different times
+
+CASE: 140
+Stag: 546
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Asking a group of students to draw paintings independently according to the same story , the paintings drawn by different students are different .
+	Cause: Asking a group of students to draw paintings independently according to the same story
+	Effect: the paintings drawn by different students are different .
+
+CASE: 141
+Stag: 547
+	Pattern: 8 [['because']]---- [['&R', '(,/./;)', '(&AND)', '&THIS', '&BE', '(&ADV)'], ['&C']]
+	sentTXT: Asking a group of students to draw paintings independently according to the same story , the paintings drawn by different students are different . This is because the semantic images in their minds are different .
+	Cause: the semantic images in their minds are different .
+	Effect: Asking a group of students to draw paintings independently according to the same story , the paintings drawn by different students are different
+
+CASE: 142
+Stag: 550
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Unveiling the relations and rules in various spaces is the major goal of science .
+	Cause: Unveiling the relations and rules in various spaces
+	Effect: is the major goal of science .
+
+CASE: 143
+Stag: 551
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Unveiling the relations and rules in various spaces is the major goal of science . The basic semantic links in the physical space include the spatial relation , movement relation , symbiosis relation , energy transformation relation and material flow -LRB- e.g. , water flow and nutrition flow through food web -RRB- .
+	Cause: Unveiling the relations and rules in various spaces
+	Effect: is the major goal of science . The basic semantic links in the physical space include the spatial relation , movement relation , symbiosis relation , energy transformation relation and material flow -LRB- e.g. , water flow and nutrition flow through food web -RRB- .
+
+CASE: 144
+Stag: 558
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: The form of a semantic node can be denoted as n -LSB- c -RSB- , where n is its name indicated in the symbol space , and c is its class .
+	Cause: n -LSB- c -RSB- , where n is its name indicated in the symbol
+	Effect: The form of a semantic node can be denoted
+
+CASE: 145
+Stag: 567
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: When status of node is important in some applications , the status of node can be indicated by the attributes ' values at certain time t , denoted as n -LRB- t -RRB- = < a1 -LRB- t -RRB- = v1 , ... , an -LRB- t -RRB- = vn > .
+	Cause: n -LRB- t -RRB- = < a1 -LRB- t -RRB- = v1 , ... , an -LRB- t -RRB- = vn > .
+	Effect: When status of node is important in some applications , the status of node can be indicated by the attributes ' values at certain time t , denoted
+
+CASE: 146
+Stag: 576
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: For example , co-location is a socio rule for linking related services in physically nearby locations .
+	Cause: linking related services in physically nearby locations
+	Effect: For example , co-location is a socio rule
+
+CASE: 147
+Stag: 577
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Knowing this rule enables navigation systems to raise efficiency .
+	Cause: Knowing this rule
+	Effect: enables navigation systems to raise efficiency .
+
+CASE: 148
+Stag: 578
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Knowing this rule enables navigation systems to raise efficiency . Two basic types of operations are Add and Delete , which can be specialized into the following six basic operations :
+	Cause: Knowing this rule
+	Effect: enables navigation systems to raise efficiency . Two basic types of operations are Add and Delete , which can be specialized into the following six basic operations :
+
+CASE: 149
+Stag: 583
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: It can be specialized for dynamic or functional modeling by incorporating the class mechanisms of the object-oriented method -LSB- 6 -RSB- -LSB- 39 -RSB- -LSB- 61 -RSB- .
+	Cause: dynamic or functional modeling by incorporating the class mechanisms of the object-oriented method -LSB- 6 -RSB- -LSB- 39 -RSB- -LSB- 61 -RSB-
+	Effect: It can be specialized
+
+CASE: 150
+Stag: 590
+	Pattern: 0 [['based', 'on']]---- [['&R', '(,)', '(&ADV)'], ['&V-ing/&NP@C@', '(&Clause@C@)']]
+	sentTXT: Socio requirements trigger self-organization of services based on SOA to meet the requirements .
+	Cause: SOA to meet the requirements .
+	Effect: Socio requirements trigger self-organization of services
+
+CASE: 151
+Stag: 592
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: The basic services can be implemented by composing the classes defined in OOMD . Regarding semantic nodes of SLN as agents , multi-agent -LRB- MA -RRB- techniques can be adopted to enhance SLN -LSB- 72 -RSB- .
+	Cause: agents , multi-agent -LRB- MA -RRB- techniques can be adopted to enhance SLN -LSB- 72 -RSB- .
+	Effect: The basic services can be implemented by composing the classes defined in OOMD . Regarding semantic nodes of SLN
+
+CASE: 152
+Stag: 593
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: Regarding semantic nodes of SLN as agents , multi-agent -LRB- MA -RRB- techniques can be adopted to enhance SLN -LSB- 72 -RSB- . Regarding class or object as node , the object , class , inheritance , polymorphism , method , roles , and functional modeling in OOMD support the specialization of SLN .
+	Cause: node , the object , class , inheritance , polymorphism , method , roles , and functional modeling in OOMD support the specialization of SLN .
+	Effect: Regarding semantic nodes of SLN as agents , multi-agent -LRB- MA -RRB- techniques can be adopted to enhance SLN -LSB- 72 -RSB- . Regarding class or object
+
+CASE: 153
+Stag: 597
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Mapping SLN into the semantic space concerns the following mappings : -LRB- 1 -RRB- Semantic link mapping , which is determined by :
+	Cause: Mapping SLN into the semantic space concerns the following mappings
+	Effect: : -LRB- 1 -RRB- Semantic link mapping , which is determined by
+
+CASE: 154
+Stag: 598
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Mapping SLN into the semantic space concerns the following mappings : -LRB- 1 -RRB- Semantic link mapping , which is determined by :
+	Cause: Mapping SLN into the semantic space concerns the following mappings
+	Effect: : -LRB- 1 -RRB- Semantic link mapping , which is determined by
+
+CASE: 155
+Stag: 609
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Adding a certain number of semantic links , different semantic covers on different topics may emerge -LSB- 87 -RSB- -LSB- 88 -RSB- .
+	Cause: Adding a certain number of semantic links
+	Effect: different semantic covers on different topics may emerge -LSB- 87 -RSB- -LSB- 88 -RSB- .
+
+CASE: 156
+Stag: 610
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Adding a certain number of semantic links , different semantic covers on different topics may emerge -LSB- 87 -RSB- -LSB- 88 -RSB- . Semantic images emerge with reflection , commonsense , reasoning and socio interactions as depicted in Fig. 9 .
+	Cause: Adding a certain number of semantic links
+	Effect: different semantic covers on different topics may emerge -LSB- 87 -RSB- -LSB- 88 -RSB- . Semantic images emerge with reflection , commonsense , reasoning and socio interactions as depicted in Fig. 9 .
+
+CASE: 157
+Stag: 616
+	Pattern: 6 [[['result', 'consequence'], 'of']]---- [['&V-ing/&NP@R@', '(&Clause@R@)', '&BE', '&ONE'], ['&NP@C@', '(&Clause@C@)']]
+	sentTXT: Commonsense of a community is the result of socio classification and regulation on attributes , objects , classes , relations , behaviors and rules .
+	Cause: socio classification and regulation on attributes , objects , classes , relations , behaviors and rules
+	Effect: Commonsense of a community
+
+CASE: 158
+Stag: 619
+	Pattern: 0 [['based', 'on']]---- [['&R', '(,)', '(&ADV)'], ['&V-ing/&NP@C@', '(&Clause@C@)']]
+	sentTXT: The massively collaborative online repositories such as Wikipedia -LRB- www.wikipedia.org / -RRB- and ODP -LRB- Open Directory Project , www.dmoz.org / -RRB- can be used to build the hierarchy based on the analysis of how people define and evolve the classes .
+	Cause: the analysis of how people define and evolve the classes
+	Effect: The massively collaborative online repositories such as Wikipedia -LRB- www.wikipedia.org / -RRB- and ODP -LRB- Open Directory Project , www.dmoz.org / -RRB- can be used to build the hierarchy
+
+CASE: 159
+Stag: 627
+	Pattern: 0 [['based', 'on']]---- [['&V-ing/&NP@R@', '(&Clause@R@)', '&BE', '(&ADV)'], ['&NP@C@', '(&Clause@C@)']]
+	sentTXT: Reasoning on the semantic link networks in different spaces is based on the rules and conditions given by humans .
+	Cause: the rules and conditions given by humans
+	Effect: Reasoning on the semantic link networks in different spaces
+
+CASE: 160
+Stag: 635
+	Pattern: 23 [['since']]---- [['&R@NCTime@', '(,)'], ['&C@NCTime@']]
+	sentTXT: Adding semantic nodes or links to SLN or removing them from SLN may have different influence on the network since different semantic nodes and links play different roles .
+	Cause: different semantic nodes and links play different roles .
+	Effect: Adding semantic nodes or links to SLN or removing them from SLN may have different influence on the network
+
+CASE: 161
+Stag: 636
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Adding new semantic links and rules to the SLN may incur new reasoning or influence .
+	Cause: Adding new semantic links and rules to the SLN
+	Effect: may incur new reasoning or influence .
+
+CASE: 162
+Stag: 637
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Adding new semantic links and rules to the SLN may incur new reasoning or influence . -LRB- 3 -RRB- Self-organization .
+	Cause: Adding new semantic links and rules to the SLN
+	Effect: may incur new reasoning or influence . -LRB- 3 -RRB- Self-organization .
+
+CASE: 163
+Stag: 641
+	Pattern: 0 [['due', 'to']]---- [[], ['&NP@C@', '(,)', '&R']]
+	sentTXT: Reasoning on semantic links is different from traditional reasoning on the production rules in knowledge-based systems due to the diversity of semantic links and rules . Reasoning can carry out locally because it is not necessary to derive out all relations to overload storage .
+	Cause: the diversity of semantic links and rules
+	Effect: . Reasoning can carry out locally because it is not necessary to derive out all relations to overload storage
+
+CASE: 164
+Stag: 642
+	Pattern: 407 [['because']]---- [['&R', '(,)', '(&ADV)'], ['&C']]
+	sentTXT: Reasoning can carry out locally because it is not necessary to derive out all relations to overload storage .
+	Cause: it is not necessary to derive out all relations to overload storage .
+	Effect: Reasoning can carry out locally
+
+CASE: 165
+Stag: 648
+	Pattern: 18 [['because'], [',']]---- [[], ['&C'], ['&R']]
+	sentTXT: An SLN may be changed after deleting a previously added semantic link because adding a semantic link may derive new semantic links , which may further derive other semantic links .
+	Cause: adding a semantic link may derive new semantic links
+	Effect: which may further derive other semantic links .
+
+CASE: 166
+Stag: 660
+	Pattern: 45 [['so', 'that']]---- [['&C'], ['&R']]
+	sentTXT: Semantic nodes can include rich contents so that an SLN is not only for machines to process but also for humans to operate , emerge semantic images and reasoning .
+	Cause: Semantic nodes can include rich contents
+	Effect: an SLN is not only for machines to process but also for humans to operate , emerge semantic images and reasoning .
+
+CASE: 167
+Stag: 664
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Adding a semantic link to an SLN tends to reduce its semantic communities .
+	Cause: Adding a semantic link to an SLN
+	Effect: tends to reduce its semantic communities .
+
+CASE: 168
+Stag: 665
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Removing a semantic link from an SLN tends to increase its semantic communities .
+	Cause: Removing a semantic link from an SLN
+	Effect: tends to increase its semantic communities .
+
+CASE: 169
+Stag: 666
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Removing a semantic link from an SLN tends to increase its semantic communities . The change of semantic communities in an SLN reflects its obvious movement .
+	Cause: Removing a semantic link from an SLN
+	Effect: tends to increase its semantic communities . The change of semantic communities in an SLN reflects its obvious movement .
+
+CASE: 170
+Stag: 667
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Visualizing the evolution process and the effects of operations helps humans to link relevant semantic images .
+	Cause: Visualizing the evolution process
+	Effect: and the effects of operations helps humans to link relevant semantic images .
+
+CASE: 171
+Stag: 668
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Visualizing the evolution process and the effects of operations helps humans to link relevant semantic images . The semantic lens enables SLN to be viewed from a particular semantic node to its semantic communities at different levels -LSB- 89 -RSB- .
+	Cause: Visualizing the evolution process
+	Effect: and the effects of operations helps humans to link relevant semantic images . The semantic lens enables SLN to be viewed from a particular semantic node to its semantic communities at different levels -LSB- 89 -RSB-
+
+CASE: 172
+Stag: 669
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: SLN is not only a model but also a method for semantic linking , reasoning and analyzing .
+	Cause: semantic linking , reasoning and analyzing
+	Effect: SLN is not only a model but also a method
+
+CASE: 173
+Stag: 679
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Answering these questions needs to discover the implicit semantic links between linked objects based on uncertain reasoning .
+	Cause: Answering these questions
+	Effect: needs to discover the implicit semantic links between linked objects based on uncertain reasoning .
+
+CASE: 174
+Stag: 680
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Answering these questions needs to discover the implicit semantic links between linked objects based on uncertain reasoning . -LRB- 2 -RRB- How to recommend the best link to a node to realize its maximum performance according to such criteria as the rise of rank .
+	Cause: Answering these questions
+	Effect: needs to discover the implicit semantic links between linked objects based on uncertain reasoning . -LRB- 2 -RRB- How to recommend the best link to a node to realize its maximum performance according to such criteria as the rise of rank .
+
+CASE: 175
+Stag: 696
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: The mental space , physical space , artifact space , and socio space are linked as depicted in Fig. 10 -LRB- a -RRB- .
+	Cause: depicted in Fig. 10 -LRB- a -RRB- .
+	Effect: The mental space , physical space , artifact space , and socio space are linked
+
+CASE: 176
+Stag: 699
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: As depicted in Fig. 10 -LRB- c -RRB- , the cyber space can visualize the semantic link networks for humans to operate according to the semantic images in mind . It can link more SLNs and discover implicit links for the reference of human operations .
+	Cause: the reference of human operations
+	Effect: As depicted in Fig. 10 -LRB- c -RRB- , the cyber space can visualize the semantic link networks for humans to operate according to the semantic images in mind . It can link more SLNs and discover implicit links
+
+CASE: 177
+Stag: 700
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: It can link more SLNs and discover implicit links for the reference of human operations .
+	Cause: the reference of human operations
+	Effect: It can link more SLNs and discover implicit links
+
+CASE: 178
+Stag: 701
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: It can simulate the effect of operations -LRB- e.g. , linking a new semantic node to an existing semantic node -RRB- according to some principles of emerging as depicted in Fig. 10 -LRB- d -RRB- .
+	Cause: depicted in Fig. 10 -LRB- d -RRB- .
+	Effect: It can simulate the effect of operations -LRB- e.g. , linking a new semantic node to an existing semantic node -RRB- according to some principles of emerging
+
+CASE: 179
+Stag: 702
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: It also enables humans to observe the influence by adding or removing a semantic link , as depicted in Fig. 10 -LRB- e -RRB- .
+	Cause: depicted in Fig. 10 -LRB- e -RRB- .
+	Effect: It also enables humans to observe the influence by adding or removing a semantic link
+
+CASE: 180
+Stag: 707
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: separating , and unifying semantic images in the mental space .
+	Cause: separating
+	Effect: and unifying semantic images in the mental space .
+
+CASE: 181
+Stag: 708
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: separating , and unifying semantic images in the mental space . -LRB- 2 -RRB- Interaction between humans and physical objects evolves the semantic images about the physical space in the mental space ,
+	Cause: separating
+	Effect: and unifying semantic images in the mental space . -LRB- 2 -RRB- Interaction between humans and physical objects evolves the semantic images about the physical space in the mental space ,
+
+CASE: 182
+Stag: 709
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: accompanying the establishment of the semantic links between physical objects , humans , and socio events . -LRB- 3 -RRB- Co-experiencing in the physical space , socio space , cyber space and artifact space establishes the semantic links through the socio space , physical space , artifact space and cyber space , and evolves the semantic images in the mental space .
+	Cause: accompanying the establishment of the semantic links between physical objects , humans , and socio events
+	Effect: . -LRB- 3 -RRB- Co-experiencing in the physical space , socio space , cyber space and artifact space establishes the semantic links through the socio space , physical space , artifact space and cyber space , and evolves the semantic images in the mental space
+
+CASE: 183
+Stag: 710
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: accompanying the establishment of the semantic links between physical objects , humans , and socio events . -LRB- 3 -RRB- Co-experiencing in the physical space , socio space , cyber space and artifact space establishes the semantic links through the socio space , physical space , artifact space and cyber space , and evolves the semantic images in the mental space .
+	Cause: accompanying the establishment of the semantic links between physical objects , humans , and socio events
+	Effect: . -LRB- 3 -RRB- Co-experiencing in the physical space , socio space , cyber space and artifact space establishes the semantic links through the socio space , physical space , artifact space and cyber space , and evolves the semantic images in the mental space
+
+CASE: 184
+Stag: 716
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Rebuilding a mutual benefit relation needs more satisfied interactions than that for creating a new one .
+	Cause: Rebuilding a mutual benefit relation
+	Effect: needs more satisfied interactions than that for creating a new one .
+
+CASE: 185
+Stag: 720
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: Interaction can also be indirect as depicted in Fig. 11 -LRB- b -RRB- :
+	Cause: depicted in Fig.
+	Effect: Interaction can also be indirect
+
+CASE: 186
+Stag: 721
+	Pattern: 407 [['because']]---- [['&R', '(,)', '(&ADV)'], ['&C']]
+	sentTXT: interaction between A1 and A3 , and interaction between A3 and A2 can also evolve the relation between A1 and A2 , because A3 can get information about A1 when it interacts with A2 .
+	Cause: A3 can get information about A1 when it interacts with A2 .
+	Effect: interaction between A1 and A3 , and interaction between A3 and A2 can also evolve the relation between A1 and A2
+
+CASE: 187
+Stag: 722
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: Some socio rules also support indirect interaction , for example , the friend of enemy may be enemy .
+	Cause: example
+	Effect: Some socio rules also support indirect interaction ,
+
+CASE: 188
+Stag: 733
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Linking different spaces can answer and explain the same question in different spaces .
+	Cause: Linking different spaces
+	Effect: can answer and explain the same question in different spaces .
+
+CASE: 189
+Stag: 734
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Linking different spaces can answer and explain the same question in different spaces . The socio space can answer and explain the following questions :
+	Cause: Linking different spaces
+	Effect: can answer and explain the same question in different spaces . The socio space can answer and explain the following questions :
+
+CASE: 190
+Stag: 797
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Answering the question `` Where are you ? concerns the location in the physical space -LRB- explanation may concern the real-time situation about the location -RRB- , the location in the cyber space -LRB- e.g. , the mail box or homepage -RRB- , and the location in the socio space -LRB- e.g. , at a friend 's home , explanation may concern the status of the friend and relevant socio networks -RRB- .
+	Cause: Answering the question `` Where are you ?
+	Effect: concerns the location in the physical space -LRB- explanation may concern the real-time situation about the location -RRB- , the location in the cyber space -LRB- e.g. , the mail box or homepage -RRB- , and the location in the socio space -LRB- e.g. , at a friend 's home , explanation may concern the status of the friend and relevant socio networks -RRB- .
+
+CASE: 191
+Stag: 798
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Answering the question `` Where are you ? concerns the location in the physical space -LRB- explanation may concern the real-time situation about the location -RRB- , the location in the cyber space -LRB- e.g. , the mail box or homepage -RRB- , and the location in the socio space -LRB- e.g. , at a friend 's home , explanation may concern the status of the friend and relevant socio networks -RRB- .
+	Cause: Answering the question `` Where are you ?
+	Effect: concerns the location in the physical space -LRB- explanation may concern the real-time situation about the location -RRB- , the location in the cyber space -LRB- e.g. , the mail box or homepage -RRB- , and the location in the socio space -LRB- e.g. , at a friend 's home , explanation may concern the status of the friend and relevant socio networks -RRB- .
+
+CASE: 192
+Stag: 799
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Including a time dimension into the complex space can classify resources by time and answer the following questions : Where he was yesterday ?
+	Cause: Including a time dimension into the complex space can classify resources by time and answer the following questions
+	Effect: : Where he was
+
+CASE: 193
+Stag: 800
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Including a time dimension into the complex space can classify resources by time and answer the following questions : Where he was yesterday ?
+	Cause: Including a time dimension into the complex space can classify resources by time and answer the following questions
+	Effect: : Where he was
+
+CASE: 194
+Stag: 806
+	Pattern: 0 [['based', 'on']]---- [['&R', '(,)', '(&ADV)'], ['&V-ing/&NP@C@', '(&Clause@C@)']]
+	sentTXT: It can extract the SLNs from interactions , and make necessary abstraction and evolution during interaction based on the modeling of mental space and the translation between languages under different cultures .
+	Cause: the modeling of mental space and the translation between languages under different cultures
+	Effect: It can extract the SLNs from interactions , and make necessary abstraction and evolution during interaction
+
+CASE: 195
+Stag: 808
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: Multiple candidate services would be available for selection or for composition to support effective interaction according to a service description language and the interaction interest .
+	Cause: composition to support effective interaction according to a service description language and the interaction interest
+	Effect: Multiple candidate services would be available for selection or
+
+CASE: 196
+Stag: 812
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: This type of complex link can be regarded as a service that can obtain the characteristics of the physical objects , and enables the mental space to reflect the real-time status of the physical objects . Sensors can only reflect some surface features of physical objects .
+	Cause: a service that can obtain the characteristics of the physical objects , and enables the mental space to reflect the real-time status of the physical objects . Sensors can only reflect some surface features of physical objects
+	Effect: This type of complex link can be regarded
+
+CASE: 197
+Stag: 818
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: This type of complex link can be regarded as a service that can model the mental space , recognize socio behaviors and events , and organize services according to the semantic image emerging in the mental space and socio rules .
+	Cause: a service that can model the mental space , recognize socio behaviors and events , and
+	Effect: This type of complex link can be regarded
+
+CASE: 198
+Stag: 823
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: Most previous computing techniques are for improving the cyber space , for example , the Semantic Web is to create machine-understandable semantics in the cyber space , the semantic net is to express knowledge in the cyber space , and the semantic link network is to reflect socio relations and the dynamicity in the cyber space .
+	Cause: example
+	Effect: Most previous computing techniques are for improving the cyber space ,
+
+CASE: 199
+Stag: 825
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: It can be denoted as : pi - l : c - > pj , where pi and pj are individuals or classes in one or different spaces , l represents the relation between the points , and c represents the type of content or material that can be transmitted from pi to pj .
+	Cause: : pi - l : c - > pj , where pi and pj are individuals or classes in one or different spaces , l represents the relation between the points , and c represents the type of content or
+	Effect: It can be denoted
+
+CASE: 200
+Stag: 827
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: Complex links will enable interactions to pass through spaces , for example , text or image of an apple in the cyber space can be linked to the apples in a supermarket with a price or on an apple tree with the information on temperature and nutrition in soil , linked to the relevant food web , and further linked to the physical concepts like gravity .
+	Cause: example , text or image of an apple in the cyber space
+	Effect: Complex links will enable interactions to pass through spaces ,
+
+CASE: 201
+Stag: 834
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: The complex link can not only play the role of a semantic link but also facilitate interaction and transmit resources -LRB- denoted as ci -RRB- according to the interests of nodes and the rules on both nodes and links in multiple spaces .
+	Cause: ci -RRB- according to the interests of nodes and the rules on
+	Effect: The complex link can not only play the role of a semantic link but also facilitate interaction and transmit resources -LRB- denoted
+
+CASE: 202
+Stag: 850
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: Complex links connect services in different spaces to provide cyber-physical-socio services for individuals . For example , complex links can link services of recommending restaurants to the favorite dish , to the best cooker , to the cooking process , to the food culture , and to the delivering service .
+	Cause: example
+	Effect: Complex links connect services in different spaces to provide cyber-physical-socio services for individuals .
+
+CASE: 203
+Stag: 861
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Different from the ranks , harmony is based on healthy and satisfied interaction within a community .
+	Cause: Different from the ranks
+	Effect: harmony is based on healthy and satisfied interaction within a community .
+
+CASE: 204
+Stag: 862
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Different from the ranks , harmony is based on healthy and satisfied interaction within a community . The well-being of an individual is a function of harmony and its physiological , psychological , socio and mental health .
+	Cause: Different from the ranks
+	Effect: harmony is based on healthy and satisfied interaction within a community . The well-being of an individual is a function of harmony and its physiological , psychological , socio and mental health .
+
+CASE: 205
+Stag: 867
+	Pattern: 0 [['due', 'to']]---- [[], ['&NP@C@', '(,)', '&R']]
+	sentTXT: An individual x in society has potential energy Ep -LRB- x -RRB- due to its centrality in complex link network and interaction . The potential energy of a community can be measured by its population , structure and interaction .
+	Cause: its centrality in complex link network and interaction
+	Effect: . The potential energy of a community can be measured by its population , structure and interaction
+
+CASE: 206
+Stag: 872
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: The following is a motion energy measure of operation based on the number of individuals who have changed their communities influenced by the operation and the total number of individuals as follows : Ep -LRB- operation -RRB- = Number of individuals who have changed their communities / Total number of individuals .
+	Cause: follows : Ep -LRB- operation -RRB- = Number of individuals who have changed their communities / Total number of individuals
+	Effect: The following is a motion energy measure of operation based on the number of individuals who have changed their communities influenced by the operation and the total number of individuals
+
+CASE: 207
+Stag: 886
+	Pattern: 45 [['so', 'that']]---- [['&C'], ['&R']]
+	sentTXT: This is because the node with richer types of links offers higher probability to the new link to derive out more links so that communities have higher probability to be enriched or changed .
+	Cause: This is because the node with richer types of links offers higher probability to the new link to derive out more links
+	Effect: communities have higher probability to be enriched or changed .
+
+CASE: 208
+Stag: 887
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: The new link has higher probability to connect the same type of link for transmitting materials or contents .
+	Cause: transmitting materials or contents
+	Effect: The new link has higher probability to connect the same type of link
+
+CASE: 209
+Stag: 889
+	Pattern: 265 [['so']]---- [['&C', '(,)', '(&AND)'], ['&R']]
+	sentTXT: For example , a person with only one type of link like family link will be more probably isolated in society , so a node who wants to raise socio status should not link to an isolated node .
+	Cause: , a person with only one type of link like family link will be more probably isolated in society
+	Effect: a node who wants to raise socio status should not link to an isolated node .
+
+CASE: 210
+Stag: 893
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: Complex link can be chained and closed for improving the performance of behaviors in multiple spaces .
+	Cause: improving the performance of behaviors in multiple spaces
+	Effect: Complex link can be chained and closed
+
+CASE: 211
+Stag: 906
+	Pattern: 45 [['so', 'that']]---- [['&C'], ['&R']]
+	sentTXT: -LRB- 3 -RRB- The cyber-physical-socio effects of various behaviors are available so that appropriate decisions can be made to ensure harmonious development of various spaces .
+	Cause: The cyber-physical-socio effects of various behaviors are available
+	Effect: appropriate decisions can be made to ensure harmonious development of various spaces .
+
+CASE: 212
+Stag: 908
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: -LRB- 4 -RRB- The mental space will develop new functions as it will emerge and evolve new semantic images when reflecting multiple spaces simultaneously .
+	Cause: it will emerge and evolve new semantic images when reflecting multiple spaces simultaneously .
+	Effect: -LRB- 4 -RRB- The mental space will develop new functions
+
+CASE: 213
+Stag: 912
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: For example , linking the agricultural ecological system to the industrial ecological system enables some waste of industry to be used as the fertilizer of crops , and enables the agricultural products to be the raw materials of some industries .
+	Cause: the fertilizer of crops , and enables the agricultural products to be the raw materials of some industries .
+	Effect: For example , linking the agricultural ecological system to the industrial ecological system enables some waste of industry to be used
+
+CASE: 214
+Stag: 919
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Behaving through one type of channel -LRB- e.g. , writing -RRB- accompanies sensing through another type of channel -LRB- e.g. , vision -RRB- .
+	Cause: Behaving through one type of channel -LRB- e.g. , writing -RRB-
+	Effect: accompanies sensing through another type of channel -LRB- e.g. , vision -RRB- .
+
+CASE: 215
+Stag: 920
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Behaving through one type of channel -LRB- e.g. , writing -RRB- accompanies sensing through another type of channel -LRB- e.g. , vision -RRB- . Practice -LRB- e.g. , dictation -RRB- helps establish the links between the behaviors through different channels and between behaviors and semantic images .
+	Cause: Behaving through one type of channel -LRB- e.g. , writing -RRB-
+	Effect: accompanies sensing through another type of channel -LRB- e.g. , vision -RRB- . Practice -LRB- e.g. , dictation -RRB- helps establish the links between the behaviors through different channels and between behaviors and semantic images .
+
+CASE: 216
+Stag: 921
+	Pattern: 10 [['why']]---- [['&C', '(,/./;)', '(&AND)', '&THIS', '&BE'], ['&R']]
+	sentTXT: Practice -LRB- e.g. , dictation -RRB- helps establish the links between the behaviors through different channels and between behaviors and semantic images . This is why blind people can not write in the normal natural languages .
+	Cause: Practice -LRB- e.g. , dictation -RRB- helps establish the links between the behaviors through different channels and between behaviors and semantic images
+	Effect: blind people can not write in the normal natural languages .
+
+CASE: 217
+Stag: 935
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: A prototype can be refined through reflection and reference in the physical space , artifact space , and socio space as well as through reasoning processes in the mental space . The final design can lead to the artifacts in the artifact space through a manufacture process .
+	Cause: through reasoning processes in the mental space . The final design can lead to the artifacts in the artifact space through a manufacture process
+	Effect: A prototype can be refined through reflection and reference in the physical space , artifact space , and socio space as well
+
+CASE: 218
+Stag: 940
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: The end-of-use artifact will be decomposed into materials that can be reused for composing new artifacts -LSB- 67 -RSB- .
+	Cause: composing new artifacts -LSB- 67 -RSB-
+	Effect: The end-of-use artifact will be decomposed into materials that can be reused
+
+CASE: 219
+Stag: 950
+	Pattern: 23 [['since']]---- [['&R@NCTime@', '(,)'], ['&C@NCTime@']]
+	sentTXT: It is important for ensuring effective interaction since interactions not only create links but also evolve semantic images .
+	Cause: interactions not only create links but also evolve semantic images .
+	Effect: It is important for ensuring effective interaction
+
+CASE: 220
+Stag: 951
+	Pattern: 0 [['based', 'on']]---- [['&V-ing/&NP@R@', '(&Clause@R@)', '&BE', '(&ADV)'], ['&NP@C@', '(&Clause@C@)']]
+	sentTXT: Traditional artificial intelligence research is based on representation .
+	Cause: representation
+	Effect: Traditional artificial intelligence research
+
+CASE: 221
+Stag: 961
+	Pattern: 45 [['so', 'that']]---- [['&C'], ['&R']]
+	sentTXT: -LRB- 5 -RRB- The cyber space builds cyber semantic images during direct and indirect interactions so that it knows the past and present interactions .
+	Cause: -LRB- 5 -RRB- The cyber space builds cyber semantic images during direct and indirect interactions
+	Effect: it knows the past and present interactions .
+
+CASE: 222
+Stag: 962
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: -LRB- 6 -RRB- Functions emerge from time to time with linking machines , services and humans as well as executing various flows such as information flow , knowledge flow , material flow , energy flow , and workflow in the environment -LSB- 73 -RSB- -LSB- 80 -RSB- . Turing machine is a closed system as its computing components and computing process is pre-defined and fixed , which can not be changed by input and output .
+	Cause: its computing components and computing process is pre-defined and fixed , which can not be changed by input and output .
+	Effect: -LRB- 6 -RRB- Functions emerge from time to time with linking machines , services and humans as well as executing various flows such as information flow , knowledge flow , material flow , energy flow , and workflow in the environment -LSB- 73 -RSB- -LSB- 80 -RSB- . Turing machine is a closed system
+
+CASE: 223
+Stag: 963
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: Turing machine is a closed system as its computing components and computing process is pre-defined and fixed , which can not be changed by input and output .
+	Cause: its computing components and computing process is pre-defined and fixed , which can not be changed by input and output .
+	Effect: Turing machine is a closed system
+
+CASE: 224
+Stag: 965
+	Pattern: 23 [['since']]---- [['&R@NCTime@', '(,)'], ['&C@NCTime@']]
+	sentTXT: The CP3SME is an open system since machines may be linked to existing machines from time to time or disconnected the current links according to the real-time requirement and rules in multiple spaces .
+	Cause: machines may be linked to existing machines from
+	Effect: The CP3SME is an open system
+
+CASE: 225
+Stag: 970
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: The interactive environment operates for ensuring harmonious development of individuals and the environment .
+	Cause: ensuring harmonious development of individuals and the environment
+	Effect: The interactive environment operates
+
+CASE: 226
+Stag: 973
+	Pattern: 0 [['based', 'on'], [',']]---- [[], ['&V-ing/&NP@C@', '(&Clause@C@)'], ['&R']]
+	sentTXT: Many current technologies are based on or about past , e.g. , software and hardware are pre-designed , information retrieval is to get past data , and knowledge discovery is based on past data .
+	Cause: or about past
+	Effect: e.g. , software and hardware are pre-designed , information retrieval is to get past data , and knowledge discovery is based on past data .
+
+CASE: 227
+Stag: 994
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: The architecture links socio activities and processes , physical individuals , thoughts as well as physiological , psychological and mental statuses to create a complex intelligent environment for well-being .
+	Cause: well-being
+	Effect: The architecture links socio activities and processes , physical individuals , thoughts as well as physiological , psychological and mental statuses to create a complex intelligent environment
+
+CASE: 228
+Stag: 1001
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: Laozi respected the nature rather than action as he thought that unnatural act will break natural balance .
+	Cause: he thought that unnatural act will break natural balance .
+	Effect: Laozi respected the nature rather than action
+
+CASE: 229
+Stag: 1014
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: integrating the multi-dimensional classification space and the semantic link network -LSB- 82 -RSB- -LSB- 87 -RSB- .
+	Cause: integrating the multi-dimensional classification space and the semantic link network
+	Effect: -LSB- 82 -RSB- -LSB- 87 -RSB- .
+
+CASE: 230
+Stag: 1015
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: integrating the multi-dimensional classification space and the semantic link network -LSB- 82 -RSB- -LSB- 87 -RSB- . Wittgenstein concerned the relationship between propositions and the world .
+	Cause: integrating the multi-dimensional classification space and the semantic link network
+	Effect: -LSB- 82 -RSB- -LSB- 87 -RSB- . Wittgenstein concerned the relationship between propositions and the world .
+
+CASE: 231
+Stag: 1016
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: He regarded language as a series of interchangeable language-games in which the meaning of words is derived from their public use . This idea is in line with the statistical approaches and the interactive semantics -LSB- 89 -RSB- .
+	Cause: a series of interchangeable language-games in which the meaning of words is derived from their public use . This idea is in line with the statistical approaches and the interactive semantics -LSB- 89 -RSB-
+	Effect: He regarded language
+
+CASE: 232
+Stag: 1028
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: For example , Minsky regarded minds as the collections of vast number of semi-autonomous , intricately connected agents , and gave an explanation of how minds relate to such functions as motivation , language , memory , learning , intentions , and metaphors . Different agents can be based on different processes with different purposes , ways to represent knowledge , and approaches to produce results .
+	Cause: motivation , language , memory , learning , intentions , and metaphors . Different agents can be based on different processes with different purposes ,
+	Effect: For example , Minsky regarded minds as the collections of vast number of semi-autonomous , intricately connected agents , and gave an explanation of how minds relate to such functions
+
+CASE: 233
+Stag: 1029
+	Pattern: 0 [['based', 'on'], [',']]---- [[], ['&V-ing/&NP@C@', '(&Clause@C@)'], ['&R']]
+	sentTXT: Different agents can be based on different processes with different purposes , ways to represent knowledge , and approaches to produce results .
+	Cause: different processes with different purposes
+	Effect: ways to represent knowledge , and approaches to produce results .
+
+CASE: 234
+Stag: 1032
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: On the contrary , Dreyfus argued that human expertise depends on unconscious instinct rather than conscious symbol manipulation and on having a feel for the situation rather than explicit symbolic knowledge -LSB- 19 -RSB- .
+	Cause: the situation
+	Effect: On the contrary , Dreyfus argued that human expertise depends on unconscious instinct rather than conscious symbol manipulation and on having a feel
+
+CASE: 235
+Stag: 1042
+	Pattern: 0 [['due', 'to']]---- [[], ['&NP@C@', '(,)', '&R']]
+	sentTXT: Multiple forms from different spaces can help indicate semantics , and the first language is more effective in indicating semantics than using the second language due to culture difference . Psychological research indicates that brain uses different regions to process the first language and non first languages .
+	Cause: culture difference
+	Effect: . Psychological research indicates that brain uses different regions to process the first language and non first languages
+
+CASE: 236
+Stag: 1047
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: Empiricists like John Locke -LRB- 1632 -- 1704 -RRB- regard sense experience as the starting point of knowledge . Perception starts processes that generate beliefs .
+	Cause: the starting point of knowledge . Perception starts processes that generate beliefs
+	Effect: Empiricists like John Locke -LRB- 1632 -- 1704 -RRB- regard sense experience
+
+CASE: 237
+Stag: 1049
+	Pattern: 7 [['for'], [['reason', 'reasons']]]---- [['&C', '(.)', '(&AND)'], ['(&this)'], ['(,/that)', '&R']]
+	sentTXT: Rationalists argue that the ultimate starting point for knowledge is not the senses but reason . Human beings rely on innate fundamental concepts or categories in minds such as space and time to organize and interpret sense experience .
+	Cause: Rationalists argue that the ultimate starting point
+	Effect: . Human beings rely on innate fundamental concepts or categories in minds such as space and time to organize and interpret sense experience
+
+CASE: 238
+Stag: 1057
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: New philosophical issues will arise in CP3SME research as the world people live and the way people interact with each other have been changed greatly with the generation and evolution of various spaces .
+	Cause: the world people live and the way people interact with each other have been changed greatly with the generation and evolution of various spaces .
+	Effect: New philosophical issues will arise in CP3SME research
+
+CASE: 239
+Stag: 1060
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: All things in other spaces can be viewed as forms from the mental space . Features and structure are forms .
+	Cause: forms from the mental space . Features and structure are forms
+	Effect: All things in other spaces can be viewed
+
+CASE: 240
+Stag: 1067
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: The generation and evolution of spaces can be regarded as a continuous classification process . So , classification , link and rule are the basic form of the CP3SME .
+	Cause: a continuous classification process . So , classification , link and rule are the basic form of the CP3SME
+	Effect: The generation and evolution of spaces can be regarded
+
+CASE: 241
+Stag: 1076
+	Pattern: 407 [['because']]---- [['&R', '(,)', '(&ADV)'], ['&C']]
+	sentTXT: Different semantic images may emerge when a form is sensed by different individuals because they have different experience .
+	Cause: they have different experience .
+	Effect: Different semantic images may emerge when a form is sensed by different individuals
+
+CASE: 242
+Stag: 1078
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: Forms in more spaces provide richer experience for indicating semantic images .
+	Cause: indicating semantic images
+	Effect: Forms in more spaces provide richer experience
+
+CASE: 243
+Stag: 1085
+	Pattern: 23 [['since']]---- [['&R@NCTime@', '(,)'], ['&C@NCTime@']]
+	sentTXT: A little interaction helps a lot in understanding since interactions enable individuals to co-experience in multiple spaces .
+	Cause: interactions enable individuals to co-experience in multiple
+	Effect: A little interaction helps a lot in understanding
+
+CASE: 244
+Stag: 1089
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: It aims at an ideal environment for human beings to live and work , and concerns diversity , dynamicity , harmony and sustainability .
+	Cause: human beings
+	Effect: It aims at an ideal environment
+
+CASE: 245
+Stag: 1090
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Linking within and through spaces , emerging semantic images , and reasoning at different levels and facets are basic motions of the environment .
+	Cause: Linking within and through spaces
+	Effect: emerging semantic images , and reasoning at different levels and facets are basic motions of the environment .
+
+CASE: 246
+Stag: 1091
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Linking within and through spaces , emerging semantic images , and reasoning at different levels and facets are basic motions of the environment . The following are four levels of pursuits of semantic linking .
+	Cause: Linking within and through spaces
+	Effect: emerging semantic images , and reasoning at different levels and facets are basic motions of the environment . The following are four levels of pursuits of semantic linking .
+
+CASE: 247
+Stag: 1096
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: This concerns new philosophical thinking , interactive computing model , nature of the complex linking such as dynamicity , symmetry and rules of various flows , the methods for improving various closed loops , and the methods for coordinating spaces , controlling and predicting evolution .
+	Cause: coordinating spaces
+	Effect: This concerns new philosophical thinking , interactive computing model , nature of the complex linking such as dynamicity , symmetry and rules of various flows , the methods for improving various closed loops , and the methods
+
+CASE: 248
+Stag: 1098
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: The methodology of linking through spaces for cyber-physical-socio intelligence includes new models , principles , mechanisms , scientific issues , and philosophical explanation .
+	Cause: cyber-physical-socio intelligence
+	Effect: The methodology of linking through spaces
+
+CASE: 249
+Stag: 1102
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Exploring the CP3SME will go beyond Turing 's ideal since traditional machines and the cyber space are limited in ability to realize the CP3SME and cyber-physical-socio intelligence .
+	Cause: Exploring the CP3SME
+	Effect: will go beyond Turing 's ideal since traditional machines and the cyber space are limited in ability to realize the CP3SME and cyber-physical-socio intelligence .
+
+CASE: 250
+Stag: 1103
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Exploring the CP3SME will go beyond Turing 's ideal since traditional machines and the cyber space are limited in ability to realize the CP3SME and cyber-physical-socio intelligence . In CP3SME , research objects and conditions of many disciplines will be changed .
+	Cause: Exploring the CP3SME
+	Effect: will go beyond Turing 's ideal since traditional machines and the cyber space are limited in ability to realize the CP3SME and cyber-physical-socio intelligence . In CP3SME , research objects and conditions of many disciplines will be changed .
+
+CASE: 251
+Stag: 1104
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: Methodologies in respective disciplines are not suitable for research and develop the environment .
+	Cause: research
+	Effect: Methodologies in respective disciplines are not suitable

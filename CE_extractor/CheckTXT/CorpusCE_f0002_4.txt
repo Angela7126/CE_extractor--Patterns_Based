@@ -1,0 +1,249 @@
+************************************************************
+f0002: Cause-Effect links
+************************************************************
+
+CASE: 1
+Stag: 4
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: Coordinating and fusing knowledge flows , data flows , and control flows , and integrating knowledge flows and workflows , are powerful means for making teamwork effective .
+	Cause: making teamwork effective
+	Effect: Coordinating and fusing knowledge flows , data flows , and control flows , and integrating knowledge flows and workflows , are powerful means
+
+CASE: 2
+Stag: 11
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: The citations in scientific articles are objective data used , for example , by the Institute for Scientific Information 's Journal Citation Report , for assessing scientists , scientific articles , and journals -LSB- 5 -RSB- .
+	Cause: assessing scientists , scientific articles , and journals -LSB- 5 -RSB-
+	Effect: The citations in scientific articles are objective data used , for example , by the Institute for Scientific Information 's Journal Citation Report ,
+
+CASE: 3
+Stag: 25
+	Pattern: 0 [[['imply', 'implies', 'implied', 'mean', 'means', 'indicate', 'indicates', 'indicated']]]---- [['&C@Complete@', '(,/./;/--)', '&THIS/&NP', '(&CAN)', '(&ADV)'], ['(that)', '&R']]
+	sentTXT: The ideas in a scientific article inspire new ideas , which will be recorded and published as new articles after peer review . Citations between scientific articles imply a knowledge flow from the authors of the article being cited to the authors of the articles that cite it .
+	Cause: The ideas in a scientific article inspire new ideas , which will be recorded and published as new articles after peer review
+	Effect: a knowledge flow from the authors of the article being cited to the authors of the articles that cite
+
+CASE: 4
+Stag: 29
+	Pattern: 35 [['thus']]---- [['&C', '(,/;/./--)', '(&AND)'], ['&R']]
+	sentTXT: Scientists can publish in several areas , and thus be involved in different knowledge flow networks .
+	Cause: Scientists can publish in several areas
+	Effect: be involved in different knowledge flow networks .
+
+CASE: 5
+Stag: 30
+	Pattern: 0 [[['enable', 'enables', 'enabled']]]---- [['&C@Complete@', '(,/./;/--)', '&THIS/&NP', '(&CAN)'], ['&NP@R@', '&TODO@R@']]
+	sentTXT: Scientists can publish in several areas , and thus be involved in different knowledge flow networks . This enables knowledge to flow through knowledge networks in different areas to promote interdisciplinary research .
+	Cause: Scientists can publish in several areas , and thus be involved in different knowledge flow networks
+	Effect: knowledge to flow through knowledge networks in different areas to promote interdisciplinary research
+
+CASE: 6
+Stag: 36
+	Pattern: 0 [[['by', 'through']]]---- [['&R@Complete@'], ['&V-ing@C@']]
+	sentTXT: A knowledge node -LRB- scientist -RRB- can deliver knowledge to its peers by forwarding knowledge it has received -LRB- for example , forwarding an answer to the node that forwarded the query -RRB- , or by passing on knowledge it generates -LRB- for example , send the answer to the querying node directly -RRB- .
+	Cause: passing on knowledge it generates -LRB- for example , send the answer to the querying node directly -RRB-
+	Effect: A knowledge node -LRB- scientist -RRB- can deliver knowledge to its peers by forwarding knowledge it has received -LRB- for example , forwarding an answer to the node that forwarded the query -RRB- , or
+
+CASE: 7
+Stag: 47
+	Pattern: 0 [['if']]---- [['&R@Complete@'], ['&C@Complete@']]
+	sentTXT: An effective knowledge flow network enables a research team to be very powerful in generating new knowledge if every node can innovate and output new knowledge to appropriate members .
+	Cause: every node can innovate and output new knowledge to appropriate members .
+	Effect: An effective knowledge flow network enables a research team to be very powerful in generating new knowledge
+
+CASE: 8
+Stag: 51
+	Pattern: 0 [[['concern', 'concerns', 'concerned', 'require', 'requires', 'required']]]---- [['&R@Complete@', '(,/./;/--)', '&THIS/&NP', '(&ADV)'], ['(about)', '&V-ing/&NP@C@']]
+	sentTXT: An orthogonal classification semantic space called the Resource Space Model can ensure the correctness of operations on the space -LSB- 10 -RSB- . Storing knowledge requires a semantic space with three dimensions :
+	Cause: a semantic space with three dimensions
+	Effect: An orthogonal classification semantic space called the Resource Space Model can ensure the correctness of operations on the space -LSB- 10 -RSB-
+
+CASE: 9
+Stag: 54
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: Invisible knowledge flow networks self-organize and evolve continuously and interact with each other through flows to form an autonomous knowledge space for providing advanced knowledge services .
+	Cause: providing advanced knowledge services
+	Effect: Invisible knowledge flow networks self-organize and evolve continuously and interact with each other through flows to form an autonomous knowledge space
+
+CASE: 10
+Stag: 62
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: For the same reason , highly cited articles attract more citations as the citation network evolves .
+	Cause: the citation network evolves .
+	Effect: the same reason , highly cited articles attract more citations
+
+CASE: 11
+Stag: 69
+	Pattern: 0 [['if']]---- [['&R@Complete@'], ['&C@Complete@']]
+	sentTXT: Our experiment shows that knowledge routing in a peer-to-peer autonomous network can attain higher efficiency if higher energy nodes are more likely to be selected at each hop .
+	Cause: higher energy nodes are more likely to be selected at each hop .
+	Effect: Our experiment shows that knowledge routing in a peer-to-peer autonomous network can attain higher efficiency
+
+CASE: 12
+Stag: 72
+	Pattern: 0 [['if']]---- [['&R@Complete@'], ['&C@Complete@']]
+	sentTXT: Everyone can benefit from the community if every node can generously contribute knowledge .
+	Cause: every node can generously contribute knowledge .
+	Effect: Everyone can benefit from the community
+
+CASE: 13
+Stag: 73
+	Pattern: 1 [['strategy']]---- [['&V-ing/&NP@R@', '&BE', '(&OF)', '&ONE'], ['&C']]
+	sentTXT: Encouraging unselfish cooperation is another strategy that helps a knowledge flow network reach its greatest effectiveness .
+	Cause: that helps a knowledge flow network reach its greatest effectiveness .
+	Effect: Encouraging unselfish cooperation
+
+CASE: 14
+Stag: 77
+	Pattern: 0 [[['imply', 'implies', 'implied', 'mean', 'means', 'indicate', 'indicates', 'indicated']]]---- [['&C@Complete@', '(,/./;/--)', '&THIS/&NP', '(&CAN)', '(&ADV)'], ['(that)', '&R']]
+	sentTXT: -LRB- 1 -RRB- A rising spiral has an increasing rate of citations over time . This implies a rising research group or community .
+	Cause: -RRB- A rising spiral has an increasing rate of citations over time
+	Effect: a rising research group
+
+CASE: 15
+Stag: 79
+	Pattern: 0 [[['imply', 'implies', 'implied', 'mean', 'means', 'indicate', 'indicates', 'indicated']]]---- [['&C@Complete@', '(,/./;/--)', '&THIS/&NP', '(&CAN)', '(&ADV)'], ['(that)', '&R']]
+	sentTXT: In contrast , a descending spiral has a decreasing rate of citations . This implies a declining research group or community .
+	Cause: In contrast , a descending spiral has a decreasing rate of citations
+	Effect: a declining research group
+
+CASE: 16
+Stag: 81
+	Pattern: 0 [[['imply', 'implies', 'implied', 'mean', 'means', 'indicate', 'indicates', 'indicated']]]---- [['&C@Complete@', '(,/./;/--)', '&THIS/&NP', '(&CAN)', '(&ADV)'], ['(that)', '&R']]
+	sentTXT: -LRB- 2 -RRB- A rising and expanding spiral is a rising spiral that includes an increasing number of authors over time . This implies a rising and expanding research group or community .
+	Cause: A rising and expanding spiral is a rising spiral that includes an increasing number of authors over time
+	Effect: a rising and expanding
+
+CASE: 17
+Stag: 83
+	Pattern: 0 [[['imply', 'implies', 'implied', 'mean', 'means', 'indicate', 'indicates', 'indicated']]]---- [['&C@Complete@', '(,/./;/--)', '&THIS/&NP', '(&CAN)', '(&ADV)'], ['(that)', '&R']]
+	sentTXT: -LRB- 3 -RRB- A falling and shrinking spiral is a descending spiral that is losing authors . This implies a declining and shrinking group or community .
+	Cause: -LRB- 3 -RRB- A falling and shrinking spiral is a descending spiral that is losing authors
+	Effect: a declining and shrinking group
+
+CASE: 18
+Stag: 90
+	Pattern: 0 [[['by', 'through']]]---- [[], ['&V-ing@C@', '&R']]
+	sentTXT: Scientists only need to start the environment by uploading their articles , or start with a directory or online database of articles .
+	Cause: uploading their articles
+	Effect: , or start with a directory or online database of articles .
+
+CASE: 19
+Stag: 97
+	Pattern: 0 [[['by', 'through']]]---- [['&R@Complete@'], ['&V-ing@C@']]
+	sentTXT: They can use this information to plan their research by looking at the distribution and evolution of their areas .
+	Cause: looking at the distribution and evolution of their areas
+	Effect: They can use this information to plan their research
+
+CASE: 20
+Stag: 100
+	Pattern: 0 [['according', 'to'], [',']]---- [[], ['&NP@C@'], ['&R']]
+	sentTXT: This service can recommend references by retrieving documents from the Web and digital libraries , ranking them according to their citation rates and the roles of the authors , and tracing and analyzing their citation networks to show the references as a network rather than as a list .
+	Cause: their citation rates and the roles of the authors
+	Effect: and tracing and analyzing their citation networks to show the references as a network rather than as a list .
+
+CASE: 21
+Stag: 101
+	Pattern: 0 [[['enable', 'enables', 'enabled']]]---- [['&C@Complete@', '(,/./;/--)', '&THIS/&NP', '(&CAN)'], ['&NP@R@', '&TODO@R@']]
+	sentTXT: The network can be a hierarchy that enables people to zoom in and out of the research area .
+	Cause: The network can be a hierarchy
+	Effect: people to zoom in and out of the research area
+
+CASE: 22
+Stag: 103
+	Pattern: 0 [[['by', 'through']]]---- [['&R@Complete@'], ['&V-ing@C@']]
+	sentTXT: This service can help scientists select peers by finding the dense cliques in knowledge flow networks by looking at the statistical results and distribution of authors , articles , and citations .
+	Cause: looking at the statistical results and distribution of authors , articles , and citations
+	Effect: This service can help scientists select peers by finding the dense cliques in knowledge flow networks
+
+CASE: 23
+Stag: 105
+	Pattern: 0 [[['by', 'through']]]---- [['&R@Complete@'], ['&V-ing@C@']]
+	sentTXT: This service can discover global interest groups by finding two types of citation relationship .
+	Cause: finding two types of citation relationship
+	Effect: This service can discover global interest groups
+
+CASE: 24
+Stag: 110
+	Pattern: 0 [[['if', 'once']], [[',', 'then']]]---- [[], ['&C@Complete@'], ['&R@Complete@']]
+	sentTXT: if there is a citation path in each direction between two articles , then the authors share common interest and knowledge .
+	Cause: there is a citation path in each direction between two articles
+	Effect: then the authors share common interest and knowledge .
+
+CASE: 25
+Stag: 118
+	Pattern: 35 [['thus']]---- [['&C', '(,/;/./--)', '(&AND)'], ['&R']]
+	sentTXT: Based on the evolution of relevant knowledge flow networks , this service enables scientists to simulate and estimate the development of a discipline , and thus helps them plan research .
+	Cause: Based on the evolution of relevant knowledge flow networks , this service enables scientists to simulate and estimate the development of a discipline
+	Effect: helps them plan research .
+
+CASE: 26
+Stag: 127
+	Pattern: 30 [[['.', ':', '--', '?', '!']]]---- [['&V-ing@C@', '(,)', '&R@Complete@']]
+	sentTXT: Extracting document fragments that contain authors , affiliations , and references , an escience knowledge grid environment can find useful semantic relationships between documents or document fragments .
+	Cause: Extracting document fragments that contain authors , affiliations , and references
+	Effect: an escience knowledge grid environment can find useful semantic relationships between documents or document fragments
+
+CASE: 27
+Stag: 128
+	Pattern: 30 [[['.', ':', '--', '?', '!']]]---- [['&V-ing@C@', '(,)', '&R@Complete@']]
+	sentTXT: Analyzing the relationship between authors , articles , and their citation network , the environment can automatically discover knowledge flow networks and can distinguish the type of knowledge nodes using ranking algorithms and trace their evolution .
+	Cause: Analyzing the relationship between authors , articles , and their citation network
+	Effect: the environment can automatically discover knowledge flow networks and can distinguish the type of knowledge nodes using ranking algorithms and trace their evolution
+
+CASE: 28
+Stag: 129
+	Pattern: 0 [['according', 'to'], [',']]---- [[], ['&NP@C@'], ['&R']]
+	sentTXT: By extracting comments and comparisons of the cited articles and then organizing them according to the time of publication , discovers and displays how the area has developed as a research literature .
+	Cause: the time of publication
+	Effect: discovers and displays how the area has developed as a research literature .
+
+CASE: 29
+Stag: 139
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: Figure 3 shows a tool for visualizing the semantic map where the center nodes can trace the user 's interest .
+	Cause: visualizing the semantic map where the center nodes can trace the user 's interest
+	Effect: Figure 3 shows a tool
+
+CASE: 30
+Stag: 142
+	Pattern: 265 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['&R']]
+	sentTXT: Research has shown the contact network and the virus spread model determine the spread of epidemics -LSB- 11 -RSB- , so the evolution of the contact network influences an epidemic .
+	Cause: Research has shown the contact network and the virus spread model determine the spread of epidemics -LSB- 11 -RSB-
+	Effect: the evolution of the contact network influences an epidemic .
+
+CASE: 31
+Stag: 148
+	Pattern: 0 [['according', 'to'], [',']]---- [[], ['&NP@C@'], ['&R']]
+	sentTXT: Unlike data and control flows in workflows , which are predefined or adapted according to activities and changes , knowledge flows are behind the interaction among team members and come with activity-level cooperation .
+	Cause: activities and changes
+	Effect: knowledge flows are behind the interaction among team members and come with activity-level cooperation .
+
+CASE: 32
+Stag: 151
+	Pattern: 0 [[['lead', 'leads'], 'to']]---- [['&C@Complete@', '(,/./;/--)', '&THIS/&NP', '(&CAN)', '(&ADV)'], ['&NP@R@']]
+	sentTXT: Knowledge flows fuse frequently when used , and their contents are not predictable . Effectively managing knowledge flows within a team can lead to effective team knowledge management and eventually raise the effectiveness of teamwork .
+	Cause: their contents are not predictable
+	Effect: effective team knowledge management
+
+CASE: 33
+Stag: 152
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: Coordinating and fusing knowledge flows , data flows , and control flows , and integrating knowledge flows and workflows , are powerful means for making teamwork effective .
+	Cause: making teamwork effective
+	Effect: Coordinating and fusing knowledge flows , data flows , and control flows , and integrating knowledge flows and workflows , are powerful means
+
+CASE: 34
+Stag: 160
+	Pattern: 30 [[['.', ':', '--', '?', '!']]]---- [['&V-ing@C@', '(,)', '&R@Complete@']]
+	sentTXT: Interacting with scientists and their records , this environment will evolve in a novel way to help the development of science .
+	Cause: Interacting with scientists and their records
+	Effect: this environment will evolve in a novel way to help the development of science
+
+CASE: 35
+Stag: 165
+	Pattern: 30 [[['.', ':', '--', '?', '!']]]---- [['&V-ing@C@', '(,)', '&R@Complete@']]
+	sentTXT: Using the rules of knowledge flow makes teamwork more effective and innovative , not only in an e-science environment but also in team management , as knowledge flow networking can generate knowledge during operation .
+	Cause: Using the rules of knowledge flow
+	Effect: makes teamwork more effective and innovative , not only in an e-science environment but also in team management , as knowledge flow networking can generate knowledge during operation
+

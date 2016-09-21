@@ -1,0 +1,815 @@
+Pattern: 0 62 [['therefore']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(,)', '&R']]
+Cases: He never lies ; therefore , everyone likes to make friends with him .
+Cause: He never lies
+Effect: everyone likes to make friends with him .
+
+Pattern: 1 35 [['thus']]---- [['&C', '(,/;/./--)', '(&AND)'], ['&R']]
+Cases: Japan will be on the dark side of the Earth , and thus will lack the warming influence of the Sun .
+Cause: Japan will be on the dark side of the Earth
+Effect: will lack the warming influence of the Sun .
+
+Pattern: 2 15 [['since'], [',']]---- [[], ['&C@NCTime@'], ['&R@NCTime@']]
+Cases: But , since the herpes virus does not always show its symptoms , prevention is not fool proof .
+Cause: the herpes virus does not always show its symptoms
+Effect: prevention is not fool proof .
+
+Pattern: 3 23 [['since']]---- [['&R@NCTime@', '(,)'], ['&C@NCTime@']]
+Cases: This is one of the simplest cases since the surface is so thin .
+Cause: the surface is so thin .
+Effect: This is one of the simplest cases
+
+Pattern: 3 23 [['since']]---- [['&R@NCTime@', '(,)'], ['&C@NCTime@']]
+Cases: He could not answer the question , since he had not made up his mind .
+Cause: he had not made up his mind .
+Effect: He could not answer the question
+
+Pattern: 3 23 [['since']]---- [['&R@NCTime@', '(,)'], ['&C@NCTime@']]
+Cases: That manager has been a basket case here since his wife left him .
+Cause: his wife left
+Effect: That manager has been a basket case here
+
+Pattern: 4 9 [['consequently']]---- [['&C', '(,/;/./--)'], ['(,)', '&R']]
+Cases: Her mother was seriously ill . Consequently , she left school .
+Cause: Her mother was seriously ill
+Effect: she left school .
+
+Pattern: 5 5 [['it', 'is'], ['because'], ['that']]---- [[], ['(&ADV)'], ['&C'], ['&R']]
+Cases: It is only because we have become used to these extraordinarily fragile structures that this demand seems so outrageous .
+Cause: we have become used to these extraordinarily fragile structures
+Effect: this demand seems so outrageous .
+
+Pattern: 6 5 [['so'], ['as', 'to']]---- [['&C', '(,)'], ['(&adj/&adv@C@)'], ['&R']]
+Cases: The bottom member comprises a pair of leaning troughs that receive latch edges , so as to fix the seat member on the bottom member .
+Cause: The bottom member comprises a pair of leaning troughs that receive latch edges
+Effect: fix the seat member on the bottom member .
+
+Pattern: 6 5 [['so'], ['as', 'to']]---- [['&C', '(,)'], ['(&adj/&adv@C@)'], ['&R']]
+Cases: Nerve of the whole body seems to be so strained as to need to break .
+Cause: Nerve of the whole body seems to be so strained
+Effect: need to break .
+
+Pattern: 7 47 [['so'], ['that']]---- [['&C'], ['&adj/&adv@C@'], ['&R']]
+Cases: She got so angry that she ran after them .
+Cause: She got so angry
+Effect: she ran after them .
+
+Pattern: 7 47 [['so'], ['that']]---- [['&C'], ['&adj/&adv@C@'], ['&R']]
+Cases: My tooth was aching so much that I had to have it out .
+Cause: My tooth was aching so much
+Effect: I had to have it out .
+
+Pattern: 7 47 [['so'], ['that']]---- [['&C'], ['&adj/&adv@C@'], ['&R']]
+Cases: She found them so overwhelming that she burst into tears .
+Cause: She found them so overwhelming
+Effect: she burst into tears .
+
+Pattern: 8 45 [['so', 'that']]---- [['&C'], ['&R']]
+Cases: The teacher then decided to ask him some very easy questions so that he could get a few right .
+Cause: The teacher then decided to ask him some very easy questions
+Effect: he could get a few right .
+
+Pattern: 9 265 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+Cases: It was not long before he saw me looking at him , and so he began to move .
+Cause: It was not long before he saw me looking at him
+Effect: he began to move .
+
+Pattern: 10 4 [['result'], ['is', 'that']]---- [['&C', '(,/./;/--)', '&ONE', '(&adj)'], ['(of &THIS (&NP))'], ['&R']]
+Cases: Amazing things will happen . The paradoxical result of this is that the text itself no longer has any authority in an interpretation
+Cause: Amazing things will happen
+Effect: the text itself no longer has any authority in an interpretation
+
+Pattern: 11 4 [['result'], ['is']]---- [['&C', '(,/./;/--)', '&ONE', '(&adj)'], ['(of &THIS (&NP))'], ['&NP@R@', '(&Clause@R@)']]
+Cases: Amazing things will happen . The result of this trading is a market that has done what markets do : allocate resources to more productive use .
+Cause: Amazing things will happen
+Effect: trading is a market that has done what markets do : allocate resources to more productive use .
+
+Pattern: 12 3 [[[',', '.', ';', 'and']], ['as', 'a'], ['result', 'of']]---- [['&C'], ['&R'], ['(&ADJ)'], ['&THIS', '(&NP)']]
+Cases: Amazing things will happen . One gift that I received recently was given as a result of this sort of thinking .
+Cause: Amazing things will happen
+Effect: One gift that I received recently was given
+
+Pattern: 13 2 [['it', 'is', 'for'], [['reason', 'reasons'], [',', 'that']]]---- [['&C', '(,/./;/--)', '(&AND)'], ['&this'], ['&R']]
+Cases: Amazing things will happen . It is for this reason that property rights must be protected .
+Cause: Amazing things will happen
+Effect: property rights must be protected .
+
+Pattern: 13 2 [['it', 'is', 'for'], [['reason', 'reasons'], [',', 'that']]]---- [['&C', '(,/./;/--)', '(&AND)'], ['&this'], ['&R']]
+Cases: Amazing things will happen . It is for this reason , we recommend the use of two coater group and extended dry section for high-quality coating .
+Cause: Amazing things will happen
+Effect: we recommend the use of two coater group and extended dry section for high-quality coating .
+
+Pattern: 14 2 [['for', 'the', 'sake', 'of'], [',']]---- [[], ['&V-ing/&NP@C@'], ['&R']]
+Cases: For the sake of public health , the American Red Cross should be trying to identify the infectious agent that is in our blood .
+Cause: public health
+Effect: the American Red Cross should be trying to identify the infectious agent that is in our blood .
+
+Pattern: 14 2 [['for', 'the', 'sake', 'of'], [',']]---- [[], ['&V-ing/&NP@C@'], ['&R']]
+Cases: For the sake of taking care of him , his younger brother Became his shadow , never leaving him alone for years .
+Cause: taking care of him
+Effect: his younger brother Became his shadow , never leaving him alone for years .
+
+Pattern: 16 2 [[[',', '.', ';', 'and']], ['accordingly']]---- [['&C'], ['&R']]
+Cases: She knows ahead of time how much enhancement in loan size is coming , and can plan her activities accordingly .
+Cause: She knows ahead of time how much enhancement in loan size is coming ,
+Effect: can plan her activities
+
+Pattern: 17 2 [['accordingly']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(,)', '&R']]
+Cases: They asked him to leave the meeting , and accordingly he went .
+Cause: They asked him to leave the meeting
+Effect: he went .
+
+Pattern: 18 2 [[['explanation', 'motivation'], 'is', 'that']]---- [['&R', '(,/./;/--)', '&ONE', '(&adj)'], ['&C']]
+Cases: Amazing things will happen . The obvious explanation is that the Bank believes the UK economy to be in much worse shape than the market thinks it is .
+Cause: the Bank believes the UK economy to be in much worse shape than the market thinks it is .
+Effect: Amazing things will happen
+
+Pattern: 19 2 [['motivation', 'is']]---- [['&R', '(,/./;/--)', '&ONE', '(&adj)'], ['&TODO@C@']]
+Cases: A 5-tuple typed link -LRB- link type , source node , destination node , a set of structured link attributes , and a free text annotation to the link -RRB- is introduced . The motivation is to integrate the hypertext browsing with information retrieval .
+Cause: to integrate the hypertext browsing with information retrieval
+Effect: A 5-tuple typed link -LRB- link type , source node , destination node , a set of structured link attributes , and a free text annotation to the link -RRB- is introduced
+
+Pattern: 20 1 [['what', 'conclusions', 'can', 'be', 'drawn', 'from'], [['?', ':', '--']]]---- [[], ['&NP@C@'], ['&R']]
+Cases: What conclusions can be drawn from this important victory ? Amazing things will happen .
+Cause: this important victory
+Effect: Amazing things will happen .
+
+Pattern: 21 1 [['because', 'of'], ['that']]---- [['&THIS', '&BE', '(&ADV)'], ['&NP@C@'], ['&R']]
+Cases: It is only because of his help that I am now standing in front of you .
+Cause: his help
+Effect: I am now standing in front of you .
+
+Pattern: 22 18 [['because'], [',']]---- [[], ['&C'], ['&R']]
+Cases: Because he was absent for two weeks , the other students in his class are ahead of him .
+Cause: he was absent for two weeks
+Effect: the other students in his class are ahead of him .
+
+Pattern: 24 1 [['because', 'of']]---- [['&C', '(,/;/./--)', '(&AND)', '(&ADV)'], ['&THIS', '(,)', '&R']]
+Cases: Mother 's Day is the No 1 holiday for flower purchases . Then there are the various commodities , ranging from jewelry and clothes to cosmetics and washing powder , that take advantage of tlie promotion opportunities . Because of this , Jarvis spent the last 40 years of her life trying to stop Mother 's Day .
+Cause: Mother 's Day is the No 1 holiday for flower purchases . Then there are the various commodities , ranging from jewelry and clothes to cosmetics and washing powder , that take advantage of tlie promotion opportunities
+Effect: Jarvis spent the last 40 years of her life trying to stop Mother 's Day .
+
+Pattern: 28 22 [['because', 'of']]---- [['&R', '(,)'], ['&NP@C@', '(&Clause@C@)']]
+Cases: She was confined to bed for a week because of a cold .
+Cause: a cold
+Effect: She was confined to bed for a week
+
+Pattern: 28 22 [['because', 'of']]---- [['&R', '(,)'], ['&NP@C@', '(&Clause@C@)']]
+Cases: You never know how much a person loves you as he thinks wild because of you .
+Cause: you
+Effect: You never know how much a person loves you as he thinks wild
+
+Pattern: 29 6 [['because', 'of']]---- [[], ['&NP@C@', '(,)', '&R']]
+Cases: Because of compassion for her terrible suffering they allowed her to stay .
+Cause: compassion for her terrible suffering
+Effect: they allowed her to stay .
+
+Pattern: 30 8 [['because']]---- [['&R', '(,/./;/--)', '(&AND)', '&THIS', '&BE', '(&ADV)'], ['&C']]
+Cases: Amazing things will happen . This is often because they have found ways of bypassing what might seem like the remorseless inevitability of the curve and its slope .
+Cause: they have found ways of bypassing what might seem like the remorseless inevitability of the curve and its slope .
+Effect: Amazing things will happen
+
+Pattern: 31 1 [['because']]---- [['&V-ing/&NP@R@', '(&Clause@R@)', '&BE', '(&ADV)'], ['&C']]
+Cases: One of the biggest culprit on why you never seem to lose much weight is because you eat too much carbohydrates .
+Cause: you eat too much carbohydrates .
+Effect: the biggest culprit on why you never seem to lose much weight
+
+Pattern: 32 407 [['because']]---- [['&R', '(,)', '(&ADV)'], ['&C']]
+Cases: It ends up in burnout and less production , because we inevitably run out of energy .
+Cause: we inevitably run out of energy .
+Effect: It ends up in burnout and less production
+
+Pattern: 33 1 [['strategy', 'for']]---- [['&V-ing/&NP@R@', '&BE', '(&OF)', '&ONE'], ['&V-ing/&NP@C@']]
+Cases: Maintaining openness is a strategy for the sustainable development of the knowledge flow within a research community .
+Cause: the sustainable development of the knowledge flow within a research community
+Effect: Maintaining openness
+
+Pattern: 34 1 [['strategy']]---- [['&V-ing/&NP@R@', '&BE', '(&OF)', '&ONE'], ['&TODO@C@']]
+Cases: Enhancing inflow , that is , selecting the appropriate higher-energy nodes to cooperate is a strategy to increase the efficiency of knowledge flow networking .
+Cause: to increase the efficiency of knowledge flow networking
+Effect: selecting the appropriate higher-energy nodes to cooperate
+
+Pattern: 35 1 [['strategy']]---- [['&V-ing/&NP@R@', '&BE', '(&OF)', '&ONE'], ['&C']]
+Cases: Encouraging unselfish cooperation is another strategy that helps a knowledge flow network reach its greatest effectiveness .
+Cause: that helps a knowledge flow network reach its greatest effectiveness .
+Effect: Encouraging unselfish cooperation
+
+Pattern: 36 1 [['not', 'the', 'only', 'reason', 'why']]---- [['&C', '(,/./;/--)', '(&AND)', '&THIS', '&BE'], ['&R']]
+Cases: Amazing things will happen . This is not the only reason why people go to the place
+Cause: things will happen
+Effect: people go to the place
+
+Pattern: 37 3 [['there'], [['reason', 'reasons'], 'why'], [[',', '.', ':', ';', '--']]]---- [[], ['&BE', '(&MODNUM)', '&NUM', '(&ADJ)'], ['&R'], ['&C']]
+Cases: There are at least three reasons why so many children have dropped out of school . Amazing things will happen .
+Cause: Amazing things will happen .
+Effect: so many children have dropped out of school
+
+Pattern: 38 2 [['there'], [['reason', 'reasons'], 'for'], [[',', '.', ':', ';', '--']]]---- [[], ['&BE', '(&MODNUM)', '&NUM', '(&ADJ)'], ['&V-ing/&NP@R@', '(&Clause@R@)'], ['&C']]
+Cases: There are two reasons for limiting directors ' liability . Amazing things will happen .
+Cause: Amazing things will happen .
+Effect: limiting directors ' liability
+
+Pattern: 39 10 [['the'], [['reason', 'reasons'], 'why']]---- [['&C', '(,/./;/--)', '(&AND)', '&THIS', '&BE', '(&OF)'], ['(&ADJ)'], ['(,)', '&R']]
+Cases: Amazing things will happen . This is one of the real underlying economic reasons why the gap between rich and poor nations seems to widen every year .
+Cause: Amazing things will happen
+Effect: the gap between rich and poor nations seems to widen every year .
+
+Pattern: 40 1 [['the'], [['reason', 'reasons'], 'for']]---- [['&C', '(,/./;/--)', '(&AND)', '&THIS', '&BE', '(&OF)'], ['(&ADJ)'], ['&NP@R@', '(&Clause@C@)']]
+Cases: But at the same time , China is historically in her era of progress ; This is the primary reason for her ability to defeat Japan .
+Cause: But at the same time , China is historically in her era of progress
+Effect: her ability to defeat Japan
+
+Pattern: 41 1 [['owing', 'to'], ['.']]---- [['&R', '(,)'], ['&NP@C@']]
+Cases: She had a headache , owing to the weather here .
+Cause: the weather
+Effect: She had a headache
+
+Pattern: 42 1 [['a', 'consequence', 'of']]---- [['&NP@R@', '(&CAN/have/has/had)', '(&ADV)', '&BE/&V', '(as/for)'], ['&NP@C@', '(&Clause@C@)']]
+Cases: This suggests that abnormal metabolism in cancer could also be a consequence of a disrupted circadian clock .
+Cause: a disrupted circadian clock
+Effect: abnormal metabolism in cancer
+
+Pattern: 43 1 [['consequence', 'of']]---- [['&R', '(,/./;/--)', '(&AND)', '&THIS', '&BE', '&ONE'], ['&NP@C@', '(&Clause@C@)']]
+Cases: Amazing things will happen . This is the consequence of Born 's rule , which defines the probability that a measurement on a quantum system will yield a certain result .
+Cause: Born 's rule , which defines the probability that a measurement on a quantum system will yield a certain result
+Effect: Amazing things will happen
+
+Pattern: 44 6 [[['result', 'consequence'], 'of']]---- [['&V-ing/&NP@R@', '(&Clause@R@)', '&BE', '&ONE'], ['&NP@C@', '(&Clause@C@)']]
+Cases: This announcement is the result of a collaborative effort between Interface21 and IBM .
+Cause: a collaborative effort between Interface21 and IBM
+Effect: This announcement
+
+Pattern: 44 6 [[['result', 'consequence'], 'of']]---- [['&V-ing/&NP@R@', '(&Clause@R@)', '&BE', '&ONE'], ['&NP@C@', '(&Clause@C@)']]
+Cases: The shot noise is a consequence of the discrete nature of the charge carriers .
+Cause: the discrete nature of the charge carriers
+Effect: The shot noise
+
+Pattern: 46 0 [['it', 'is', 'on', 'account', 'of'], ['that']]---- [[], ['&NP@C@'], ['&R']]
+Cases: It is on account of the godliness of this people that you shall root out the nations .
+Cause: the godliness of this people
+Effect: you shall root out the nations .
+
+Pattern: 48 5 [['on'], ['grounds', 'of'], ['.']]---- [['&R', '(,)'], ['(the)'], ['&NP@C@']]
+Cases: Of course , some historians have refused to work for Big Tobacco , on the grounds of those same scholarly standards .
+Cause: those same scholarly standards
+Effect: Of course , some historians have refused to work for Big Tobacco
+
+Pattern: 49 3 [['on', 'account', 'of'], [',']]---- [[], ['&NP@C@'], ['&R']]
+Cases: On account of the discontimuance of business at the company , I left the office .
+Cause: the discontimuance of business at the company
+Effect: I left the office .
+
+Pattern: 49 3 [['on', 'account', 'of'], [',']]---- [[], ['&NP@C@'], ['&R']]
+Cases: I was confident that on account of my exertions , I would overcome all difficulties .
+Cause: my exertions
+Effect: I would overcome all difficulties .
+
+Pattern: 49 3 [['on', 'account', 'of'], [',']]---- [[], ['&NP@C@'], ['&R']]
+Cases: On account of his youth , he was not allowed to take the senior course .
+Cause: his youth
+Effect: he was not allowed to take the senior course .
+
+Pattern: 49 3 [['on', 'account', 'of'], [',']]---- [[], ['&NP@C@'], ['&R']]
+Cases: On account of the fact that he was tired , he went to bed early .
+Cause: the fact that he was tired
+Effect: he went to bed early .
+
+Pattern: 50 2 [[[',', '.', ';', 'and']], ['on', 'that', 'account']]---- [['&C'], ['&R', '(,)']]
+Cases: I have been uneasy in the belief that I have offended you , and that you are going away on that account .
+Cause: I have been uneasy in the belief that I have offended you ,
+Effect: that you are going away
+
+Pattern: 51 1 [['with', 'the'], ['result', 'that']]---- [['&C', '(,)'], ['(&ADJ)'], ['&R']]
+Cases: The President charged head down at the bill introduced by the opposition , with the result that it had to be put on ice .
+Cause: The President charged head down at the bill introduced by the opposition
+Effect: it had to be put on ice .
+
+Pattern: 52 3 [['on', 'the', ['ground', 'grounds'], 'that']]---- [['&R', '(,)'], ['&C']]
+Cases: I came to see you on the ground that your father said you were in trouble .
+Cause: your father said you were in trouble .
+Effect: I came to see you
+
+Pattern: 53 1 [['on', 'the', 'ground', 'that']]---- [['&R', '(,/;/./--)'], ['&C']]
+Cases: He refused to disclose what had been told him , on the ground that it would be a breach of confidence .
+Cause: it would be a breach of confidence .
+Effect: He refused to disclose what had been told him
+
+Pattern: 54 5 [['on'], ['grounds'], [',']]---- [[], ['&adj@C@'], ['(&ADJ)'], ['&R']]
+Cases: But it should reinforce the point that , on hydrological grounds alone , conserving forest is often essential .
+Cause: hydrological
+Effect: conserving forest is often essential .
+
+Pattern: 55 1 [['on'], [['ground', 'grounds'], [',', '.', ':', ';', '--']]]---- [['&R'], ['&NUM', '(&ADJ)'], ['&C']]
+Cases: Google defends this approach on two grounds . Amazing things will happen .
+Cause: Amazing things will happen .
+Effect: Google defends this approach
+
+Pattern: 56 1 [[['have', 'has', 'had']], [['effect', 'effects', 'result', 'results'], [',', '.', ':', ';', '--']]]---- [['&V-ing/&NP@C@', '(&Clause@C@)'], ['&NUM', '(&adj)'], ['&R']]
+Cases: this action has two effects : it removes the test from the group , and it clears the value of the property by which the test was grouped .
+Cause: this action
+Effect: it removes the test from the group , and it clears the value of the property by which the test was grouped .
+
+Pattern: 58 5 [['on'], ['grounds', '.']]---- [['&R', '(,)'], ['&adj/&NP@C@']]
+Cases: A commission spokesman said the incidents appeared to amount to discrimination on religious grounds .
+Cause: religious
+Effect: A commission spokesman said the incidents appeared to amount to discrimination
+
+Pattern: 58 5 [['on'], ['grounds', '.']]---- [['&R', '(,)'], ['&adj/&NP@C@']]
+Cases: However , that sale is widely believed to have been blocked by Beijing , through CNC , on nationalistic grounds .
+Cause: nationalistic
+Effect: However , that sale is widely believed to have been blocked by Beijing , through CNC
+
+Pattern: 58 5 [['on'], ['grounds', '.']]---- [['&R', '(,)'], ['&adj/&NP@C@']]
+Cases: Iran would be alogical supplier , but is out of the question on political grounds .
+Cause: political
+Effect: Iran would be alogical supplier , but is out of the question
+
+Pattern: 58 5 [['on'], ['grounds', '.']]---- [['&R', '(,)'], ['&adj/&NP@C@']]
+Cases: Reaching the end of that set of 68 paintings coincided with taking my GP 's advice and applying for early retirement on health grounds .
+Cause: health
+Effect: Reaching the end of that set of 68 paintings coincided with taking my GP 's advice and applying for early retirement
+
+Pattern: 59 1 [['on', 'account', 'of']]---- [['&R', '(,/./;/--)', '(&AND)', '&THIS', '&BE', '(&ADV)'], ['&NP@C@', '(&Clause@C@)']]
+Cases: I give you so many money , this is on account of my loving you forever .
+Cause: my loving you forever .
+Effect: I give you so many money
+
+Pattern: 60 2 [['conclusion', 'is', 'that']]---- [['&C', '(,/./;/--)', '&ONE', '(&adj)'], ['&R']]
+Cases: Amazing things will happen . One conclusion is that the notion of an `` Arab exception '' to the appeal of freedom of expression and political participation is dead .
+Cause: Amazing things will happen
+Effect: the notion of an `` Arab exception '' to the appeal of freedom of expression and political participation is dead .
+
+Pattern: 61 3 [['on', 'account', 'of']]---- [['&R', '(,)'], ['&NP@C@']]
+Cases: I prefer to call off the meeting on account of boss 's absence .
+Cause: boss 's absence
+Effect: I prefer to call off the meeting
+
+Pattern: 63 1 [['on'], [['ground', 'grounds']]]---- [['&C', '(,/;/./--)'], ['&this'], ['(,)', '&R']]
+Cases: Amazing things will happen . On those grounds , no one can question his contribution to medicine over the past century .
+Cause: Amazing things will happen
+Effect: no one can question his contribution to medicine over the past century .
+
+Pattern: 64 0 [[['lead', 'leads', 'led'], 'to']]---- [['&C', '(,/./;/--)', '&this', '(&adj)', '(&N)', '(&CAN/have/has/had)', '(&ADV)'], ['&NP@R@']]
+Cases: Representation and its summarization are separated . This leads to the separation of author 's meaning , summarizer 's understanding , and readers ' understanding .
+Cause: Representation and its summarization are separated
+Effect: the separation of author 's meaning , summarizer 's understanding , and readers ' understanding
+
+Pattern: 65 0 [[['lead', 'leads', 'led'], 'to']]---- [['&V-ing/&NP@C@', '(&CAN/have/has/had)'], ['&NP@R@', '(&Clause@R@)']]
+Cases: Multi-disciplinary study will lead to breakthrough in sciences , technologies , engineering and philosophy .
+Cause: Multi-disciplinary study
+Effect: breakthrough in sciences , technologies , engineering and philosophy
+
+Pattern: 66 0 [[['concern', 'concerns', 'concerned', 'require', 'requires', 'required', 'request', 'requests', 'requested']]]---- [['&R', '(,/./;/--)', '&this', '(&adj)', '(&N)', '(&CAN/have/has/had)', '(&ADV)'], ['(about)', '&V-ing/&NP@C@']]
+Cases: For example , this enables e-learning systems to capture student behaviors during studying so that leaning materials and processes can be organized and adapted in real time to raise the effectiveness of study . This concerns the classification on students ' behaviors -LRB- including micro expressions -RRB- and carrying out real-time analysis and adaptation .
+Cause: the classification on students ' behaviors
+Effect: For example , this enables e-learning systems to capture student behaviors during studying so that leaning materials and processes can be organized and adapted in real time to raise the effectiveness of study
+
+Pattern: 67 0 [[['imply', 'implies', 'implied', 'indicate', 'indicates', 'indicated']]]---- [['&C', '(,/./;/--)', '&this', '(&adj)', '(&N)', '(&CAN/have/has/had)', '(&ADV)'], ['(that)', '&R@Complete@']]
+Cases: The epistemology has been emphasized in the effort to solve the semantics problem . This implies that the current approaches to the semantic web , machine translation , and text understanding through processing symbols in the cyber space is questionable in essence .
+Cause: The epistemology has been emphasized in the effort to solve the semantics problem
+Effect: the current approaches to the semantic web , machine translation , and text understanding through processing symbols in the cyber space is questionable in essence .
+
+Pattern: 68 0 [[['imply', 'implies', 'implied', 'mean', 'means', 'indicate', 'indicates', 'indicated']]]---- [['&C', '(,/./;/--)', '&this', '(&adj)', '(&N)', '(&CAN/have/has/had)', '(&ADV)'], ['&NP@R@']]
+Cases: A little interaction helps a lot in understanding since interactions enable individuals to co-experience in multiple spaces . This implies an approach to improving the current research in many areas such as the semantic web , natural language processing , and text understanding by adding a little interaction .
+Cause: A little interaction helps a lot in understanding since interactions enable individuals to co-experience in multiple spaces
+Effect: an approach to improving the current research in many areas such as the semantic web , natural language processing , and text understanding by adding a little interaction
+
+Pattern: 69 0 [[['indicate', 'indicates', 'indicated', 'realize', 'realizes', 'realized', 'ensure', 'ensures', 'ensured', 'imply', 'implies', 'implied']]]---- [['&NP@C@', '(&Clause@C@)'], ['&NP@R@', '(&Clause@R@)']]
+Cases: The basic characteristics and principles of language use and understanding indicate the following dimensions for evaluating a summarization
+Cause: The basic characteristics and principles of language use and understanding
+Effect: the following dimensions for evaluating a summarization
+
+Pattern: 70 30 []---- [['&V-ing@C@', '(,)', '&R@Complete@']]
+Cases: Being over here we tend to be a bit isolated .
+Cause: Being over here
+Effect: we tend to be a bit isolated .
+
+Pattern: 70 30 []---- [['&V-ing@C@', '(,)', '&R@Complete@']]
+Cases: Not being sure of the word , he turned it up in the dictionary .
+Cause: Not being sure of the word
+Effect: he turned it up in the dictionary .
+
+Pattern: 71 0 [['as', 'a', ['result', 'consequence'], 'of'], ['.']]---- [['&R'], ['&NP@C@']]
+Cases: His wife , a nurse , lost both her legs as a result of her injuries .
+Cause: her injuries
+Effect: His wife , a nurse , lost both her legs
+
+Pattern: 71 0 [['as', 'a', ['result', 'consequence'], 'of'], ['.']]---- [['&R'], ['&NP@C@']]
+Cases: His wife , a nurse , lost both her legs as a consequence of her injuries .
+Cause: her injuries
+Effect: His wife , a nurse , lost both her legs
+
+Pattern: 72 0 [['as', 'a', ['result', 'consequence'], 'of'], [',']]---- [[], ['&NP@C@'], ['&R']]
+Cases: As a result of your carelessness , the whole project should be put off at least one month .
+Cause: your carelessness
+Effect: the whole project should be put off at least one month .
+
+Pattern: 72 0 [['as', 'a', ['result', 'consequence'], 'of'], [',']]---- [[], ['&NP@C@'], ['&R']]
+Cases: As a result of the photography time light reason , this goods color should be blank .
+Cause: the photography time light reason
+Effect: this goods color should be blank .
+
+Pattern: 73 3 [[[',', '.', ';', 'and']], ['as', 'a'], ['result']]---- [['&C'], ['&R'], ['(&ADJ)']]
+Cases: he defeated all competitors and won the scholarship as a result .
+Cause: he defeated all competitors
+Effect: won the scholarship
+
+Pattern: 74 1 [[[',', '.', ';', 'and']], ['as', 'a'], ['consequence']]---- [['&C'], ['&R'], ['(&ADJ)']]
+Cases: The warning failed to sink in , and he got into trouble as a consequence .
+Cause: The warning failed to sink in ,
+Effect: he got into trouble
+
+Pattern: 75 0 [['as', 'a'], ['result', 'of']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(&ADJ)'], ['&this', '&NP', '(,)', '&R']]
+Cases: Amazing things will happen . As a result of this meeting , he made his first record .
+Cause: Amazing things will happen
+Effect: he made his first record .
+
+Pattern: 75 0 [['as', 'a'], ['result', 'of']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(&ADJ)'], ['&this', '&NP', '(,)', '&R']]
+Cases: Amazing things will happen . As a result of these changes , we have been able to push finances that were on the verge of collapse back to a safe position .
+Cause: Amazing things will happen
+Effect: we have been able to push finances that were on the verge of collapse back to a safe position .
+
+Pattern: 76 3 [['as', 'a'], ['result', 'of']]---- [['&C', '(,/;/./--)'], ['(&ADJ)'], ['&THIS', '(,)', '&R']]
+Cases: Amazing things will happen . As a direct result of this , many weapons have shifted position in their relative power .
+Cause: Amazing things will happen
+Effect: many weapons have shifted position in their relative power .
+
+Pattern: 77 3 [['as', 'a'], ['result']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(&ADJ)'], ['(,)', '&R']]
+Cases: All singers kept together . As a result , their performance was successful .
+Cause: All singers kept together
+Effect: their performance was successful .
+
+Pattern: 78 1 [['as', 'a'], ['consequence']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(&ADJ)'], ['(,)', '&R']]
+Cases: I missed the bus this morning and as a consequence was late for work .
+Cause: I missed the bus this morning
+Effect: was late for work .
+
+Pattern: 80 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem/-regard/-regards/-regarded/-view/-views/-viewed/-denote/-denoted/-denotes)'], ['(-if/-follow/-follows/-&adv)', '&C@Complete@']]
+Cases: You do not need to worry about the operation , as the software is very easy to use .
+Cause: the software is very easy to use .
+Effect: You do not need to worry about the operation
+
+Pattern: 82 2 [['for', 'the', 'sake', 'of']]---- [['&R'], ['&V-ing/&NP@C@']]
+Cases: On the contrary , some people marry for the sake of money only , and their marriage is destined to be a failure .
+Cause: money
+Effect: On the contrary , some people marry
+
+Pattern: 82 2 [['for', 'the', 'sake', 'of']]---- [['&R'], ['&V-ing/&NP@C@']]
+Cases: They are prepared to take a minority position for the sake of maintaining long-term relations with the authorities .
+Cause: maintaining long-term relations with the authorities
+Effect: They are prepared to take a minority position
+
+Pattern: 83 5 [['for'], [['reason', 'reasons']], [['.', ':', ';', '--']]]---- [[], ['&NUM'], ['(,)', '&R'], ['&C']]
+Cases: For two reasons , that would be a mistake . First it is broadly speaking true .
+Cause: First it is broadly speaking true .
+Effect: that would be a mistake
+
+Pattern: 84 0 [['for'], [['reason', 'reasons'], ['.', ',', ':', '--']]]---- [['&R', '(,/./;/--)', '&THIS/there', '&BE/occurs/occurred'], ['&NUM'], ['&C']]
+Cases: For many women , a man tends to pull away precisely at the time when she wants to talk and be intimate . This occurs for two reasons . Amazing things will happen .
+Cause: Amazing things will happen .
+Effect: For many women , a man tends to pull away precisely at the time when she wants to talk and be intimate
+
+Pattern: 85 5 [['for'], [['reason', 'reasons'], [',', '.', ':', ';', '--']]]---- [['&R', '(,/;/./--)', '(&ADV)'], ['&NUM'], ['&C']]
+Cases: We 've got to say , we like this idea for two reasons . Amazing things will happen .
+Cause: Amazing things will happen .
+Effect: We 've got to say , we like this idea
+
+Pattern: 86 2 [['for', 'the'], ['reason']]---- [['&R', '(,)', '(&ADV)'], ['(&ADJ)'], ['(that)', '&C']]
+Cases: I think it was a mistake , for the simple reason that I do not believe the United States of America ought to be involved in aggression .
+Cause: I do not believe the United States of America ought to be involved in aggression .
+Effect: I think it was a mistake
+
+Pattern: 87 2 [['for'], [['reason', 'reasons'], '.']]---- [['&R'], ['&adj@C@']]
+Cases: On occasion , this separation will exist because of interference by the state for national reasons .
+Cause: national
+Effect: On occasion , this separation will exist because of interference by the state
+
+Pattern: 88 0 [['for', ['reason', 'reasons'], 'of']]---- [[], ['&NP@C@', '(,)', '&R']]
+Cases: For reasons of geography Mexico 's fate is ineluctably intertwined with that of the United States .
+Cause: geography Mexico 's fate
+Effect: is ineluctably intertwined with that of the United States .
+
+Pattern: 88 0 [['for', ['reason', 'reasons'], 'of']]---- [[], ['&NP@C@', '(,)', '&R']]
+Cases: For reasons of domestic politics and of attention-seeking abroad , Russian leaders continue to pretend that the enemy lies in the west .
+Cause: domestic politics and of attention-seeking abroad
+Effect: Russian leaders continue to pretend that the enemy lies in the west .
+
+Pattern: 89 0 [['for', ['reason', 'reasons'], 'of']]---- [['&R'], ['&NP@C@']]
+Cases: He did not go for reasons of health and I wished him a quick recovery .
+Cause: health
+Effect: He did not go
+
+Pattern: 90 7 [['for'], [['reason', 'reasons']]]---- [['&C', '(,/;/./--)', '(&AND)'], ['(&this)'], ['(,/that)', '&R']]
+Cases: Its sweet notes have restored many to health , and for this reason it is often called ` the sick one 's comforter ' .
+Cause: Its sweet notes have restored many to health
+Effect: it is often called ` the sick one 's comforter ' .
+
+Pattern: 91 1 [['for'], ['reasons']]---- [[], ['&adj@C@'], ['(,)', '&R']]
+Cases: Then for personal reasons I moved across to Australia .
+Cause: personal
+Effect: I moved across to Australia .
+
+Pattern: 92 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+Cases: She was angry with him for being late .
+Cause: being late
+Effect: She was angry with him
+
+Pattern: 93 0 [['that', 'is', 'why']]---- [['&C', '(,/./;/--)', '(&AND)', '(&adv)'], ['&R']]
+Cases: Amazing things will happen . That is why it is so irritating when public figures apologize , and then act like the matter is finished .
+Cause: Amazing things will happen
+Effect: it is so irritating when public figures apologize , and then act like the matter is
+
+Pattern: 94 1 [['why'], ['that']]---- [[], ['&R', '&BE'], ['&C']]
+Cases: Why you never say a word is that i have been a good husband for the last 20 years .
+Cause: i have been a good husband for the last 20 years .
+Effect: you never say a word
+
+Pattern: 95 10 [['why']]---- [['&C', '(,/./;/--)', '(&AND)', '&THIS', '&BE'], ['&R']]
+Cases: Those in power , he said , were devoid of fresh thinking , and this is why `` the protests in Greece affect all of you directly '' .
+Cause: Those in power , he said , were devoid of fresh thinking
+Effect: `` the protests in Greece affect all of you directly
+
+Pattern: 95 10 [['why']]---- [['&C', '(,/./;/--)', '(&AND)', '&THIS', '&BE'], ['&R']]
+Cases: Maybe tumor cells are being disguised as skeletal muscle cells , and this is why it seems as if it is so rare .
+Cause: Maybe tumor cells are being disguised as skeletal muscle cells
+Effect: it seems as if it is so rare .
+
+Pattern: 96 0 [['hence'], ['.']]---- [['&C', '(,)', '(&AND)'], ['&NP@R@', '(&Clause@R@)']]
+Cases: Admittedly it is not always easy to balance our attitude , hence the title of this article referring to it as an `` art '' .
+Cause: Admittedly it is not always easy to balance our attitude
+Effect: the title of this article referring to it as an `` art ''
+
+Pattern: 97 7 [['hence']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(,)', '&R']]
+Cases: Increase in temperature increases the rate of deposition and hence the heat loss to the surroundings should be prevented .
+Cause: Increase in temperature increases the rate of deposition
+Effect: the heat loss to the surroundings should be prevented .
+
+Pattern: 98 0 [['reason', 'why'], ['that']]---- [['&ONE', '(&ADJ)'], ['&R', '&BE'], ['&C']]
+Cases: The reason why she was absent from class was that she was feeling unwell .
+Cause: she was feeling unwell .
+Effect: she was absent from class
+
+Pattern: 99 0 [['the'], [['reason', 'reasons'], 'for']]---- [['&NP@C@', '(&Clause@C@)', '&BE', '(&OF)'], ['(&ADJ)'], ['&NP@R@', '(&Clause@R@)']]
+Cases: Soil and water loss is one of the main reasons for the increasingly serious disaster .
+Cause: Soil and water loss
+Effect: the increasingly serious disaster
+
+Pattern: 100 0 [['the'], [['reason', 'reasons'], 'for']]---- [['(&OF)'], ['(&ADJ)'], ['&V-ing/&NP@R@', '&BE', '&NP/&TODO@C@']]
+Cases: One of the major reasons for the sharp decrease of the biodiversity was the intrusive alien species .
+Cause: the intrusive alien species
+Effect: the sharp decrease of the biodiversity
+
+Pattern: 100 0 [['the'], [['reason', 'reasons'], 'for']]---- [['(&OF)'], ['(&ADJ)'], ['&V-ing/&NP@R@', '&BE', '&NP/&TODO@C@']]
+Cases: One of the reasons for generating a corpus is to normalize text and remove anything that is n't relevant .
+Cause: to normalize text and remove anything that is n't relevant
+Effect: generating a corpus
+
+Pattern: 101 0 [['reason', 'why'], ['because']]---- [['&ONE', '(&ADJ)'], ['&R', '(&BE)'], ['&C']]
+Cases: The reason why Henry became very brave , in fact , because he understood from the soul to a truth .
+Cause: he understood from the soul to a truth .
+Effect: Henry became very brave , in fact ,
+
+Pattern: 102 1 [['by'], [['reason', 'reasons'], 'of']]---- [['&R', '(,)'], ['(&ONE)'], ['&V-ing/&NP@C@']]
+Cases: Protection in developed countries is caused by the reasons of economy , international and internal polity .
+Cause: economy , international and internal polity
+Effect: Protection in developed countries is caused
+
+Pattern: 102 1 [['by'], [['reason', 'reasons'], 'of']]---- [['&R', '(,)'], ['(&ONE)'], ['&V-ing/&NP@C@']]
+Cases: The town is saddled with a large debt , by reason of having built costly Bridges and schoolhouses .
+Cause: having built costly Bridges
+Effect: The town is saddled with a large debt
+
+Pattern: 103 1 [['by', ['reason', 'reasons'], 'of']]---- [[], ['&V-ing/&NP@C@', '(,)', '&R']]
+Cases: By reason of the initial stage of exploration and the war , it had not yet been effective promotion .
+Cause: the initial stage of exploration and the war
+Effect: it had not yet been effective promotion .
+
+Pattern: 104 1 [['reason'], [['that', 'because']]]---- [['&R', '(,/./;/--)', '&ONE', '(&ADJ)'], ['(for &THIS (&NP))', '&BE'], ['&C']]
+Cases: Amazing things will happen . The main reason was that the operation effect of Danjiangkou reservoir for runoff was more in the low water period than in the flood period .
+Cause: the operation effect of Danjiangkou reservoir for runoff was more in the low water period than in the flood period .
+Effect: Amazing things will happen
+
+Pattern: 105 11 [[['reason', 'reasons'], 'why']]---- [['&C', '(,/./;/--)', '(&AND)', '&THIS', '&BE', '&OF/&ONE', '(&ADJ)'], ['&R']]
+Cases: Amazing things will happen . This is the reason why the process choreographer database schema does not define any indexes by default for the audit log table .
+Cause: Amazing things will happen
+Effect: the process choreographer database schema does not define any indexes by default for the audit log table .
+
+Pattern: 106 3 [[['reason', 'reasons'], 'for']]---- [['&C', '(,/./;/--)', '&THIS', '&BE', '&OF/&ONE', '(&ADJ)'], ['&V-ing/&NP@R@', '(&Clause@R@)']]
+Cases: Amazing things will happen . Be aware that this is the reason for the restricted number of multi-value context variables .
+Cause: Amazing things will happen . Be aware that
+Effect: the restricted number of multi-value context variables
+
+Pattern: 107 0 [['reason', 'why']]---- [['&ONE', '(&ADJ)'], ['&R', '&BE', '&NP@C@']]
+Cases: The reason why he made such a great achievement is his perseverance .
+Cause: his perseverance
+Effect: he made such a great achievement
+
+Pattern: 108 0 [[['reason', 'reasons'], 'for']]---- [['&V-ing/&NP@C@', '&BE', '(&OF)', '(&ONE)', '(&ADJ)'], ['&NP@R@', '(&Clause@R@)']]
+Cases: Further integrating Oracle 's and Sun 's products is one of the main reasons for the takeover .
+Cause: Further integrating Oracle 's and Sun 's products
+Effect: the takeover
+
+Pattern: 109 0 [[['reason', 'reasons'], 'why']]---- [['&NP@C@', '(&Clause@C@)', '&BE', '(&NUM/&ONE/&OF)', '(&ADJ)'], ['&R']]
+Cases: Too much training and incorrect eating are two reasons why most people never get beyond an average physiqu
+Cause: Too much training and incorrect eating
+Effect: most people never get beyond an average physiqu
+
+Pattern: 110 0 [[['reason', 'reasons'], 'for']]---- [['(&OF)', '(&ONE)', '(&ADJ)'], ['&NP@R@', '&BE', '&NP@C@', '(&Clause@C@)']]
+Cases: One of the main reasons for migrant workers ' vulnerability is the typically informal nature of their employment .
+Cause: the typically informal nature of their employment
+Effect: migrant workers ' vulnerability
+
+Pattern: 111 1 [['reason']]---- [['&R', '(,/./;/--)', '&ONE', '(&ADJ)'], ['(for &THIS (&NP))', '&BE', '&NP@C@']]
+Cases: Amazing things will happen . The main reason for this delay is the time needed by the regional indicating office -LRB- RIO -RRB- to do their assessment and to give approval .
+Cause: the time needed by the regional indicating office -LRB- RIO -RRB- to do their assessment and to give approval
+Effect: Amazing things will happen
+
+Pattern: 112 0 [[['if', 'once']], [',']]---- [[], ['&C@Complete@'], ['&R@Complete@']]
+Cases: If some light and mobile detection devices can be invented in the future , many new applications can be imagined , for example , people can get some services while thinking .
+Cause: some light and mobile detection devices can be invented in the future
+Effect: many new applications can be imagined , for example , people can get some services while thinking .
+
+Pattern: 113 0 [['if'], ['then']]---- [[], ['&C', '(,)'], ['&R']]
+Cases: If representation A cites a set of representations B , and A is cited by a set of representations C , then both B and C constitute the extension of A.
+Cause: representation A cites a set of representations B , and A is cited by a set of representations C
+Effect: both B and C constitute the extension of A.
+
+Pattern: 114 0 [['if']]---- [['&R@Complete@'], ['&C@Complete@']]
+Cases: An effective knowledge flow network enables a research team to be very powerful in generating new knowledge if every node can innovate and output new knowledge to appropriate members .
+Cause: every node can innovate and output new knowledge to appropriate members .
+Effect: An effective knowledge flow network enables a research team to be very powerful in generating new knowledge
+
+Pattern: 115 0 [[['enable', 'enables', 'enabled']]]---- [['&C', '(,/./;/--)', '&this', '(&adj)', '(&N)', '(&CAN/have/has/had)', '(&ADV)'], ['&NP@R@', '&TODO@R@']]
+Cases: Ontology helps explain representation and establish the links between representations . This enables summarization systems to use more general or specific concepts in summary .
+Cause: Ontology helps explain representation and establish the links between representations
+Effect: summarization systems to use more general or specific concepts in summary
+
+Pattern: 116 0 [['enables']]---- [['&V-ing@C@'], ['&NP@R@', '&TODO@R@']]
+Cases: For example , linking the agricultural ecological system to the industrial ecological system enables some waste of industry to be used as the fertilizer of crops .
+Cause: linking the agricultural ecological system to the industrial ecological system
+Effect: some waste of industry to be used as the fertilizer of crops
+
+Pattern: 117 0 [['due', 'to', 'the', 'fact', 'that'], [',']]---- [[], ['&C'], ['&R']]
+Cases: Due to the fact that the second section is only indirectly filled with water , it is possible to have an undisturbed process .
+Cause: the second section is only indirectly filled with water
+Effect: it is possible to have an undisturbed process .
+
+Pattern: 118 1 [['it', 'is'], ['due', 'to'], ['that']]---- [[], ['(&ADV)'], ['&NP@C@'], ['&R']]
+Cases: However , it is usually due to the lag of the human-oriented management thinking that causes a variety of problems in an enterprise .
+Cause: the lag of the human-oriented management thinking
+Effect: causes a variety of problems in an enterprise .
+
+Pattern: 118 1 [['it', 'is'], ['due', 'to'], ['that']]---- [[], ['(&ADV)'], ['&NP@C@'], ['&R']]
+Cases: It is due to operating system specifics of this nature that lead to the general recommendation to use LDAP for the security registry .
+Cause: operating system specifics of this nature
+Effect: lead to the general recommendation to use LDAP for the security registry .
+
+Pattern: 119 0 [['due', 'to', 'the', 'fact', 'that']]---- [['&R', '(,)'], ['&C']]
+Cases: His mother was dismissed due to the fact that she could n't type fast enough .
+Cause: she could n't type fast enough .
+Effect: His mother was dismissed
+
+Pattern: 120 5 [['due', 'to']]---- [['&R', '(,/./;/--)', '(&AND)', '&THIS', '&BE'], ['&NP@C@', '(&Clause@C@)']]
+Cases: Amazing things will happen . This is due to the fact that the space between does not belong to any of the cultures that refract one another .
+Cause: the fact that the space between does not belong to any of the cultures that refract one another .
+Effect: Amazing things will happen
+
+Pattern: 120 5 [['due', 'to']]---- [['&R', '(,/./;/--)', '(&AND)', '&THIS', '&BE'], ['&NP@C@', '(&Clause@C@)']]
+Cases: But the difference between Java code and XSD remains ; this is due to the fundamental nature of the mismatch between the two technologies .
+Cause: the fundamental nature of the mismatch between the two technologies
+Effect: But the difference between Java code and XSD remains
+
+Pattern: 121 7 [['due', 'to']]---- [['&V-ing/&NP@R@', '&BE'], ['&NP@C@', '(&Clause@C@)']]
+Cases: There is a widespread testimony that this ominous fact is due to inherent biological defects in the crowded life of cities .
+Cause: inherent biological defects in the crowded life of cities
+Effect: a widespread testimony that this ominous fact
+
+Pattern: 121 7 [['due', 'to']]---- [['&V-ing/&NP@R@', '&BE'], ['&NP@C@', '(&Clause@C@)']]
+Cases: determining how much of a problem is due to inconsistencies in the measurement process .
+Cause: inconsistencies in the measurement process
+Effect: determining how much of a problem
+
+Pattern: 122 1 [['due', 'to']]---- [['&NP@R@', '(&Clause@R@)', '&BE', '(&ADV)'], ['&NP@C@', '(&Clause@C@)']]
+Cases: Poor quality in translation is often due to a lack of specifications stipulated by the end-user .
+Cause: a lack of specifications stipulated by the end-user
+Effect: Poor quality in translation
+
+Pattern: 123 0 [['due', 'to']]---- [[], ['&NP@C@', '(,)', '&R']]
+Cases: Due to limitations in size and legal rules , our efforts did not blossom
+Cause: limitations in size and legal rules
+Effect: our efforts did not blossom
+
+Pattern: 124 0 [['due', 'to']]---- [['&R'], ['&NP@C@']]
+Cases: Data stored on hard disks is at higher risk due to the mechanical nature of the device .
+Cause: the mechanical nature of the device
+Effect: Data stored on hard disks is at higher risk
+
+Pattern: 125 0 [['it', 'is'], ['in', 'consequence', 'of'], ['that']]---- [['&C', '(,/./;/--)'], ['(&ADV)'], ['&NP'], ['&R']]
+Cases: Amazing things will happen . It is in consequence of this decay that the convent gave up the education of girls .
+Cause: Amazing things will happen
+Effect: the convent gave up the education of girls .
+
+Pattern: 126 1 [[[',', '.', ';', 'and']], ['in', 'consequence']]---- [['&C'], ['&R']]
+Cases: She was found guilty , and lost her job in consequence .
+Cause: She was found guilty ,
+Effect: lost her job
+
+Pattern: 127 0 [[[',', '.', ';', 'and']], ['in', 'consequence']]---- [['&C'], ['&R'], ['(of &THIS (&NP))']]
+Cases: She was found guilty , and lost her job in consequence of it .
+Cause: She was found guilty ,
+Effect: lost her job
+
+Pattern: 129 0 [['in', 'consequence', 'of']]---- [['&R'], ['&NP@C@']]
+Cases: Asset securitization came into being in consequence of economics developing and financial products innovating .
+Cause: economics developing and financial products innovating
+Effect: Asset securitization came into being
+
+Pattern: 130 0 [['in', 'consequence', 'of']]---- [[], ['&NP@C@', '(,)', '&R']]
+Cases: In consequence of an agreement between the sisters , Elizabeth wrote the next morning to her mother .
+Cause: an agreement between the sisters
+Effect: Elizabeth wrote the next morning to her mother .
+
+Pattern: 130 0 [['in', 'consequence', 'of']]---- [[], ['&NP@C@', '(,)', '&R']]
+Cases: In consequence of the early bent of his nature and his habits of study he lived a solitary and secluded life .
+Cause: the early bent of his nature and his habits of study
+Effect: he lived a solitary and secluded life .
+
+Pattern: 131 1 [['in', 'consequence']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(,)', '&R']]
+Cases: We had not enough money to pay our bus fare , and in consequence we had to walk .
+Cause: We had not enough money to pay our bus fare
+Effect: we had to walk .
+
+Pattern: 132 0 [['owing', 'to'], [',']]---- [[], ['&C'], ['&R']]
+Cases: Owing to CPEB has no clean market structure readjustment strategy now , lacking market development plan of the system completely .
+Cause: CPEB has no clean market structure readjustment strategy now
+Effect: lacking market development plan of the system completely .
+
+Pattern: 133 1 [['owing', 'to']]---- [['&C', '(,/;/./--)', '(&AND)'], ['&this', '&NP', '(,)', '&R']]
+Cases: Amazing things will happen . Owing to this point , study on the effectiveness of interest rate policy has been taken as a front-line subject of theoretical research .
+Cause: things will happen
+Effect: study on the effectiveness of interest rate policy has been taken as a front-line subject of theoretical research .
+
+Pattern: 134 0 [['owing', 'to']]---- [['&C', '(,/;/./--)'], ['&THIS', '(,)', '&R']]
+Cases: Life is a process full of pities , owing to which life itself becomes so delicately colorful and wonderful .
+Cause: Life is a process full of pities
+Effect: life itself becomes so delicately colorful and
+
+Pattern: 135 1 [['owing', 'to']]---- [['&R', '(,/;/./--)', '(&AND)'], ['(&THIS)', '&NP@C@', '(&Clause@C@)']]
+Cases: This was a very important issue owing to the fact that records could exist in the case of formal meetings .
+Cause: the fact that records could exist in the case of formal meetings .
+Effect: This was a very important issue
+
+Pattern: 135 1 [['owing', 'to']]---- [['&R', '(,/;/./--)', '(&AND)'], ['(&THIS)', '&NP@C@', '(&Clause@C@)']]
+Cases: He was in a fevered state of mind , owing to the blight his wife 's action threatened to cast upon his entire future .
+Cause: the blight his wife 's action threatened to cast upon his entire future
+Effect: He was in a fevered state of mind
+
+Pattern: 136 1 [['owing', 'to']]---- [[], ['&NP@C@', '(,)', '&R']]
+Cases: Owing to a spark of a cigarette , the barn was reduced to ashes with its whole store of hay .
+Cause: a spark of a cigarette
+Effect: the barn was reduced to ashes with its whole store of hay .
+
+Pattern: 137 0 [['based', 'on'], [',']]---- [[], ['&V-ing/&NP@C@', '(&Clause@C@)'], ['&R']]
+Cases: He said that , based on his own experience , more students have been going back in recent years as their home countries ' economies heat up .
+Cause: his own experience
+Effect: more students have been going back in recent years as their home countries ' economies heat up .
+
+Pattern: 138 0 [['based', 'on']]---- [['&C', '(,/;/./--)', '(&AND)', '(&ADV)'], ['&this', '&NP', '(,)', '&R']]
+Cases: Amazing things will happen . So based on that definition , theories never change into laws , no matter how much evidence out there supports them .
+Cause: Amazing things will happen
+Effect: theories never change into laws , no matter how much evidence out there supports them .
+
+Pattern: 139 0 [['based', 'on']]---- [['&V-ing/&NP@R@', '(&Clause@R@)', '&BE', '(&ADV)'], ['&NP@C@', '(&Clause@C@)']]
+Cases: The time of the subsequent synchronization intervals is based on the time that this command is initiated .
+Cause: the time that this command is initiated .
+Effect: The time of the subsequent synchronization intervals
+
+Pattern: 140 0 [['based', 'on']]---- [['&R', '(,)', '(&ADV)'], ['&V-ing/&NP@C@', '(&Clause@C@)']]
+Cases: He said he planned to announce details of legislation on Sunday based on a Republican plan that would provide a short-term solution
+Cause: a Republican plan that would provide a short-term solution
+Effect: He said he planned to announce details of legislation on Sunday
+
+Pattern: 141 0 [['according', 'to'], [',']]---- [[], ['&NP@C@'], ['&R']]
+Cases: According to the efficiency principle and regional principle , the radius of the network should be small .
+Cause: the efficiency principle and regional principle
+Effect: the radius of the network should be small .
+
+Pattern: 142 0 [['according', 'to']]---- [['&R', '(,)'], ['&NP@C@']]
+Cases: There could be different ways to arrange pictures in displays but picture should be selected according to the core sentences and arranged near the core sentences according to the semantic locality principle .
+Cause: the semantic locality principle
+Effect: There could be different ways to arrange pictures in displays but picture should be selected according to the core sentences and arranged near the core sentences
+
+Pattern: 142 0 [['according', 'to']]---- [['&R', '(,)'], ['&NP@C@']]
+Cases: There could be different ways to arrange pictures in displays but picture should be selected according to the core sentences and arranged near the core sentences according to the semantic locality principle .
+Cause: the core sentences
+Effect: There could be different ways to arrange pictures in displays but picture should be selected
+
+Pattern: 143 0 [[['by', 'through']]]---- [[], ['&V-ing@C@', '&R']]
+Cases: By extracting comments and comparisons of the cited articles and then organizing them according to the time of publication discovers and displays how the area has developed as a research literature .
+Cause: extracting comments and comparisons of the cited articles and then organizing them according to the time of publication
+Effect: discovers and displays how the area has developed as a research literature .
+
+Pattern: 144 0 [[['by', 'through']]]---- [['&R@Complete@'], ['&V-ing@C@']]
+Cases: The similar relation can be detected by analyzing the contents of nodes based on such approaches as the Latent Semantic Analysis -LRB- LSA -RRB- and the Vector Space Model -LRB- VSM -RRB-
+Cause: analyzing the contents of nodes based on such approaches as the Latent Semantic Analysis -LRB- LSA -RRB- and the Vector Space Model -LRB- VSM -RRB-
+Effect: The similar relation can be detected
+
