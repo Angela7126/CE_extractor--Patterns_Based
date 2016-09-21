@@ -1,0 +1,769 @@
+(lp0
+cre
+_compile
+p1
+(V(.*?) therefore (.*)
+p2
+I2
+tp3
+Rp4
+ag1
+(V(.*?) thus (.*)
+p5
+I2
+tp6
+Rp7
+ag1
+(V(.*)since (.*?) , (.*)
+p8
+I2
+tp9
+Rp10
+ag1
+(V(.*?) since (.*)
+p11
+I2
+tp12
+Rp13
+ag1
+(V(.*?) consequently (.*)
+p14
+I2
+tp15
+Rp16
+ag1
+(V(.*)it is(.*?)because (.*?) that (.*)
+p17
+I2
+tp18
+Rp19
+ag1
+(V(.*) so(.*?)as to (.*)
+p20
+I2
+tp21
+Rp22
+ag1
+(V(.*) so (.*?) that (.*)
+p23
+I2
+tp24
+Rp25
+ag1
+(V(.*) so that (.*)
+p26
+I2
+tp27
+Rp28
+ag1
+(V(.*?) so (.*)
+p29
+I2
+tp30
+Rp31
+ag1
+(V(.*) result(.*?)is that (.*)
+p32
+I2
+tp33
+Rp34
+ag1
+(V(.*) result(.*?)is (.*)
+p35
+I2
+tp36
+Rp37
+ag1
+(V(.*) (?:,|\u005c.|;|and) (.*?) as a(.*?)result of (.*)
+p38
+I2
+tp39
+Rp40
+ag1
+(V(.*) it is for (.*?) (?:reason|reasons) (?:,|that) (.*)
+p41
+I2
+tp42
+Rp43
+ag1
+(V(.*)for the sake of (.*?) , (.*)
+p44
+I2
+tp45
+Rp46
+ag1
+(V(.*)there (.*?) (?:ground|grounds) for (.*?) (?:,|\u005c.|\u005c:|;|--) (.*)
+p47
+I2
+tp48
+Rp49
+ag1
+(V(.*) (?:,|\u005c.|;|and) (.*?) accordingly
+p50
+I2
+tp51
+Rp52
+ag1
+(V(.*?) accordingly (.*)
+p53
+I2
+tp54
+Rp55
+ag1
+(V(.*) (?:explanation|motivation) is that (.*)
+p56
+I2
+tp57
+Rp58
+ag1
+(V(.*) motivation is (.*)
+p59
+I2
+tp60
+Rp61
+ag1
+(V(.*)what conclusions can be drawn from (.*?) (?:\u005c?|\u005c:|--) (.*)
+p62
+I2
+tp63
+Rp64
+ag1
+(V(.*) because of (.*?) that (.*)
+p65
+I2
+tp66
+Rp67
+ag1
+(V(.*)because (.*?) , (.*)
+p68
+I2
+tp69
+Rp70
+ag1
+(V(.*) because of (.*)
+p71
+I2
+tp72
+Rp73
+ag73
+ag73
+ag73
+ag73
+ag73
+ag1
+(V(.*)because of (.*)
+p74
+I2
+tp75
+Rp76
+ag1
+(V(.*?) because (.*)
+p77
+I2
+tp78
+Rp79
+ag79
+ag79
+ag1
+(V(.*) strategy for (.*)
+p80
+I2
+tp81
+Rp82
+ag1
+(V(.*?) strategy (.*)
+p83
+I2
+tp84
+Rp85
+ag85
+ag1
+(V(.*) not the only reason why (.*)
+p86
+I2
+tp87
+Rp88
+ag1
+(V(.*)there (.*?) (?:reason|reasons) why (.*?) (?:,|\u005c.|\u005c:|;|--) (.*)
+p89
+I2
+tp90
+Rp91
+ag1
+(V(.*)there (.*?) (?:reason|reasons) for (.*?) (?:,|\u005c.|\u005c:|;|--) (.*)
+p92
+I2
+tp93
+Rp94
+ag1
+(V(.*) the(.*?)(?:reason|reasons) why (.*)
+p95
+I2
+tp96
+Rp97
+ag1
+(V(.*) the(.*?)(?:reason|reasons) for (.*)
+p98
+I2
+tp99
+Rp100
+ag1
+(V(.*) owing to (.*?) \u005c.
+p101
+I2
+tp102
+Rp103
+ag1
+(V(.*) a consequence of (.*)
+p104
+I2
+tp105
+Rp106
+ag1
+(V(.*) consequence of (.*)
+p107
+I2
+tp108
+Rp109
+ag1
+(V(.*) (?:result|consequence) of (.*)
+p110
+I2
+tp111
+Rp112
+ag1
+(V(.*) result of (.*)
+p113
+I2
+tp114
+Rp115
+ag1
+(V(.*)it is on account of (.*?) that (.*)
+p116
+I2
+tp117
+Rp118
+ag1
+(V(.*) there (.*?) consequence to (.*?) (?:,|\u005c.|\u005c:|;|--) (.*)
+p119
+I2
+tp120
+Rp121
+ag1
+(V(.*) on(.*?)grounds of (.*?) \u005c.
+p122
+I2
+tp123
+Rp124
+ag1
+(V(.*)on account of (.*?) , (.*)
+p125
+I2
+tp126
+Rp127
+ag1
+(V(.*) (?:,|\u005c.|;|and) (.*?) on that account
+p128
+I2
+tp129
+Rp130
+ag1
+(V(.*) with the(.*?)result that (.*)
+p131
+I2
+tp132
+Rp133
+ag1
+(V(.*) on the (?:ground|grounds) that (.*)
+p134
+I2
+tp135
+Rp136
+ag1
+(V(.*) on the ground that (.*)
+p137
+I2
+tp138
+Rp139
+ag1
+(V(.*)on (.*?) grounds(.*?), (.*)
+p140
+I2
+tp141
+Rp142
+ag1
+(V(.*) on (.*?) (?:ground|grounds) (?:,|\u005c.|\u005c:|;|--) (.*)
+p143
+I2
+tp144
+Rp145
+ag1
+(V(.*) (?:have|has|had) (.*?) (?:effect|effects|result|results) (?:,|\u005c.|\u005c:|;|--) (.*)
+p146
+I2
+tp147
+Rp148
+ag1
+(V(.*) (?:effect|effects) of (.*?) (?:is|was) (.*)
+p149
+I2
+tp150
+Rp151
+ag1
+(V(.*) on (.*?) grounds \u005c.
+p152
+I2
+tp153
+Rp154
+ag1
+(V(.*) on account of (.*)
+p155
+I2
+tp156
+Rp157
+ag1
+(V(.*) conclusion is that (.*)
+p158
+I2
+tp159
+Rp160
+ag157
+ag1
+(V(.*) on that account (.*)
+p161
+I2
+tp162
+Rp163
+ag1
+(V(.*) on (.*?) (?:ground|grounds) (.*)
+p164
+I2
+tp165
+Rp166
+ag1
+(V(.*) (?:lead|leads|led) to (.*)
+p167
+I2
+tp168
+Rp169
+ag169
+ag1
+(V(.*?) (?:concern|concerns|concerned|require|requires|required|request|requests|requested) (.*)
+p170
+I2
+tp171
+Rp172
+ag1
+(V(.*?) (?:imply|implies|implied|indicate|indicates|indicated) (.*)
+p173
+I2
+tp174
+Rp175
+ag1
+(V(.*?) (?:imply|implies|implied|mean|means|indicate|indicates|indicated) (.*)
+p176
+I2
+tp177
+Rp178
+ag1
+(V(.*?) (?:indicate|indicates|indicated|realize|realizes|realized|ensure|ensures|ensured|imply|implies|implied) (.*)
+p179
+I2
+tp180
+Rp181
+ag1
+(V(.*)
+p182
+I2
+tp183
+Rp184
+ag1
+(V(.*) as a (?:result|consequence) of (.*?) \u005c.
+p185
+I2
+tp186
+Rp187
+ag1
+(V(.*)as a (?:result|consequence) of (.*?) , (.*)
+p188
+I2
+tp189
+Rp190
+ag1
+(V(.*) (?:,|\u005c.|;|and) (.*?) as a(.*?)result
+p191
+I2
+tp192
+Rp193
+ag1
+(V(.*) (?:,|\u005c.|;|and) (.*?) as a(.*?)consequence
+p194
+I2
+tp195
+Rp196
+ag1
+(V(.*) as a(.*?)result of (.*)
+p197
+I2
+tp198
+Rp199
+ag199
+ag1
+(V(.*) as a(.*?)result (.*)
+p200
+I2
+tp201
+Rp202
+ag1
+(V(.*) as a(.*?)consequence (.*)
+p203
+I2
+tp204
+Rp205
+ag1
+(V(.*) as a(.*?)consequence(.*)
+p206
+I2
+tp207
+Rp208
+ag1
+(V(.*?) as (.*)
+p209
+I2
+tp210
+Rp211
+ag1
+(V(.*) (?:give|gives|gave) (.*?) (?:ground|grounds) for (.*?) (?:,|\u005c.|\u005c:|;|--) (.*)
+p212
+I2
+tp213
+Rp214
+ag1
+(V(.*) for the sake of (.*)
+p215
+I2
+tp216
+Rp217
+ag1
+(V(.*)for (.*?) (?:reason|reasons) (.*?) (?:\u005c.|\u005c:|;|--) (.*)
+p218
+I2
+tp219
+Rp220
+ag1
+(V(.*) for (.*?) (?:reason|reasons) (?:\u005c.|,|\u005c:|--) (.*)
+p221
+I2
+tp222
+Rp223
+ag1
+(V(.*) for (.*?) (?:reason|reasons) (?:,|\u005c.|\u005c:|;|--) (.*)
+p224
+I2
+tp225
+Rp226
+ag1
+(V(.*) for the(.*?)reason (.*)
+p227
+I2
+tp228
+Rp229
+ag1
+(V(.*) for (.*?) (?:reason|reasons) \u005c.
+p230
+I2
+tp231
+Rp232
+ag1
+(V(.*)for (?:reason|reasons) of (.*)
+p233
+I2
+tp234
+Rp235
+ag1
+(V(.*) for (?:reason|reasons) of (.*)
+p236
+I2
+tp237
+Rp238
+ag1
+(V(.*) for(.*?)(?:reason|reasons) (.*)
+p239
+I2
+tp240
+Rp241
+ag1
+(V(.*)for (.*?) reasons (.*)
+p242
+I2
+tp243
+Rp244
+ag1
+(V(.*?) for (.*)
+p245
+I2
+tp246
+Rp247
+ag1
+(V(.*) that is why (.*)
+p248
+I2
+tp249
+Rp250
+ag1
+(V(.*)why (.*?) that (.*)
+p251
+I2
+tp252
+Rp253
+ag1
+(V(.*?) why (.*)
+p254
+I2
+tp255
+Rp256
+ag1
+(V(.*) hence (.*?) \u005c.
+p257
+I2
+tp258
+Rp259
+ag1
+(V(.*?) hence (.*)
+p260
+I2
+tp261
+Rp262
+ag1
+(V(.*) reason why (.*?) that (.*)
+p263
+I2
+tp264
+Rp265
+ag1
+(V(.*) the(.*?)(?:reason|reasons) for (.*)
+p266
+I2
+tp267
+Rp268
+ag1
+(V(.*)the(.*?)(?:reason|reasons) for (.*)
+p269
+I2
+tp270
+Rp271
+ag1
+(V(.*) reason why (.*?) because (.*)
+p272
+I2
+tp273
+Rp274
+ag1
+(V(.*) by(.*?)(?:reason|reasons) of (.*)
+p275
+I2
+tp276
+Rp277
+ag1
+(V(.*)by (?:reason|reasons) of (.*)
+p278
+I2
+tp279
+Rp280
+ag1
+(V(.*) reason (.*?) (?:that|because) (.*)
+p281
+I2
+tp282
+Rp283
+ag1
+(V(.*) (?:reason|reasons) why (.*)
+p284
+I2
+tp285
+Rp286
+ag1
+(V(.*) (?:reason|reasons) for (.*)
+p287
+I2
+tp288
+Rp289
+ag1
+(V(.*) reason why (.*)
+p290
+I2
+tp291
+Rp292
+ag289
+ag286
+ag1
+(V(.*)(?:reason|reasons) for (.*)
+p293
+I2
+tp294
+Rp295
+ag1
+(V(.*?) reason (.*)
+p296
+I2
+tp297
+Rp298
+ag1
+(V(.*)(?:if|once) (.*?) , (.*)
+p299
+I2
+tp300
+Rp301
+ag1
+(V(.*)if (.*?) then (.*)
+p302
+I2
+tp303
+Rp304
+ag1
+(V(.*?) if (.*)
+p305
+I2
+tp306
+Rp307
+ag1
+(V(.*?) (?:enable|enables|enabled) (.*)
+p308
+I2
+tp309
+Rp310
+ag1
+(V(.*?) enables (.*)
+p311
+I2
+tp312
+Rp313
+ag1
+(V(.*)due to the fact that (.*?) , (.*)
+p314
+I2
+tp315
+Rp316
+ag1
+(V(.*)it is(.*?)due to (.*?) that (.*)
+p317
+I2
+tp318
+Rp319
+ag1
+(V(.*) due to the fact that (.*)
+p320
+I2
+tp321
+Rp322
+ag1
+(V(.*) due to (.*)
+p323
+I2
+tp324
+Rp325
+ag325
+ag325
+ag1
+(V(.*)due to (.*)
+p326
+I2
+tp327
+Rp328
+ag325
+ag1
+(V(.*) it is(.*?)in consequence of (.*?) that (.*)
+p329
+I2
+tp330
+Rp331
+ag1
+(V(.*) (?:,|\u005c.|;|and) (.*?) in consequence
+p332
+I2
+tp333
+Rp334
+ag1
+(V(.*) (?:,|\u005c.|;|and) (.*?) in consequence(.*)
+p335
+I2
+tp336
+Rp337
+ag1
+(V(.*) in consequence of (.*)
+p338
+I2
+tp339
+Rp340
+ag340
+ag1
+(V(.*)in consequence of (.*)
+p341
+I2
+tp342
+Rp343
+ag1
+(V(.*) in consequence (.*)
+p344
+I2
+tp345
+Rp346
+ag1
+(V(.*)owing to (.*?) , (.*)
+p347
+I2
+tp348
+Rp349
+ag1
+(V(.*) owing to (.*)
+p350
+I2
+tp351
+Rp352
+ag352
+ag352
+ag1
+(V(.*)owing to (.*)
+p353
+I2
+tp354
+Rp355
+ag1
+(V(.*)based on (.*?) , (.*)
+p356
+I2
+tp357
+Rp358
+ag1
+(V(.*) based on (.*)
+p359
+I2
+tp360
+Rp361
+ag361
+ag361
+ag1
+(V(.*)according to (.*?) , (.*)
+p362
+I2
+tp363
+Rp364
+ag1
+(V(.*) according to (.*)
+p365
+I2
+tp366
+Rp367
+ag1
+(V(.*?)(?:by|through) (.*)
+p368
+I2
+tp369
+Rp370
+ag1
+(V(.*?) (?:by|through) (.*)
+p371
+I2
+tp372
+Rp373
+a.
