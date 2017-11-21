@@ -1,0 +1,284 @@
+************************************************************
+f0014: Cause-Effect links
+************************************************************
+
+CASE: 1
+Stag: 1 
+	Pattern: 14 [['if']]---- [['&R@Complete@'], ['&C@Complete@']]
+	sentTXT: We call a problem well-defined if there is a test which can be applied to a proposed solution .
+	Cause: there is a test which can be applied to a proposed solution .
+	Effect: We call a problem well-defined
+
+CASE: 2
+Stag: 3 
+	Pattern: 15 [[['if', 'once']], [',']]---- [[], ['&C@Complete@'], ['&R@Complete@']]
+	sentTXT: If the proposed solution is not correct , we may either require that the test indicate this in a finite number of steps or else allow it to go on indefinitely .
+	Cause: the proposed solution is not correct
+	Effect: we may either require that the test indicate this in a finite number of steps or else allow it to go on indefinitely .
+
+CASE: 3
+Stag: 4 
+	Pattern: 78 [['since'], [',']]---- [[], ['&C@NCTime@'], ['&R@NCTime@']]
+	sentTXT: Since any test may be regarded as being performed by a Turing machine , this means that welldefined intellectual problems may be regarded as those of inverting functions and partial functions defined by Turing machines .
+	Cause: any test may be regarded as being performed by a Turing machine
+	Effect: this means that welldefined intellectual problems may be regarded as those of inverting functions and partial functions defined by Turing machines .
+
+CASE: 4
+Stag: 6 
+	Pattern: 14 [['if']]---- [['&R@Complete@'], ['&C@Complete@']]
+	sentTXT: It is not defined for a given value of n if the computation does not come to an end .
+	Cause: the computation does not come to an end .
+	Effect: It is not defined for a given value of n
+
+CASE: 5
+Stag: 9 
+	Pattern: 14 [['if']]---- [['&R@Complete@'], ['&C@Complete@']]
+	sentTXT: In fact , it has been shown that the existence of g -LRB- m , r -RRB- is an undecidable question in that there does not exist a Turing machine which will eventually come to a stop and print a 1 if g -LRB- m , r -RRB- does not exist .
+	Cause: g -LRB- m , r -RRB- does not exist .
+	Effect: In fact , it has been shown that the existence of g -LRB- m , r -RRB- is an undecidable question in that there does not exist a Turing machine which will eventually come to a stop and print a 1
+
+CASE: 6
+Stag: 10 
+	Pattern: 14 [['if']]---- [['&R@Complete@'], ['&C@Complete@']]
+	sentTXT: In spite of this , it is easy to show that a Turing machine exists which will compute a g -LRB- m , r -RRB- if such exists .
+	Cause: such exists .
+	Effect: In spite of this , it is easy to show that a Turing machine exists which will compute a g -LRB- m , r -RRB-
+
+CASE: 7
+Stag: 11 12 
+	Pattern: 1 [['therefore']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(,)', '&R']]
+	sentTXT: Essentially , it substitutes integers in fm -LRB- n -RRB- until it comes to one such that fm -LRB- n -RRB- = r. It will therefore find g -LRB- m , r -RRB- if it exists , but will never know enough to give up if g -LRB- m , r -RRB- does not exist .
+	Cause: , it substitutes integers in fm -LRB- n -RRB- until it comes to one such that fm -LRB- n -RRB- = r. It will
+	Effect: find g -LRB- m , r -RRB- if it exists , but will never know enough to give up if g -LRB- m , r -RRB- does not exist .
+
+CASE: 8
+Stag: 13 
+	Pattern: 78 [['since'], [',']]---- [[], ['&C@NCTime@'], ['&R@NCTime@']]
+	sentTXT: Since the computation of fm -LRB- n -RRB- may not terminate for some n , it is necessary to avoid getting stuck on such n 's .
+	Cause: the computation of fm -LRB- n -RRB- may not terminate for some n
+	Effect: it is necessary to avoid getting stuck on such n 's .
+
+CASE: 9
+Stag: 13 14 
+	Pattern: 4 [['hence']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(,)', '&R']]
+	sentTXT: Since the computation of fm -LRB- n -RRB- may not terminate for some n , it is necessary to avoid getting stuck on such n 's . Hence the machine calculates the numbers fmk -LRB- n -RRB- in some order where fmk -LRB- n -RRB- is fm -LRB- n -RRB- if the computation of fm -LRB- n -RRB- ends after k steps and is otherwise undefined .
+	Cause: Since the computation of fm -LRB- n -RRB- may not terminate for some n , it is necessary to avoid getting stuck on such n 's
+	Effect: the machine calculates the numbers fmk -LRB- n -RRB- in some order where fmk -LRB- n -RRB- is fm -LRB- n -RRB- if the computation of fm -LRB- n -RRB- ends after k steps and is otherwise undefined .
+
+CASE: 10
+Stag: 15 
+	Pattern: 76 [['because']]---- [['&R', '(,)', '(&ADV)'], ['&C']]
+	sentTXT: Our problem does not end once we have found this procedure for computing g -LRB- m , r -RRB- because this procedure is extremely inefficient .
+	Cause: this procedure is extremely inefficient .
+	Effect: Our problem does not end once we have found this procedure for computing g -LRB- m , r -RRB-
+
+CASE: 11
+Stag: 16 
+	Pattern: 68 [[['by', 'through']]]---- [['&R@Complete@'], ['&V-ing@C@']]
+	sentTXT: It corresponds to looking for a proof of a conjecture by checking in some order all possible English essays .
+	Cause: checking in some order all possible English essays
+	Effect: It corresponds to looking for a proof of a conjecture
+
+CASE: 12
+Stag: 19 
+	Pattern: 15 [[['if', 'once']], [',']]---- [[], ['&C@Complete@'], ['&R@Complete@']]
+	sentTXT: The most obvious idea is to say that if T1 and T2 are two Turing machines each computing a g -LRB- m , r -RRB- , then for a particular m and r the more efficient one is the one which carries out the computation in the fewest steps .
+	Cause: T1 and T2 are two Turing machines each computing a g -LRB- m
+	Effect: r -RRB- , then for a particular m and r the more efficient one is the one which carries out the computation in the fewest steps .
+
+CASE: 13
+Stag: 20 
+	Pattern: 79 [['since']]---- [['&R@NCTime@', '(,)'], ['&C@NCTime@']]
+	sentTXT: However , this wo n't do since for any Turing machine there is another one which does k steps of the original machine in one step .
+	Cause: for any Turing machine there is another one which does k steps of the original machine in one step .
+	Effect: However , this wo n't do
+
+CASE: 14
+Stag: 22 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: It is probably also possible to increase the speed by increasing the number of internal states , though this is not so easy to show .
+	Cause: It is probably also possible to increase the speed by increasing the number of internal states , though this is not
+	Effect: easy to show .
+
+CASE: 15
+Stag: 22 
+	Pattern: 67 [[['by', 'through']]]---- [[], ['&V-ing@C@', '&R']]
+	sentTXT: It is probably also possible to increase the speed by increasing the number of internal states , though this is not
+	Cause: increasing the number of internal states
+	Effect: , though this is not
+
+CASE: 16
+Stag: 23 24 
+	Pattern: 4 [['hence']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(,)', '&R']]
+	sentTXT: -LRB- Shannon shows elsewhere in these studies that it is possible to reduce the number of internal states to two at the cost of increasing the number of symbols and reducing the speed . Hence we offer the following revised definition of the length of a computation performed by a Turing machine .
+	Cause: -LRB- Shannon shows elsewhere in these studies that it is possible to reduce the number of internal states to two at the cost of increasing the number of symbols and reducing the speed
+	Effect: we offer the following revised definition of the length of a computation performed by a Turing machine .
+
+CASE: 17
+Stag: 27 
+	Pattern: 49 [['hence'], ['.']]---- [['&C', '(,)', '(&AND)'], ['&NP@R@', '(&Clause@R@)']]
+	sentTXT: There are certain difficulties here connected with the fact that the rate of computation is limited if the tape of the universal machine is finite dimensional , and hence the rate should probably be defined with respect to a machine whose tape is infinite dimensional but each square of which has at most two states and which has only two internal states .
+	Cause: There are certain difficulties here connected with the fact that the rate of computation is limited if the tape of the universal machine is finite dimensional
+	Effect: the rate should probably be defined with respect to a machine whose tape is infinite dimensional but each square of which has at most two states and which has only two internal states
+
+CASE: 18
+Stag: 27 
+	Pattern: 14 [['if']]---- [['&R@Complete@'], ['&C@Complete@']]
+	sentTXT: There are certain difficulties here connected with the fact that the rate of computation is limited if the tape of the universal machine is finite dimensional
+	Cause: the tape of the universal machine is finite dimensional
+	Effect: There are certain difficulties here connected with the fact that the rate of computation is limited
+
+CASE: 19
+Stag: 27 28 
+	Pattern: 90 [[['concern', 'concerns', 'concerned', 'require', 'requires', 'required', 'request', 'requests', 'requested']]]---- [['&R', '(,/./;/--)', '&this', '(&adj)', '(&N)', '(&CAN/have/has/had)', '(&ADV)'], ['(about)', '&V-ing/&NP@C@']]
+	sentTXT: There are certain difficulties here connected with the fact that the rate of computation is limited if the tape of the universal machine is finite dimensional , and hence the rate should probably be defined with respect to a machine whose tape is infinite dimensional but each square of which has at most two states and which has only two internal states . This requires a mild generalization of the concept of Turing machines .
+	Cause: a mild generalization of the concept of Turing machines
+	Effect: There are certain difficulties here connected with the fact that the rate of computation is limited if the tape of the universal machine is finite dimensional , and hence the rate should probably be defined with respect to a machine whose tape is infinite dimensional but each square of which has at most two states and which has only two internal states
+
+CASE: 20
+Stag: 32 
+	Pattern: 80 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem/-regard/-regards/-regarded/-view/-views/-viewed/-denote/-denoted/-denotes)'], ['(-if/-follow/-follows/-&adv)', '&C@Complete@']]
+	sentTXT: It will be made at least plausible that a machine with Q internal states and S symbols should be considered as making about -LRB- 1/2 -RRB- log -LRB- QS -RRB- elementary steps per step of computation and hence the number of steps in a computation should be multiplied by this factor to get the length of the computation .
+	Cause: making about -LRB- 1/2 -RRB- log -LRB- QS -RRB- elementary steps per step of computation and hence the number of steps in a computation should be multiplied by this factor to get the length of the computation .
+	Effect: It will be made at least plausible that a machine with Q internal states and S symbols should be considered
+
+CASE: 21
+Stag: 32 
+	Pattern: 81 []---- [['&V-ing@C@', '(,)', '&R@Complete@']]
+	sentTXT: making about -LRB- 1/2 -RRB- log -LRB- QS -RRB- elementary steps per step of computation and hence the number of steps in a computation should be multiplied by this factor to get the length of the computation .
+	Cause: making about -LRB- 1/2 -RRB- log -LRB- QS -RRB- elementary steps per step of computation
+	Effect: and hence the number of steps in a computation should be multiplied by this factor to get the length of the computation .
+
+CASE: 22
+Stag: 33 
+	Pattern: 81 []---- [['&V-ing@C@', '(,)', '&R@Complete@']]
+	sentTXT: Having now an idea of what should be meant by the length L -LRB- m , r , T -RRB- of a particular computation of g -LRB- m , r -RRB- by the machine T , we can return to the question of comparing two Turing machines .
+	Cause: Having now an idea of what should be meant by the length L -LRB- m , r , T -RRB- of a particular computation of g -LRB- m , r -RRB- by the machine T
+	Effect: we can return to the question of comparing two Turing machines .
+
+CASE: 23
+Stag: 36 
+	Pattern: 44 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: Any machine can be modified into such a machine by adding to it facilities for testing a conclusion and having it spend a small fraction of its time trying the integers in order -RRB- .
+	Cause: testing a conclusion and having it spend a small fraction of its time trying the integers
+	Effect: Any machine can be modified into such a machine by adding to it facilities
+
+CASE: 24
+Stag: 37 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: However , it is not so easy to give a function which gives an over-all estimate of the efficiency of a machine at computing g -LRB- m , r -RRB- .
+	Cause: However , it is not
+	Effect: easy to give a function which gives an over-all estimate of the efficiency of a machine at computing g -LRB- m , r -RRB- .
+
+CASE: 25
+Stag: 38 
+	Pattern: 76 [['because']]---- [['&R', '(,)', '(&ADV)'], ['&C']]
+	sentTXT: The idea of assigning a weight function p -LRB- m , r -RRB- and then calculating SUM _ -LRB- m , r -RRB- -LRB- p -LRB- m , r -RRB- L -LRB- m , r , T -RRB- -RRB- does not work very well because L -LRB- m , r , T -RRB- is not bounded by any recursive function of m and r.
+	Cause: L -LRB- m , r , T -RRB- is not bounded by any recursive function of m and r.
+	Effect: The idea of assigning a weight function p -LRB- m , r -RRB- and then calculating SUM _ -LRB- m , r -RRB- -LRB- p -LRB- m , r -RRB- L -LRB- m , r , T -RRB- -RRB- does not work very well
+
+CASE: 26
+Stag: 39 
+	Pattern: 44 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: -LRB- Otherwise , a machine could be described for determining whether the computation of fm -LRB- n -RRB- terminates .
+	Cause: determining whether the computation of fm -LRB- n -RRB- terminates
+	Effect: -LRB- Otherwise , a machine could be described
+
+CASE: 27
+Stag: 40 
+	Pattern: 14 [['if']]---- [['&R@Complete@'], ['&C@Complete@']]
+	sentTXT: It would simply carry out some k -LRB- m , n -RRB- steps and conclude that if the computation had not terminated by this time it was not going to .
+	Cause: the computation had not terminated by this time it was not going to .
+	Effect: It would simply carry out some k -LRB- m , n -RRB- steps and conclude that
+
+CASE: 28
+Stag: 41 
+	Pattern: 75 [['because'], [',']]---- [[], ['&C'], ['&R']]
+	sentTXT: There can not be any machine which is as fast as any other machine on any problem because there are rather simple machines whose only procedure is to guess a constant which are fast when g -LRB- m , r -RRB- happens to equal that constant .
+	Cause: there are rather simple machines whose only procedure is to guess a constant which are fast when g -LRB- m
+	Effect: r -RRB- happens to equal that constant .
+
+CASE: 29
+Stag: 45 46 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: Systems much simpler than Turing machine theory have been shown to have unsolvable decision procedures . So , we look for a way of evading these difficulties .
+	Cause: Systems much simpler than Turing machine theory have been shown to have unsolvable decision procedures
+	Effect: we look for a way of evading these difficulties .
+
+CASE: 30
+Stag: 50 
+	Pattern: 47 [['based', 'on'], [',']]---- [[], ['&V-ing/&NP@C@', '(&Clause@C@)'], ['&R']]
+	sentTXT: This is based on the plausible idea that , in searching for the solution to a problem , the given data should be taken into account .
+	Cause: the plausible idea that
+	Effect: in searching for the solution to a problem , the given data should be taken into
+
+CASE: 31
+Stag: 53 
+	Pattern: 47 [['based', 'on'], [',']]---- [[], ['&V-ing/&NP@C@', '(&Clause@C@)'], ['&R']]
+	sentTXT: This is based on the idea that the best procedure is more likely to be recursively simple , rather than merely to have a low number in the ordering .
+	Cause: the idea that the best procedure is more likely to be recursively simple
+	Effect: rather than merely to have a low number in the ordering .
+
+CASE: 32
+Stag: 62 
+	Pattern: 68 [[['by', 'through']]]---- [['&R@Complete@'], ['&V-ing@C@']]
+	sentTXT: Of course , exhaustiveness in examining for usefulness can be attained for any effectively enumerable class of objects simply by going through the enumeration .
+	Cause: going through the enumeration
+	Effect: Of course , exhaustiveness in examining for usefulness can be attained for any effectively enumerable class of objects simply
+
+CASE: 33
+Stag: 68 
+	Pattern: 44 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: In order to get around the fact that all formal systems which are anywhere near adequate for describing recursive function theory are incomplete , we avoid restriction to any one of them by introducing the notion of a formal theory -LRB- not for the first time , of course .
+	Cause: describing recursive function theory
+	Effect: In order to get around the fact that all formal systems which are anywhere near adequate
+
+CASE: 34
+Stag: 77 
+	Pattern: 15 [[['if', 'once']], [',']]---- [[], ['&C@Complete@'], ['&R@Complete@']]
+	sentTXT: An action scheme is a computation rule which computes from a status function -LRB- its Godel number -RRB- a new status function , perhaps gives an estimate of g -LRB- m , r -RRB- if it has determined this , and computes a new action scheme .
+	Cause: it has determined this
+	Effect: and computes a new action scheme .
+
+CASE: 35
+Stag: 82 83 
+	Pattern: 2 [['thus']]---- [['&C', '(,/;/./--)', '(&AND)'], ['&R']]
+	sentTXT: The reader should note that a formal equivalence could probably be established between formal theories and certain action schemes . Thus , knowledge can be interpreted as a predisposition to act in certain ways under given conditions , and an action scheme can be interpreted as a belief that certain action is appropriate under these conditions .
+	Cause: The reader should note that a formal equivalence could probably be established between formal theories and certain action schemes
+	Effect: , knowledge can be interpreted as a predisposition to act in certain ways under given conditions , and an action scheme can be interpreted as a belief that certain action is appropriate under these conditions .
+
+CASE: 36
+Stag: 84 
+	Pattern: 75 [['because'], [',']]---- [[], ['&C'], ['&R']]
+	sentTXT: This equivalence should not be made because a simple theory may have a very complicated interpretation as an action scheme and conversely , and in this inversion problem the simplicity of an object is one of its most important properties .
+	Cause: a simple theory may have a very complicated interpretation as an action scheme and conversely
+	Effect: and in this inversion problem the simplicity of an object is one of its most important properties .
+
+CASE: 37
+Stag: 91 
+	Pattern: 77 [['so', 'that']]---- [['&C'], ['&R']]
+	sentTXT: The point is to do this so that the procedures we offer are general -LRB- will eventually solve every solvable problem -RRB- and also are improvable by the methods built into the machine .
+	Cause: The point is to do this
+	Effect: the procedures we offer are general -LRB- will eventually solve every solvable problem -RRB- and also are improvable by the methods built into the machine .
+
+CASE: 38
+Stag: 94 
+	Pattern: 15 [[['if', 'once']], [',']]---- [[], ['&C@Complete@'], ['&R@Complete@']]
+	sentTXT: However , if the machine were working well , an observer of its internal mechanism might come to the conclusion that a certain statement of a theory is being used as though it were , say -LRB- x -RRB- fm -LRB- x -RRB- = 0 , etc. .
+	Cause: the machine were working well
+	Effect: an observer of its internal mechanism might come to the conclusion that a certain statement of a theory is being used as though it were , say -LRB- x -RRB- fm -LRB- x -RRB- = 0 , etc. .
+
+CASE: 39
+Stag: 97 
+	Pattern: 80 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem/-regard/-regards/-regarded/-view/-views/-viewed/-denote/-denoted/-denotes)'], ['(-if/-follow/-follows/-&adv)', '&C@Complete@']]
+	sentTXT: The relation of certain action schemes to certain theories might warrant our regarding certain statements in them as being normative , i.e. , of the form `` the next axiom scheme should be no .
+	Cause: being normative , i.e. , of the form `` the next axiom scheme should be no .
+	Effect: The relation of certain action schemes to certain theories might warrant our regarding certain statements in them
+
+CASE: 40
+Stag: 101 
+	Pattern: 15 [[['if', 'once']], [',']]---- [[], ['&C@Complete@'], ['&R@Complete@']]
+	sentTXT: In particular , if there exist more or less satisfactory answers with no way of deciding whether an answer already obtained can be improved on a reasonable time , the problem is not well-defined .
+	Cause: there exist more or less satisfactory answers with no way of deciding whether an answer already obtained can be improved on a reasonable time
+	Effect: the problem is not well-defined .
+

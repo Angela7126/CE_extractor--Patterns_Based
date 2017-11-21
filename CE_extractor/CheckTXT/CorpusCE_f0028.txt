@@ -1,0 +1,354 @@
+************************************************************
+f0028: Cause-Effect links
+************************************************************
+
+CASE: 1
+Stag: 0 
+	Pattern: 90 [[['concern', 'concerns', 'concerned', 'require', 'requires', 'required', 'request', 'requests', 'requested']]]---- [['&R', '(,/./;/--)', '&this', '(&adj)', '(&N)', '(&CAN/have/has/had)', '(&ADV)'], ['(about)', '&V-ing/&NP@C@']]
+	sentTXT: Scientific instruments and computer simulations are creating vast data stores that require new scientific methods to analyze and organize the data .
+	Cause: new scientific methods
+	Effect: Scientific instruments and computer simulations are creating vast data stores
+
+CASE: 2
+Stag: 2 
+	Pattern: 78 [['since'], [',']]---- [[], ['&C@NCTime@'], ['&R@NCTime@']]
+	sentTXT: Since these new instruments have extraordinary precision , the data quality is also rapidly improving .
+	Cause: these new instruments have extraordinary precision
+	Effect: the data quality is also rapidly improving .
+
+CASE: 3
+Stag: 3 
+	Pattern: 81 []---- [['&V-ing@C@', '(,)', '&R@Complete@']]
+	sentTXT: Analyzing this data to find the subtle effects missed by previous studies requires algorithms that can simultaneously deal with huge datasets and that can find very subtle effects -- finding both needles in the haystack and finding very small haystacks that were undetected in previous measurements .
+	Cause: Analyzing this data to find the subtle effects missed by previous studies
+	Effect: requires algorithms that can simultaneously deal with huge datasets and that can find very subtle effects -- finding both needles in the haystack and finding very small haystacks that were undetected in previous measurements .
+
+CASE: 4
+Stag: 7 8 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: We believe that most new science happens when the data is examined in new ways . So our focus here is on data exploration , interactive data analysis , and integration of Level 2 datasets .
+	Cause: We believe that most new science happens when the data is examined in new ways
+	Effect: our focus here is on data exploration , interactive data analysis , and integration of Level 2 datasets .
+
+CASE: 5
+Stag: 20 
+	Pattern: 85 [['a', 'consequence', 'of']]---- [['&NP@R@', '(&CAN/have/has/had)', '(&ADV)', '&BE/&V', '(as/for)'], ['&NP@C@', '(&Clause@C@)']]
+	sentTXT: This is a consequence of three phenomena :
+	Cause: three phenomena
+	Effect: This
+
+CASE: 6
+Stag: 27 28 
+	Pattern: 90 [[['concern', 'concerns', 'concerned', 'require', 'requires', 'required', 'request', 'requests', 'requested']]]---- [['&R', '(,/./;/--)', '&this', '(&adj)', '(&N)', '(&CAN/have/has/had)', '(&ADV)'], ['(about)', '&V-ing/&NP@C@']]
+	sentTXT: To ameliorate these problems , scientists will need better analysis algorithms that can handle extremely large datasets with approximate algorithms -LRB- ones with near-linear execution time -RRB- and they will need parallel algorithms that can apply many processors and many disks to the problem to meet cpu-density and bandwidth-density demands . These peta-scale datasets required a new work style .
+	Cause: a new work style
+	Effect: To ameliorate these problems , scientists will need better analysis algorithms that can handle extremely large datasets with approximate algorithms -LRB- ones with near-linear execution time -RRB- and they will need parallel algorithms that can apply many processors and many disks to the problem to meet cpu-density and bandwidth-density demands
+
+CASE: 7
+Stag: 30 
+	Pattern: 82 [['so'], ['that']]---- [['&C'], ['&adj/&adv@C@'], ['&R']]
+	sentTXT: Increasingly , the datasets are so large , and the application programs are so complex , that it is much more economical to move the end-user 's programs to the data and only communicate questions and answers rather than moving the source data and its applications to the user 's local system .
+	Cause: Increasingly , the datasets are so large , and the application programs are so complex
+	Effect: it is much more economical to move the end-user 's programs to the data and only communicate questions and answers rather than moving the source data and its applications to the user 's local system .
+
+CASE: 8
+Stag: 30 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: Increasingly , the datasets are so large , and the application programs are so complex
+	Cause: Increasingly , the datasets are
+	Effect: large , and the application programs are so complex
+
+CASE: 9
+Stag: 42 
+	Pattern: 76 [['because']]---- [['&R', '(,)', '(&ADV)'], ['&C']]
+	sentTXT: Many scientists will prefer doing much of their analysis at data centers because it will save them having to manage local data and computer farms .
+	Cause: it will save them having to manage local data and computer farms .
+	Effect: Many scientists will prefer doing much of their analysis at data centers
+
+CASE: 10
+Stag: 45 
+	Pattern: 79 [['since']]---- [['&R@NCTime@', '(,)'], ['&C@NCTime@']]
+	sentTXT: If this is common , the two data centers will likely federate with one another to provide mutual data backup since the data traffic will justify making the copy .
+	Cause: the data traffic will justify making the copy .
+	Effect: If this is common , the two data centers will likely federate with one another to provide mutual data backup
+
+CASE: 11
+Stag: 45 
+	Pattern: 15 [[['if', 'once']], [',']]---- [[], ['&C@Complete@'], ['&R@Complete@']]
+	sentTXT: If this is common , the two data centers will likely federate with one another to provide mutual data backup
+	Cause: this is common
+	Effect: the two data centers will likely federate with one another to provide mutual data backup
+
+CASE: 12
+Stag: 54 
+	Pattern: 80 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem/-regard/-regards/-regarded/-view/-views/-viewed/-denote/-denoted/-denotes)'], ['(-if/-follow/-follows/-&adv)', '&C@Complete@']]
+	sentTXT: Failed data can be automatically recovered from the redundant copies with no interruption to database access , much as RAID5 disk arrays do today .
+	Cause: RAID5 disk arrays do today .
+	Effect: Failed data can be automatically recovered from the redundant copies with no interruption to database access , much
+
+CASE: 13
+Stag: 61 
+	Pattern: 15 [[['if', 'once']], [',']]---- [[], ['&C@Complete@'], ['&R@Complete@']]
+	sentTXT: If the data is to be analyzed by generic tools , the tools need to `` understand '' the data .
+	Cause: the data is to be analyzed by generic tools
+	Effect: the tools need to `` understand '' the data .
+
+CASE: 14
+Stag: 65 
+	Pattern: 15 [[['if', 'once']], [',']]---- [[], ['&C@Complete@'], ['&R@Complete@']]
+	sentTXT: If I tell you it is a JPEG , you know it is a bitmap in http://www.jpeg.org/ format .
+	Cause: I tell you it is a JPEG
+	Effect: you know it is a bitmap in http://www.jpeg.org/ format .
+
+CASE: 15
+Stag: 69 
+	Pattern: 15 [[['if', 'once']], [',']]---- [[], ['&C@Complete@'], ['&R@Complete@']]
+	sentTXT: If scientists are to read data collected by others , then the data must be carefully documented and must be published in forms that allow easy access and automated manipulation .
+	Cause: scientists are to read data collected by others
+	Effect: then the data must be carefully documented and must be published in forms that allow easy access and automated manipulation .
+
+CASE: 16
+Stag: 73 
+	Pattern: 81 []---- [['&V-ing@C@', '(,)', '&R@Complete@']]
+	sentTXT: Preserving and augmenting this metadata as part of the processing -LRB- data lineage -RRB- will be a key benefit of the next-generation tools .
+	Cause: Preserving and augmenting this metadata as part of the processing
+	Effect: -LRB- data lineage -RRB- will be a key benefit of the next-generation tools .
+
+CASE: 17
+Stag: 75 
+	Pattern: 80 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem/-regard/-regards/-regarded/-view/-views/-viewed/-denote/-denoted/-denotes)'], ['(-if/-follow/-follows/-&adv)', '&C@Complete@']]
+	sentTXT: Ideally much of this metadata would be automatically generated and managed as part of the workflow , reducing the scientist 's intellectual burden .
+	Cause: part of the workflow , reducing the scientist 's intellectual burden .
+	Effect: much of this metadata would be automatically generated and managed
+
+CASE: 18
+Stag: 78 
+	Pattern: 68 [[['by', 'through']]]---- [['&R@Complete@'], ['&V-ing@C@']]
+	sentTXT: These data models can also represent data lineage and other metadata by including narrative text , data definitions , and data tables within the file .
+	Cause: including narrative text , data definitions , and data tables within the file
+	Effect: These data models can also represent data lineage and other metadata
+
+CASE: 19
+Stag: 91 
+	Pattern: 79 [['since']]---- [['&R@NCTime@', '(,)'], ['&C@NCTime@']]
+	sentTXT: This will greatly facilitate tool-building and tools since an agreement on these concepts can help guide analysis tool designs .
+	Cause: an agreement on these concepts can help guide analysis tool designs .
+	Effect: This will greatly facilitate tool-building and tools
+
+CASE: 20
+Stag: 101 102 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: The separation of data and programs is artificial -- one can not see the data without using a program and most programs are data driven . So , it is paradoxical that the data management community has worked for 40 years to achieve something called data independence -- a clear separation of programs from data .
+	Cause: The separation of data and programs is artificial -- one can not see the data without using a program and most programs are data driven
+	Effect: it is paradoxical that the data management community has worked for 40 years to achieve something called data independence -- a clear separation of programs from data .
+
+CASE: 21
+Stag: 112 
+	Pattern: 67 [[['by', 'through']]]---- [[], ['&V-ing@C@', '&R']]
+	sentTXT: By allowing such techniques , physical data independence allows performance improvements by reorganizing data for parallelism -- at little or no extra effort on the part of scientists .
+	Cause: allowing such techniques
+	Effect: , physical data independence allows performance improvements by reorganizing data for parallelism -- at little or no extra effort on the part of scientists .
+
+CASE: 22
+Stag: 112 
+	Pattern: 68 [[['by', 'through']]]---- [['&R@Complete@'], ['&V-ing@C@']]
+	sentTXT: , physical data independence allows performance improvements by reorganizing data for parallelism -- at little or no extra effort on the part of scientists .
+	Cause: reorganizing data for parallelism -- at little or no extra effort on the part of scientists
+	Effect: physical data independence allows performance improvements
+
+CASE: 23
+Stag: 117 
+	Pattern: 67 [[['by', 'through']]]---- [[], ['&V-ing@C@', '&R']]
+	sentTXT: Views serve many purposes including increased security -LRB- by hiding attributes from applications and/or users without a legitimate need for access -RRB- and enhanced performance -LRB- by materializing views defined by complex SQL queries over very large input tables -RRB- .
+	Cause: hiding attributes from applications and/or users without a legitimate need for access
+	Effect: -RRB- and enhanced performance -LRB- by materializing views defined by complex SQL queries over very large input
+
+CASE: 24
+Stag: 118 
+	Pattern: 80 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem/-regard/-regards/-regarded/-view/-views/-viewed/-denote/-denoted/-denotes)'], ['(-if/-follow/-follows/-&adv)', '&C@Complete@']]
+	sentTXT: But views are primarily used to allow old programs to operate correctly even as the underlying database is reorganized and redesigned .
+	Cause: the underlying database is reorganized and redesigned .
+	Effect: But views are primarily used to allow old programs to operate correctly even
+
+CASE: 25
+Stag: 119 
+	Pattern: 68 [[['by', 'through']]]---- [['&R@Complete@'], ['&V-ing@C@']]
+	sentTXT: For example , consider a program whose correct operation depends on some table T that a database administrator wants to reorganize by dividing vertically into two pieces stored in tables T ' and T '' .
+	Cause: dividing vertically into two pieces stored in tables T ' and T
+	Effect: example , consider a program whose correct operation depends on some table T that a database administrator wants to reorganize
+
+CASE: 26
+Stag: 124 
+	Pattern: 68 [[['by', 'through']]]---- [['&R@Complete@'], ['&V-ing@C@']]
+	sentTXT: Views are used to solve these problems by dynamically translating data to the appropriate formats -LRB- converting among character and number representations , converting among 6-digit and 9-digit postal codes , converting between long-and-short names , and hiding new information from old programs .
+	Cause: dynamically translating data to the appropriate formats -LRB- converting among character and number representations , converting among 6-digit and 9-digit postal codes , converting between long-and-short names , and hiding new information from old programs
+	Effect: Views are used to solve these problems
+
+CASE: 27
+Stag: 131 132 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: Data classes encapsulated with methods provide data independence and make it much easier to evolve the data without perturbing programs . So , these ideas are still evolving .
+	Cause: Data classes encapsulated with methods provide data independence and make it much easier to evolve the data without perturbing programs
+	Effect: these ideas are still evolving .
+
+CASE: 28
+Stag: 133 134 
+	Pattern: 80 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem/-regard/-regards/-regarded/-view/-views/-viewed/-denote/-denoted/-denotes)'], ['(-if/-follow/-follows/-&adv)', '&C@Complete@']]
+	sentTXT: But the key point of this section is that an explicit and standard data access layer with precise metadata and explicit data access is essential for data independence . As mentioned earlier , scientists often start with numeric data arrays from their instruments or simulations .
+	Cause: mentioned earlier , scientists often start with numeric data arrays from their instruments or simulations .
+	Effect: But the key point of this section is that an explicit and standard data access layer with precise metadata and explicit data access is essential for data independence .
+
+CASE: 29
+Stag: 141 
+	Pattern: 44 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: The scientific file-formats of HDF , NetCDF , and FITS can represent tabular data but they provide minimal tools for searching and analyzing tabular data .
+	Cause: searching and analyzing tabular data
+	Effect: The scientific file-formats of HDF , NetCDF , and FITS can represent tabular data but they provide minimal tools
+
+CASE: 30
+Stag: 146 147 
+	Pattern: 80 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem/-regard/-regards/-regarded/-view/-views/-viewed/-denote/-denoted/-denotes)'], ['(-if/-follow/-follows/-&adv)', '&C@Complete@']]
+	sentTXT: The directories relate all data from some instrument or some month or some region or some laboratory . As things evolve , the directories become hierarchical .
+	Cause: things evolve , the directories become hierarchical .
+	Effect: The directories relate all data from some instrument or some month or some region or some laboratory .
+
+CASE: 31
+Stag: 148 
+	Pattern: 68 [[['by', 'through']]]---- [['&R@Complete@'], ['&V-ing@C@']]
+	sentTXT: In this model , data analysis proceeds by searching all the relevant files -- opening each file , extracting the relevant data and then moving onto the next file .
+	Cause: searching all the relevant files -- opening each file , extracting the relevant data and then moving onto the next file
+	Effect: In this model , data analysis proceeds
+
+CASE: 32
+Stag: 150 
+	Pattern: 81 []---- [['&V-ing@C@', '(,)', '&R@Complete@']]
+	sentTXT: Performing this filter-then-analyze , data analysis on large datasets with conventional procedural tools runs slower and slower as data volumes increase .
+	Cause: Performing this filter-then-analyze
+	Effect: data analysis on large datasets with conventional procedural tools runs slower and slower as data volumes increase .
+
+CASE: 33
+Stag: 157 158 
+	Pattern: 80 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem/-regard/-regards/-regarded/-view/-views/-viewed/-denote/-denoted/-denotes)'], ['(-if/-follow/-follows/-&adv)', '&C@Complete@']]
+	sentTXT: MPI itself lacks any notion of metadata beyond file names . As file systems grow to petabyte-scale archives with billions of files , the science community must create a synthesis of database systems and file systems .
+	Cause: file systems grow to petabyte-scale archives with billions of files , the science community must create a synthesis of database systems and file systems .
+	Effect: MPI itself lacks any notion of metadata beyond file names .
+
+CASE: 34
+Stag: 173 
+	Pattern: 77 [['so', 'that']]---- [['&C'], ['&R']]
+	sentTXT: They routinely allow the data to be replicated so that it can be organized in several ways -LRB- by time , by space , by other attributes -RRB- .
+	Cause: They routinely allow the data to be replicated
+	Effect: it can be organized in several ways -LRB- by time , by space , by other attributes -RRB- .
+
+CASE: 35
+Stag: 179 
+	Pattern: 44 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: Conventional tabular database systems are adequate for analyzing objects -LRB- galaxies , spectra , proteins , events , etc. .
+	Cause: analyzing objects -LRB- galaxies , spectra , proteins , events , etc.
+	Effect: Conventional tabular database systems are adequate
+
+CASE: 36
+Stag: 188 
+	Pattern: 77 [['so', 'that']]---- [['&C'], ['&R']]
+	sentTXT: They are being integrated with programming languages so that they can support object-oriented databases .
+	Cause: They are being integrated with programming languages
+	Effect: they can support object-oriented databases .
+
+CASE: 37
+Stag: 203 204 
+	Pattern: 80 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem/-regard/-regards/-regarded/-view/-views/-viewed/-denote/-denoted/-denotes)'], ['(-if/-follow/-follows/-&adv)', '&C@Complete@']]
+	sentTXT: Lastly , most file systems can manage millions of files , but by the time a file system can deal with billions of files , it has become a database system . As you can see , we take an ecumenical view of what a database is .
+	Cause: you can see , we take an ecumenical view of what a database is .
+	Effect: Lastly , most file systems can manage millions of files , but by the time a file system can deal with billions of files , it has become a database system .
+
+CASE: 38
+Stag: 209 210 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: And , they have a collection of tools to create , access , search , and visualize the data . So , in our view they are simple database systems .
+	Cause: And , they have a collection of tools to create , access , search , and visualize the data
+	Effect: in our view they are simple database systems .
+
+CASE: 39
+Stag: 213 
+	Pattern: 15 [[['if', 'once']], [',']]---- [[], ['&C@Complete@'], ['&R@Complete@']]
+	sentTXT: If one takes the controversial view that HDF , NetCDF , FITS , and Root are nascent database systems that provide metadata and portability but lack non-procedural query analysis , automatic parallelism , and sophisticated indexing , then one can see a fairly clear path that integrates these communities .
+	Cause: one takes the controversial view that HDF
+	Effect: NetCDF , FITS , and Root are nascent database systems that provide metadata and portability but lack non-procedural query analysis , automatic parallelism , and sophisticated indexing , then one can
+
+CASE: 40
+Stag: 214 
+	Pattern: 80 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem/-regard/-regards/-regarded/-view/-views/-viewed/-denote/-denoted/-denotes)'], ['(-if/-follow/-follows/-&adv)', '&C@Complete@']]
+	sentTXT: Some scientists use databases for some of their work , but as a general rule , most scientists do not .
+	Cause: a general rule , most scientists do not .
+	Effect: Some scientists use databases for some of their work , but
+
+CASE: 41
+Stag: 216 217 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: Why are tabular databases so successful in commercial applications and such a flop in most scientific applications ? Scientific colleagues give one or more of the following answers when asked why they do not use databases to manage their data :
+	Cause: Why are tabular databases
+	Effect: successful in commercial applications and such a flop in most scientific applications ? Scientific colleagues give one or more of the following answers when asked why they do not use databases to manage their data
+
+CASE: 42
+Stag: 229 
+	Pattern: 115 [['based', 'on']]---- [['&V-ing/&NP@R@', '(&Clause@R@)', '&BE', '(&ADV)'], ['&NP@C@', '(&Clause@C@)']]
+	sentTXT: All these answers are based on experience and considerable investment .
+	Cause: experience and considerable investment
+	Effect: All these answers
+
+CASE: 43
+Stag: 241 
+	Pattern: 112 [['due', 'to']]---- [['&V-ing/&NP@R@', '&BE'], ['&NP@C@', '(&Clause@C@)']]
+	sentTXT: The speedup is due to better indexing and parallelism .
+	Cause: better indexing and parallelism
+	Effect: The speedup
+
+CASE: 44
+Stag: 249 
+	Pattern: 81 []---- [['&V-ing@C@', '(,)', '&R@Complete@']]
+	sentTXT: Using a database allows queries to define more sophisticated mesh partitions and allows concurrent indexed access to the simulation data for visualization and computational steering .
+	Cause: Using a database
+	Effect: allows queries to define more sophisticated mesh partitions and allows concurrent indexed access to the simulation data for visualization and computational steering .
+
+CASE: 45
+Stag: 254 
+	Pattern: 68 [[['by', 'through']]]---- [['&R@Complete@'], ['&V-ing@C@']]
+	sentTXT: The database approach has the added benefit that visualization tools can watch and steer the computation by reading and writing the database .
+	Cause: reading and writing the database
+	Effect: The database approach has the added benefit that visualization tools can watch and steer the computation
+
+CASE: 46
+Stag: 264 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: Because data collection is now separated from data analysis , extensive metadata describing the data in standard terms is needed so people and programs can understand the data .
+	Cause: Because data collection is now separated from data analysis , extensive metadata describing the data in standard terms is needed
+	Effect: people and programs can understand the data .
+
+CASE: 47
+Stag: 264 
+	Pattern: 75 [['because'], [',']]---- [[], ['&C'], ['&R']]
+	sentTXT: Because data collection is now separated from data analysis , extensive metadata describing the data in standard terms is needed
+	Cause: data collection is now separated from data analysis
+	Effect: extensive metadata describing the data in standard terms is needed
+
+CASE: 48
+Stag: 269 
+	Pattern: 77 [['so', 'that']]---- [['&C'], ['&R']]
+	sentTXT: We believe the emphasis on extending database systems by unifying databases with programming languages so that one can either embed or link new object types into the data management system will enable this synthesis .
+	Cause: We believe the emphasis on extending database systems by unifying databases with programming languages
+	Effect: one can either embed or link new object types into the data management system will enable this synthesis .
+
+CASE: 49
+Stag: 276 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: Because data is so large , and IO bandwidth is not keeping pace , moving code to data will be essential to performance .
+	Cause: Because data is
+	Effect: large , and IO bandwidth is not keeping pace , moving code to data will be essential to performance .
+
+CASE: 50
+Stag: 276 277 
+	Pattern: 3 [['consequently']]---- [['&C', '(,/;/./--)'], ['(,)', '&R']]
+	sentTXT: Because data is so large , and IO bandwidth is not keeping pace , moving code to data will be essential to performance . Consequently , science centers will remain the core vehicle and federations will likely be secondary .
+	Cause: Because data is so large , and IO bandwidth is not keeping pace , moving code to data will be essential to performance
+	Effect: science centers will remain the core vehicle and federations will likely be secondary .
+

@@ -1,0 +1,221 @@
+************************************************************
+f0029: Cause-Effect links
+************************************************************
+
+CASE: 1
+Stag: 7 
+	Pattern: 80 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem/-regard/-regards/-regarded/-view/-views/-viewed/-denote/-denoted/-denotes)'], ['(-if/-follow/-follows/-&adv)', '&C@Complete@']]
+	sentTXT: The first step is to classify misses as ephemeral -- when the object moved or simply disappeared , masked -- when noise hid or corrupted the object observation , or edge -- when the object was near the edge of the observational field .
+	Cause: ephemeral -- when the object moved or simply disappeared , masked -- when noise hid or corrupted the object observation , or edge -- when the object was near the edge of the observational
+	Effect: The first step is to classify misses
+
+CASE: 2
+Stag: 17 
+	Pattern: 14 [['if']]---- [['&R@Complete@'], ['&C@Complete@']]
+	sentTXT: Two objects are said to match if they come from different runs and if their positions differ by less than their classification distance .
+	Cause: they come from different runs and if their positions differ by less than their classification distance .
+	Effect: Two objects are said to match
+
+CASE: 3
+Stag: 17 
+	Pattern: 14 [['if']]---- [['&R@Complete@'], ['&C@Complete@']]
+	sentTXT: they come from different runs and if their positions differ by less than their classification distance .
+	Cause: their positions differ by less than their classification distance .
+	Effect: they come from different runs and
+
+CASE: 4
+Stag: 19 
+	Pattern: 15 [[['if', 'once']], [',']]---- [[], ['&C@Complete@'], ['&R@Complete@']]
+	sentTXT: If only stationary objects are to be matched , then the classification distance can be a small multiple of the maximum of the two object 's circular rms position errors .
+	Cause: only stationary objects are to be matched
+	Effect: then the classification distance can be a small multiple of the maximum of the two object 's circular rms position errors .
+
+CASE: 5
+Stag: 31 
+	Pattern: 1 [['therefore']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(,)', '&R']]
+	sentTXT: In those cases the object 's apparent movement may exceed the positional error , and therefore a larger threshold is needed for the match criterion .
+	Cause: In those cases the object 's apparent movement may exceed the positional error
+	Effect: a larger threshold is needed for the match criterion .
+
+CASE: 6
+Stag: 37 
+	Pattern: 15 [[['if', 'once']], [',']]---- [[], ['&C@Complete@'], ['&R@Complete@']]
+	sentTXT: If the SDSS were in the galactic plane , not to mention the galactic center , it would have very crowded fields , and would have a combinatorial explosion using such a large classification distance .
+	Cause: the SDSS were in the galactic plane
+	Effect: not to mention the galactic center , it would have very crowded fields , and would have a combinatorial explosion using such a large classification distance .
+
+CASE: 7
+Stag: 41 
+	Pattern: 68 [[['by', 'through']]]---- [['&R@Complete@'], ['&V-ing@C@']]
+	sentTXT: Having a short list of all candidate match objects allows more sophisticated tests to work much more quickly by limiting their search space .
+	Cause: limiting their search space
+	Effect: a short list of all candidate match objects allows more sophisticated tests to work much more quickly
+
+CASE: 8
+Stag: 42 
+	Pattern: 14 [['if']]---- [['&R@Complete@'], ['&C@Complete@']]
+	sentTXT: Given two runs that overlap , if object O1 observed in run1 matches object O2 in run2 , we call the pair an O1-run2 hit .
+	Cause: object O1 observed in run1 matches object O2 in run2 , we call the pair an O1-run2 hit .
+	Effect: that overlap ,
+
+CASE: 9
+Stag: 44 
+	Pattern: 15 [[['if', 'once']], [',']]---- [[], ['&C@Complete@'], ['&R@Complete@']]
+	sentTXT: If there are no O1-run2 hits , we call it an O1-run2 miss .
+	Cause: there are no O1-run2 hits
+	Effect: we call it an O1-run2 miss .
+
+CASE: 10
+Stag: 47 
+	Pattern: 80 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem/-regard/-regards/-regarded/-view/-views/-viewed/-denote/-denoted/-denotes)'], ['(-if/-follow/-follows/-&adv)', '&C@Complete@']]
+	sentTXT: O1 is at the detection threshold and the seeing was good in run1 but not as good in run2 or O1 may be invisible if run2 is a different kind of instrument -LRB- e.g.
+	Cause: good in run2 or O1 may be invisible if run2 is a different kind of instrument -LRB-
+	Effect: O1 is at the detection threshold and the seeing was good in run1 but not
+
+CASE: 11
+Stag: 47 
+	Pattern: 14 [['if']]---- [['&R@Complete@'], ['&C@Complete@']]
+	sentTXT: good in run2 or O1 may be invisible if run2 is a different kind of instrument -LRB-
+	Cause: run2 is a different kind of instrument -LRB-
+	Effect: good in run2 or O1 may be invisible
+
+CASE: 12
+Stag: 52 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: O1 was on the edge of the run2 footprint and so not all its pixels were observed .
+	Cause: O1 was on the edge of the run2 footprint
+	Effect: not all its pixels were observed .
+
+CASE: 13
+Stag: 55 
+	Pattern: 75 [['because'], [',']]---- [[], ['&C'], ['&R']]
+	sentTXT: In the SDSS about 84 % of the match pairs avoid these problems , but 11 % of the matches are ephemeral , about 0.5 % are masked , and because the SDSS overlap areas are typically long-narrow strips , about 5 % are edge objects .
+	Cause: the SDSS overlap areas are typically long-narrow strips
+	Effect: about 5 % are edge objects .
+
+CASE: 14
+Stag: 56 
+	Pattern: 75 [['because'], [',']]---- [[], ['&C'], ['&R']]
+	sentTXT: When comparing runs from different instruments the ephemeral issues may be even more dramatic -- the object may not be visible in the second instrument because it does not radiate in that spectral band , or the two instruments may have very different sensitivity .
+	Cause: it does not radiate in that spectral band
+	Effect: or the two instruments may have very different sensitivity .
+
+CASE: 15
+Stag: 68 
+	Pattern: 80 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem/-regard/-regards/-regarded/-view/-views/-viewed/-denote/-denoted/-denotes)'], ['(-if/-follow/-follows/-&adv)', '&C@Complete@']]
+	sentTXT: Indeed , the SDSS catalog pre-computes the spatial join as the Neighbors table using the Zones algorithm described in -LSB- 2 -RSB- .
+	Cause: the Neighbors table using the Zones algorithm described in -LSB- 2 -RSB- .
+	Effect: Indeed , the SDSS catalog pre-computes the spatial join
+
+CASE: 16
+Stag: 69 
+	Pattern: 79 [['since']]---- [['&R@NCTime@', '(,)'], ['&C@NCTime@']]
+	sentTXT: So the hit query is even simpler -- one just looks for neighbors within 1 '' with run1 \ neq run2 since Neighbors stores all object pairs within 30 '' .
+	Cause: Neighbors stores all object pairs
+	Effect: So the hit query is even simpler -- one just looks for neighbors within 1 '' with run1 \ neq run2
+
+CASE: 17
+Stag: 72 
+	Pattern: 14 [['if']]---- [['&R@Complete@'], ['&C@Complete@']]
+	sentTXT: Given such a run2 , we need to know if the missing object O1 is either near the run2 footprint edge or is inside a run2 mask .
+	Cause: the missing object O1 is either near the run2 footprint edge or is inside a run2 mask .
+	Effect: Given such a run2 , we need to know
+
+CASE: 18
+Stag: 75 76 
+	Pattern: 80 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem/-regard/-regards/-regarded/-view/-views/-viewed/-denote/-denoted/-denotes)'], ['(-if/-follow/-follows/-&adv)', '&C@Complete@']]
+	sentTXT: We adopted the International Virtual Observatory definition for footprints -LSB- 1 -RSB- and have implemented a footprint service both inside SQL -LSB- 2 -RSB- and on the web -LSB- 3 , 4 -RSB- . As explained in -LSB- 2 , 4 -RSB- , spherical regions are represented as the union of convex hulls that are each the intersection of a set of half-spaces .
+	Cause: explained in -LSB- 2 , 4 -RSB- , spherical regions are represented as the union of convex hulls that are each the intersection of a set of half-spaces .
+	Effect: We adopted the International Virtual Observatory definition for footprints -LSB- 1 -RSB- and have implemented a footprint service both inside SQL -LSB- 2 -RSB- and on the web -LSB- 3 , 4 -RSB- .
+
+CASE: 19
+Stag: 85 
+	Pattern: 15 [[['if', 'once']], [',']]---- [[], ['&C@Complete@'], ['&R@Complete@']]
+	sentTXT: If this is an inexpensive test and if there are less than a thousand runs , then one can compute the overlapping run pairs by simply comparing all runs to all others .
+	Cause: there are less than a thousand runs
+	Effect: then one can compute the overlapping run pairs by simply comparing all runs to all others .
+
+CASE: 20
+Stag: 123 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: The residual misses are neither edge nor masked so they must be ephemeral .
+	Cause: The residual misses are neither edge nor masked
+	Effect: they must be ephemeral .
+
+CASE: 21
+Stag: 151 152 
+	Pattern: 80 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem/-regard/-regards/-regarded/-view/-views/-viewed/-denote/-denoted/-denotes)'], ['(-if/-follow/-follows/-&adv)', '&C@Complete@']]
+	sentTXT: When bundles overlap it may make sense to merge them into one bundle with one Bundle record . As new runs are acquired , new records are added to the catalog and new records are added to the Match table -LRB- which is easily computed incrementally .
+	Cause: new runs are acquired , new records are added to the catalog and new records
+	Effect: bundles overlap it may make sense to merge them into one bundle with one Bundle record .
+
+CASE: 22
+Stag: 154 
+	Pattern: 14 [['if']]---- [['&R@Complete@'], ['&C@Complete@']]
+	sentTXT: One complication is that adding records may cause bundles to merge if the new record causes one bundle to overlap another .
+	Cause: the new record causes one bundle to overlap another .
+	Effect: One complication is that adding records may cause bundles to merge
+
+CASE: 23
+Stag: 156 
+	Pattern: 77 [['so', 'that']]---- [['&C'], ['&R']]
+	sentTXT: Computing the bundle IDs is a bit tricky so that code is included here .
+	Cause: Computing the bundle IDs is a bit tricky
+	Effect: code is included here .
+
+CASE: 24
+Stag: 190 
+	Pattern: 76 [['because']]---- [['&R', '(,)', '(&ADV)'], ['&C']]
+	sentTXT: Of the 16 % that are misses , 11 % are ephemeral , 0.5 % are masked , and 5 % are edge because the SDSS overlap areas are typically longnarrow strips .
+	Cause: the SDSS overlap areas are typically longnarrow strips .
+	Effect: Of the 16 % that are misses , 11 % are ephemeral , 0.5 % are masked , and 5 % are edge
+
+CASE: 25
+Stag: 191 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: Most objects are slow-moving so their displacement between observations is small compared to the average inter-object difference .
+	Cause: Most objects are slow-moving
+	Effect: their displacement between observations is small compared to the average inter-object difference .
+
+CASE: 26
+Stag: 192 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: Near-Earth object apparent motions are typically large and so measurements must be within minutes for the techniques described here to detect object pairs .
+	Cause: Near-Earth object apparent motions are typically large
+	Effect: measurements must be within minutes for the techniques described here to detect object pairs .
+
+CASE: 27
+Stag: 193 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: For faint stellar and galactic objects , the apparent motion is typically much smaller and so the observations can be months or years apart and yet the techniques here can correlate the two observations .
+	Cause: , the apparent motion is typically much smaller
+	Effect: the observations can be months or years apart and yet the techniques here can correlate the two observations .
+
+CASE: 28
+Stag: 201 
+	Pattern: 68 [[['by', 'through']]]---- [['&R@Complete@'], ['&V-ing@C@']]
+	sentTXT: Given this rather low object surface density -LRB- when compared to the Galactic Plane or the Galactic Center -RRB- , the techniques described here can find slowly moving objects by using a larger classification distance .
+	Cause: using a larger classification distance
+	Effect: Given this rather low object surface density -LRB- when compared to the Galactic Plane or the Galactic Center -RRB- , the techniques described here can find slowly moving objects
+
+CASE: 29
+Stag: 202 
+	Pattern: 15 [[['if', 'once']], [',']]---- [[], ['&C@Complete@'], ['&R@Complete@']]
+	sentTXT: But if the object moves more than a few arcseconds per year or if the object density is much higher , then the classification distance technique will hit a combinatorial explosion with too many false-positives .
+	Cause: the object density is much higher
+	Effect: then the classification distance technique will hit a combinatorial explosion with too many false-positives .
+
+CASE: 30
+Stag: 213 
+	Pattern: 16 [['if'], ['then']]---- [[], ['&C', '(,)'], ['&R']]
+	sentTXT: If there are no matches in a catalog then that field is filled in with the relational null value .
+	Cause: there are no matches in a catalog
+	Effect: that field is filled in with the relational null value .
+
+CASE: 31
+Stag: 217 
+	Pattern: 76 [['because']]---- [['&R', '(,)', '(&ADV)'], ['&C']]
+	sentTXT: We call such a cross-match representations a pivoted cross-match -LRB- as opposed to a pair-table cross-match -RRB- because this representation is the pivot of the pairs table on the match-head and run number .
+	Cause: this representation is the pivot of the pairs table on the match-head and run number .
+	Effect: We call such a cross-match representations a pivoted cross-match -LRB- as opposed to a pair-table cross-match -RRB-
+

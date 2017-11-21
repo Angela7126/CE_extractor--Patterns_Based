@@ -1,0 +1,5082 @@
+(lp0
+(icmyPackage
+FText
+p1
+(dp2
+S'CEText'
+p3
+(lp4
+VWith rapid and continual expansion of texts, pictures and videos in cyberspace
+p5
+aVautomatic summarization becomes more and more desirable.
+p6
+aVTraditional methods process texts empirically and neglect the fundamental characteristics and principles of language use and understanding.
+p7
+aVText summarization has been studied for over half century, but it is still hard to automatically generate a satisfied summary.
+p8
+aVsince  people  can  more  and more easily and freely publish writings.
+p9
+aVThe  development  of  cyberspace  accelerates  the  expansion  of  texts
+p10
+aVbecause life is short while new texts are continually generated
+p11
+aVEfficiently finding necessary contents in the ocean of texts is very important
+p12
+aVWith the development of sciences, researchers are limited in time and energy to read more and more publications.
+p13
+aVResearchers have to focus on the literature within recent years.
+p14
+aVResearchers have to focus on the literature within recent years.
+p15
+aVThis has led to more and more reinventions.
+p16
+aV(1) single text [Luhn et al., 1958], (2) multiple texts [McKeown, 1995] [Radev, et al., 1998, 2002] [Nanba et al., 1999] [Agarwal et al., 2011], and (3) hybrid, which inputs one text and retrieves multiple relevant texts and then summarizes them
+p17
+aVso that readers can know more relevant  contents.
+p18
+aVbecause it can extract different facets in large text(s) to enable users to read only the interested facet [Xu and Zhuge, 2012].
+p19
+aVThe faceted navigation approach is not traditional text summarization, but it is a special summarization
+p20
+aVAn explanation is that humans have commonsense on representation 'a novel tells a story' and representation 'story'.
+p21
+aVWhy can human use words beyond text?
+p22
+aVScientists summarize their ideas as abstracts placed before the main texts in papers
+p23
+aVso that readers can quickly know the main idea before reading the main text.
+p24
+aVbecause of the nature of language use and understanding.
+p25
+aVA text can be understood from different aspects
+p26
+aVin its inventor's knowledge and understandings of problems.
+p27
+aVAny method is limited
+p28
+aVThis paper attempts to explore the problem of summarization from multiple dimensions (especially from empiricism, rationalism, evolutionism, and social/individual constructionism)
+p29
+aVso as to form a general summarization methodology.
+p30
+aVAs a kind of language representation
+p31
+aVsummarization should be based on the basic principles of language use
+p32
+aV(3) Representation and its summarization are separated.
+p33
+aVThis leads to the separation of author's meaning, summarizer's understanding, and readers' understanding.
+p34
+aVSeparation Principle.
+p35
+aVThe following three kinds of separations are involved in language:
+p36
+aV(1) Structure (grammar) and semantics are separated.
+p37
+aVSemantics cannot be directly derived from structure.
+p38
+aVActually, people do not rely on grammar to communicate with each other in daily life.
+p39
+aV(2) Knowledge for representation (e.g., grammars and idioms) and knowledge to be represented (e.g., scientific knowledge) are separated.
+p40
+aV(3) Representation and its summarization are separated.
+p41
+aVThis leads to the separation of author's meaning, summarizer's understanding, and readers' understanding.
+p42
+aVThe above separation principles lead to the natural obstacle of summarization.
+p43
+aVThe basic characteristics of language use and understanding
+p44
+aV(1) Human minds cannot directly access each other.
+p45
+aV(2) Humans create and use languages to realize interaction between minds.
+p46
+aV(3) Knowledge in minds evolves and self-organizes through language use.
+p47
+aV(4) The use of language relies on knowledge.
+p48
+aV(5) The representation of knowledge is not unique, and the understanding of representation is not unique.
+p49
+aVThese characteristics lead to the following principles:
+p50
+aVSeparation Principle.
+p51
+aVThe following three kinds of separations are involved in language:
+p52
+aV(1) Structure (grammar) and semantics are separated.
+p53
+aVSemantics cannot be directly derived from structure.
+p54
+aVActually, people do not rely on grammar to communicate with each other in daily life.
+p55
+aV(2) Knowledge for representation (e.g., grammars and idioms) and knowledge to be represented (e.g., scientific knowledge) are separated.
+p56
+aV(3) Representation and its summarization are separated.
+p57
+aVThis leads to the separation of author's meaning, summarizer's understanding, and readers' understanding.
+p58
+aVThe above separation principles lead to the natural obstacle of summarization.
+p59
+aVThe problem of designing a suitable summarizer can be transformed into the problem of searching a suitable summarizer in cyberspace.
+p60
+aVThe following are principles of selecting a suitable summarizer.
+p61
+aVSocial Selection Principle.
+p62
+aVThe suitable summarizer for summarizing a representation is rendered by the social network of its writers and readers.
+p63
+aVKnowledge selection is a kind of social selection.
+p64
+aVKnowledge Selection Principle.
+p65
+aVThe person who shares the represented knowledge and the knowledge for representation is suitable for summarization.
+p66
+aVThe above principle means that even people sharing the represented knowledge may not be the suitable person for summarizing the representation because they may not have the knowledge of representation.
+p67
+aVA friend of author may not be the suitable summarizer.
+p68
+aVThe suitable person should have similar experience with the author (including education, work, etc.) through which knowledge is learned and shared.
+p69
+aVThe following lemmas can be derived from the knowledge selection principle:
+p70
+aVSuitable Summarizer.
+p71
+aV(1) Authors who commonly cited a representation are the candidates of suitable summarizers.
+p72
+aVThis is because the represented knowledge was shared and the knowledge for representation is at the same level.
+p73
+aV(2) Authors are the best persons to summarize their own representations.
+p74
+aVThis is because authors have the knowledge for representation and the knowledge to be represented.
+p75
+aVHowever, authors have limited time and may be influenced by individual characteristics (e.g., health and mood, and worldview) and social characteristics (e.g., culture, economy and influence).
+p76
+aVThe evaluation of summarization follows some principles.
+p77
+aVRelativity Principle.
+p78
+aVSatisfactory of summary is relative.
+p79
+aVA summary that satisfies one person may not satisfy the other.
+p80
+aVDifferent persons can make different summaries for the same text, and one person can generate different summaries for the same text at different times.
+p81
+aVThis is because knowledge of different people evolves personally.
+p82
+aVThe inexact principle and the relativity principle indicate the following principles:
+p83
+aVModerate Principle.
+p84
+aVA summary can be only moderately satisfied.
+p85
+aVThe moderate principle indicates that the best summary does not exist.
+p86
+aVSo, the pursuit of the best summary is insignificant.
+p87
+aVDynamicity Principle.
+p88
+aVThe satisfied summaries of a representation vary with time.
+p89
+aVThis is because knowledge, interest and understanding are specific to people and change with the evolution of knowledge and society.
+p90
+aVOpenness Principle.
+p91
+aVA satisfied summary can be reached only through an open social process of interactions and representations.
+p92
+aVThe openness principle implies that establishing static criteria for evaluating summarization is unnecessary, and that a closed system is incapable for reaching a satisfied summary.
+p93
+aVbecause they may not have the knowledge of representation.
+p94
+aVThe above principle means that even people sharing the represented knowledge may not be the suitable person for summarizing the representation
+p95
+aVKnowledge Selection Principle.
+p96
+aVThe person who shares the represented knowledge and the knowledge for representation is suitable for summarization.
+p97
+aVThe above principle means that even people sharing the represented knowledge may not be the suitable person for summarizing the representation because they may not have the knowledge of representation.
+p98
+aVA friend of author may not be the suitable summarizer.
+p99
+aVThe suitable person should have similar experience with the author (including education, work, etc.) through which knowledge is learned and shared.
+p100
+aVThe following lemmas can be derived from the knowledge selection principle:
+p101
+aVSuitable Summarizer.
+p102
+aV(1) Authors who commonly cited a representation are the candidates of suitable summarizers.
+p103
+aVThis is because the represented knowledge was shared and the knowledge for representation is at the same level.
+p104
+aV(2) Authors are the best persons to summarize their own representations.
+p105
+aVThis is because authors have the knowledge for representation and the knowledge to be represented.
+p106
+aVHowever, authors have limited time and may be influenced by individual characteristics (e.g., health and mood, and worldview) and social characteristics (e.g., culture, economy and influence).
+p107
+aVThis is because the represented knowledge was shared and the knowledge for representation is at the same level.
+p108
+aV(1) Authors who commonly cited a representation are the candidates of suitable summarizers.
+p109
+aVThis is because authors have the knowledge for representation and the knowledge to be represented.
+p110
+aV(2) Authors are the best persons to summarize their own representations.
+p111
+aVThis is because knowledge of different people evolves personally.
+p112
+aVDifferent persons can make different summaries for the same text, and one person can generate different summaries for the same text at different times.
+p113
+aVRelativity Principle.
+p114
+aVSatisfactory of summary is relative.
+p115
+aVA summary that satisfies one person may not satisfy the other.
+p116
+aVThe inexact principle and the relativity principle indicate the following principles:
+p117
+aVModerate Principle.
+p118
+aVA summary can be only moderately satisfied.
+p119
+aVThe moderate principle indicates that the best summary does not exist.
+p120
+aVSo, the pursuit of the best summary is insignificant.
+p121
+aVDynamicity Principle.
+p122
+aVThe satisfied summaries of a representation vary with time.
+p123
+aVThis is because knowledge, interest and understanding are specific to people and change with the evolution of knowledge and society.
+p124
+aVOpenness Principle.
+p125
+aVA satisfied summary can be reached only through an open social process of interactions and representations.
+p126
+aVThe openness principle implies that establishing static criteria for evaluating summarization is unnecessary, and that a closed system is incapable for reaching a satisfied summary.
+p127
+aVThe moderate principle indicates that the best summary does not exist.
+p128
+aVSo, the pursuit of the best summary is insignificant.
+p129
+aVThis is because knowledge, interest and understanding are specific to people and change with the evolution of knowledge and society.
+p130
+aVThe satisfied summaries of a representation vary with time.
+p131
+aVThe basic characteristics of language use and understanding
+p132
+aV(1) Human minds cannot directly access each other.
+p133
+aV(2) Humans create and use languages to realize interaction between minds.
+p134
+aV(3) Knowledge in minds evolves and self-organizes through language use.
+p135
+aV(4) The use of language relies on knowledge.
+p136
+aV(5) The representation of knowledge is not unique, and the understanding of representation is not unique.
+p137
+aVThese characteristics lead to the following principles:
+p138
+aVSeparation Principle.
+p139
+aVThe following three kinds of separations are involved in language:
+p140
+aV(1) Structure (grammar) and semantics are separated.
+p141
+aVSemantics cannot be directly derived from structure.
+p142
+aVActually, people do not rely on grammar to communicate with each other in daily life.
+p143
+aV(2) Knowledge for representation (e.g., grammars and idioms) and knowledge to be represented (e.g., scientific knowledge) are separated.
+p144
+aV(3) Representation and its summarization are separated.
+p145
+aVThis leads to the separation of author's meaning, summarizer's understanding, and readers' understanding.
+p146
+aVThe above separation principles lead to the natural obstacle of summarization.
+p147
+aVThe problem of designing a suitable summarizer can be transformed into the problem of searching a suitable summarizer in cyberspace.
+p148
+aVThe following are principles of selecting a suitable summarizer.
+p149
+aVSocial Selection Principle.
+p150
+aVThe suitable summarizer for summarizing a representation is rendered by the social network of its writers and readers.
+p151
+aVKnowledge selection is a kind of social selection.
+p152
+aVKnowledge Selection Principle.
+p153
+aVThe person who shares the represented knowledge and the knowledge for representation is suitable for summarization.
+p154
+aVThe above principle means that even people sharing the represented knowledge may not be the suitable person for summarizing the representation because they may not have the knowledge of representation.
+p155
+aVA friend of author may not be the suitable summarizer.
+p156
+aVThe suitable person should have similar experience with the author (including education, work, etc.) through which knowledge is learned and shared.
+p157
+aVThe following lemmas can be derived from the knowledge selection principle:
+p158
+aVSuitable Summarizer.
+p159
+aV(1) Authors who commonly cited a representation are the candidates of suitable summarizers.
+p160
+aVThis is because the represented knowledge was shared and the knowledge for representation is at the same level.
+p161
+aV(2) Authors are the best persons to summarize their own representations.
+p162
+aVThis is because authors have the knowledge for representation and the knowledge to be represented.
+p163
+aVHowever, authors have limited time and may be influenced by individual characteristics (e.g., health and mood, and worldview) and social characteristics (e.g., culture, economy and influence).
+p164
+aVThe evaluation of summarization follows some principles.
+p165
+aVRelativity Principle.
+p166
+aVSatisfactory of summary is relative.
+p167
+aVA summary that satisfies one person may not satisfy the other.
+p168
+aVDifferent persons can make different summaries for the same text, and one person can generate different summaries for the same text at different times.
+p169
+aVThis is because knowledge of different people evolves personally.
+p170
+aVThe inexact principle and the relativity principle indicate the following principles:
+p171
+aVModerate Principle.
+p172
+aVA summary can be only moderately satisfied.
+p173
+aVThe moderate principle indicates that the best summary does not exist.
+p174
+aVSo, the pursuit of the best summary is insignificant.
+p175
+aVDynamicity Principle.
+p176
+aVThe satisfied summaries of a representation vary with time.
+p177
+aVThis is because knowledge, interest and understanding are specific to people and change with the evolution of knowledge and society.
+p178
+aVOpenness Principle.
+p179
+aVA satisfied summary can be reached only through an open social process of interactions and representations.
+p180
+aVThe openness principle implies that establishing static criteria for evaluating summarization is unnecessary, and that a closed system is incapable for reaching a satisfied summary.
+p181
+aVThe above fundamental characteristics and principles indicate the following strategies for summarization.
+p182
+aVSummarization strategies.
+p183
+aV(1) Making use of the summaries of the persons who have rich social relations with the original authors.
+p184
+aVMore types of links render more common knowledge and experience [Zhuge, 2009].
+p185
+aVThis is because the establishment of rich social relations indicates common individual characteristics and social characteristics.
+p186
+aV(2) Adapting to readers' interests.
+p187
+aVThe interests of readers determine the selection of summaries.
+p188
+aVA good summarizer should know its potential readers.
+p189
+aVThis requests a summarizer to collect and analyze readers' interests according to their reading behaviors and attitudes to summaries.
+p190
+aVThis is to pursuit a suitable summary rather than the best summary.
+p191
+aV(3) Making summarization through human-machine interaction, which can make full use of the advantages of both human and machines.
+p192
+aVIt is the right way to pursue a satisfied summarization through a human-machine symbiotic system [Licklider, 1960].
+p193
+aV(4) Enabling different summaries to cooperate and compete with each other for impact at multiple dimensions (e.g., acceptance for reading and adoption for generating new summaries).
+p194
+aVRanking reviews to encourage contribution and competition among reviews reflect social value in a summarization environment.
+p195
+aVDifferent summaries may represent different characteristics of the summarizer.
+p196
+aVIntegrating individuals of diverse characteristics can cooperate with each other in making new summaries.
+p197
+aV(5) Transforming summarizations into the problem of searching suitable persons or summaries in the social networks of authors, readers, summarizers, representations and links.
+p198
+aV(6) Enabling summarizers to know the background of representations, including technological, social and economic aspects.
+p199
+aVThis is because the establishment of rich social relations indicates common individual characteristics and social characteristics.
+p200
+aV(1) Making use of the summaries of the persons who have rich social relations with the original authors.
+p201
+aVMore types of links render more common knowledge and experience [Zhuge, 2009].
+p202
+aV(2) Adapting to readers' interests.
+p203
+aVThe interests of readers determine the selection of summaries.
+p204
+aVA good summarizer should know its potential readers.
+p205
+aVThis requests a summarizer to collect and analyze readers' interests according to their reading behaviors and attitudes to summaries.
+p206
+aVThis is to pursuit a suitable summary rather than the best summary.
+p207
+aVCitation is a basic semantic link of constructing a complex text.
+p208
+aVTherefore, it is necessary to understand citation when studying summarization.
+p209
+aVDifferent from scientific papers, webpages can be changed, and links can be also changed
+p210
+aV so the hyperlink network of webpages evolve notably.
+p211
+aVSome implicit citations have mark words such as "someone says" and according to "someone's opinion".
+p212
+aVThese implicit citations can be located and transformed into explicit citation by searching these mark words and the references according to author names mentioned in text and then inserting uniform citation marks like scientific papers.
+p213
+aVSome implicit citations just reuse others' sentences or clauses without any mark word.
+p214
+aVFor example, the sentence "It's Greek to me!
+p215
+aVappeared in text implicitly cite the scenario used in 1599 in Shakespeare's play Julius Caesar, and "into thin air" cites the book written by Jon Krakauer published in 1997 and many other earlier works.
+p216
+aVIf representation A cites a set of representations B
+p217
+aVthen B constitutes an extension of A.
+p218
+aVIf representation A cites a set of representations B, and A is cited by a set of representations C,
+p219
+aVthen both B and C constitute the extension of A.
+p220
+aVIn scientific papers, the core representations usually appear in the front and in the end (e.g., title, abstract and conclusion)
+p221
+aVso that readers can be impressed before and after reading the main body.
+p222
+aVHumans have been composing complex representations and making summarization through times, so we have the following axiom.
+p223
+aVAxiom (Additive Axiom).
+p224
+aVA representation can be composed by a set of representations.
+p225
+aVAxiom (Additive Axiom).
+p226
+aVA representation can be composed by a set of representations.
+p227
+aVTherefore, a representation p can be formalized as a structure of representations:
+p228
+aVp = p(p) |
+p229
+aVp U ...
+p230
+aVU p |
+p231
+aV{p, ..., p}, which represents a recursive structure of an abstraction p(p), an union p U ...
+p232
+aVU p, and a set of representations {p, ..., p}.
+p233
+aVDictionaries explain words in texts,
+p234
+aVso  they can be regarded as the basic implicit citations to all texts.
+p235
+aVFrom this point of view, any text has a set of basic citations.
+p236
+aVSo, the above statement is suitable for text.
+p237
+aVStructuring summary in an appropriate form is important
+p238
+aVas summary is mainly for human to read and understand.
+p239
+aVThe original structure of the core representations takes the priority to appear in summary.
+p240
+aVThe reason is that authors are the best person to organize his representation.
+p241
+aVTo reflect not only reading characteristics but also understanding characteristics
+p242
+aVit is a reasonable method to combine the linear organization with the order of generalization and specialization.
+p243
+aVHumans experience in a multi-dimensional space but have to use a two-dimensional media such as paper and screen to externalize representation.
+p244
+aVInformation loses through transformation from the internal representation to the form of display.
+p245
+aVInventing a new interface that can easily convey representations through multiple channels is a way to improve human understanding.
+p246
+aVSummarization carries out in an interaction environment where people read, write, cite and communicate with personal spaces.
+p247
+aVThe personal spaces reflect personal reading experience, interests and knowledge based on the texts that have been read.
+p248
+aVA summarization can be satisfied only when it matches the personal space of the reader.
+p249
+aVas researchers assume that the form of output is the same as the input.
+p250
+aVPrevious research on text summarization neglects the innovation of displaying summary
+p251
+aVOptimizing the layout of display needs to consider three dimensions.
+p252
+aV3D printer extends display from cyberspace to the physical space.
+p253
+aVNew interface devices like 3D monitor will significantly influence the representation of summary.
+p254
+aVSummarization is involved in individual and social construction processes
+p255
+aVso it concerns multiple dimensions.
+p256
+aVThe basic characteristics and principles of language use and understanding
+p257
+aV indicate the following dimensions for evaluating a summarization
+p258
+aVA summary should match the reader's cognitive level.
+p259
+aVTherefore, concepts at the reader's cognitive level should be selected.
+p260
+aVif it knows more about the author, including the relevant articles and social networks.
+p261
+aVA summarizer can understand the input representation better
+p262
+aVbecause some representations are unnecessary for summarization
+p263
+aVInput should also be evaluated
+p264
+aVas they can be quickly understood.
+p265
+aVOn one hand, a very simple and short representation such as a short paragraph of text and a picture is unnecessary for summarization
+p266
+aVbecause only the persons sharing knowledge with the writer can make satisfied summarization.
+p267
+aVThe closed systems designed by particular persons are unable to make satisfied summarization
+p268
+aVso that it can select the appropriate representations (e.g., sentences) and use the representations that the reader is familiar with.
+p269
+aVThis also implies that a summarizer should be able to interact with readers
+p270
+aVsince pictures have been widely used to render meaning in many representations.
+p271
+aVIt is a natural idea to incorporate pictures into summary
+p272
+aVaccording to the semantic locality principle [Zhuge, 2010].
+p273
+aVThere could be different ways to arrange pictures in displays but picture should be selected according to the core sentences and arranged near the core sentences
+p274
+aVA picture can convey meaning in about 1-10 seconds due to its familiarity and complexity to the viewer.
+p275
+aVIn contrast, readers need to scan the whole text to know the text-only summary.
+p276
+aVThe summary with pictures is more attractive than the text-only summary.
+p277
+aVAn explanation is that the summary with pictures gives readers stronger impression and provides more dimensions for rendering meaning, and establishes more links to render meaning.
+p278
+aVThe summary incorporating pictures can enhance reader's short-term and long-term memory.
+p279
+aVas they experience and reflect the physical space and form knowledge in mind.
+p280
+aVHumans are specialized in recognizing pictures
+p281
+aVThe semantic link networks of texts, pictures, tags and users indicate a kind of social semantics of picture usage
+p282
+aVand thus provide the ground for selection.
+p283
+aVThe semantic link networks of texts, pictures, tags and users indicate a kind of social semantics of picture usage and thus provide the ground for selection.
+p284
+aVThe Web 2.0 provides the platform for people to upload and tag pictures on the Web.
+p285
+aVd) Classifying pictures from multiple dimensions including time and location, which help distinguish pictures of different dimensions
+p286
+aVso that appropriate pictures can be selected to match the text in the summary.
+p287
+aVAs new pictures are continually added to the online systems
+p288
+aVa good summarization system should be able to keep up-to-date pictures in summarization.
+p289
+aVThe core words such as "CIKM2012", "hotel", "golf" and "garden" can be identified by comparing the source text and tags.
+p290
+aVThen, the relations like "back of" relying on the core words can be identified.
+p291
+aVSo, the techniques of text summary can be extended to the construction of semantic link network and image retrieval [Gudivada and Raghavan, 1995].
+p292
+aVas the tag sets of different pictures may be overlapped.
+p293
+aVThe generated summary is not unique
+p294
+aVExisting summaries can be put into the space and linked to the tag set.
+p295
+aVIn this way, the existing summaries can be reused when making new summarizations.
+p296
+aVAccording to the efficiency principle and regional principle,
+p297
+aVthe radius of the network should be small.
+p298
+aVIt is important in video management, retrieval and browsing.
+p299
+aVIt becomes more and more important with wide use of digital cameras in our society for security, news, entertainment, education, advertisements, etc.
+p300
+aVHumans are able to make operations to summarize a movie according to their understandings and requirements, but are limited in ability to view and summarize huge volumes of videos generated everyday.
+p301
+aVAutomatic video summarization can help humans quickly know the key content in big video volumes.
+p302
+aVto get semantically meaningful summaries of complicated video contents
+p303
+aVThe patterns of events, conversations, and behaviors should be characterized
+p304
+aVFor particular applications like football games [Ekin, 2003], important sections such as slow-motion segments and goals in game are known by humans
+p305
+aVso it is easy to find the important sections.
+p306
+aVCurrent online movies contain subtitles,
+p307
+aVwhich provide a new condition for making summarization of videos through natural language processing.
+p308
+aVas it can render the patterns hidden in data [Navlakha, 2008] [Tian, 2008].
+p309
+aVSummarizing a large-scale graph of data is important to graph data management
+p310
+aVIn some areas like CAD, graph components have formal specifications.
+p311
+aVMaking abstraction on graph components can be done through mathematical derivation.
+p312
+aVSo, summarization in these areas has the reasons of summarization and the correctness guarantee of using summaries.
+p313
+aVdue to the wide deployment of cameras and popularity of smart phones
+p314
+aVthe explosion of digital pictures online in recently years
+p315
+aVwith the explosion of digital pictures online in recently years
+p316
+aVThere have been more and more real requirements of summarizing pictures
+p317
+aVbecause they have experience and knowledge out of pictures.
+p318
+aVHumans can make a humanized summarization
+p319
+aVbecause the semantic links between pictures may be poor.
+p320
+aVThe key problem is to select a better picture from the candidates that have the same projections on the dimensions of time, location and topic,
+p321
+aVModern cameras can generate pictures with time and location information,
+p322
+aVso the summarization of pictures can be carried out in a space of four dimensions: language, feature, time and location.
+p323
+aVThe form of summary can be a semantic link network of texts, pictures, audios, and videos.
+p324
+aVHumans have been pursuing the ways to represent thoughts, behaviors, artifacts and the nature.
+p325
+aVVarious devices and approaches have been invented and developed to represent and process different forms such as natural languages, pictures, videos and graphs.
+p326
+aVVarious representations constitute a representation space with particular structure and operations.
+p327
+aVA distinguished characteristic is that humans generate behaviors (including mental behaviors) different from the input.
+p328
+aVThis indicates that human mind uniformly processes various things at certain cognitive level.
+p329
+aVThis indicates that human mind uniformly processes various things at certain cognitive level.
+p330
+aVThis indicates the possibility of creating a unified method for processing different objects such as texts, pictures, videos and graphs.
+p331
+aVbecause it needs to uncover the common nature behind existing theories, and different theories may represent different aspects of a domain and use different representation systems that are difficult to be unified.
+p332
+aVHowever, unifying different theories is hard
+p333
+aVSummarization is a special transformation that operates dimension reduction for easier understanding.
+p334
+aVFrom this point of view, summarization can be regarded as a transformation of reducing the dimensions of a representation so that the dimensions of representation can be linked to and merge with the dimensions in the mental space.
+p335
+aVFrom this point of view, summarization can be regarded as a transformation of reducing the dimensions of a representation
+p336
+aVso that the dimensions of representation can be linked to and merge with the dimensions in the mental space.
+p337
+aVThe scale of summary can be regarded as a dimension.
+p338
+aVThe reason is that a reader can easily and quickly understand the summary if the dimension of the target space is the same as the dimension of the reader's personal space, which represents the reader's mind (cognitive architecture).
+p339
+aVIt stands for the basic cognitive level of all the authors in the field.
+p340
+aVThe cognitive level for a particular research field can be reflected by all of its papers.
+p341
+aVif its cognitive level is the same as the reader's cognitive level.
+p342
+aVA summary is suitable
+p343
+aV(1) If the cognitive level of the original representation is the same as the reader's cognitive level,
+p344
+aVthe summary should use the core representations in the original representation.
+p345
+aV(2) If the cognitive level of the original representation is higher than the reader's cognitive level,
+p346
+aVthe summary should use more specific concepts in the commonsense category hierarchy.
+p347
+aV(3) If the cognitive level of the original representation is lower than the reader's cognitive level,
+p348
+aVthe summary should use more general concepts in the commonsense category hierarchy.
+p349
+aVOntology helps explain representation and establish the links between representations.
+p350
+aVThis enables summarization systems to use more general or specific concepts in summary.
+p351
+aVas it concerns the essential natural and social differences between human and the systems.
+p352
+aVIt is hard for automatic summarization systems to realize human-level summarization
+p353
+asS'CE_B_Text'
+p354
+(lp355
+(lp356
+g6
+aa(lp357
+g8
+aa(lp358
+g10
+aa(lp359
+g12
+aa(lp360
+g14
+aa(lp361
+g16
+aa(lp362
+g18
+aa(lp363
+g20
+aa(lp364
+g22
+aa(lp365
+g24
+aa(lp366
+g26
+aa(lp367
+g28
+aa(lp368
+g30
+aa(lp369
+g32
+aa(lp370
+g34
+aa(lp371
+g43
+aa(lp372
+g50
+ag51
+ag52
+ag53
+ag54
+ag55
+ag56
+ag57
+ag58
+ag59
+ag60
+ag61
+ag62
+ag63
+ag64
+ag65
+ag66
+ag67
+ag68
+ag69
+ag70
+ag71
+ag72
+ag73
+ag74
+ag75
+ag76
+ag77
+ag78
+ag79
+ag80
+ag81
+ag82
+ag83
+ag84
+ag85
+ag86
+ag87
+ag88
+ag89
+ag90
+ag91
+ag92
+ag93
+aa(lp373
+g95
+aa(lp374
+g101
+ag102
+ag103
+ag104
+ag105
+ag106
+ag107
+aa(lp375
+g109
+aa(lp376
+g111
+aa(lp377
+g113
+aa(lp378
+g117
+ag118
+ag119
+ag120
+ag121
+ag122
+ag123
+ag124
+ag125
+ag126
+ag127
+aa(lp379
+g129
+aa(lp380
+g131
+aa(lp381
+g182
+ag183
+ag184
+ag185
+ag186
+ag187
+ag188
+ag189
+ag190
+ag191
+ag192
+ag193
+ag194
+ag195
+ag196
+ag197
+ag198
+ag199
+aa(lp382
+g201
+ag202
+aa(lp383
+g206
+ag207
+aa(lp384
+g209
+aa(lp385
+g211
+aa(lp386
+g213
+aa(lp387
+g216
+aa(lp388
+g218
+aa(lp389
+g220
+aa(lp390
+g222
+aa(lp391
+g224
+ag225
+aa(lp392
+g228
+ag229
+ag230
+ag231
+ag232
+ag233
+aa(lp393
+g235
+aa(lp394
+g237
+aa(lp395
+g239
+aa(lp396
+g241
+aa(lp397
+g243
+aa(lp398
+g246
+aa(lp399
+g249
+aa(lp400
+g251
+aa(lp401
+g254
+aa(lp402
+g256
+aa(lp403
+g258
+aa(lp404
+g260
+aa(lp405
+g262
+aa(lp406
+g264
+aa(lp407
+g266
+aa(lp408
+g268
+aa(lp409
+g270
+aa(lp410
+g272
+aa(lp411
+g274
+aa(lp412
+g277
+aa(lp413
+g279
+aa(lp414
+g281
+aa(lp415
+g283
+aa(lp416
+g285
+aa(lp417
+g287
+aa(lp418
+g289
+aa(lp419
+g292
+aa(lp420
+g294
+aa(lp421
+g296
+aa(lp422
+g298
+aa(lp423
+g301
+ag302
+aa(lp424
+g304
+aa(lp425
+g306
+aa(lp426
+g308
+aa(lp427
+g310
+aa(lp428
+g313
+aa(lp429
+g315
+aa(lp430
+g317
+aa(lp431
+g319
+aa(lp432
+g321
+aa(lp433
+g323
+aa(lp434
+g327
+aa(lp435
+g329
+aa(lp436
+g331
+aa(lp437
+g333
+aa(lp438
+g335
+aa(lp439
+g337
+aa(lp440
+g339
+aa(lp441
+g341
+aa(lp442
+g343
+aa(lp443
+g345
+aa(lp444
+g347
+aa(lp445
+g349
+aa(lp446
+g351
+aa(lp447
+g353
+aasS'CE_A_Text'
+p448
+(lp449
+(lp450
+g5
+aa(lp451
+g7
+aa(lp452
+g9
+aa(lp453
+g11
+aa(lp454
+g13
+aa(lp455
+g15
+aa(lp456
+g17
+aa(lp457
+g19
+aa(lp458
+g21
+aa(lp459
+g23
+aa(lp460
+g25
+aa(lp461
+g27
+aa(lp462
+g29
+aa(lp463
+g31
+aa(lp464
+g33
+aa(lp465
+g35
+ag36
+ag37
+ag38
+ag39
+ag40
+ag41
+ag42
+aa(lp466
+g44
+ag45
+ag46
+ag47
+ag48
+ag49
+aa(lp467
+g94
+aa(lp468
+g96
+ag97
+ag98
+ag99
+ag100
+aa(lp469
+g108
+aa(lp470
+g110
+aa(lp471
+g112
+aa(lp472
+g114
+ag115
+ag116
+aa(lp473
+g128
+aa(lp474
+g130
+aa(lp475
+g132
+ag133
+ag134
+ag135
+ag136
+ag137
+ag138
+ag139
+ag140
+ag141
+ag142
+ag143
+ag144
+ag145
+ag146
+ag147
+ag148
+ag149
+ag150
+ag151
+ag152
+ag153
+ag154
+ag155
+ag156
+ag157
+ag158
+ag159
+ag160
+ag161
+ag162
+ag163
+ag164
+ag165
+ag166
+ag167
+ag168
+ag169
+ag170
+ag171
+ag172
+ag173
+ag174
+ag175
+ag176
+ag177
+ag178
+ag179
+ag180
+ag181
+aa(lp476
+g200
+aa(lp477
+g203
+ag204
+ag205
+aa(lp478
+g208
+aa(lp479
+g210
+aa(lp480
+g212
+aa(lp481
+g214
+ag215
+aa(lp482
+g217
+aa(lp483
+g219
+aa(lp484
+g221
+aa(lp485
+g223
+aa(lp486
+g226
+ag227
+aa(lp487
+g234
+aa(lp488
+g236
+aa(lp489
+g238
+aa(lp490
+g240
+aa(lp491
+g242
+aa(lp492
+g244
+ag245
+aa(lp493
+g247
+ag248
+aa(lp494
+g250
+aa(lp495
+g252
+ag253
+aa(lp496
+g255
+aa(lp497
+g257
+aa(lp498
+g259
+aa(lp499
+g261
+aa(lp500
+g263
+aa(lp501
+g265
+aa(lp502
+g267
+aa(lp503
+g269
+aa(lp504
+g271
+aa(lp505
+g273
+aa(lp506
+g275
+ag276
+aa(lp507
+g278
+aa(lp508
+g280
+aa(lp509
+g282
+aa(lp510
+g284
+aa(lp511
+g286
+aa(lp512
+g288
+aa(lp513
+g290
+ag291
+aa(lp514
+g293
+aa(lp515
+g295
+aa(lp516
+g297
+aa(lp517
+g299
+ag300
+aa(lp518
+g303
+aa(lp519
+g305
+aa(lp520
+g307
+aa(lp521
+g309
+aa(lp522
+g311
+ag312
+aa(lp523
+g314
+aa(lp524
+g316
+aa(lp525
+g318
+aa(lp526
+g320
+aa(lp527
+g322
+aa(lp528
+g324
+ag325
+ag326
+aa(lp529
+g328
+aa(lp530
+g330
+aa(lp531
+g332
+aa(lp532
+g334
+aa(lp533
+g336
+aa(lp534
+g338
+aa(lp535
+g340
+aa(lp536
+g342
+aa(lp537
+g344
+aa(lp538
+g346
+aa(lp539
+g348
+aa(lp540
+g350
+aa(lp541
+g352
+aasS'ConcText'
+p542
+(lp543
+VSummarization is an open representation of representation, in diverse forms, from multiple dimensions, and through interactions in multiple spaces.
+p544
+aVThe basic interactions include selecting, citing and organizing representations according to requirement and motivation.
+p545
+aVTexts have been the major means to reflect the evolution of human society.
+p546
+aVIt is necessary to explore automatic summarization of texts expanding rapidly in cyberspace.
+p547
+aVHowever, existing approaches are empirical, mainly relying on statistics, structure and linguistic analysis while neglecting the nature of representation and understanding.
+p548
+aVThis paper summarizes previous approaches and explores the fundamental theory and method for summarization from multiple dimensions.
+p549
+aVThe core viewpoint is that summarization is carried out with various interactions involved in human, machine, and various representations including text, picture, and video.
+p550
+aVWriters and readers represent mainly through explicit or implicit citations.
+p551
+aVStudying the summarization of pictures, videos and graphs reaches a general summarization method.
+p552
+aVIt is hard for automatic summarization systems to realize human-level summarization as it concerns the essential natural and social differences between human and the systems.
+p553
+aVPutting summarization into a human-machine-nature symbiotic network is a way to make a breakthrough.
+p554
+aVA significant progress of summarization research relies on an innovative summarization of philosophy, psychology, linguistics, cognitive science, neuroscience, physics, computer science, and artificial intelligence from multiple dimensions.
+p555
+aVThis work is an attempt to help broaden the scope of summarization research and inspire cross-disciplinary research to develop this area.
+p556
+asS'Ftag'
+p557
+Vf0001
+p558
+sS'AbsText'
+p559
+(lp560
+VSummarization is one of the key features of human intelligence.
+p561
+aVIt plays an important role in understanding and representation.
+p562
+aVWith rapid and continual expansion of texts, pictures and videos in cyberspace, automatic summarization becomes more and more desirable.
+p563
+aVText summarization has been studied for over half century, but it is still hard to automatically generate a satisfied summary.
+p564
+aVTraditional methods process texts empirically and neglect the fundamental characteristics and principles of language use and understanding.
+p565
+aVThis paper summarizes previous text summarization approaches in a multi-dimensional classification space, introduces a multi-dimensional methodology for research and development, unveils the basic characteristics and principles of language use and understanding, investigates some fundamental mechanisms of summarization, studies the dimensions and forms of representations, and proposes a multi-dimensional evaluation mechanisms.
+p566
+aVInvestigation extends to the incorporation of pictures into summary and to the summarization of videos, graphs and pictures, and then reaches a general summarization framework.
+p567
+aVFurther, some basic behaviors of summarization are studied in the complex space consisting of cyberspace, physical space and social space.
+p568
+aVThe basic viewpoints include:
+p569
+aV(1) a representation suitable for summarization should have a core, indicated by its intention and extension;
+p570
+aV(2) summarization is an open process of various interactions, involved in various explicit and implicit citations;
+p571
+aVand, (3) the form of summary is diverse and summarization carries out through multiple dimensions.
+p572
+asba(icmyPackage
+FText
+p573
+(dp574
+g3
+(lp575
+V-- it goes through human brains for knowing, invention, propagation, fusion, generalization, and problem solving.
+p576
+aVHowever, knowledge is dynamic
+p577
+aVCitations between scientific articles
+p578
+aVimply a knowledge flow from the authors of the article being cited to the authors of the articles that cite it.
+p579
+aVCitations between scientific articles imply a knowledge flow from the authors of the article being cited to the authors of the articles that cite it.
+p580
+aVThe knowledge flow network implicit in the citation network consists of knowledge flows between nodes that process knowledge, including reasoning, fusing, generalizing, inventing, and problem solving, by authors and co-authors.
+p581
+aVScientists can publish in several areas, and thus be involved in different knowledge flow networks.
+p582
+aVThis enables knowledge to flow through knowledge networks in different areas to promote interdisciplinary research.
+p583
+aVwhen knowledge flows in a network
+p584
+aVKnowledge flow spirals are formed
+p585
+aVif every node can innovate and output new knowledge to appropriate members.
+p586
+aVAn effective knowledge flow network enables a research team to be very powerful in generating new knowledge
+p587
+aVthe distribution of knowledge energy in a network changes
+p588
+aVReflecting the development of a discipline
+p589
+aVas its citation network evolves.
+p590
+aVthe distribution of knowledge energy in a network changes
+p591
+aVfor the sustainable development of knowledge flow within a research community.
+p592
+aVMaintaining openness is a strategy
+p593
+aVEnhancing inflow, that is, selecting the appropriate higher-energy nodes to cooperate
+p594
+aVis a strategy to increase the efficiency of knowledge flow networking.
+p595
+aVTrusted team members
+p596
+aVensure the effectiveness of knowledge sharing.
+p597
+aVif every node can generously contribute knowledge.
+p598
+aVEveryone can benefit from the community
+p599
+aVEncouraging unselfish cooperation is another strategy
+p600
+aVthat helps a knowledge flow network reach its greatest effectiveness.
+p601
+aVBy extracting and mining from scientific data, activities, and documents of an area;
+p602
+aVanalyzing the relationships between results to enrich a knowledge flow network;
+p603
+aVand tracing its evolution, an e-science environment can provide scientists with the following services:
+p604
+aVby finding their citations and their co-authors' citations, classifying the articles involved by discipline and chronology, expressing the category semantics for advanced services, linking the categories with the citations, and revealing knowledge flows using the citation network.
+p605
+aVThe system can display users' personal knowledge flow networks
+p606
+aVby retrieving documents from the Web and digital libraries, ranking them according to their citation rates and the roles of the authors, and tracing and analyzing their citation networks to show the references as a network rather than as a list.
+p607
+aVThis service can recommend references
+p608
+aVThe network can be a hierarchy
+p609
+aVthat enables people to zoom in and out of the research area.
+p610
+aVby finding the dense cliques in knowledge flow networks by looking at the statistical results and distribution of authors, articles, and citations.
+p611
+aVThis service can help scientists select peers
+p612
+aVby looking at the statistical results and distribution of authors, articles, and citations.
+p613
+aVfinding the dense cliques in knowledge flow networks
+p614
+aVby finding two types of citation relationship.
+p615
+aVThis service can discover global interest groups
+p616
+aVif there is a citation path in each direction between two articles
+p617
+aVthen the authors share common interest and knowledge.
+p618
+aV(7) Estimate the development stage of a discipline and its maturity.
+p619
+aVBased on the evolution of relevant knowledge flow networks, this service enables scientists to simulate and estimate the development of a discipline, and thus helps them plan research.
+p620
+aV(8) Detect an emergent research area.
+p621
+aVThis service enables scientists to detect the emergence of a new area from the convergence of two areas, especially a mature area and a relevant new area.
+p622
+aVBy extracting comments and comparisons of the cited articles and then organizing them according to the time of publication
+p623
+aVdiscovers and displays how the area has developed as a research literature.
+p624
+aVResearch has shown the contact network and the virus spread model determine the spread of epidemics [11]
+p625
+aVso the evolution of the contact network influences an epidemic.
+p626
+aVEffectively managing knowledge flows within a team
+p627
+aVcan lead to effective team knowledge management and eventually raise the effectiveness of teamwork.
+p628
+aVUsing the rules of knowledge flow
+p629
+aVmakes teamwork more effective and innovative, not only in an e-science environment but also in team management
+p630
+aVas knowledge flow networking can generate knowledge during operation.
+p631
+aVmakes teamwork more effective and innovative, not only in an e-science environment but also in team management
+p632
+asg354
+(lp633
+(lp634
+g577
+aa(lp635
+g579
+aa(lp636
+g581
+aa(lp637
+g583
+aa(lp638
+g585
+aa(lp639
+g587
+aa(lp640
+g589
+aa(lp641
+g591
+aa(lp642
+g593
+aa(lp643
+g595
+aa(lp644
+g597
+aa(lp645
+g599
+aa(lp646
+g601
+aa(lp647
+g604
+aa(lp648
+g606
+aa(lp649
+g608
+aa(lp650
+g610
+aa(lp651
+g612
+aa(lp652
+g614
+aa(lp653
+g616
+aa(lp654
+g618
+aa(lp655
+g620
+aa(lp656
+g622
+aa(lp657
+g624
+aa(lp658
+g626
+aa(lp659
+g628
+aa(lp660
+g630
+aa(lp661
+g632
+aasg448
+(lp662
+(lp663
+g576
+aa(lp664
+g578
+aa(lp665
+g580
+aa(lp666
+g582
+aa(lp667
+g584
+aa(lp668
+g586
+aa(lp669
+g588
+aa(lp670
+g590
+aa(lp671
+g592
+aa(lp672
+g594
+aa(lp673
+g596
+aa(lp674
+g598
+aa(lp675
+g600
+aa(lp676
+g602
+ag603
+aa(lp677
+g605
+aa(lp678
+g607
+aa(lp679
+g609
+aa(lp680
+g611
+aa(lp681
+g613
+aa(lp682
+g615
+aa(lp683
+g617
+aa(lp684
+g619
+aa(lp685
+g621
+aa(lp686
+g623
+aa(lp687
+g625
+aa(lp688
+g627
+aa(lp689
+g629
+aa(lp690
+g631
+aasg542
+(lp691
+VExploring the universe and human society are great challenges of 21st century science.
+p692
+aVThis article explores the dynamic nature of knowledge, the power to promote and influence the development of human society, and the future interconnection environment.
+p693
+aVIt describes an important approach to automatically discovering knowledge flow networks within scientific documents and activities.
+p694
+aVSuch networks embody an autonomous knowledge grid, which supports individual and cooperative scientific research, helps investigate the evolution of knowledge and disciplines, and assists in planning for scientific research development.
+p695
+aVUsing the rules of knowledge flow makes teamwork more effective and innovative, not only in an e-science environment but also in team management, as knowledge flow networking can generate knowledge during operation.
+p696
+aVHowever, many other scientific and technological issues relevant to knowledge flow, including human, philosophical, psychological, cognitive, economical, social, and management issues, are yet to be resolved, and are a major challenge to scientists.
+p697
+asg557
+Vf0002
+p698
+sg559
+(lp699
+VRecognizing and understanding knowledge flow between scientists is valuable for science.
+p700
+aVDiscovering, managing, and utilizing such knowledge are advanced services of the e-science knowledge grid environment.
+p701
+aVThe knowledge flow network implicit in the citation network consists of knowledge flows between nodes that process knowledge, including resoning, fusing, generalizing, inventing, and problem solving, by authors and co-authors.
+p702
+aVEncouraging unselfish cooperation is another stategy that helps a knowledge flow network reach its greatest effectiveness.
+p703
+aVCoordinating and fusing knowledge flows, data flows, and control flows, and integrating knowledge flows and workflows, are powerful means for making teamwork effective.
+p704
+asba(icmyPackage
+FText
+p705
+(dp706
+g3
+(lp707
+V(1) machines know little link and rules in the physical space, physiological space, psychological space, socio space and mental space,
+p708
+aVso it is not realistic to expect machines to discover laws and solve problems in these spaces;
+p709
+aVMachines are limited in these abilities although various graph-based models have been used to link resources in the cyber space.
+p710
+aVThe following are fundamental limitations of machine intelligence:
+p711
+aV(1) machines know little link and rules in the physical space, physiological space, psychological space, socio space and mental space, so it is not realistic to expect machines to discover laws and solve problems in these spaces;
+p712
+aVand, (2) machines can only process pre-designed algorithms and data structures in the cyber space.
+p713
+aVThey are limited in ability to go beyond the cyber space, to learn linking rules, to know the effect of linking, and to explain computing results according to physical, physiological, psychological and socio laws.
+p714
+aVThe invention of telegraphy and telephone
+p715
+aVrealizes real-time interaction cross regions for the first time in human history.
+p716
+aVThe Web implements the hyperlink network on the Internet
+p717
+aVso that people all over the world can browse and search web pages in different machines distributed around the world.
+p718
+aVThe motivation is to integrate the hypertext browsing with information retrieval.
+p719
+aVA 5-tuple typed link (link type, source node, destination node, a set of structured link attributes, and a free text annotation to the link) is introduced [25].
+p720
+aVdifferent front sizes and colors of words can be easily set
+p721
+aVto attract readers' attention.
+p722
+aVbased on URIs, HTTP, RDF (Resource Description Framework) and metadata.
+p723
+aVThe linked data is to connect Web data
+p724
+aVby using statistical method [31].
+p725
+aVfind the implicit link in large closed data set
+p726
+aVby analyzing the contents of nodes based on such approaches as the Latent Semantic Analysis (LSA) and the Vector Space Model (VSM) [46] [62].
+p727
+aVThe similar relation can be detected
+p728
+aVLink structure was analyzed and used
+p729
+aVto improve web information retrieval [42][57].
+p730
+aVAssigning semantic indicators and rules to links
+p731
+aVenables some implicit links to be derived and some semantics to emerge with network motion [87][90].
+p732
+aVby assigning semantic indicators and rules to links and enabling relational reasoning, analogical reasoning, inductive reasoning, and complex reasoning.
+p733
+aV(1) To support intelligent applications
+p734
+aVbecause users mainly concern satisfactory rather than correctness during experience.
+p735
+aVIt pursues diversity and user experience of linking and exploring rather than the correctness,
+p736
+aVSLN has been developed toward a self-organized semantic networking model
+p737
+aVto manage decentralized resources.
+p738
+aVAn object-oriented SLN language was suggested
+p739
+aVto implement the SLN [66].
+p740
+aVby instantiating the global schema, or defining a sub-schema first and then instantiating the sub-schema.
+p741
+aVUsers can define SLN instances
+p742
+aVAn important issue is how to automatically generate a schema from a set of SLN instances.
+p743
+aVThis concerns clustering semantic nodes according to their attributes, and determining the semantic links between clusters.
+p744
+aVbecause the clusters and links may need adapting when new instances are continuously generated.
+p745
+aVDifferent from the schemas of databases, the self-organized SLN needs an adaptable schema that meets the need of changes
+p746
+aVby analyzing magnetic-resonance images (MRI) [32].
+p747
+aVEffort has been made to detect whether people are telling the truth
+p748
+aVIf some soft, light and mobile detection devices can be invented in the future,
+p749
+aVmany new applications can be imagined, for example, people can get some services while thinking.
+p750
+aVby grouping the net effects of a problem-solving episode.
+p751
+aVK-lines are generated as experience
+p752
+aVParanomes are sets of pronomes linked to each other
+p753
+aVso that assignments or changes made by one pronome to some representation produce corresponding operations to related representations.
+p754
+aVUsing paranomes,
+p755
+aVone can coordinate the use of these multiple representations.
+p756
+aVby supporting socio activities at multiple levels (e.g., the physical level and the mental level) and in different spaces.
+p757
+aVImproving socio interaction will help establish a knowledge society
+p758
+aVby using various links to actively promote the flows of material, energy, technique, information, knowledge, and service in this environment.
+p759
+aVUsers in different regions will cooperatively accomplish tasks and solve problems
+p760
+aVOnce things are linked to the Web through the current Web/Internet standards,
+p761
+aVthings will become a part of Web/Internet.
+p762
+aVOnce things are linked to the Web through the current Web/Internet standards, things will become a part of Web/Internet.
+p763
+aVSo, Web/Internet of Things can be regarded as an application of Web/Internet.
+p764
+aVSome significant information in the physical space can be automatically sensed, stored and transmitted through the cyber space.
+p765
+aVFig.1 (b) depicts the extension from the cyber space to the physical space through various sensors.
+p766
+aVFig.1 (c) depicts an important extension of (b):
+p767
+aVuser behaviors can be sensed and fed back to the cyber space for analyzing the patterns of behaviors, and humans can remotely control the actuators to behave in the physical space through the cyber space.
+p768
+aVThis enables the cyber space to adapt services according to the feedback since behavior change may indicate some psychological change.
+p769
+aVsince behavior change may indicate some psychological change.
+p770
+aVThis enables the cyber space to adapt services according to the feedback
+p771
+aVFig.1 (c) depicts an important extension of (b):
+p772
+aVuser behaviors can be sensed and fed back to the cyber space for analyzing the patterns of behaviors, and humans can remotely control the actuators to behave in the physical space through the cyber space.
+p773
+aVFor example, this enables e-learning systems to capture student behaviors during studying so that leaning materials and processes can be organized and adapted in real time to raise the effectiveness of study.
+p774
+aVFor example, this enables e-learning systems to capture student behaviors during studying
+p775
+aVso that leaning materials and processes can be organized and adapted in real time to raise the effectiveness of study.
+p776
+aVFor example, this enables e-learning systems to capture student behaviors during studying so that leaning materials and processes can be organized and adapted in real time to raise the effectiveness of study.
+p777
+aVThis concerns the classification on students' behaviors (including micro expressions) and carrying out real-time analysis and adaptation.
+p778
+aVSensors are limited in ability to collect all information in the physical space,
+p779
+aVso users still need to directly collect the significant information in the physical space and then put them into the cyber space after analysis (including experiment).
+p780
+aVBased on above discussion,
+p781
+aVthe following question naturally emerges: Can links semantically pass through spaces (e.g., physiological space, psychological space, and mental space) to extend machine intelligence and human intelligence?
+p782
+aVBrain nets navigate with a kind of triangle-based grid cells [18], while humans often use distance space (e.g., using orthogonal latitude and longitude to locate surface objects on map) to locate objects in the physical space.
+p783
+aVIn the cyber space, zooming is an effective means to navigate from different facets, at different abstraction levels, and in different scopes.
+p784
+aVCoincidently, the Semantic Link Network reasons through triangle links [86].
+p785
+aVCP3SME will coordinate triangle reasoning/navigation, orthogonal locating and zooming.
+p786
+aVby establishing and evolving cyber semantic images for various behaviors in multiple spaces, for example, by tracing language using, interactions, and the change of various patterns during behaving.
+p787
+aVCP3SME reflects minds
+p788
+aVEvolution simulation can be slowed down by stretching time,
+p789
+aVwhich enables the details of evolution to be clearly observed.
+p790
+aVTime dimension can be compressed and stretched in the CP3SME.
+p791
+aVTime compression accelerates evolution and enables interaction to pass through times.
+p792
+aVEvolution simulation can be slowed down by stretching time, which enables the details of evolution to be clearly observed.
+p793
+aVThis requires CP3SME to have an elastic time dimension and the models for the evolution of communities and individuals.
+p794
+aVScientists will be able to access research objects and thoughts as well as their formation processes on demand through times.
+p795
+aVThis means that they can not only communicate with peers but also access important thoughts through time.
+p796
+aVThey can not only use languages to express ideas but also link the language representations to reasons in multiple spaces, to relevant research, and to applications.
+p797
+aVThis requires a new form of publication that uses complex links.
+p798
+aVThe statuses of artifacts (e.g., bridges) can be monitored in lifetime
+p799
+aVso that necessary maintenance can be carried out on time to ensure healthy status.
+p800
+aVIndividuals, family trees, thoughts, and socio events will be sensed and preserved as cyber semantic images that can be accessed through times.
+p801
+aVEvidences of historical and cultural research will be easily available.
+p802
+aVBoth material culture and non-material culture will be preserved and efficiently shared.
+p803
+aVRecommendation or evaluation will be explained from historical and cultural point of view.
+p804
+aVScience fiction will not only imagine in the symbol space but also link imagination in the mental space to materials, culture and events in the physical space, physiological space, psychological space, and social space.
+p805
+aVas the status of key individuals (e.g., people, socio facilities, and production sites), communities, and events will have cyber semantic images that can help make precaution
+p806
+aVHealth of individuals can be detected and evaluated on time, and evaluation results can be linked to measures.
+p807
+aVSociety will be safer and life quality will be higher
+p808
+aVas little semantics and culture are concerned.
+p809
+aVThey are limited in ability to support effective intercultural collaboration
+p810
+aVby transforming symbol forms, linking symbols to different spaces, and establishing peers' semantic images in their mental spaces.
+p811
+aVThe CP3SME will help people with different cultural backgrounds collaborate effectively
+p812
+aVAs the consequence of collaboration,
+p813
+aVthe collaborators' mental spaces evolve toward more commonalities.
+p814
+aVAs the consequence of collaboration, the collaborators' mental spaces evolve toward more commonalities.
+p815
+aVThis may lead to breakthrough in natural language processing.
+p816
+aVas it will ensure optimal coordination between knowledge flow, information flow, material flow, energy flow, and value flow through spaces.
+p817
+aVThe CP3SME will be efficient and low carbon
+p818
+aVby linking sensors to mobile phones and vehicles, collecting real-time information, and classifying information according to the location, distribution of population and pollution sources.
+p819
+aVThe dynamic human-centered micro-environment will be known
+p820
+aVThe Cyber-Physical-Socio Ecology concerns how to keep a reasonable expansion of the cyber space and the socio space
+p821
+aVso that they can harmoniously evolve with the physical space otherwise it may form negative influence on the whole environment [64].
+p822
+aVBased on individual interactive semantic base,
+p823
+aVindividual mental spaces can also self-organize into communities through multiple interaction channels.
+p824
+aVIf the organs are abstracted as service nodes and the relations between organs are abstracted as semantic links,
+p825
+aVan individual physiological space can be abstracted as a complex semantic link network evolving with physiological rules and the flows of material, energy and information through the links.
+p826
+aVIf artifacts are abstracted as semantic nodes with function descriptions, and the relations between artifacts are abstracted as semantic links,
+p827
+aVthe artifact space can be regarded as a semantic link network evolving with scientific, technological and socio rules.
+p828
+aVIf socio individuals are abstracted as active semantic nodes and socio relations between individuals are abstracted as semantic links,
+p829
+aVthe socio space can be regarded as a complex semantic link network evolving with socio rules and interactions.
+p830
+aVdue to the limitation of lifetime and unlimited expansion of documents.
+p831
+aVIndividuals can only know a small part of the space and will know relatively less
+p832
+aVIf symbols or symbol units (e.g., words, phrases, and sentences) are abstracted as semantic nodes, and the relations (e.g., sequential relation and cause-effect relation) between symbols are abstracted as semantic links,
+p833
+aVthe symbol space can be regarded as an evolving semantic link network with rules of languages.
+p834
+aVIf information clusters like web pages or function clusters like services are abstracted as semantic nodes and the relation between clusters as semantic links,
+p835
+aVthe cyber space can be abstracted as a complex semantic link network evolving various interactions.
+p836
+aVA significant event in the physical space
+p837
+aVmay generate or influence an event in the socio space.
+p838
+aVFor example, the event of volcanic eruptions in the physical space
+p839
+aVwill lead to cancelation of relevant flights, and lead to cancelation of the socio events like conferences held within the region.
+p840
+aVThe process of classification
+p841
+aVindicates the semantics of the form.
+p842
+aVdue to the differences between individuals.
+p843
+aVSome communities have long life while others have only short life
+p844
+aVThe difference of experiences
+p845
+aVmay lead to the differences in using languages.
+p846
+aVdue to energy limitation and privacy.
+p847
+aVFirstly, individuals can only know a small part of the large-scale networks
+p848
+aVSecondly, to minimize energy,
+p849
+aVbehaviors need to be localized.
+p850
+aVThirdly, individuals of the same class should be organized in nearby locations
+p851
+aVso that they can be assessed at the same time.
+p852
+aVdue to the long-term movement of the network (e.g., continuous evolution, complex reasoning, and information flow cycle).
+p853
+aVAny behavior may influence the whole community or the whole network
+p854
+aVby recording and linking various interactions in other spaces [89].
+p855
+aVAs a kind of mirror, the cyber space reflects the other spaces
+p856
+aVThe socio space and the mental space cooperatively create, evolve and reflect the cyber space in real time.
+p857
+aVThis enables the mental space to reflect more of the other spaces and enables the cyber space to support the complex space.
+p858
+aVthrough reflecting, experiencing, linking, classifying, searching, navigating, locating, reasoning, interacting, influencing, and zooming in multiple spaces at multiple semantic levels.
+p859
+aV6 depicts how machine intelligence and human intelligence are extended in the complex space
+p860
+aVwhen seeking the answer to the question about who, what, where, why, when, and how.
+p861
+aVTime, place, event, and individual will be linked
+p862
+aVDifferent spaces have different types of distance, for example, friendship between individuals, the difference between interests, and the distance between offices.
+p863
+aVReflecting different aspects of the objects needs to use the distances in different spaces.
+p864
+aVVarious sensors and mobile devices link the cyber space to the physical space and the socio space
+p865
+aVso that the real-time status in the places and buildings as well as individuals, communities and events can be assessed.
+p866
+aVsince classification, link and interaction are the basis of the development of the mental space.
+p867
+aVDifferent from previous notions about the mental space [23][47][51], the mental space model depicted in Fig.7 is based on the multi-dimensional classification space, link and the Interactive Semantic Base ISB [89],
+p868
+aVby integrating an adaptive multi-dimensional classification space (e.g., the Resource Space Model) and a self-organized Semantic Link Network [81][87], which can evolve with co-experience in multiple spaces.
+p869
+aVThe mental space can be modeled
+p870
+aVfor generating and operating flows through semantic links.
+p871
+aVPoints can cooperate with each other for rendering and remembering semantic images as well as
+p872
+aVbecause semantic images in the author's mind keep evolving with experience.
+p873
+aVEven for the author, different semantic images may emerge when sensing his/her artifact at different times,
+p874
+aVAsking a group of students to draw paintings independently according to the same story,
+p875
+aVthe paintings drawn by different students are different.
+p876
+aVThis is because the semantic images in their minds are different.
+p877
+aVAsking a group of students to draw paintings independently according to the same story, the paintings drawn by different students are different.
+p878
+aVif it inputs the same thing.
+p879
+aVIn contrast, any machine will output the same thing
+p880
+aVFor example, co-location is a socio rule for linking related services in physically nearby locations.
+p881
+aVKnowing this rule enables navigation systems to raise efficiency.
+p882
+aVby incorporating the class mechanisms of the object-oriented method [6][39][61].
+p883
+aVIt can be specialized for dynamic or functional modeling
+p884
+aVby making use of OOMD, OOP (Object-Oriented Programming), and SOA (Service-Oriented Architecture), in the background of interactions between multiple spaces.
+p885
+aV8 depicts the way to enrich SLN for detailed function modeling
+p886
+aVbased on SOA to meet the requirements.
+p887
+aVSocio requirements trigger self-organization of services
+p888
+aVby composing the classes defined in OOMD.
+p889
+aVThe basic services can be implemented
+p890
+aVRegarding semantic nodes of SLN as agents,
+p891
+aVmulti-agent (MA) techniques can be adopted to enhance SLN [72].
+p892
+aVRegarding class or object as node,
+p893
+aVthe object, class, inheritance, polymorphism, method, roles, and functional modeling in OOMD support the specialization of SLN.
+p894
+aVby regarding classes, objects or agents as semantic nodes.
+p895
+aVThe characteristics of SLN such as rules, complex reasoning, community, centrality, linking effect, decentralized semantic networking, self-organization, and semantic image will also enhance OOMD and MA
+p896
+aVby integrating multi-dimensional classifications, the semantic links between points and between coordinates, the rules of linking and constraints, and relevant operations [89].
+p897
+aVAll possible semantic images constitute a semantic space, which can be modeled
+p898
+aVaccording to the emerging principles and the class of the high-level community that includes it [87].
+p899
+aVthe classes of the emerging semantic nodes and semantic links
+p900
+aVAdding a certain number of semantic links,
+p901
+aVdifferent semantic covers on different topics may emerge [87][88].
+p902
+aVwhen the symbols link to the sense and to existing semantic images through the physiological space and psychological space.
+p903
+aVThe semantic image of an SLN emerges in the mental space
+p904
+aVsocio classification and regulation on attributes, objects, classes, relations, behaviors and rules.
+p905
+aVCommonsense of a community is the result of
+p906
+aVVersatile semantic nodes, semantic links and rules can be added to SLN at any time.
+p907
+aVThis leads to the formation and evolution of diverse semantic communities.
+p908
+aVsince different semantic nodes and links play different roles.
+p909
+aVAdding semantic nodes or links to SLN or removing them from SLN may have different influence on the network
+p910
+aVdue to the diversity of semantic links and rules.
+p911
+aVReasoning on semantic links is different from traditional reasoning on the production rules in knowledge-based systems
+p912
+aVbecause it is not necessary to derive out all relations to overload storage.
+p913
+aVReasoning can carry out locally
+p914
+aVaccording to the known situation such as the neighbor semantic links and relevant rules.
+p915
+aVA semantic node can participate in reasoning when necessary
+p916
+aVReasoning
+p917
+aVleads to the dependence between semantic links and the dependence between operations.
+p918
+aVif different orders of operations are applied to an SLN [74].
+p919
+aVThe result of operation may be different
+p920
+aVbecause adding a semantic link may derive new semantic links, which may further derive other semantic links.
+p921
+aVAn SLN may be changed after deleting a previously added semantic link
+p922
+aVSemantic nodes can include rich contents
+p923
+aVso that an SLN is not only for machines to process but also for humans to operate, emerge semantic images and reasoning.
+p924
+aVThe above discussion
+p925
+aVshows that SLN is different from previous links and graph-based models in goal, model, method and research issues.
+p926
+aVby designing the functions of artifacts, assigning semantic indicators to artifacts to reflect meaning or idea, and linking one another by direct or indirect referencing (e.g., paintings of the same author or times).
+p927
+aVHumans create the artifact space
+p928
+aVby adding or removing a semantic link, as depicted in Fig.10 (e).
+p929
+aVIt also enables humans to observe the influence
+p930
+aVbecause A3 can get information about A1 when it interacts with A2.
+p931
+aVinteraction between A1 and A3, and interaction between A3 and A2 can also evolve the relation between A1 and A2,
+p932
+aVaccording to their respective characteristics.
+p933
+aVDifferent spaces can answer and explain what, where, who, why, when, and how
+p934
+aVbased on the modeling of mental space and the translation between languages under different cultures.
+p935
+aVIt can extract the SLNs from interactions, and make necessary abstraction and evolution during interaction
+p936
+aVFig.12 compares the hyperlink, the semantic link, and the complex link.
+p937
+aVThe hyperlink enables any web page to connect to any other page.
+p938
+aVThe semantic link connects semantic nodes with certain rules on relations.
+p939
+aVDifferent orders of operations may lead to different effects.
+p940
+aVThe complex link can not only play the role of a semantic link but also facilitate interaction and transmit resources (denoted as ci) according to the interests of nodes and the rules on both nodes and links in multiple spaces.
+p941
+aVThey will influence the evolution of the network.
+p942
+aVTherefore, communities of different types will emerge and evolve according to different rules.
+p943
+aVThe difference and competition among individuals
+p944
+aVleads to the formation of various network characteristics like the centrality [91].
+p945
+aVas helpful interaction can help relieve mental pressure and raise immunity [38].
+p946
+aVPeople who are good at communication can live longer than those with little socio interaction
+p947
+aVPeople who are good at communication can live longer than those with little socio interaction as helpful interaction can help relieve mental pressure and raise immunity [38].
+p948
+aVTherefore, the spouse relation is transformed into the divorce relation.
+p949
+aVdue to its centrality in complex link network and interaction.
+p950
+aVAn individual x in society has potential energy Ep(x)
+p951
+aVThe node with richer types of links takes the higher priority to emerge than that with less or single type of links.
+p952
+aVThis is because the node with richer types of links offers higher probability to the new link to derive out more links so that communities have higher probability to be enriched or changed.
+p953
+aVThis is because the node with richer types of links offers higher probability to the new link to derive out more links
+p954
+aVso that communities have higher probability to be enriched or changed.
+p955
+aVby using the advanced sensors, actuators, interactive interfaces, and link situation in different spaces to provide cyber-physical-socio services.
+p956
+aV(1) The cyber space can reflect more of the physical space and socio space
+p957
+aV(3) The cyber-physical-socio effects of various behaviors are available
+p958
+aVso that appropriate decisions can be made to ensure harmonious development of various spaces.
+p959
+aVas it will emerge and evolve new semantic images when reflecting multiple spaces simultaneously.
+p960
+aV(4) The mental space will develop new functions
+p961
+aV(5) Complex linking different spaces
+p962
+aVenables one space to make use of material, energy and information in the other space.
+p963
+aVFor example, linking the agricultural ecological system to the industrial ecological system
+p964
+aVenables some waste of industry to be used as the fertilizer of crops, and enables the agricultural products to be the raw materials of some industries.
+p965
+aVHumans can not only sense from multiple channels but also form close loops through sensing, behaving, emerging semantic images, and reasoning.
+p966
+aVBehaving through one type of channel (e.g., writing) accompanies sensing through another type of channel (e.g., vision).
+p967
+aVPractice (e.g., dictation) helps establish the links between the behaviors through different channels and between behaviors and semantic images.
+p968
+aVThis is why blind people cannot write in the normal natural languages.
+p969
+aVHumans emerge semantic images in mind, use languages to indicate semantic image, use sketch to describe semantic image, develop a sketch toward a design, and model a design in the cyber space or in the artifact space as a prototype.
+p970
+aVA prototype can be refined through reflection and reference in the physical space, artifact space, and socio space as well as through reasoning processes in the mental space.
+p971
+aVThe final design can lead to the artifacts in the artifact space through a manufacture process.
+p972
+aVThis indicates a new design paradigm that enables designers and users to co-experience during the whole design process.
+p973
+aVsince interactions not only create links but also evolve semantic images.
+p974
+aVIt is important for ensuring effective interaction
+p975
+aV(5) The cyber space builds cyber semantic images during direct and indirect interactions
+p976
+aVso that it knows the past and present interactions.
+p977
+aVas its computing components and computing process is pre-defined and fixed, which cannot be changed by input and output.
+p978
+aVTuring machine is a closed system
+p979
+aVsince machines may be linked to existing machines from time to time or disconnected the current links according to the real-time requirement and rules in multiple spaces.
+p980
+aVThe CP3SME is an open system
+p981
+aVAn idea will be linked to sketch, to design, to the production processes, and further to the closed loops in the environment.
+p982
+aVThis concerns the modelling of the spaces, the mapping between spaces, the mechanism of influence, and the rules of linking and flows through links.
+p983
+aVas he thought that unnatural act will break natural balance.
+p984
+aVLaozi respected the nature rather than action
+p985
+aVby collecting multiple definitions.
+p986
+aVVarious encyclopedias are to establish consensus
+p987
+aVdue to culture difference.
+p988
+aVthe first language is more effective in indicating semantics than using the second language
+p989
+aVPsychological research indicates that brain uses different regions to process the first language and non first languages.
+p990
+aVThe epistemology has been emphasized in the effort to solve the semantics problem [77].
+p991
+aVThis implies that the current approaches to the semantic web, machine translation, and text understanding through processing symbols in the cyber space is questionable in essence.
+p992
+aVas the world people live and the way people interact with each other have been changed greatly with the generation and evolution of various spaces.
+p993
+aVNew philosophical issues will arise in CP3SME research
+p994
+aVNew philosophical issues will arise in CP3SME research as the world people live and the way people interact with each other have been changed greatly with the generation and evolution of various spaces.
+p995
+aVThe scientific pursuit of the CP3SME brings challenging philosophical issues.
+p996
+aVsince the mental space has been reflecting various spaces and carrying out reasoning in lifetime.
+p997
+aVOnly the mental space has the ability to emerge and explain socio semantics
+p998
+aVThe generation and evolution of spaces can be regarded as a continuous classification process.
+p999
+aVSo, classification, link and rule are the basic form of the CP3SME.
+p1000
+aVbecause they have different experience.
+p1001
+aVDifferent semantic images may emerge when a form is sensed by different individuals
+p1002
+aVsince interactions enable individuals to co-experience in multiple spaces.
+p1003
+aVA little interaction helps a lot in understanding
+p1004
+aVA little interaction helps a lot in understanding since interactions enable individuals to co-experience in multiple spaces.
+p1005
+aVThis implies an approach to improving the current research in many areas such as the semantic web, natural language processing, and text understanding by adding a little interaction.
+p1006
+aVby introducing a semantic space and reasoning mechanisms such as relational reasoning, analogical reasoning, inductive reasoning, and complex reasoning.
+p1007
+aV(1) Extending the hyperlink network to support some preliminary intelligence such as guided browsing, query implicit relations, question answering and explanation
+p1008
+aVby integrating with the multi-dimensional classification space [89].
+p1009
+aV(3) Realizing semantic lens
+p1010
+aVby linking within and through spaces, forming and improving the closed loops of complex links and flows through sensing, classifying, emerging, computing, communicating, interacting, controlling, behaving, and reasoning.
+p1011
+aVMachine intelligence, human intelligence, and socio intelligence are extended in the complex space
+p1012
+aVwith the development of the Web and various advanced Web applications.
+p1013
+aVThe ideal of Bush has been realized
+p1014
+aVwith the development of the next-generation Web.
+p1015
+aVThe ideal of Gray's personal memex and world memex will be realized in the near future
+p1016
+aVsince traditional machines and the cyber space are limited in ability to realize the CP3SME and cyber-physical-socio intelligence.
+p1017
+aVExploring the CP3SME will go beyond Turing's ideal
+p1018
+aVMulti-disciplinary study
+p1019
+aVwill lead to breakthrough in sciences, technologies, engineering and philosophy.
+p1020
+asg354
+(lp1021
+(lp1022
+g709
+aa(lp1023
+g711
+ag712
+ag713
+ag714
+aa(lp1024
+g716
+aa(lp1025
+g718
+aa(lp1026
+g720
+aa(lp1027
+g722
+aa(lp1028
+g724
+aa(lp1029
+g726
+aa(lp1030
+g728
+aa(lp1031
+g730
+aa(lp1032
+g732
+aa(lp1033
+g734
+aa(lp1034
+g736
+aa(lp1035
+g738
+aa(lp1036
+g740
+aa(lp1037
+g742
+aa(lp1038
+g744
+aa(lp1039
+g746
+aa(lp1040
+g748
+aa(lp1041
+g750
+aa(lp1042
+g752
+aa(lp1043
+g754
+aa(lp1044
+g756
+aa(lp1045
+g758
+aa(lp1046
+g760
+aa(lp1047
+g762
+aa(lp1048
+g764
+aa(lp1049
+g766
+aa(lp1050
+g769
+aa(lp1051
+g771
+aa(lp1052
+g774
+aa(lp1053
+g776
+aa(lp1054
+g778
+aa(lp1055
+g780
+aa(lp1056
+g782
+aa(lp1057
+g786
+aa(lp1058
+g788
+aa(lp1059
+g790
+aa(lp1060
+g794
+aa(lp1061
+g796
+aa(lp1062
+g798
+aa(lp1063
+g800
+aa(lp1064
+g802
+ag803
+ag804
+ag805
+aa(lp1065
+g808
+aa(lp1066
+g810
+aa(lp1067
+g812
+aa(lp1068
+g814
+aa(lp1069
+g816
+aa(lp1070
+g818
+aa(lp1071
+g820
+aa(lp1072
+g822
+aa(lp1073
+g824
+aa(lp1074
+g826
+aa(lp1075
+g828
+aa(lp1076
+g830
+aa(lp1077
+g832
+aa(lp1078
+g834
+aa(lp1079
+g836
+aa(lp1080
+g838
+aa(lp1081
+g840
+aa(lp1082
+g842
+aa(lp1083
+g844
+aa(lp1084
+g846
+aa(lp1085
+g848
+aa(lp1086
+g850
+aa(lp1087
+g852
+aa(lp1088
+g854
+aa(lp1089
+g856
+aa(lp1090
+g858
+aa(lp1091
+g860
+aa(lp1092
+g862
+aa(lp1093
+g864
+aa(lp1094
+g866
+aa(lp1095
+g868
+aa(lp1096
+g870
+aa(lp1097
+g872
+aa(lp1098
+g874
+aa(lp1099
+g876
+aa(lp1100
+g878
+aa(lp1101
+g880
+aa(lp1102
+g882
+aa(lp1103
+g884
+aa(lp1104
+g886
+aa(lp1105
+g888
+aa(lp1106
+g890
+aa(lp1107
+g892
+aa(lp1108
+g894
+aa(lp1109
+g896
+aa(lp1110
+g898
+aa(lp1111
+g900
+aa(lp1112
+g902
+aa(lp1113
+g904
+aa(lp1114
+g906
+aa(lp1115
+g908
+aa(lp1116
+g910
+aa(lp1117
+g912
+aa(lp1118
+g914
+aa(lp1119
+g916
+aa(lp1120
+g918
+aa(lp1121
+g920
+aa(lp1122
+g922
+aa(lp1123
+g924
+aa(lp1124
+g926
+aa(lp1125
+g928
+aa(lp1126
+g930
+aa(lp1127
+g932
+aa(lp1128
+g934
+aa(lp1129
+g936
+aa(lp1130
+g943
+aa(lp1131
+g945
+aa(lp1132
+g947
+aa(lp1133
+g949
+aa(lp1134
+g951
+aa(lp1135
+g953
+aa(lp1136
+g955
+aa(lp1137
+g957
+aa(lp1138
+g959
+aa(lp1139
+g961
+aa(lp1140
+g963
+aa(lp1141
+g965
+aa(lp1142
+g969
+aa(lp1143
+g973
+aa(lp1144
+g975
+aa(lp1145
+g977
+aa(lp1146
+g979
+aa(lp1147
+g981
+aa(lp1148
+g983
+aa(lp1149
+g985
+aa(lp1150
+g987
+aa(lp1151
+g989
+aa(lp1152
+g992
+aa(lp1153
+g994
+aa(lp1154
+g996
+aa(lp1155
+g998
+aa(lp1156
+g1000
+aa(lp1157
+g1002
+aa(lp1158
+g1004
+aa(lp1159
+g1006
+aa(lp1160
+g1008
+aa(lp1161
+g1010
+aa(lp1162
+g1012
+aa(lp1163
+g1014
+aa(lp1164
+g1016
+aa(lp1165
+g1018
+aa(lp1166
+g1020
+aasg448
+(lp1167
+(lp1168
+g708
+aa(lp1169
+g710
+aa(lp1170
+g715
+aa(lp1171
+g717
+aa(lp1172
+g719
+aa(lp1173
+g721
+aa(lp1174
+g723
+aa(lp1175
+g725
+aa(lp1176
+g727
+aa(lp1177
+g729
+aa(lp1178
+g731
+aa(lp1179
+g733
+aa(lp1180
+g735
+aa(lp1181
+g737
+aa(lp1182
+g739
+aa(lp1183
+g741
+aa(lp1184
+g743
+aa(lp1185
+g745
+aa(lp1186
+g747
+aa(lp1187
+g749
+aa(lp1188
+g751
+aa(lp1189
+g753
+aa(lp1190
+g755
+aa(lp1191
+g757
+aa(lp1192
+g759
+aa(lp1193
+g761
+aa(lp1194
+g763
+aa(lp1195
+g765
+aa(lp1196
+g767
+ag768
+aa(lp1197
+g770
+aa(lp1198
+g772
+ag773
+aa(lp1199
+g775
+aa(lp1200
+g777
+aa(lp1201
+g779
+aa(lp1202
+g781
+aa(lp1203
+g783
+ag784
+ag785
+aa(lp1204
+g787
+aa(lp1205
+g789
+aa(lp1206
+g791
+ag792
+ag793
+aa(lp1207
+g795
+aa(lp1208
+g797
+aa(lp1209
+g799
+aa(lp1210
+g801
+aa(lp1211
+g806
+ag807
+aa(lp1212
+g809
+aa(lp1213
+g811
+aa(lp1214
+g813
+aa(lp1215
+g815
+aa(lp1216
+g817
+aa(lp1217
+g819
+aa(lp1218
+g821
+aa(lp1219
+g823
+aa(lp1220
+g825
+aa(lp1221
+g827
+aa(lp1222
+g829
+aa(lp1223
+g831
+aa(lp1224
+g833
+aa(lp1225
+g835
+aa(lp1226
+g837
+aa(lp1227
+g839
+aa(lp1228
+g841
+aa(lp1229
+g843
+aa(lp1230
+g845
+aa(lp1231
+g847
+aa(lp1232
+g849
+aa(lp1233
+g851
+aa(lp1234
+g853
+aa(lp1235
+g855
+aa(lp1236
+g857
+aa(lp1237
+g859
+aa(lp1238
+g861
+aa(lp1239
+g863
+aa(lp1240
+g865
+aa(lp1241
+g867
+aa(lp1242
+g869
+aa(lp1243
+g871
+aa(lp1244
+g873
+aa(lp1245
+g875
+aa(lp1246
+g877
+aa(lp1247
+g879
+aa(lp1248
+g881
+aa(lp1249
+g883
+aa(lp1250
+g885
+aa(lp1251
+g887
+aa(lp1252
+g889
+aa(lp1253
+g891
+aa(lp1254
+g893
+aa(lp1255
+g895
+aa(lp1256
+g897
+aa(lp1257
+g899
+aa(lp1258
+g901
+aa(lp1259
+g903
+aa(lp1260
+g905
+aa(lp1261
+g907
+aa(lp1262
+g909
+aa(lp1263
+g911
+aa(lp1264
+g913
+aa(lp1265
+g915
+aa(lp1266
+g917
+aa(lp1267
+g919
+aa(lp1268
+g921
+aa(lp1269
+g923
+aa(lp1270
+g925
+aa(lp1271
+g927
+aa(lp1272
+g929
+aa(lp1273
+g931
+aa(lp1274
+g933
+aa(lp1275
+g935
+aa(lp1276
+g937
+ag938
+ag939
+ag940
+ag941
+ag942
+aa(lp1277
+g944
+aa(lp1278
+g946
+aa(lp1279
+g948
+aa(lp1280
+g950
+aa(lp1281
+g952
+aa(lp1282
+g954
+aa(lp1283
+g956
+aa(lp1284
+g958
+aa(lp1285
+g960
+aa(lp1286
+g962
+aa(lp1287
+g964
+aa(lp1288
+g966
+ag967
+ag968
+aa(lp1289
+g970
+ag971
+ag972
+aa(lp1290
+g974
+aa(lp1291
+g976
+aa(lp1292
+g978
+aa(lp1293
+g980
+aa(lp1294
+g982
+aa(lp1295
+g984
+aa(lp1296
+g986
+aa(lp1297
+g988
+aa(lp1298
+g990
+ag991
+aa(lp1299
+g993
+aa(lp1300
+g995
+aa(lp1301
+g997
+aa(lp1302
+g999
+aa(lp1303
+g1001
+aa(lp1304
+g1003
+aa(lp1305
+g1005
+aa(lp1306
+g1007
+aa(lp1307
+g1009
+aa(lp1308
+g1011
+aa(lp1309
+g1013
+aa(lp1310
+g1015
+aa(lp1311
+g1017
+aa(lp1312
+g1019
+aasg542
+(lp1313
+VHow the ideal environment human beings live and work is like, what are its distinguished characteristics and basic laws, and what is the basis of future intelligence are fundamental scientific issues.
+p1314
+aVThe CP3SME is a complex space, where diverse spaces emerge, evolve, compete and cooperate with each other.
+p1315
+aVIt aims at an ideal environment for human beings to live and work, and concerns diversity, dynamicity, harmony and sustainability.
+p1316
+aVLinking within and through spaces, emerging semantic images, and reasoning at different levels and facets are basic motions of the environment.
+p1317
+aVThe following are four levels of pursuits of semantic linking.
+p1318
+aV(1) Extending the hyperlink network to support some preliminary intelligence such as guided browsing, query implicit relations, question answering and explanation by introducing a semantic space and reasoning mechanisms such as relational reasoning, analogical reasoning, inductive reasoning, and complex reasoning.
+p1319
+aV(2) Establishing a self-organized semantic networking model to support basic socio intelligence with some distinguished features such as self-organized peer-to-peer linking and high-performance routing, semantic communities and emerging principles, pervasive and effect-aware linking, and link recommendation.
+p1320
+aV(3) Realizing semantic lens by integrating with the multi-dimensional classification space [89].
+p1321
+aV(4) Exploring the general linking methodology.
+p1322
+aVThis concerns new philosophical thinking, interactive computing model, nature of the complex linking such as dynamicity, symmetry and rules of various flows, the methods for improving various closed loops, and the methods for coordinating spaces, controlling and predicting evolution.
+p1323
+aVMachine intelligence, human intelligence, and socio intelligence are extended in the complex space by linking within and through spaces, forming and improving the closed loops of complex links and flows through sensing, classifying, emerging, computing, communicating, interacting, controlling, behaving, and reasoning.
+p1324
+aVThe methodology of linking through spaces for cyber-physical-socio intelligence includes new models, principles, mechanisms, scientific issues, and philosophical explanation.
+p1325
+aVThe ideal of Bush has been realized with the development of the Web and various advanced Web applications.
+p1326
+aVThe ideal of Gray's personal memex and world memex will be realized in the near future with the development of the next-generation Web.
+p1327
+aVBut it is still hard to realize Turing's ideal on intelligent machine.
+p1328
+aVExploring the CP3SME will go beyond Turing's ideal since traditional machines and the cyber space are limited in ability to realize the CP3SME and cyber-physical-socio intelligence.
+p1329
+aVIn CP3SME, research objects and conditions of many disciplines will be changed.
+p1330
+aVMethodologies in respective disciplines are not suitable for research and develop the environment.
+p1331
+aVMulti-disciplinary study will lead to breakthrough in sciences, technologies, engineering and philosophy.
+p1332
+asg557
+Vf0003
+p1333
+sg559
+(lp1334
+VHumans consciously and subconsciously establish various links, emerge semantic images and reason in mind, learn linking effect and rules,select linked individuals to interact, and form closed loops through links while co-experiencing in multiple spaces in lifetime.
+p1335
+aVMachines are limited in these abilities although various graph-based models have been used to link resources in the cyber space.
+p1336
+aVThe following are fundamental limitations of machine intelligence:
+p1337
+aV(1) machines know little link and rules in the physical space, physiological space, psychological space, socio space and mental space, so it is not realistic to expect machines to discover laws and solve problems in these spaces;
+p1338
+aVand, (2) machines can only process pre-designed algorithms and data structures in the cyber space.
+p1339
+aVThey are limited in ability to go beyond the cyber space, to learn linking rules, to know the effect of linking, and to explain computing results according to physical, physiological, psychological and socio laws.
+p1340
+aVLinking various spaces will create a complex space -- the Cyber-Physical-Physiological-Psychological-SocioMental Environment CP3SME.
+p1341
+aVDiverse spaces will emerge, evolve, compete and cooperate with each other to extend machine intelligence and human intelligence.
+p1342
+aVFrom multi-disciplinary perspective, this paper reviews previous ideas on various links, introduces the concept of cyberphysical society, proposes the ideal of the CP3SME including its definition, characteristics, and multi-disciplinary revolution, and explores the methodology of linking through spaces for cyber-physical-socio intelligence.
+p1343
+aVThe methodology includes new models, principles, mechanisms, scientific issues, and philosophical explanation.
+p1344
+aVThe CP3SME aims at an ideal environment for humans to live and work.
+p1345
+aVExploration will go beyond previous ideals on intelligence and computing.
+p1346
+asba(icmyPackage
+FText
+p1347
+(dp1348
+g3
+(lp1349
+Vif there is a test which can be applied to a proposed solution.
+p1350
+aVWe call a problem well-defined
+p1351
+aVSince any test may be regarded as being performed by a Turing machine,
+p1352
+aVthis means that welldefined intellectual problems may be regarded as those of inverting functions and partial functions defined by Turing machines.
+p1353
+aVif the computation does not come to an end.
+p1354
+aVIt is not defined for a given value of n
+p1355
+aVin that there does not exist a Turing machine which will eventually come to a stop and print a 1 if g(m,r) does not exist.
+p1356
+aVIn fact, it has been shown that the existence of g(m,r) is an undecidable question
+p1357
+aVif g(m,r) does not exist.
+p1358
+aVthere does not exist a Turing machine which will eventually come to a stop and print a 1
+p1359
+aVEssentially, it substitutes integers in fm(n) until it comes to one such that fm(n) = r.
+p1360
+aVIt will therefore find g(m,r) if it exists, but will never know enough to give up if g(m,r) does not exist.
+p1361
+aVif it exists
+p1362
+aVIt will therefore find g(m,r)
+p1363
+aVif g(m,r) does not exist.
+p1364
+aVbut will never know enough to give up
+p1365
+aVSince the computation of fm(n) may not terminate for some n,
+p1366
+aVit is necessary to avoid getting stuck on such n's.
+p1367
+aVEssentially, it substitutes integers in fm(n) until it comes to one such that fm(n) = r.
+p1368
+aVIt will therefore find g(m,r) if it exists, but will never know enough to give up if g(m,r) does not exist.
+p1369
+aVSince the computation of fm(n) may not terminate for some n, it is necessary to avoid getting stuck on such n's.
+p1370
+aVSince the computation of fm(n) may not terminate for some n, it is necessary to avoid getting stuck on such n's.
+p1371
+aVHence the machine calculates the numbers fmk(n) in some order where fmk(n) is fm(n) if the computation of fm(n) ends after k steps and is otherwise undefined.
+p1372
+aVbecause this procedure is extremely inefficient.
+p1373
+aVOur problem does not end once we have found this procedure for computing g(m,r)
+p1374
+aVIn order to do better than such a purely enumerative method,
+p1375
+aVit is necessary to use methods which take into account some of the structure of Turing machines.
+p1376
+aVsince for any Turing machine there is another one which does k steps of the original machine in one step.
+p1377
+aVthis won't do
+p1378
+aVby increasing the number of internal states, though this is not so easy to show.
+p1379
+aVIt is probably also possible to increase the speed
+p1380
+aVThe most obvious idea is to say that if T1 and T2 are two Turing machines each computing a g(m,r), then for a particular m and r the more efficient one is the one which carries out the computation in the fewest steps.
+p1381
+aVHowever, this won't do since for any Turing machine there is another one which does k steps of the original machine in one step.
+p1382
+aVHowever, the new machine has many more different kinds of symbol than the old.
+p1383
+aVIt is probably also possible to increase the speed by increasing the number of internal states, though this is not so easy to show.
+p1384
+aV(Shannon shows elsewhere in these studies that it is possible to reduce the number of internal states to two at the cost of increasing the number of symbols and reducing the speed.
+p1385
+aVHence we offer the following revised definition of the length of a computation performed by a Turing machine.
+p1386
+aVFor any universal Turing machine there is a standard way of recoding on it the computation performed by the given machine.
+p1387
+aVLet this computation be recoded on a fixed universal Turing machine and count the number of steps in the new computation.
+p1388
+aVThere are certain difficulties here connected with the fact that the rate of computation is limited if the tape of the universal machine is finite dimensional, and hence the rate should probably be defined with respect to a machine whose tape is infinite dimensional but each square of which has at most two states and which has only two internal states.
+p1389
+aVThis requires a mild generalization of the concept of Turing machines.
+p1390
+aVif the tape of the universal machine is finite dimensional
+p1391
+aVthe rate of computation is limited
+p1392
+aVIt will be made at least plausible that a machine with Q internal states and S symbols should be considered as making about (1/2)log(QS) elementary steps per step of computation
+p1393
+aVand hence the number of steps in a computation should be multiplied by this f
+p1394
+aVif L(m,r,T1) \u2264 L(m,r,T2) for all m and r for which these numbers are finite,
+p1395
+aVwe should certainly say that T1 is more efficient than T2.
+p1396
+aVby adding to it facilities for testing a conclusion and having it spend a small fraction of its time trying the integers in order
+p1397
+aVAny machine can be modified into such a machine
+p1398
+aVThe idea of assigning a weight function p(m,r) and then calculating SUM_(m,r)(p(m,r)L(m,r,T)) does not work very well because L(m,r,T) is not bounded by any recursive function of m and r.
+p1399
+aVHowever, it is not so easy to give a function which gives an over-all estimate of the efficiency of a machine at computing g(m,r).
+p1400
+aVbecause L(m,r,T) is not bounded by any recursive function of m and r.
+p1401
+aVThe idea of assigning a weight function p(m,r) and then calculating SUM_(m,r)(p(m,r)L(m,r,T)) does not work very well
+p1402
+aVbecause there are rather simple machines whose only procedure is to guess a constant which are fast when g(m,r) happens to equal that constant.
+p1403
+aVThere cannot be any machine which is as fast as any other machine on any problem
+p1404
+aVThis is known to be a hopeless task.
+p1405
+aVSystems much simpler than Turing machine theory have been shown to have unsolvable decision procedures.
+p1406
+aVSo, we look for a way of evading these difficulties.
+p1407
+aVSystems much simpler than Turing machine theory have been shown to have unsolvable decision procedures.
+p1408
+aVThis is known to be a hopeless task.
+p1409
+aVThis is based on the plausible idea that, in searching for the solution to a problem, the given data should be taken into account.
+p1410
+aVOur procedure consists in trying the numbers fk(m,r) in order (again diagonalizing to avoid computations which don't end.
+p1411
+aVThis is based on the idea that the best procedure is more likely to be recursively simple, rather than merely to have a low number in the ordering.
+p1412
+aVThe next complication which suggests itself is to revise the order in which recursive functions are considered.
+p1413
+aVOne way is to consider f_(fk(L))(m,r) diagonalized on k and L.
+p1414
+aVby going through the enumeration.
+p1415
+aVOf course, exhaustiveness in examining for usefulness can be attained for any effectively enumerable class of objects simply
+p1416
+aVIn order to get around the fact that all formal systems which are anywhere near adequate for describing recursive function theory are incomplete,
+p1417
+aVwe avoid restriction to any one of them by introducing the notion of a formal theory (not for the first time,
+p1418
+aVby introducing the notion of a formal theory (not for the first time,
+p1419
+aVwe avoid restriction to any one of them
+p1420
+aVThe reader should note that a formal equivalence could probably be established between formal theories and certain action schemes.
+p1421
+aVThus, knowledge can be interpreted as a predisposition to act in certain ways under given conditions, and an action scheme can be interpreted as a belief that certain action is appropriate under these conditions.
+p1422
+aVbecause a simple theory may have a very complicated interpretation as an action scheme and conversely, and in this inversion problem the simplicity of an object is one of its most important properties.
+p1423
+aVThis equivalence should not be made
+p1424
+aVif and only if its behavior can most concisely be described by statements, including those of the form "It now believes Pythagoras' theorem.
+p1425
+aVPerhaps, a machine should be regarded as thinking
+p1426
+aVIn determining a procedure which has action schemes, theories, etc., we are imposing our ideas of the structure of the problem on the machine.
+p1427
+aVThe point is to do this so that the procedures we offer are general (will eventually solve every solvable problem) and also are improvable by the methods built into the machine.
+p1428
+aVHowever, if the machine were working well,
+p1429
+aVan observer of its internal mechanism might come to the conclusion that a certain statement of a theory is being used as though it were, say (x)fm(x) = 0, etc.
+p1430
+aVIn particular, if there exist more or less satisfactory answers with no way of deciding whether an answer already obtained can be improved on a reasonable time,
+p1431
+aVthe problem is not well-defined.
+p1432
+asg354
+(lp1433
+(lp1434
+g1351
+aa(lp1435
+g1353
+aa(lp1436
+g1355
+aa(lp1437
+g1357
+aa(lp1438
+g1359
+aa(lp1439
+g1361
+aa(lp1440
+g1363
+aa(lp1441
+g1365
+aa(lp1442
+g1367
+aa(lp1443
+g1370
+aa(lp1444
+g1372
+aa(lp1445
+g1374
+aa(lp1446
+g1376
+aa(lp1447
+g1378
+aa(lp1448
+g1380
+aa(lp1449
+g1386
+ag1387
+ag1388
+ag1389
+ag1390
+aa(lp1450
+g1392
+aa(lp1451
+g1394
+aa(lp1452
+g1396
+aa(lp1453
+g1398
+aa(lp1454
+g1400
+aa(lp1455
+g1402
+aa(lp1456
+g1404
+aa(lp1457
+g1407
+aa(lp1458
+g1409
+aa(lp1459
+g1411
+aa(lp1460
+g1413
+ag1414
+aa(lp1461
+g1416
+aa(lp1462
+g1418
+aa(lp1463
+g1420
+aa(lp1464
+g1422
+aa(lp1465
+g1424
+aa(lp1466
+g1426
+aa(lp1467
+g1428
+aa(lp1468
+g1430
+aa(lp1469
+g1432
+aasg448
+(lp1470
+(lp1471
+g1350
+aa(lp1472
+g1352
+aa(lp1473
+g1354
+aa(lp1474
+g1356
+aa(lp1475
+g1358
+aa(lp1476
+g1360
+aa(lp1477
+g1362
+aa(lp1478
+g1364
+aa(lp1479
+g1366
+aa(lp1480
+g1368
+ag1369
+aa(lp1481
+g1371
+aa(lp1482
+g1373
+aa(lp1483
+g1375
+aa(lp1484
+g1377
+aa(lp1485
+g1379
+aa(lp1486
+g1381
+ag1382
+ag1383
+ag1384
+ag1385
+aa(lp1487
+g1391
+aa(lp1488
+g1393
+aa(lp1489
+g1395
+aa(lp1490
+g1397
+aa(lp1491
+g1399
+aa(lp1492
+g1401
+aa(lp1493
+g1403
+aa(lp1494
+g1405
+ag1406
+aa(lp1495
+g1408
+aa(lp1496
+g1410
+aa(lp1497
+g1412
+aa(lp1498
+g1415
+aa(lp1499
+g1417
+aa(lp1500
+g1419
+aa(lp1501
+g1421
+aa(lp1502
+g1423
+aa(lp1503
+g1425
+aa(lp1504
+g1427
+aa(lp1505
+g1429
+aa(lp1506
+g1431
+aasg542
+S''
+p1507
+sg557
+Vf0014
+p1508
+sg559
+(lp1509
+sba(icmyPackage
+FText
+p1510
+(dp1511
+g3
+(lp1512
+Vbecause it doesn't yet know about the deposit I made this morning.
+p1513
+aVWe may say of an automatic teller machine, 'It thinks I don't have enough money in my account
+p1514
+aVMuch that we'll need to know concerns the information stored in computers,
+p1515
+aVwhich is why we find ourselves using psychological words like 'knows', 'thinks', and 'wants' in referring to machines, even though machines are very different from humans and these  words arose from the human need to talk about other humans.
+p1516
+aVAdopting this principle of rationality,
+p1517
+aVwe see that different machines have intellectual qualities to differing extents.
+p1518
+aVHowever, artificial intelligence is a difficult branch of science and engineering, and, judging by present slow progress,
+p1519
+aVit might take a long time.
+p1520
+aVWe have enough trouble figuring out our duties to our fellow humans and to animals without creating a bunch of robots with qualities that would allow anyone to feel sorry for them or would allow them to feel sorry for themselves.
+p1521
+aVPresent machines have almost no emotional qualities, and, in my opinion, it would be a bad idea to give them any.
+p1522
+aVSince I advocate some anthropomorphism,
+p1523
+aVI'd better explain what I consider good and bad anthropomorphism.
+p1524
+aVIt helps understand what they will do, how our actions will affect them, how to compare them with ourselves and how to design them.
+p1525
+aVThe reason for ascribing mental qualities and mental processes to machines is the same as for ascribing them to other people.
+p1526
+aVFirst we want to provide machines with theories of knowledge and belief so they can reason about what their users know, don't know, and want.
+p1527
+aVSecond what the user knows about the machine can often best be expressed using mental terms.
+p1528
+aVResearchers in artificial intelligence (AI) are interested in the use of mental terms to describe machines for two reasons.
+p1529
+aVbecause it knows there's no money in my account,'
+p1530
+aV'It won't give me any cash
+p1531
+aVbecause I gave it my secret number'.
+p1532
+aV'It knows who I am
+p1533
+aVbecause we're hard put to define these things.
+p1534
+aVIt's difficult to be rigorous about whether a machine really 'knows', 'thinks', etc.,
+p1535
+aVwhereby the program decides what to do.
+p1536
+aVThese axioms are used by reasoning programs as part of the process
+p1537
+aVbecause the concepts form a system that we fit as a whole to phenomena.
+p1538
+aVIn general we cannot give definitions,
+p1539
+aVif we can regard it as believing that it will attempt to do it.
+p1540
+aVWe say that a machine intends to do something
+p1541
+aVIf the machine may do something we don't know about but that can laterbe explained in relation to a goal,
+p1542
+aVwe have no choice but to use 'is trying' or some synonym to explain the behavior.
+p1543
+aVSome of the above attributes of human self-consciousness are easy to program.
+p1544
+aVFor example, it is not hard to make a program look at itself, and many AI programs do look at parts of themselves.
+p1545
+aVOthers are more difficult.
+p1546
+aVAlso animals cannot be shown to have more than a few.
+p1547
+aVTherefore, many present and future programs can best be described as partially self-conscious.
+p1548
+aVbecause there are many ways of knowing that a dog wants to go out.
+p1549
+aVThe statement isn't shorthand for something the dog did,
+p1550
+aVbecause of its connection with all of these things and because what it says about the dog corresponds in an informative way with similar statements about people.
+p1551
+aVIt is useful
+p1552
+aVIf the control is placed on a radiator or radiant heated floors,
+p1553
+aVit will 'think' the entire room is hot and will lower your blanket temperature, making your bed too cold.
+p1554
+aVit will 'think' the entire room is hot and will lower your blanket temperature,
+p1555
+aVmaking your bed too cold.
+p1556
+aVIf the control is placed on the window sill in a cold draft,
+p1557
+aVit will 'think' the entire room is cold and will heat up your bed so it will be too hot.
+p1558
+aVit will 'think' the entire room is cold and will heat up your bed
+p1559
+aVso it will be too hot.
+p1560
+aVbecause most people don't need the word 'think' to understand how a thermostatic control works.
+p1561
+aVThe example is extreme,
+p1562
+aVIf we had only thermostats to think about,
+p1563
+aVwe wouldn't bother with the concept of belief at all.
+p1564
+aVAnd if all we wanted to think about were zero and one,
+p1565
+aVwe wouldn't bother with the concept of number.
+p1566
+aVConfronted with an uncomfortable room you form any of the following hypotheses depending on what other information you had.
+p1567
+aV1) It's trying to do the right thing, but it can't because the valve is stuck.
+p1568
+aVBut then it should complain.
+p1569
+aV2) It regards Grandpa as more important than me, and it is keeping the room hot in case he comes in.
+p1570
+aV3) It confuses me with Grandpa.
+p1571
+aV4) It has forgotten what climate I like.
+p1572
+aVbecause the valve is stuck.
+p1573
+aV1) It's trying to do the right thing, but it can't
+p1574
+aVSearle says that since the person in the example doesn't understand Chinese -- even though he can produce intelligent Chinese conversation by following rules -- a computer cannot be said to 'understand' things.
+p1575
+aVWe suppose that the rules result in a Chinese conversation so intelligent that the person giving and receiving the sentences can't tell him from an intelligent Chinese.
+p1576
+aVThis is analogous to a computer, which only obeys its programming language, but can be programmed such that one can communicate with it in a different programming language, or in English.
+p1577
+aVaimed at understanding a system with which one interacts.
+p1578
+aVDaniel Dennett, Tufts University philosopher, has proposed three attitudes
+p1579
+aVit shouldn't be too hard to figure out how to set it, no matter how it works.
+p1580
+aVThe design stance can usefully be applied to a thermostat --
+p1581
+aVWe say things like, 'The store's billing computer wants me to pay up,
+p1582
+aVso it intends to frighten me by sending me threatening letters'.
+p1583
+aVwhen we also understand the machine in physical terms.
+p1584
+aVIt is easiest to uderstand the ascription of thoughts to machines in circumstances
+p1585
+aVWe humans can easily fool ourselves when there is something we want to believe.
+p1586
+aVHowever, we must be careful not to ascribe properties to a machine that the particular machine doesn't have.
+p1587
+aVIf designers and programmers think about the apparent mental qualities that their programs will have,
+p1588
+aVthey'll create programs that are easier and pleasanter -- more humane -- to deal with.
+p1589
+asg354
+(lp1590
+(lp1591
+g1514
+aa(lp1592
+g1516
+aa(lp1593
+g1518
+aa(lp1594
+g1520
+aa(lp1595
+g1522
+aa(lp1596
+g1524
+aa(lp1597
+g1526
+aa(lp1598
+g1529
+aa(lp1599
+g1531
+aa(lp1600
+g1533
+aa(lp1601
+g1535
+aa(lp1602
+g1537
+aa(lp1603
+g1539
+aa(lp1604
+g1541
+aa(lp1605
+g1543
+aa(lp1606
+g1548
+aa(lp1607
+g1550
+aa(lp1608
+g1552
+aa(lp1609
+g1554
+aa(lp1610
+g1556
+aa(lp1611
+g1558
+aa(lp1612
+g1560
+aa(lp1613
+g1562
+aa(lp1614
+g1564
+aa(lp1615
+g1566
+aa(lp1616
+g1568
+ag1569
+ag1570
+ag1571
+ag1572
+aa(lp1617
+g1574
+aa(lp1618
+g1576
+ag1577
+aa(lp1619
+g1579
+aa(lp1620
+g1581
+aa(lp1621
+g1583
+aa(lp1622
+g1585
+aa(lp1623
+g1587
+aa(lp1624
+g1589
+aasg448
+(lp1625
+(lp1626
+g1513
+aa(lp1627
+g1515
+aa(lp1628
+g1517
+aa(lp1629
+g1519
+aa(lp1630
+g1521
+aa(lp1631
+g1523
+aa(lp1632
+g1525
+aa(lp1633
+g1527
+ag1528
+aa(lp1634
+g1530
+aa(lp1635
+g1532
+aa(lp1636
+g1534
+aa(lp1637
+g1536
+aa(lp1638
+g1538
+aa(lp1639
+g1540
+aa(lp1640
+g1542
+aa(lp1641
+g1544
+ag1545
+ag1546
+ag1547
+aa(lp1642
+g1549
+aa(lp1643
+g1551
+aa(lp1644
+g1553
+aa(lp1645
+g1555
+aa(lp1646
+g1557
+aa(lp1647
+g1559
+aa(lp1648
+g1561
+aa(lp1649
+g1563
+aa(lp1650
+g1565
+aa(lp1651
+g1567
+aa(lp1652
+g1573
+aa(lp1653
+g1575
+aa(lp1654
+g1578
+aa(lp1655
+g1580
+aa(lp1656
+g1582
+aa(lp1657
+g1584
+aa(lp1658
+g1586
+aa(lp1659
+g1588
+aasg542
+(lp1660
+VProgram designers have a tendency to think of the users as idiots who need to be controlled.
+p1661
+aVThey should rather think of their program as a servant, whose master, the user, should be able to control it.
+p1662
+aVIf designers and programmers think about the apparent mental qualities that their programs will have, they'll create programs that are easier and pleasanter -- more humane -- to deal with.
+p1663
+aVIt is easiest to uderstand the ascription of thoughts to machines in circumstances when we also understand the machine in physical terms.
+p1664
+aVHowever, the payoff comes when either no-one or only an expert understands the machine physically.
+p1665
+aVHowever, we must be careful not to ascribe properties to a machine that the particular machine doesn't have.
+p1666
+aVWe humans can easily fool ourselves when there is something we want to believe.
+p1667
+aVThe mental qualities of present machines are not the same as ours.
+p1668
+aVWhile we will probably be able, in the future, to make machines with mental qualities more like our own, we'll probably never want to deal with machines that are too much like us.
+p1669
+aVWho wants to deal with a computer that loses its temper, or an automatic teller that falls in love?
+p1670
+aVComputers will end up with the psychology that is convenient to their designers -- (and they'll be fascist bastards if those designers don't think twice).
+p1671
+asg557
+Vf0015
+p1672
+sg559
+(lp1673
+sba(icmyPackage
+FText
+p1674
+(dp1675
+g3
+(lp1676
+VNevertheless, hardly any of them have certain common sense knowledge and ability possessed by any non-feeble-minded human.
+p1677
+aVThis lack makes them "brittle".
+p1678
+aVBy this is meant that they are difficult to extend beyond the scope originally contemplated by their designers, and they usually don't recognize their own limitations.
+p1679
+aVbecause new AI knowledge offers new hope of progress.
+p1680
+aVAt present it's popular, perhaps
+p1681
+aVEven patients are not really part of the ontology, although MYCIN asks for many facts about the specific patient.
+p1682
+aVThis is because patients aren't values of variables, and MYCIN never compares the infections of two different patients.
+p1683
+aVMYCIN's ontology includes bacteria, symptoms, tests, possible sites of infection, antibiotics and treatments.
+p1684
+aVDoctors, hospitals, illness and death are absent.
+p1685
+aVEven patients are not really part of the ontology, although MYCIN asks for many facts about the specific patient.
+p1686
+aVThis is because patients aren't values of variables, and MYCIN never compares the infections of two different patients.
+p1687
+aVIt would therefore be difficult to modify MYCIN to learn from its experience.
+p1688
+aVWhen a rule is activated,
+p1689
+aVMYCIN tests whether the pattern part matches the database.
+p1690
+aVIf not the pattern fails
+p1691
+aVand MYCIN tries another.
+p1692
+aVIf the match is successful,
+p1693
+aVthen MYCIN performs the action part of the pattern using the values of the variables determined by the pattern part.
+p1694
+aVWhen MYCIN is used in its intended manner it scores better than medical students or interns or practicing physicians and on a par with experts in bacterial diseases when the latter are asked to perform in the same way.
+p1695
+aVWhen MYCIN is used in its intended manner it scores better than medical students or interns or practicing physicians and on a par with experts in bacterial diseases when the latter are asked to perform in the same way.
+p1696
+aVif there were a means of keeping MYCIN's database current with new discoveries in the field, i.e.
+p1697
+aVSome said it would be ok
+p1698
+aVbecause it doesn't know its own limitations.
+p1699
+aVOthers say that MYCIN is not even close to usable except experimentally,
+p1700
+aVProgrammers always develop the idea that the users of their programs are idiots,
+p1701
+aVso the opinion that doctors aren't smart enough not to be misled by MYCIN's limitations may be at least partly a consequence of this ideology.
+p1702
+aVit must be able to determine the effects of its own actions.
+p1703
+aVfor a program to plan intelligently,
+p1704
+aVSince MYCIN's actions are advice to the doctor,
+p1705
+aVfull planning would have to include information about the effects of MYCIN's output on what the doctor will do.
+p1706
+aVSince MYCIN doesn't know about the doctor,
+p1707
+aVit might plan the effects of the course of treatment on the patient.
+p1708
+aVbecause of the specific narrow domain in which MYCIN operates.
+p1709
+aVIgnoring prognosis is possible
+p1710
+aVif I knew more about bacterial diseases,
+p1711
+aVI would conclude that their treatment sometimes really does require planning and that lack of planning ability limits MYCIN's utility.
+p1712
+aVfor representing facts about the effects of actions and other events.
+p1713
+aV2) Various formalisms are used in artificial intelligence
+p1714
+aVby describing a new situation that results from the event.
+p1715
+aVHowever, all systems that I know about give the effects of an event in a situation
+p1716
+aVbecause he is a specialist in tropical medicine.
+p1717
+aVSmith knows about cholera,
+p1718
+aVunless he is convinced of its necessity.
+p1719
+aVAn advanced MYCIN might need to know that a patient won't take a bad tasting medicine
+p1720
+aVbecause it is common sense physics that tells us what the equation s = 0.5gt^(2) means.
+p1721
+aVIn fact scientific physics is imbedded in common sense physics,
+p1722
+aVIf MYCIN were extended to be a robot physician
+p1723
+aVit would have to know common sense physics and maybe also some scientific physics.
+p1724
+aVdepends on being able to do common sense reasoning.
+p1725
+aVOur ability to use common sense knowledge
+p1726
+aVIf you know that I have a car,
+p1727
+aVyou may conclude that it is a good idea to ask me for a ride.
+p1728
+aVIf you then learn that my car is being fixed (which does not contradict what you knew before),
+p1729
+aVyou no longer conclude that you can get a ride.
+p1730
+aVIf you now learn that the car will be out in half an hour
+p1731
+aVyou reverse yourself again.
+p1732
+aVSeveral artificial intelligence researchers, for example Marvin Minsky (1974) have pointed out that intelligent computer programs will have to reason nonmonotonically.
+p1733
+aVSome concluded that therefore logic is not an appropriate formalism.
+p1734
+aVby additional modes of nonmonotonic reasoning, which are just as formal as deduction and just as susceptible to mathematical study and computer implementation.
+p1735
+aVHowever, it has turned out that deduction in mathematical logic can be supplemented
+p1736
+aVby requiring it to be true of a minimal set of objects.
+p1737
+aVCircumscription further constrains the property or relation
+p1738
+aVSince we don't include negative statements in the database,
+p1739
+aVwe could provide for flying camels, if there were any, by adding statements without removing existing statements.
+p1740
+aVon the grounds that my bird might fly away.
+p1741
+aVSuppose I hire you to build me a bird cage, and you build it without a top, and I refuse to pay
+p1742
+aVon the grounds that my bird is a penguin, and the top is a waste.
+p1743
+aVOn the other hand suppose you build it with a top, and I refuse to pay full price
+p1744
+aVif a bird can fly
+p1745
+aVthe fact need not be mentioned,
+p1746
+aVif the bird can't fly and it is relevant,
+p1747
+aVthen the fact must be mentioned.
+p1748
+aVSuppose I hire you to build me a bird cage, and you build it without a top, and I refuse to pay on the grounds that my bird might fly away.
+p1749
+aVA judge will side with me.
+p1750
+aVOn the other hand suppose you build it with a top, and I refuse to pay full price on the grounds that my bird is a penguin, and the top is a waste.
+p1751
+aVUnless I told you that my bird couldn't fly, the judge will side with you.
+p1752
+aVWe can therefore regard it as a communication convention that if a bird can fly the fact need not be mentioned, but if the bird can't fly and it is relevant, then the fact must be mentioned.
+p1753
+asg354
+(lp1754
+(lp1755
+g1678
+ag1679
+aa(lp1756
+g1681
+aa(lp1757
+g1683
+aa(lp1758
+g1688
+aa(lp1759
+g1690
+aa(lp1760
+g1692
+aa(lp1761
+g1694
+aa(lp1762
+g1696
+aa(lp1763
+g1698
+aa(lp1764
+g1700
+aa(lp1765
+g1702
+aa(lp1766
+g1704
+aa(lp1767
+g1706
+aa(lp1768
+g1708
+aa(lp1769
+g1710
+aa(lp1770
+g1712
+aa(lp1771
+g1714
+aa(lp1772
+g1716
+aa(lp1773
+g1718
+aa(lp1774
+g1720
+aa(lp1775
+g1722
+aa(lp1776
+g1724
+aa(lp1777
+g1726
+aa(lp1778
+g1728
+aa(lp1779
+g1730
+aa(lp1780
+g1732
+aa(lp1781
+g1734
+aa(lp1782
+g1736
+aa(lp1783
+g1738
+aa(lp1784
+g1740
+aa(lp1785
+g1742
+aa(lp1786
+g1744
+aa(lp1787
+g1746
+aa(lp1788
+g1748
+aa(lp1789
+g1753
+aasg448
+(lp1790
+(lp1791
+g1677
+aa(lp1792
+g1680
+aa(lp1793
+g1682
+aa(lp1794
+g1684
+ag1685
+ag1686
+ag1687
+aa(lp1795
+g1689
+aa(lp1796
+g1691
+aa(lp1797
+g1693
+aa(lp1798
+g1695
+aa(lp1799
+g1697
+aa(lp1800
+g1699
+aa(lp1801
+g1701
+aa(lp1802
+g1703
+aa(lp1803
+g1705
+aa(lp1804
+g1707
+aa(lp1805
+g1709
+aa(lp1806
+g1711
+aa(lp1807
+g1713
+aa(lp1808
+g1715
+aa(lp1809
+g1717
+aa(lp1810
+g1719
+aa(lp1811
+g1721
+aa(lp1812
+g1723
+aa(lp1813
+g1725
+aa(lp1814
+g1727
+aa(lp1815
+g1729
+aa(lp1816
+g1731
+aa(lp1817
+g1733
+aa(lp1818
+g1735
+aa(lp1819
+g1737
+aa(lp1820
+g1739
+aa(lp1821
+g1741
+aa(lp1822
+g1743
+aa(lp1823
+g1745
+aa(lp1824
+g1747
+aa(lp1825
+g1749
+ag1750
+ag1751
+ag1752
+aasg542
+g1507
+sg557
+Vf0016
+p1826
+sg559
+(lp1827
+VAn expert system is a computer program intended to embody the knowledge and ability of an expert in a certain domain.
+p1828
+aVThe ideas behind them and several examples have been described in other lectures in this symposium.
+p1829
+aVTheir performance in their specialized domains are often very impressive.
+p1830
+aVNevertheless, hardly any of them have certain common sense knowledge and ability possessed by any non-feeble-minded human.
+p1831
+aVThis lack makes them "brittle".
+p1832
+aVBy this is meant that they are difficult to extend beyond the scope originally contemplated by their designers, and they usually don't recognize their own limitations.
+p1833
+aVMany important applications will require common sense abilities.
+p1834
+aVThe object of this lecture is to describe common sense abilities and the problems that require them.
+p1835
+aVCommon sense facts and methods are only very partially understood today, and extending this understanding is the key problem facing artificial intelligence.
+p1836
+aVThis isn't exactly a new point of view.
+p1837
+aVI have been advocating "Computer Programs with Common Sense"since I wrote a paper with that title in 1958.
+p1838
+aVStudying common sense capability has sometimes been popular and sometimes unpopular among AI researchers.
+p1839
+aVAt present it's popular, perhaps because new AI knowledge offers new hope of progress.
+p1840
+aVCertainly AI researchers today know a lot more about what common sense is than I knew in 1958 -- or in 1969 when I wrote another paper on the subject.
+p1841
+aVHowever, expressing common sense knowledge in formal terms has proved very difficult, and the number of scientists working in the area is still far too small.
+p1842
+aVOne of the best known expert systems is MYCIN (Shortliffe 1976;
+p1843
+aVDavis, Buchanan and Shortliffe 1977), a program for advising physicians on treating bacterial infections of the blood and meningitis.
+p1844
+aVIt does reasonably well without common sense, provided the user has common sense and understands the program's limitations.
+p1845
+aVMYCIN conducts a question and answer dialog.
+p1846
+aVAfter asking basic facts about the patient such as name, sex and age, MYCIN asks about suspected bacterial organisms, suspected sites of infection, the presence of specific symptoms (e.g.
+p1847
+aVfever, headache) relevant to diagnosis, the outcome of laboratory tests, and some others.
+p1848
+aVIt then recommends a certain course of antibiotics.
+p1849
+aVWhile the dialog is in English, MYCIN avoids having to understand freely written English by controlling the dialog.
+p1850
+aVIt outputs sentences, but the user types only single words or standard phrases.
+p1851
+aVIts major innovations over many previous expert systems were that it uses measures of uncertainty (not probabilities) for its diagnoses and the fact that it is prepared to explain its reasoning to the physician, so he can decide whether to accept it.
+p1852
+aVOur discussion of MYCIN begins with its ontology.
+p1853
+aVThe ontology of a program is the set of entities that its variables range over.
+p1854
+aVEssentially this is what it can have information about.
+p1855
+aVMYCIN's ontology includes bacteria, symptoms, tests, possible sites of infection, antibiotics and treatments.
+p1856
+aVDoctors, hospitals, illness and death are absent.
+p1857
+aVEven patients are not really part of the ontology, although MYCIN asks for many facts about the specific patient.
+p1858
+aVThis is because patients aren't values of variables, and MYCIN never compares the infections of two different patients.
+p1859
+aVIt would therefore be difficult to modify MYCIN to learn from its experience.
+p1860
+aVMYCIN's program, written in a general scheme called EMYCIN, is a socalled production system.
+p1861
+aVA production system is a collection of rules, each of which has two parts -- a pattern part and an action part.
+p1862
+aVWhen a rule is activated, MYCIN tests whether the pattern part matches the database.
+p1863
+aVIf so this results in the variables in the pattern being matched to whatever entities are required for the match of the database.
+p1864
+aVIf not the pattern fails and MYCIN tries another.
+p1865
+aVIf the match is successful, then MYCIN performs the action part of the pattern using the values of the variables determined by the pattern part.
+p1866
+aVThe whole process of questioning and recommending is built up out of productions.
+p1867
+aVThe production formalism turned out to be suitable for representing a large amount of information about the diagnosis and treatment of bacterial infections.
+p1868
+aVWhen MYCIN is used in its intended manner it scores better than medical students or interns or practicing physicians and on a par with experts in bacterial diseases when the latter are asked to perform in the same way.
+p1869
+aVHowever, MYCIN has not been put into production use, and the reasons given by experts in the area varied when I asked whether it would be appropriate to sell MYCIN cassettes to doctors wanting to put it on their micro-computers.
+p1870
+aVSome said it would be ok if there were a means of keeping MYCIN's database current with new discoveries in the field, i.e.
+p1871
+aVwith new tests, new theories, new diagnoses and new antibiotics.
+p1872
+aVFor example, MYCIN would have to be told about Legionnaire's disease and the associated Legionnella bacteria\u000awhich became understood only after MYCIN was finished.
+p1873
+aV(MYCIN is very stubborn about new bacteria, and simply replies "unrecognized response".
+p1874
+aVOthers say that MYCIN is not even close to usable except experimentally, because it doesn't know its own limitations.
+p1875
+aVI suppose this is partly a question of whether the doctor using MYCIN is trusted to understand the documentation about its limitations.
+p1876
+aVProgrammers always develop the idea that the users of their programs are idiots, so the opinion that doctors aren't smart enough not to be misled by MYCIN's limitations may be at least partly a consequence of this ideology.
+p1877
+aVAn example of MYCIN not knowing its limitations can be excited by telling MYCIN that the patient has Cholerae Vibrio in his intestines.
+p1878
+aVMYCIN will cheerfully recommend two weeks of tetracycline and nothing else.
+p1879
+aVPresumably this would indeed kill the bacteria, but most likely the patient will be dead of cholera long before that.
+p1880
+aVHowever, the physician will presumably know that the diarrhea has to be treated and look elsewhere for how to do it.
+p1881
+aVOn the other hand it may be really true that some measure of common sense is required for usefulness even in this narrow domain.
+p1882
+aVWe'll list some areas of common sense knowledge and reasoning ability and also apply the criteria to MYCIN and other hypothetical programs operating in MYCIN's domain.
+p1883
+asba(icmyPackage
+FText
+p1884
+(dp1885
+g3
+(lp1886
+VScientists are trained early to keep careful records in their laboratory notebooks -- recording both experimental procedures and observations,
+p1887
+aVso that they can analyse their results and so that others can replicate what they have done.
+p1888
+aVWith data correlated over many dimensions and millions of points, none of the old steps -- do experiment, record results, analyse and publish -- is straightforward.
+p1889
+aVMany predict dramatic changes to the way science is done, and suspect that few traditional processes will survive in their current form by 2020 (ref.
+p1890
+aVAs data volumes grow,
+p1891
+aVit is increasingly arduous to extract knowledge.
+p1892
+aVIn response to this data deluge,
+p1893
+aVthe systematic use of databases has become an integral part of the scientific process.
+p1894
+aVas computers become essential parts of scientific instruments;
+p1895
+aVExperiments are themselves becoming electronic
+p1896
+aVboth Matlab and GenBankwill change enormously in that time.
+p1897
+aVFully documenting these steps would be arduous, and there is little chance that someone could repeat the exact procedure 20 years from now;
+p1898
+aVAs experiments yield more data, and analysis becomes more complex,
+p1899
+aVdata become increasingly difficult to document and reproduce.
+p1900
+aVas there are so many variables.
+p1901
+aVOne might argue that complex biological experiments have always been difficult to reproduce,
+p1902
+aVIncreasingly, scientists are analysing complex systems that require data to be combined from several groups and even several disciplines.
+p1903
+aVThere are collaborations sharing data across departments and time zones, and important discoveries are made by scientists and teams who combine different skill sets -- not just biologists, physicists and chemists, but also computer scientists, statisticia
+p1904
+aVIt is important to realize that today's graduate students need formal training in areas beyond their central discipline:
+p1905
+aVthey need to know some data management, computational concepts and statistical techniques.
+p1906
+aVToo much effort is wasted on converting from one proprietary data format to another.
+p1907
+aVA collaboration involving hundreds of Internet-connected scientists raises questions about standards for data sharing.
+p1908
+aVin formatting,
+p1909
+aVso that data written by one group can be easily read and understood by others;
+p1910
+aVin semantics,
+p1911
+aVso that a term used by one group can be translated (often automatically) by another without its meaning being distorted;
+p1912
+aVand in workflows,
+p1913
+aVso that analysis steps can be executed across the Internet and reproduced by others at a later date.
+p1914
+aVFor these data to be useful to others,
+p1915
+aVthey must be published using a controlled vocabulary and instandard forms, and the instruments and measurements must be well specified.
+p1916
+aVThe speed of the Internet has not kept pace with the growth of scientific datasets.
+p1917
+aVAnd so large data archives are becoming increasingly 'isolated' in the network sense -- one can copy gigabytes across the Internet today, but not petabytes.
+p1918
+aVAre we reaching the limits of what one scientist, or one lab, can expect to achieve in data handling and analysis?
+p1919
+aVIf so, this will have implications for how we review and publish our work.
+p1920
+aVFor example, a data-mining paper needs to include the explicit description (data-base query) of how the data that were analysed in the paper were collected and filtered, but not the data themselves.
+p1921
+aVIn this way, a reviewer with access to public data could reproduce the data sets and analysis procedures.
+p1922
+aVFor the analysis to be repeatable in 20 years' time
+p1923
+aVrequires archiving both data and tools.
+p1924
+aVAstronomers created the International Virtual Observatory Alliance (www.IVOA.net), integrating most of the world's medium and large astronomy archives.
+p1925
+aVThis required new standards for data exchange, and a semantic dictionary that offers a controlled vocabulary of astronomy terms.
+p1926
+aVTo encourage data sharing,
+p1927
+aVit should be rewarded.
+p1928
+aVLikely computer-performance improvements by 2011 include tenfold more processing, storage and network bandwidth per dollar.
+p1929
+aVSo we can expect tentimes more data.
+p1930
+aVExponential growth occurs when a new generation of instruments leapfrogs the previous generation, which become obsolete.
+p1931
+aVThere are two trends in science today, scaling up and scaling out.
+p1932
+aVSome scientists are building billion-dollar facilities, such as astronomy's Large Synoptic Survey Telescope or the Large Hadron Collider, which are only affordable as international collaborations.
+p1933
+aVSuch facilities are not easily leapfrogged.
+p1934
+aVAnd once these peta-scale experiments are switched on they will produce roughly the same amount of data each year -- merely linear growth.
+p1935
+aVBut in the scaling-out model, experiments that deploy an array of small instruments can exploit the coming explosion in cheaper commodity technology.
+p1936
+aVAnd so although some subdisciplines may reach a plateau in data generation, other technological innovations will take their place.
+p1937
+aVScientists in 2020 will continue to work in an exponential world.
+p1938
+asg354
+(lp1939
+(lp1940
+g1888
+aa(lp1941
+g1890
+aa(lp1942
+g1892
+aa(lp1943
+g1894
+aa(lp1944
+g1896
+aa(lp1945
+g1898
+aa(lp1946
+g1900
+aa(lp1947
+g1902
+aa(lp1948
+g1905
+ag1906
+aa(lp1949
+g1908
+aa(lp1950
+g1910
+aa(lp1951
+g1912
+aa(lp1952
+g1914
+aa(lp1953
+g1916
+aa(lp1954
+g1918
+aa(lp1955
+g1920
+aa(lp1956
+g1922
+aa(lp1957
+g1924
+aa(lp1958
+g1926
+aa(lp1959
+g1928
+aa(lp1960
+g1930
+aa(lp1961
+g1932
+ag1933
+ag1934
+ag1935
+ag1936
+aa(lp1962
+g1938
+aasg448
+(lp1963
+(lp1964
+g1887
+aa(lp1965
+g1889
+aa(lp1966
+g1891
+aa(lp1967
+g1893
+aa(lp1968
+g1895
+aa(lp1969
+g1897
+aa(lp1970
+g1899
+aa(lp1971
+g1901
+aa(lp1972
+g1903
+ag1904
+aa(lp1973
+g1907
+aa(lp1974
+g1909
+aa(lp1975
+g1911
+aa(lp1976
+g1913
+aa(lp1977
+g1915
+aa(lp1978
+g1917
+aa(lp1979
+g1919
+aa(lp1980
+g1921
+aa(lp1981
+g1923
+aa(lp1982
+g1925
+aa(lp1983
+g1927
+aa(lp1984
+g1929
+aa(lp1985
+g1931
+aa(lp1986
+g1937
+aasg542
+g1507
+sg557
+Vf0027
+p1987
+sg559
+(lp1988
+VThe amount of scientific data is doubling every year.
+p1989
+aVAlexander Szalay and Jim Gray analyse hows cientific methods are evolving from paper notebooks to huge online databases.
+p1990
+asba(icmyPackage
+FText
+p1991
+(dp1992
+g3
+(lp1993
+VSince these new instruments have extraordinary precision,
+p1994
+aVthe data quality is also rapidly improving.
+p1995
+aVAnalyzing this data to find the subtle effects missed by previous studies
+p1996
+aVrequires algorithms that can simultaneously deal with huge datasets and that can find very subtle effects -- finding both needles in the haystack and finding very small haystacks that were undetected in previous measurements.
+p1997
+aVWe believe that most new science happens when the data is examined in new ways.
+p1998
+aVSo our focus here is on data exploration, interactive data analysis, and integration of Level 2 datasets.
+p1999
+aVone could focus on the science rather than needing to be an information-technology-professional with expertise in arcane computer data analysis tools.
+p2000
+aVThings were simpler then;
+p2001
+aVThis is a consequence of three phenomena:
+p2002
+aV(1) More sophisticated algorithms consume more instructions to analyze each byte.
+p2003
+aV(2) Many analysis algorithms are super-linear, often needing N2 or N3 time to process N data points.
+p2004
+aVAnd (3) IO bandwidth has not kept pace with storage capacity.
+p2005
+aVThe demand for tools and computational resources to perform scientific data-analysis is rising even faster than data volumes.
+p2006
+aVTo ameliorate these problems,
+p2007
+aVscientists will need better analysis algorithms that can handle extremely large datasets with approximate algorithms (ones with near-linear execution time) and they will need parallel algorithms that can apply many processors and many disks to the problem to meet cpu-density and bandwidth-density demands.
+p2008
+aVIncreasingly, the datasets are so large, and the application programs are so complex,
+p2009
+aVthat it is much more economical to move the end-user's programs to the data and only communicate questions and answers rather than moving the source data and its applications to the user's local system.
+p2010
+aVThe new work style in these scientific domains is to send questions to applications running at a data center and get back answers, rather than to bulk-copy raw data from the archive to your local server for further analysis.
+p2011
+aVIndeed, there is an emerging trend to store a personal workspace (a MyDB) at the data center and deposit answers there.
+p2012
+aVThis minimizes data movement and allows collaboration among a group of scientists doing joint analysis.
+p2013
+aVThese personal workspaces are also a vehicle for data analysis groups to collaborate.
+p2014
+aVbecause it will save them having to manage local data and computer farms.
+p2015
+aVMany scientists will prefer doing much of their analysis at data centers
+p2016
+aVWhen a scientist wants to correlate data from two different data centers,
+p2017
+aVthen there is no option but to move part of the data from one place to another.
+p2018
+aVIf this is common,
+p2019
+aVthe two data centers will likely federate with one another to provide mutual data backup since the data traffic will justify making the copy.
+p2020
+aVsince the data traffic will justify making the copy.
+p2021
+aVthe two data centers will likely federate with one another to provide mutual data backup
+p2022
+aVPeta-scale data sets will require 1000-10,000 disks and thousands of compute nodes.
+p2023
+aVAt any one time some of the disks and some of the nodes will be broken.
+p2024
+aVSuch systems have to have a mechanism in place to protect against data loss, and provide availability even with a less than full configuration -- a self-healing system is required.
+p2025
+aVData must be self-describing
+p2026
+aVin order to allow this.
+p2027
+aVThis self-description, or metadata, is central to all these scenarios;
+p2028
+aVit enables generic tools to understand the data, and it enables people to understand the data.
+p2029
+aVIf the data is to be analyzed by generic tools,
+p2030
+aVthe tools need to "understand" the data.
+p2031
+aVIf scientists are to read data collected by others,
+p2032
+aVthen the data must be carefully documented and must be published in forms that allow easy access and automated manipulation.
+p2033
+aVIdeally much of this metadata would be automatically generated and managed as part of the workflow,
+p2034
+aVreducing the scientist's intellectual burden.
+p2035
+aVIn the next decade, as data interchange among scientific disciplines becomes increasingly important,
+p2036
+aVa common HDF-like format and package for all the sciences will likely emerge.
+p2037
+aVsince an agreement on these concepts can help guide analysis tool designs.
+p2038
+aVThis will greatly facilitate tool-building and tools
+p2039
+aVThe separation of data and programs is artificial -- one cannot see the data without using a program and most programs are data driven.
+p2040
+aVSo, it is paradoxical that the data management community has worked for 40 years to achieve something called data independence -- a clear separation of programs from data.
+p2041
+aVWhile a database system might choose to map each row to a contiguous storage container (e.g.a record) on a single disk page, it might also choose to store large, possibly infrequently referenced attributes of a table corresponding to large text objects, JPEG images, or multidimensional arrays in separate storage containers on different disk pages and/or different storage volumes
+p2042
+aVin order to maximize the overall performance of the system.
+p2043
+aVby reorganizing data for parallelism -- at little or no extra effort on the part of scientists.
+p2044
+aVBy allowing such techniques, physical data independence allows performance improvements
+p2045
+aVViews serve many purposes including increased security
+p2046
+aV(by hiding attributes from applications and/or users without a legitimate need for access)
+p2047
+aVenhanced performance
+p2048
+aV(by materializing views defined by complex SQL queries over very large input tables).
+p2049
+aVTo preserve applications that depend on T,
+p2050
+aVthe database administrator can then define a view over T' and T" corresponding to the original definition of table T, allowing old programs to continue to operate correctly.
+p2051
+aVby dynamically translating data to the appropriate formats (converting among character and number representations, converting among 6-digit and 9-digit postal codes, converting between long-and-short names, and hiding new information from old programs.
+p2052
+aVViews are used to solve these problems
+p2053
+aVData classes encapsulated with methods provide data independence and make it much easier to evolve the data without perturbing programs.
+p2054
+aVSo, these ideas are still evolving.
+p2055
+aVby searching all the relevant files -- opening each file, extracting the relevant data and then moving onto the next file.
+p2056
+aVIn this model, data analysis proceeds
+p2057
+aVPerforming this filter-then-analyze,
+p2058
+aVdata analysis on large datasets with conventional procedural tools runs slower and slower as data volumes increase.
+p2059
+aVAs file systems grow to petabyte-scale archives with billions of files,
+p2060
+aVthe science community must create a synthesis of database systems and file systems.
+p2061
+aVanalysis will be applied to "all data with these attributes" rather than working on a list of file/directory names or name patterns.
+p2062
+aVSet-oriented file processing will make file names increasingly irrelevant --
+p2063
+aV(they are just containers for data.
+p2064
+aVIndeed, the files themselves may become irrelevant
+p2065
+aVThey routinely allow the data to be replicated
+p2066
+aVso that it can be organized in several ways (by time, by space, by other attributes).
+p2067
+aVAll these tools are aimed at making it easy to analyze commercial data, but they are equally applicable to scientific data analysis.
+p2068
+aVIn addition, data analysis using data cubes has made huge advances, and now efforts are focused on integrating machine learning algorithms that infer trends, do data clustering, and detect anomalies.
+p2069
+aVfor analyzing objects (galaxies, spectra, proteins, events, etc.
+p2070
+aVConventional tabular database systems are adequate
+p2071
+aVThis collection of problems is generally called the impedance mismatch -- meaning the mismatch between the programming model and the database capabilities.
+p2072
+aVThe impedance mismatch has made it difficult to map many science applications into conventional tabular database systems.
+p2073
+aVThey are being integrated with programming languages
+p2074
+aVso that they can support object-oriented databases.
+p2075
+aVusing the same techniques they use on native types.
+p2076
+aVQueries can read and write these extended types
+p2077
+aVOnce you can put your types and your programs inside the database
+p2078
+aVyou get the parallelism, non-procedural query, and data independence advantages of traditional database systems.
+p2079
+aVThey have a schema language (metadata) to define the metadata.
+p2080
+aVThey have a few indexing strategies, and a simple data manipulation language.
+p2081
+aVThey have the start of non-procedural and parallel programming.
+p2082
+aVAnd, they have a collection of tools to create, access, search, and visualize the data.
+p2083
+aVSo, in our view they are simple database systems.
+p2084
+aVIf one takes the controversial view that HDF, NetCDF, FITS, and Root are nascent database systems that provide metadata and portability but lack non-procedural query analysis, automatic parallelism, and sophisticated indexing,
+p2085
+aVthen one can see a fairly clear path that integrates these communities.
+p2086
+aVWhy are tabular databases so successful in commercial applications and such a flop in most scientific applications?
+p2087
+aVScientific colleagues give one or more of the following answers when asked why they do not use databases to manage their data:
+p2088
+aV1)	We don't see any benefit in them.
+p2089
+aVThe cost of learning the tools (data definition and data loading, and query) doesn't seem worth it.
+p2090
+aV2)	They do not offer good visualization/plotting tools.
+p2091
+aV3)	I can handle my data volumes with my programming language.
+p2092
+aV4)	They do not support our data types (arrays, spatial, text, etc.
+p2093
+aV.
+p2094
+aV5)	They do not support our access patterns (spatial, temporal, etc.
+p2095
+ag2094
+aV6)	We tried them but they were too slow.
+p2096
+aV7)	We tried them but once we loaded our data we could no longer manipulate the data using our standard application programs.
+p2097
+aV8)	They require an expensive guru (database administrator) to use.
+p2098
+aVby reading and writing the database.
+p2099
+aVThe database approach has the added benefit that visualization tools can watch and steer the computation
+p2100
+aVBecause data collection is now separated from data analysis,
+p2101
+aVextensive metadata describing the data in standard terms is needed so people and programs can understand the data.
+p2102
+aVfor data sharing among different disciplines and for data analysis and visualization tools.
+p2103
+aVGood metadata becomes central
+p2104
+aVWe believe the emphasis on extending database systems by unifying databases with programming languages
+p2105
+aVso that one can either embed or link new object types into the data management system will enable this synthesis.
+p2106
+aVBecause data is so large, and IO bandwidth is not keeping pace,
+p2107
+aVmoving code to data will be essential to performance.
+p2108
+asg354
+(lp2109
+(lp2110
+g1995
+aa(lp2111
+g1997
+aa(lp2112
+g1999
+aa(lp2113
+g2001
+aa(lp2114
+g2006
+aa(lp2115
+g2008
+aa(lp2116
+g2010
+aa(lp2117
+g2013
+ag2014
+aa(lp2118
+g2016
+aa(lp2119
+g2018
+aa(lp2120
+g2020
+aa(lp2121
+g2022
+aa(lp2122
+g2025
+aa(lp2123
+g2027
+aa(lp2124
+g2029
+aa(lp2125
+g2031
+aa(lp2126
+g2033
+aa(lp2127
+g2035
+aa(lp2128
+g2037
+aa(lp2129
+g2039
+aa(lp2130
+g2041
+aa(lp2131
+g2043
+aa(lp2132
+g2045
+aa(lp2133
+g2047
+aa(lp2134
+g2049
+aa(lp2135
+g2051
+aa(lp2136
+g2053
+aa(lp2137
+g2055
+aa(lp2138
+g2057
+aa(lp2139
+g2059
+aa(lp2140
+g2061
+aa(lp2141
+g2063
+aa(lp2142
+g2065
+aa(lp2143
+g2067
+aa(lp2144
+g2069
+aa(lp2145
+g2071
+aa(lp2146
+g2073
+aa(lp2147
+g2075
+aa(lp2148
+g2077
+aa(lp2149
+g2079
+aa(lp2150
+g2084
+aa(lp2151
+g2086
+aa(lp2152
+g2088
+ag2089
+ag2090
+ag2091
+ag2092
+ag2093
+ag2094
+ag2095
+ag2094
+ag2096
+ag2097
+ag2098
+aa(lp2153
+g2100
+aa(lp2154
+g2102
+aa(lp2155
+g2104
+aa(lp2156
+g2106
+aa(lp2157
+g2108
+aasg448
+(lp2158
+(lp2159
+g1994
+aa(lp2160
+g1996
+aa(lp2161
+g1998
+aa(lp2162
+g2000
+aa(lp2163
+g2002
+ag2003
+ag2004
+ag2005
+aa(lp2164
+g2007
+aa(lp2165
+g2009
+aa(lp2166
+g2011
+ag2012
+aa(lp2167
+g2015
+aa(lp2168
+g2017
+aa(lp2169
+g2019
+aa(lp2170
+g2021
+aa(lp2171
+g2023
+ag2024
+aa(lp2172
+g2026
+aa(lp2173
+g2028
+aa(lp2174
+g2030
+aa(lp2175
+g2032
+aa(lp2176
+g2034
+aa(lp2177
+g2036
+aa(lp2178
+g2038
+aa(lp2179
+g2040
+aa(lp2180
+g2042
+aa(lp2181
+g2044
+aa(lp2182
+g2046
+aa(lp2183
+g2048
+aa(lp2184
+g2050
+aa(lp2185
+g2052
+aa(lp2186
+g2054
+aa(lp2187
+g2056
+aa(lp2188
+g2058
+aa(lp2189
+g2060
+aa(lp2190
+g2062
+aa(lp2191
+g2064
+aa(lp2192
+g2066
+aa(lp2193
+g2068
+aa(lp2194
+g2070
+aa(lp2195
+g2072
+aa(lp2196
+g2074
+aa(lp2197
+g2076
+aa(lp2198
+g2078
+aa(lp2199
+g2080
+ag2081
+ag2082
+ag2083
+aa(lp2200
+g2085
+aa(lp2201
+g2087
+aa(lp2202
+g2099
+aa(lp2203
+g2101
+aa(lp2204
+g2103
+aa(lp2205
+g2105
+aa(lp2206
+g2107
+aasg542
+(lp2207
+VScience centers that curate and serve science data are emerging around next-generation science instruments.
+p2208
+aVThe world-wide telescope, GenBank, and the BaBar collaborations are prototypes of this trend.
+p2209
+aVOne group of scientists is collecting the data and managing these archives.
+p2210
+aVA larger group of scientists are exploring these archives the way previous generations explored their private data.
+p2211
+aVOften the results of the analysis are fed back to the archive to add to the corpus.
+p2212
+aVBecause data collection is now separated from data analysis, extensive metadata describing the data in standard terms is needed so people and programs can understand the data.
+p2213
+aVGood metadata becomes central for data sharing among different disciplines and for data analysis and visualization tools.
+p2214
+aVThere is a convergence of the nascent-databases (HDF, NetCDF, FITS, ...
+p2215
+aVwhich focus primarily on the metadata issues and data interchange, and the traditional data management systems (SQL and others) that have focused on managing and analyzing very large datasets.
+p2216
+aVThe traditional systems have the virtues of automatic parallelism, indexing, and non-procedural access, but they need to embrace the data types of the science community and need to co-exist with data in file systems.
+p2217
+aVWe believe the emphasis on extending database systems by unifying databases with programming languages so that one can either embed or link new object types into the data management system will enable this synthesis.
+p2218
+aVThree technical advances will be crucial to scientific analysis:
+p2219
+aV(1) extensive metadata and metadata standards that will make it easy to discover what data exists, make it easy for people and programs to understand the data, and make it easy to track data lineage;
+p2220
+aV(2) great analysis tools that allow scientists to easily ask questions, and to easily understand and visualize the answers;
+p2221
+aVand (3) set-oriented data parallelism access supported by new indexing schemes and new algorithms that allow us to interactively explore peta-scale datasets.
+p2222
+aVThe goal is a smart notebook that empowers scientists to explore the world's data.
+p2223
+aVScience data centers with computational resources to explore huge data archives will be central to enabling such notebooks.
+p2224
+aVBecause data is so large, and IO bandwidth is not keeping pace, moving code to data will be essential to performance.
+p2225
+aVConsequently, science centers will remain the core vehicle and federations will likely be secondary.
+p2226
+aVScience centers will provide both the archives and the institutional infrastructure to develop these peta-scale archives and the algorithms and tools to analyze them.
+p2227
+asg557
+Vf0028
+p2228
+sg559
+(lp2229
+sba(icmyPackage
+FText
+p2230
+(dp2231
+g3
+(lp2232
+VGiven several observations of the sky, called runs, astronomers often want to cross-match all the observations of each object from all runs that observed that object.
+p2233
+aVA typical first step is to process the runs to make an object catalog.
+p2234
+aVif they come from different runs and if their positions differ by less than their classification distance.
+p2235
+aVTwo objects are said to match
+p2236
+aVIf only stationary objects are to be matched,
+p2237
+aVthen the classification distance can be a small multiple of the maximum of the two object's circular rms position errors.
+p2238
+aVThe observational errors, motions, and sizes all create their own errors, which must be convolved with this distribution.
+p2239
+aVThese convolutions will broaden the Dirac delta.
+p2240
+aVIn those cases the object's apparent movement may exceed the positional error,
+p2241
+aVand therefore a larger threshold is needed for the match criterion.
+p2242
+aVIf the SDSS were in the galactic plane, not to mention the galactic center,
+p2243
+aVit would have very crowded fields, and would have a combinatorial explosion using such a large classification distance.
+p2244
+aVby limiting their search space.
+p2245
+aVHaving a short list of all candidate match objects allows more sophisticated tests to work much more quickly
+p2246
+aVGiven two runs that overlap, if object O1 observed in run1 matches object O2 in run2,
+p2247
+aVwe call the pair an O1-run2 hit.
+p2248
+aVIf there are no O1-run2 hits,
+p2249
+aVwe call it an O1-run2 miss.
+p2250
+aVEphemeral:
+p2251
+aVO1 is at the detection threshold and the seeing was good in run1 but not as good in run2 or O1 may be invisible if run2 is a different kind of instrument (e.g.
+p2252
+aVrun1 is optical and run2 is radio or Xray), or O1 is a variable or transient object which varied below the detection threshold in run2, or O1 moved more than the classification distance between the two observations.
+p2253
+aVMasked:
+p2254
+aVO1 was fully masked by a meteor trail, cosmic ray, satellite, moving object, passing airplane, or refraction of a bright object in run 2.
+p2255
+aVEdge:
+p2256
+aVO1 was on the edge of the run2 footprint and so not all its pixels were observed.
+p2257
+aVO1-run2 misses can have three generic causes (see Figure 1):
+p2258
+aVO1 was on the edge of the run2 footprint and
+p2259
+aVso not all its pixels were observed.
+p2260
+aVbecause the SDSS overlap areas are typically long-narrow strips,
+p2261
+aVabout 5% are edge objects.
+p2262
+aVbecause it does not radiate in that spectral band, or the two instruments may have very different sensitivity.
+p2263
+aVthe object may not be visible in the second instrument
+p2264
+aVWhen the objectID1-run2 pair is a miss, then objectID2 is zero,
+p2265
+aVand the hitOrMiss flag suggests why (Ephemeral, Masked, or Edge)
+p2266
+aVas the Neighbors table using the Zones algorithm described in [2].
+p2267
+aVIndeed, the SDSS catalog pre-computes the spatial join
+p2268
+aVIndeed, the SDSS catalog pre-computes the spatial join as the Neighbors table using the Zones algorithm described in [2].
+p2269
+aVSo the hit query is even simpler -- one just looks for neighbors within 1" with run1 \u005cneq run2 since Neighbors stores all object pairs within 30".
+p2270
+aVsince Neighbors stores all object pairs within 30".
+p2271
+aVone just looks for neighbors within 1" with run1 \u005cneq run2
+p2272
+aVThis representation dovetails with the HTM library [1]
+p2273
+aVthat makes it easy to find all points within a region.
+p2274
+aVIf this is an inexpensive test and if there are less than a thousand runs,
+p2275
+aVthen one can compute the overlapping run pairs by simply comparing all runs to all others.
+p2276
+aVThe residual misses are neither edge nor masked
+p2277
+aVso they must be ephemeral.
+p2278
+aVThis might be caused by the object moving, or it might just be an unusually large position error, or they might just be different objects.
+p2279
+aVFor example, in Figure 2 object O1 matches O2 and O2 matches O3 but object O1 may not match O3.
+p2280
+aVHaving the Match table makes it easy to reason about the observations of the same object and easy to collect statistics (average, variance, ...
+p2281
+aVabout the object's position, magnitude, classification, the number and types of misses that the object experienced, and other attributes.
+p2282
+aVThis suggests creating a Bundle table that records these statistics.
+p2283
+aVif the new record causes one bundle to overlap another.
+p2284
+aVOne complication is that adding records may cause bundles to merge
+p2285
+aVonce each match record has an assigned bundle ID.
+p2286
+aVIt is easy to compute the aggregate statistics for the bundle table
+p2287
+aVComputing the bundle IDs is a bit tricky
+p2288
+aVso that code is included here.
+p2289
+aVbecause the SDSS overlap areas are typically longnarrow strips.
+p2290
+aVOf the 16% that are misses, 11% are ephemeral, 0.5% are masked, and 5% are edge
+p2291
+aVMost objects are slow-moving
+p2292
+aVso their displacement between observations is small compared to the average inter-object difference.
+p2293
+aVNear-Earth object apparent motions are typically large and
+p2294
+aVso measurements must be within minutes for the techniques described here to detect object pairs.
+p2295
+aVFor faint stellar and galactic objects, the apparent motion is typically much smaller and
+p2296
+aVso the observations can be months or years apart and yet the techniques here can correlate the two observations.
+p2297
+aVWhen considering SDSS observations separated by days or years,
+p2298
+aVonly very slow-moving objects can be detected with the cross-match techniques here.
+p2299
+aVGiven this rather low object surface density (when compared to the Galactic Plane or the Galactic Center),
+p2300
+aVthe techniques described here can find slowly moving objects by using a larger classification distance.
+p2301
+aVby using a larger classification distance.
+p2302
+aVthe techniques described here can find slowly moving objects
+p2303
+aVBut if the object moves more than a few arcseconds per year or if the object density is much higher,
+p2304
+aVthen the classification distance technique will hit a combinatorial explosion with too many false-positives.
+p2305
+aVIf there are no matches in a catalog
+p2306
+aVthen that field is filled in with the relational null value.
+p2307
+aVbecause this representation is the pivot of the pairs table on the match-head and run number.
+p2308
+aVWe call such a cross-match representations a pivoted cross-match (as opposed to a pair-table cross-match)
+p2309
+aVGiven the bundle and match tables,
+p2310
+aVthe pivoted table can be constructed, using zero rather than null for missing objIDs, as follows:
+p2311
+asg354
+(lp2312
+(lp2313
+g2234
+aa(lp2314
+g2236
+aa(lp2315
+g2238
+aa(lp2316
+g2240
+aa(lp2317
+g2242
+aa(lp2318
+g2244
+aa(lp2319
+g2246
+aa(lp2320
+g2248
+aa(lp2321
+g2250
+aa(lp2322
+g2258
+aa(lp2323
+g2260
+aa(lp2324
+g2262
+aa(lp2325
+g2264
+aa(lp2326
+g2266
+aa(lp2327
+g2268
+aa(lp2328
+VSo the hit query is even simpler -- one just looks for neighbors within 1" with run1 \u005cneq run2 since Neighbors stores all object pairs within 30".
+p2329
+aa(lp2330
+Vone just looks for neighbors within 1" with run1 \u005cneq run2
+p2331
+aa(lp2332
+g2274
+aa(lp2333
+g2276
+aa(lp2334
+g2278
+aa(lp2335
+g2280
+aa(lp2336
+g2283
+aa(lp2337
+g2285
+aa(lp2338
+g2287
+aa(lp2339
+g2289
+aa(lp2340
+g2291
+aa(lp2341
+g2293
+aa(lp2342
+g2295
+aa(lp2343
+g2297
+aa(lp2344
+g2299
+aa(lp2345
+g2301
+aa(lp2346
+g2303
+aa(lp2347
+g2305
+aa(lp2348
+g2307
+aa(lp2349
+g2309
+aa(lp2350
+g2311
+aasg448
+(lp2351
+(lp2352
+g2233
+aa(lp2353
+g2235
+aa(lp2354
+g2237
+aa(lp2355
+g2239
+aa(lp2356
+g2241
+aa(lp2357
+g2243
+aa(lp2358
+g2245
+aa(lp2359
+g2247
+aa(lp2360
+g2249
+aa(lp2361
+g2251
+ag2252
+ag2253
+ag2254
+ag2255
+ag2256
+ag2257
+aa(lp2362
+g2259
+aa(lp2363
+g2261
+aa(lp2364
+g2263
+aa(lp2365
+g2265
+aa(lp2366
+g2267
+aa(lp2367
+g2269
+aa(lp2368
+g2271
+aa(lp2369
+g2273
+aa(lp2370
+g2275
+aa(lp2371
+g2277
+aa(lp2372
+g2279
+aa(lp2373
+g2281
+ag2282
+aa(lp2374
+g2284
+aa(lp2375
+g2286
+aa(lp2376
+g2288
+aa(lp2377
+g2290
+aa(lp2378
+g2292
+aa(lp2379
+g2294
+aa(lp2380
+g2296
+aa(lp2381
+g2298
+aa(lp2382
+g2300
+aa(lp2383
+g2302
+aa(lp2384
+g2304
+aa(lp2385
+g2306
+aa(lp2386
+g2308
+aa(lp2387
+g2310
+aasg542
+(lp2388
+VThis approach to classifying and organizing a series of point-source spatial observations addresses the problem faced by astronomers doing a cross-match of multiple runs -- either within a survey or between dissimilar surveys.
+p2389
+aVSimilar problems arise in other domains.
+p2390
+aVDealing with missing data is the most difficult problem.
+p2391
+aVThe first step is to classifying misses as ephemeral -- meaning that the object moved or appeared or disappeared or was at the detection threshold, masked -- meaning that the object was hidden or corrupted by noise in the observation, or edge -- meaning t
+p2392
+aVThis classification combined with a spatial library to represent and manipulate observational footprints and masks can construct of a Match table recording both hits and misses.
+p2393
+aVThe matches can be extended by transitive-closure to friends-of-friends all occupy approximately the same region.
+p2394
+aVThis transitive closure partitions all the observations into disjoint bundles.
+p2395
+aVInformation summarizing information about all the observations of an object can then be recorded in a Bundle table.
+p2396
+aVThe resulting schema is shown in Figure 3.
+p2397
+aVThe design described here evolved from the MatchHead-Match table cross-match implemented for SDSS Data Release 5 [6] and described in [5]
+p2398
+asg557
+Vf0029
+p2399
+sg559
+(lp2400
+VCross-match spatially clusters and organizes several astronomical point-source measurements from one or more surveys.
+p2401
+aVIdeally, each object would be found in each survey.
+p2402
+aVUnfortunately, the observation conditions and the objects themselves change continually.
+p2403
+aVEven some stationary objects are missing in some observations;
+p2404
+aVsometimes objects have a variable light flux and sometimes the seeing is worse.
+p2405
+aVIn most cases we are faced with a substantial number of differences in object detections between surveys and between observations taken at different times within the same survey or instrument.
+p2406
+aVDealing with such missing observations is a difficult problem.
+p2407
+aVThe first step is to classify misses as ephemeral -- when the object moved or simply disappeared, masked -- when noise hid or corrupted the object observation, or edge -- when the object was near the edge of the observational field.
+p2408
+aVThis classification and a spatial library to represent and manipulate observational footprints help construct a Match table recording both hits and misses.
+p2409
+aVTransitive closure clusters friends-of-friends into object bundles.
+p2410
+aVThe bundle summary statistics are recorded in a Bundle table.
+p2411
+aVThis design is an evolution of the Sloan Digital Sky Survey cross-match design that compared overlapping observations taken at different times.
+p2412
+asba.

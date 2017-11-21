@@ -1,0 +1,741 @@
+f0001
+OnAbs: 71.6667%
+OnConc: 73.0159%
+OnAC: 72.3577%
+Abs2CE: 26.4934%
+Conc2CE: 26.7146%
+AC2CE: 34.4027%
+WAbs: 65.4762%
+WConc: 65.9794%
+WAC: 60.4027%
+ComWOnAbs: 
+['text', 'satisfied', 'paper', 'human', 'previous', 'forms', 'summarizes', '3', 'summary', 'automatic', 'methods', 'hard', 'principles', 'dimensions', 'space', 'pictures', 'implicit', 'evaluation', 'core', 'interactions', 'expansion', 'understanding', 'approaches', 'key', 'generate', 'language', 'methodology', 'citations', 'social', 'suitable', 'behaviors', 'texts', 'intention', '2', 'basic', 'form', 'continual', 'extension', 'involved', 'videos', 'characteristics', 'physical', '1', 'complex', 'role', 'development', 'cyberspace', 'multiple', 'representations', 'summarization', 'explicit', 'traditional', 'graphs', 'fundamental', 'representation']
+ComWOnConc:  
+['represent', 'text', 'existing', 'paper', 'human', 'innovative', 'previous', 'readers', 'forms', 'citing', 'concerns', 'systems', 'summarizes', 'realize', 'evolution', 'cognitive', 'spaces', 'including', 'automatic', 'essential', 'requirement', 'cyberspace', 'hard', 'society', 'video', 'multiple', 'organizing', 'human-level', 'dimensions', 'pictures', 'nature', 'artificial', 'implicit', 'method', 'core', 'interactions', 'selecting', 'understanding', 'explore', 'relying', 'carried', 'involved', 'social', 'texts', 'citations', 'basic', 'differences', 'approaches', 'motivation', 'videos', 'inspire', 'picture', 'reflect', 'representations', 'structure', 'network', 'summarization', 'natural', 'explicit', 'analysis', 'graphs', 'fundamental', 'studying', 'representation']
+ComWOnAC:  
+['represent', 'text', 'satisfied', 'existing', 'paper', 'human', 'innovative', 'previous', 'readers', 'forms', 'citing', 'concerns', 'systems', 'summarizes', '2', 'realize', 'evolution', 'cognitive', 'summary', 'network', 'spaces', 'including', 'automatic', 'essential', 'requirement', 'methods', 'picture', 'hard', 'principles', 'society', 'video', 'organizing', 'human-level', 'dimensions', 'space', 'pictures', 'nature', 'artificial', 'method', '3', 'evaluation', 'core', 'interactions', 'selecting', 'expansion', 'understanding', 'approaches', 'key', 'carried', 'language', 'explore', 'social', 'suitable', 'motivation', 'texts', 'videos', 'implicit', 'intention', 'citations', 'basic', 'summarization', 'form', 'differences', 'continual', 'natural', 'extension', 'involved', 'behaviors', 'generate', 'characteristics', 'relying', 'physical', '1', 'methodology', 'complex', 'role', 'inspire', 'development', 'cyberspace', 'multiple', 'reflect', 'representations', 'structure', 'explicit', 'analysis', 'traditional', 'graphs', 'fundamental', 'studying', 'representation']
+#-------------------------------------------------
+
+
+f0002
+OnAbs: 88.7097%
+OnConc: 54.1176%
+OnAC: 68.7075%
+Abs2CE: 36.6089%
+Conc2CE: 28.5164%
+AC2CE: 46.8208%
+WAbs: 84.4444%
+WConc: 45.3125%
+WAC: 57.7320%
+ComWOnAbs: 
+['control', 'process', 'citation', 'powerful', 'e-science', 'including', 'consists', 'coordinating', 'fusing', 'encouraging', 'knowledge', 'managing', 'data', 'solving', 'environment', 'inventing', 'teamwork', 'helps', 'cooperation', 'scientists', 'effectiveness', 'workflows', 'reach', 'flows', 'nodes', 'grid', 'authors', 'services', 'unselfish', 'implicit', 'advanced', 'network', 'generalizing', 'effective', 'co-authors', 'science', 'integrating', 'flow']
+ComWOnConc:  
+['including', 'networks', 'knowledge', 'environment', 'helps', 'activities', 'rules', 'grid', 'evolution', 'team', 'innovative', 'operation', 'scientists', 'scientific', 'article', 'generate', 'automatically', 'relevant', 'e-science', 'management', 'networking', 'teamwork', 'promote', 'science', 'autonomous', 'documents', 'development', 'effective', 'flow']
+ComWOnAC:  
+['control', 'relevant', 'workflows', 'powerful', 'e-science', 'including', 'consists', 'fusing', 'management', 'networking', 'knowledge', 'unselfish', 'solving', 'environment', 'teamwork', 'helps', 'activities', 'rules', 'encouraging', 'implicit', 'grid', 'coordinating', 'inventing', 'promote', 'nodes', 'advanced', 'evolution', 'integrating', 'science', 'team', 'autonomous', 'generate', 'process', 'citation', 'operation', 'documents', 'network', 'managing', 'networks', 'cooperation', 'scientists', 'effectiveness', 'development', 'scientific', 'innovative', 'reach', 'flows', 'authors', 'services', 'article', 'data', 'generalizing', 'effective', 'co-authors', 'flow', 'automatically']
+#-------------------------------------------------
+
+
+f0003
+OnAbs: 86.3946%
+OnConc: 88.5106%
+OnAC: 87.6963%
+Abs2CE: 30.7995%
+Conc2CE: 34.1005%
+AC2CE: 41.3083%
+WAbs: 79.5918%
+WConc: 84.2466%
+WAC: 79.2929%
+ComWOnAbs: 
+['limited', 'semantic', 'spaces', 'human', 'issues', 'previous', 'machine', 'physiological', 'explain', 'environment', 'pre-designed', 'resources', 'rules', 'graph-based', 'realistic', 'individuals', 'including', 'revolution', 'mental', 'intelligence', 'humans', 'discover', 'cyber', 'society', 'loops', 'machines', 'scientific', 'principles', 'space', 'closed', 'cyber-physical-physiological-psychological-sociomental', 'ability', 'mechanisms', 'reason', 'methodology', 'co-experiencing', 'multi-disciplinary', 'create', 'emerge', 'linking', 'psychological', 'philosophical', 'establish', 'interact', 'live', '2', 'form', 'explanation', 'cooperate', 'link', 'cp3sme', 'cyber-physical-socio', 'learn', 'expect', 'links', 'computing', 'process', 'characteristics', 'mind', 'images', 'diverse', 'socio', 'lifetime', 'linked', 'concept', 'ideas', '1', 'ideal', 'complex', 'solve', 'physical', 'evolve', 'multiple', 'models', 'includes', 'data', 'fundamental', 'laws']
+ComWOnConc:  
+['limited', 'emerging', 'semantic', 'guided', 'coordinating', 'spaces', 'issues', 'machine', 'multi-dimensional', 'symmetry', 'sciences', 'thinking', 'environment', 'bush', 'concerns', '4', 'rules', 'respective', 'communities', 'realize', 'advanced', 'gray', 'evolution', 'philosophical', 'establishing', 'human', 'classifying', 'intelligence', 'hard', 'cyber', 'breakthrough', 'cyber-physical-socio', '89', 'images', 'machines', 'principles', 'network', 'space', 'reasoning', 'memex', '3', 'routing', 'closed', 'dynamicity', 'conditions', 'scientific', 'nature', 'predicting', 'mechanisms', 'objects', 'web', 'implicit', 'hyperlink', 'study', 'changed', 'methodology', 'personal', 'browsing', 'suitable', 'emerge', 'ability', 'features', 'classification', 'linking', 'methods', 'behaving', 'networking', 'basis', 'support', 'computing', 'question', 'relations', 'live', '2', 'basic', 'pervasive', 'diversity', 'self-organized', 'forming', 'explanation', 'cooperate', 'link', 'cp3sme', 'technologies', 'integrating', 'engineering', 'interactive', 'links', 'exploring', 'characteristics', 'loops', 'diverse', 'socio', 'extending', 'develop', 'answering', '1', 'ideal', 'complex', 'harmony', 'applications', 'development', 'evolve', 'extended', 'communicating', 'models', 'turing', 'philosophy', 'flows', 'includes', 'lens', 'levels', 'preliminary', 'improving', 'model', 'interacting', 'multi-disciplinary', 'lead', 'traditional', 'fundamental', 'controlling', 'sensing', 'laws']
+ComWOnAC:  
+['limited', 'emerging', 'semantic', 'guided', 'ideas', 'spaces', 'human', 'issues', 'previous', '1', 'multi-dimensional', 'classification', 'physiological', 'explain', 'environment', 'complex', '4', 'pre-designed', 'resources', 'ideal', 'rules', 'methods', 'coordinating', 'realize', 'advanced', 'gray', 'evolution', 'graph-based', 'integrating', 'establishing', 'realistic', 'individuals', 'including', 'revolution', 'mental', 'classifying', 'intelligence', 'hard', 'humans', 'discover', 'cyber', 'society', '89', 'loops', 'multiple', 'extended', 'machines', 'ability', 'network', 'space', 'reasoning', 'memex', '3', 'routing', 'closed', 'dynamicity', 'cyber-physical-physiological-psychological-sociomental', 'conditions', 'scientific', 'nature', 'predicting', 'mechanisms', 'reason', 'objects', 'web', 'networking', 'hyperlink', 'study', 'changed', 'thinking', 'browsing', 'co-experiencing', 'multi-disciplinary', 'interact', 'exploring', 'emerge', 'features', 'symmetry', 'solve', 'linking', 'psychological', 'philosophical', 'relations', 'personal', 'establish', 'implicit', 'behaving', 'basis', 'create', 'support', 'question', 'bush', 'live', '2', 'basic', 'pervasive', 'diversity', 'form', 'explanation', 'principles', 'link', 'cp3sme', 'technologies', 'breakthrough', 'cyber-physical-socio', 'learn', 'model', 'interactive', 'links', 'computing', 'process', 'characteristics', 'mind', 'images', 'engineering', 'diverse', 'socio', 'lifetime', 'linked', 'concept', 'respective', 'develop', 'self-organized', 'answering', 'expect', 'machine', 'sciences', 'methodology', 'harmony', 'forming', 'physical', 'applications', 'development', 'evolve', 'communicating', 'models', 'turing', 'philosophy', 'flows', 'includes', 'lens', 'extending', 'levels', 'preliminary', 'improving', 'cooperate', 'data', 'concerns', 'interacting', 'suitable', 'lead', 'communities', 'traditional', 'fundamental', 'controlling', 'sensing', 'laws']
+#-------------------------------------------------
+
+
+f0004
+OnAbs: 0.0000%
+OnConc: 41.0256%
+OnAC: 41.0256%
+Abs2CE: 0.0000%
+Conc2CE: 14.6497%
+AC2CE: 14.6497%
+WAbs: 0.0000%
+WConc: 37.1429%
+WAC: 37.1429%
+ComWOnAbs: 
+[]
+ComWOnConc:  
+['cyberspace', 'human', 'networks', 'physical', 'space', 'discovering', 'rules', 'services', 'realize', 'knowledge', 'challenge', 'social', 'suitable']
+ComWOnAC:  
+['human', 'networks', 'physical', 'space', 'discovering', 'cyberspace', 'rules', 'services', 'realize', 'knowledge', 'challenge', 'social', 'suitable']
+#-------------------------------------------------
+
+
+f0005
+OnAbs: 84.6154%
+OnConc: 84.2105%
+OnAC: 84.3066%
+Abs2CE: 15.2803%
+Conc2CE: 32.6860%
+AC2CE: 35.5442%
+WAbs: 82.6087%
+WConc: 80.7143%
+WAC: 79.5181%
+ComWOnAbs: 
+['paper', 'questions', 'multi-dimensional', 'knowledge', 'revolution', 'methods', 'society', 'space', 'managing', 'attracted', 'innovation', 'discovery', 'evolving', 'infrastructure', 'scientific', 'nature', 'industry', 'industrial', 'analyzing', 'management', 'support', 'basic', 'sharing', 'relationship', 'formed', 'technologies', 'representing', 'developing', 'science', 'computing', 'technology', 'fourth', 'mapping', 'data', 'required', 'analysis', 'fundamental', 'paradigm']
+ComWOnConc:  
+['operations', 'limited', 'storage', 'accurate', 'leads', 'including', 'human', 'macroscopic', 'issues', 'discipline', 'machine', 'inspiring', 'knowledge', 'solving', 'distributed', 'concerns', 'systems', 'transformation', '2012', 'rules', 'practice', 'reforms', 'cognitive', 'profound', 'transform', 'view', 'development', 'revolution', 'methods', 'generation', 'humans', 'discover', 'society', 'individual', 'recommendation', 'mapping', 'concern', 'emerges', 'space', 'wikipedia', 'current', '3', 'innovation', 'evolving', 'scientific', 'extend', 'web', 'multi-dimensional', 'understanding', 'advantages', 'cities', 'stage', 'technical', 'industry', 'minds', 'surge', 'enabling', 'cyber-infrastructure', 'social', 'requests', 'narrow', 'behaviors', 'community', 'establish', 'environment', 'management', 'interact', 'system', 'relations', 'symphony', 'reflects', 'summarization', 'form', 'understand', 'zhuge', 'technologies', 'question-answering', 'wide', 'science', '2', 'computer', 'ongoing', 'verification', 'study', 'recognizing', 'e.g.', 'computing', 'engineering', 'exploration', 'technology', 'develop', 'patterns', 'provide', '1', 'globalization', 'complex', 'economy', 'status', 'unconventional', 'turing', 'collection', 'reflect', 'state-of-the-art', '4th', 'services', 'data', 'traditional', 'fundamental', 'organization', 'model', 'paradigm', 'data-intensive', 'institutions']
+ComWOnAC:  
+['limited', 'leads', 'issues', 'inspiring', 'knowledge', 'distributed', 'environment', 'reforms', '2', 'view', 'revolution', 'human', 'humans', 'individual', 'concern', 'managing', 'wikipedia', 'current', '3', 'discovery', 'evolving', 'infrastructure', 'extend', 'nature', 'understanding', 'cities', 'technical', 'study', 'minds', 'globalization', 'enabling', 'cyber-infrastructure', 'social', 'requests', 'narrow', 'behaviors', 'community', 'analyzing', 'establish', 'basic', 'reflects', 'sharing', 'formed', 'understand', 'zhuge', 'developing', 'science', 'engineering', 'ongoing', 'industrial', 'e.g.', 'technology', 'develop', 'provide', 'machine', 'complex', 'fourth', 'economy', 'development', 'unconventional', 'turing', 'mapping', 'collection', 'reflect', '4th', 'data', 'analysis', 'patterns', '1', 'fundamental', 'organization', 'paradigm', 'data-intensive', 'operations', 'accurate', 'paper', 'including', 'questions', 'macroscopic', 'discipline', 'web', 'multi-dimensional', 'solving', 'systems', 'transformation', '2012', 'rules', 'practice', 'cognitive', 'profound', 'methods', 'generation', 'interact', 'society', 'recommendation', 'emerges', 'space', 'attracted', 'innovation', 'scientific', 'advantages', 'stage', 'industry', 'surge', 'system', 'management', 'support', 'transform', 'relations', 'symphony', 'summarization', 'relationship', 'discover', 'technologies', 'question-answering', 'representing', 'wide', 'computer', 'exploration', 'verification', 'computing', 'form', 'storage', 'recognizing', 'concerns', 'state-of-the-art', 'services', 'model', 'required', 'traditional', 'status', 'institutions']
+#-------------------------------------------------
+
+
+f0006
+OnAbs: 75.6757%
+OnConc: 63.2319%
+OnAC: 65.0699%
+Abs2CE: 24.4681%
+Conc2CE: 53.6474%
+AC2CE: 55.1672%
+WAbs: 63.8298%
+WConc: 49.2188%
+WAC: 48.1884%
+ComWOnAbs: 
+['human', 'exploring', 'humans', 'society', 'spaces', 'technology', 'issues', 'physical', 'revolution', 'methodology', 'complex', 'engineering', 'development', 'cyberspace', 'life', 'scientific', 'cpsoc', 'material', 'principles', 'methods', 'cyber-physical', 'technologies', 'versatile', 'science', 'lead', 'space', 'specific', 'individuals', 'social', 'suitable']
+ComWOnConc:  
+['semantic', 'issues', 'environment', 'cpsoc', 'activities', 'issue', 'revolution', 'super-links', 'design', 'access', 'scientists', 'objects', 'cyber-physical', 'healthy', 'involved', 'social', 'vivid', 'consumption', 'negative', 'real-time', 'science', 'process', 'sense', '1', 'optimal', 'reflect', 'applications', 'natural', 'communities', 'symbols', 'production', 'systems', 'material', 'development', 'mental', 'cyberspace', 'energy', 'principles', 'society', 'avoided', 'space', 'behaviours', 'cooperatively', 'interactions', 'retrieved', 'formation', 'interaction', 'language', 'super-linked', 'quality', 'publication', 'interact', 'priority', '2', '18', 'historical', 'socio', 'efficient', 'sciences', 'intentions', 'flow', 'bring', 'spaces', 'knowledge', 'jam', 'rich', 'express', 'vehicles', 'processes', 'sustainable', 'precaution', 'view', 'humans', 'individual', 'parking', 'artificial', '3', 'knowing', 'key', 'carbon', 'propagation', 'safer', 'maintenance', '4', 'life', 'engineering', 'situation', 'technology', 'result', 'cross', 'complex', 'events', 'status', 'evolve', 'super-link', 'guided', 'human', 'coordination', 'monitored', 'traffic', 'harmoniously', 'individuals', 'security', 'people', 'images', 'scientific', 'minimization', 'communicate', 'carried', 'ensure', 'greatly', 'low', 'function', 'form', 'link', 'computing', 'influence', 'lifetime', 'statuses', 'physical', '5', 'papers', 'users', 'structure', 'lead', 'time']
+ComWOnAC:  
+['semantic', 'bring', 'spaces', 'issues', 'knowledge', 'environment', 'cpsoc', 'rich', 'activities', 'express', 'sustainable', 'precaution', 'view', 'knowing', 'revolution', 'humans', 'super-links', 'design', 'parking', 'cooperatively', 'artificial', 'coordination', 'access', '3', 'scientists', 'objects', 'cyber-physical', 'key', 'situation', 'carbon', 'healthy', 'involved', 'propagation', 'social', 'suitable', 'safer', 'vivid', 'consumption', 'negative', 'jam', 'maintenance', '4', 'life', 'influence', 'real-time', 'science', 'process', 'sense', 'technology', 'result', 'cross', '1', 'methodology', 'complex', 'optimal', 'events', 'development', 'super-link', 'reflect', 'applications', 'natural', 'guided', 'symbols', 'human', 'monitored', 'production', 'systems', 'material', 'processes', 'traffic', 'communities', 'harmoniously', 'specific', 'individuals', 'security', 'status', 'mental', 'cyberspace', 'energy', 'principles', 'society', 'images', 'avoided', 'space', 'behaviours', 'issue', 'scientific', 'minimization', 'interactions', 'retrieved', 'communicate', 'evolve', 'formation', 'interaction', 'carried', 'language', 'greatly', 'super-linked', 'quality', 'methods', 'publication', 'interact', 'people', 'priority', '2', 'low', 'function', 'exploring', 'form', 'link', 'technologies', 'versatile', '18', 'historical', 'computing', 'engineering', 'socio', 'lifetime', 'statuses', 'physical', 'efficient', 'individual', 'sciences', '5', 'papers', 'users', 'intentions', 'ensure', 'structure', 'lead', 'vehicles', 'flow', 'time']
+#-------------------------------------------------
+
+
+f0007
+OnAbs: 0.0000%
+OnConc: 67.5676%
+OnAC: 67.5676%
+Abs2CE: 0.0000%
+Conc2CE: 25.5061%
+AC2CE: 25.5061%
+WAbs: 0.0000%
+WConc: 61.2903%
+WAC: 61.2903%
+ComWOnAbs: 
+[]
+ComWOnConc:  
+['humans', 'faceted', 'deepen', 'networking', 'create', 'interactions', 'multi-dimensional', 'understanding', 'link', 'web', 'directions', 'linking', 'semantics', 'improve', 'search', 'classifications', 'facets', 'social', 'interactive']
+ComWOnAC:  
+['humans', 'faceted', 'networking', 'create', 'interactions', 'multi-dimensional', 'link', 'web', 'directions', 'deepen', 'understanding', 'semantics', 'improve', 'linking', 'search', 'classifications', 'facets', 'social', 'interactive']
+#-------------------------------------------------
+
+
+f0008
+OnAbs: 93.1034%
+OnConc: 83.3333%
+OnAC: 87.1111%
+Abs2CE: 32.4700%
+Conc2CE: 32.8490%
+AC2CE: 35.8181%
+WAbs: 90.1639%
+WConc: 72.8395%
+WAC: 74.0741%
+ComWOnAbs: 
+['operations', 'discovered', 'experiments', 'integrity', 'multi-dimensional', 'forms', 'guarantees', 'resources', 'resource', 'spaces', 'constraints', 'mental', 'cyber', 'society', 'organizing', 'dimensions', 'space', 'managing', 'supports', 'method', 'paper', 'cyber-physical', 'analyzed', 'applications', 'uncertainty', 'introduces', 'introduced', 'support', 'composed', 'classification', 'manage', 'management', 'create', 'basic', 'rsm', 'form', 'versatile', 'classifications', 'concepts', 'enables', 'characteristics', 'generalization', 'effectively', 'socio', 'p-rsm', 'physical', 'specialization', 'abstraction', 'multiple', 'normal', 'levels', 'services', 'probabilistic', 'effective', 'model']
+ComWOnConc:  
+['operations', 'semantic', 'satisfied', 'paper', 'query', 'integrity', 'multi-dimensional', 'forms', 'guarantees', 'resources', 'uncertain', 'condition', 'evolution', 'resource', 'spaces', 'queries', 'constraints', 'mental', 'cyber', 'society', 'organizing', 'space', 'managing', 'reasoning', 'establishes', 'supports', 'method', 'nature', 'mechanisms', 'cyber-physical', 'constraint', 'uncertainty', 'suitable', 'organize', 'classification', 'manage', 'support', 'basic', 'flexible', 'reflects', 'separated', 'rsm', 'form', 'continuous', 'classifications', 'integrating', 'merged', 'enables', 'socio', 'p-rsm', 'physical', 'acquire', 'complex', 'performance', 'normal', 'mapping', 'probabilistic', 'link', 'model']
+ComWOnAC:  
+['operations', 'organize', 'semantic', 'classification', 'manage', 'satisfied', 'discovered', 'experiments', 'query', 'integrity', 'multi-dimensional', 'management', 'support', 'services', 'forms', 'condition', 'basic', 'flexible', 'guarantees', 'resources', 'separated', 'rsm', 'form', 'generalization', 'classifications', 'versatile', 'continuous', 'evolution', 'resource', 'effectively', 'uncertain', 'constraint', 'spaces', 'integrating', 'concepts', 'enables', 'reflects', 'nature', 'constraints', 'mental', 'characteristics', 'cyber', 'society', 'socio', 'link', 'multiple', 'organizing', 'physical', 'dimensions', 'space', 'managing', 'p-rsm', 'reasoning', 'complex', 'establishes', 'performance', 'supports', 'method', 'merged', 'abstraction', 'normal', 'queries', 'mechanisms', 'mapping', 'composed', 'paper', 'applications', 'levels', 'cyber-physical', 'analyzed', 'probabilistic', 'model', 'specialization', 'acquire', 'suitable', 'effective', 'uncertainty', 'introduces', 'introduced', 'create']
+#-------------------------------------------------
+
+
+f0009
+OnAbs: 75.8621%
+OnConc: 91.8699%
+OnAC: 86.7403%
+Abs2CE: 30.2929%
+Conc2CE: 47.4477%
+AC2CE: 49.0377%
+WAbs: 80.0000%
+WConc: 84.8485%
+WAC: 79.3103%
+ComWOnAbs: 
+['operations', 'set', 'semantic', 'proposed', 'storing', 'process', 'series', 'society', 'paper', 'query', 'operation', 'strategy', 'completeness', 'network', 'estimating', 'support', 'maintenance', 'basic', 'approach', 'resources', 'suggested', 'multiple', 'cp-society', 'views', 'dynamicity', 'investigates', 'ef\xef\xac\x81cient', 'levels', 'link', 'ef\xef\xac\x81ciently', 'evolution', 'based', 'reasoning', 'managing', 'simplifying', 'cpsocio-sln']
+ComWOnConc:  
+['operations', 'semantic', 'proposed', 'in\xef\xac\x82uence', 'query', 'networks', 'cpsocio-slns', 'based', 'calculate', 'graph', 'merged', 'rules', 'ef\xef\xac\x81ciently', 'evolution', 'merge', 'investigate', 'view', 'set', 'sequence', 'operation', 'calculating', 'managing', 'selected', 'reasoning', 'dynamicity', 'relational', 'equivalent', 'conformation', 'understanding', '\xef\xac\x81rst', 'cpsocio-sln', 'relation', 'analyzing', 'sequences', 'strategy', 'support', 'system', 'relations', 'maintenance', 'basic', 'ef\xef\xac\x81cient', 'link', 'semantics', 'circulation', 'developing', 'future', 'storing', 'links', 'process', 'randomly', 'minimum', 'spanning', 'completeness', 'cp-society', 'cover', 'orderly']
+ComWOnAC:  
+['operations', 'selected', 'semantic', 'proposed', 'system', 'networks', 'paper', 'sequences', 'query', 'cpsocio-slns', 'based', 'calculate', 'support', 'sequence', 'relations', 'strategy', 'estimating', 'maintenance', 'resources', 'views', 'rules', 'basic', 'ef\xef\xac\x81cient', 'link', 'ef\xef\xac\x81ciently', 'semantics', 'evolution', 'circulation', 'developing', 'merge', 'investigate', 'future', 'simplifying', 'in\xef\xac\x82uence', 'cpsocio-sln', 'storing', 'set', 'links', 'process', 'series', 'randomly', 'society', 'minimum', 'operation', 'completeness', 'network', 'spanning', 'reasoning', 'dynamicity', 'relational', 'approach', 'multiple', 'cp-society', 'equivalent', 'conformation', 'understanding', 'levels', 'investigates', '\xef\xac\x81rst', 'suggested', 'analyzing', 'merged', 'cover', 'managing', 'orderly', 'graph', 'calculating', 'view', 'relation']
+#-------------------------------------------------
+
+
+f0010
+OnAbs: 68.3333%
+OnConc: 78.0822%
+OnAC: 73.6842%
+Abs2CE: 36.1905%
+Conc2CE: 38.9286%
+AC2CE: 46.4286%
+WAbs: 59.5745%
+WConc: 68.0000%
+WAC: 61.8421%
+ComWOnAbs: 
+['set', 'semantic', 'links', 'large-scale', 'proposes', 'paper', 'reasoning', 'rules', 'documents', 'network', 'realizing', 'approach', 'discovering', 'relational', 'document', 'resources', 'knowing', 'evolve', 'relevant', 'predicting', 'applications', 'link', 'based', 'model', 'sln', 'queries', 'support', 'automatically']
+ComWOnConc:  
+['semantic', 'proposed', 'query', 'networks', 'web', 'association', 'discovering', 'relational', 'advanced', 'set', 'imply', 'network', '3', 'approach', 'discovery', 'change', 'automatically', 'inference', 'support', '2', 'classi\xef\xac\x81cation', 'sln', 'links', 'cluster', 'documents', '1', 'rules', 'document', 'evolve', 'derived', 'applications', 'sln-d', 'types', 'relies']
+ComWOnAC:  
+['relevant', 'semantic', 'proposed', 'large-scale', 'proposes', 'paper', 'types', 'query', 'reasoning', 'based', 'web', 'support', '2', 'advanced', 'discovering', 'resources', 'rules', 'link', 'classi\xef\xac\x81cation', 'association', 'cluster', 'imply', 'sln', 'queries', 'relies', 'set', 'links', 'documents', 'network', 'realizing', 'networks', '3', 'relational', 'document', 'approach', 'discovery', 'knowing', 'evolve', 'inference', 'predicting', 'derived', 'applications', 'sln-d', 'change', '1', 'model', 'automatically']
+#-------------------------------------------------
+
+
+f0011
+OnAbs: 88.5135%
+OnConc: 84.3972%
+OnAC: 85.8140%
+Abs2CE: 38.2533%
+Conc2CE: 47.4236%
+AC2CE: 53.7118%
+WAbs: 83.1579%
+WConc: 72.8477%
+WAC: 72.7273%
+ComWOnAbs: 
+['represent', 'semantic', 'limited', 'symbols', 'paper', 'networks', 'issues', 'multi-dimensional', 'based', 'concerns', 'build', 'facets', 'individuals', 'view', 'people', 'intelligence', 'images', 'machines', 'network', 'space', 'civilization', 'adaptive', 'issue', 'knowing', 'evolving', 'ability', 'processing', 'base', 'active', 'super', 'interaction', 'computers', 'context', 'social', 'argue', 'scales', 'image', 'represented', 'agents', 'learning', 're\xef\xac\x82ect', 'basis', 'interact', 'system', 'high-speed', 'building', 'enable', 'self-organized', 'humans', 'accurately', 'cyber-society', 'link', 'classi\xef\xac\x81cation', 'potential', 'semantics', 'explaining', 'future', 'situation', 'interactive', 'constant', 'process', 'worldview', 'studying', 'machine', 'incorporating', 'algorithms', 'evolve', 'abstraction', 'turing', 'symbol', 'lens', 'levels', 'designed', 'structure', 'natural', 'solve', 'time', 'representation', 'researchers']
+ComWOnConc:  
+['semantic', 'emerge', 're\xef\xac\x82ects', 'symbols', 'communities', 'relevant', 'human', 'participate', 'issues', '1', 'based', 'languages', 'behave', 'semantics', 'relevance', 'input', 'resources', 'richness', 'evolution', 'records', 'realize', 'processes', 'facets', 'ai', 'individuals', 'indication', 'output', 'generations', 'set', 'evolve', 'humans', 'society', 'images', 'organizing', 'human-level', 'machines', 'network', 'space', '4', '3', 'civilization', '7', 'simplest', 'adaptive', 'society-level', 'knowing', 'evolving', 'ability', 'interactions', 'base', 'instinct', 'generate', 'adapting', 'interaction', 'study', 'objects', 'social', 'multi-disciplinary', 'automatically', 'control', 'scales', 'image', 'symbolic', 'distinguish', 'centrality', 'artifacts', 'interact', 'system', 'relations', '2', '6', 'generating', 'self-organized', 'outputs', 'explanation', 'cyber-society', 'link', 'classi\xef\xac\x81cation', 'signi\xef\xac\x81cant', 'individual', 'machine-level', 'enables', 'interactive', 'process', 'sense', 'effectively', 'diverse', 'spaces', 'form', 'worldview', 'studying', 'mechanism', 'machine', 'build', 'algorithms', 'development', 'explaining', 'abstraction', 'models', 'turing', 'symbol', 'lens', 'levels', 'future', 'building', 'effective', 'principle', 'fundamental', 'time', '+']
+ComWOnAC:  
+['represent', 'semantic', 'limited', 'symbols', 'communities', 'paper', 'mechanism', 'human', 'participate', 'networks', 'issues', '1', 'multi-dimensional', 'based', 'control', 'potential', 'relevance', 'input', 'resources', 'richness', 'simplest', 'processes', 'records', '2', 'realize', 'evolution', 'diverse', 'facets', 'individuals', 'indication', 'generations', 'view', 'set', 'people', 'intelligence', 'enables', 'behave', 'society', 'images', 'organizing', 'human-level', 'machines', 'network', 'space', 'incorporating', 'models', '3', 'civilization', '7', 'adaptive', 'issue', 'knowing', 'evolving', 'ability', 'interactions', 'processing', 'evolve', 'base', 'active', 'super', 'adapting', 'interaction', 'study', 'computers', 'objects', 'context', 'social', 'argue', 'distinguish', 'automatically', 'emerge', 're\xef\xac\x82ects', 'relevant', 'scales', 'image', 'symbolic', '+', 'represented', 'agents', 'learning', 'centrality', 're\xef\xac\x82ect', 'languages', 'basis', 'artifacts', 'interact', 'system', 'relations', 'ai', '6', '4', 'high-speed', 'generating', 'enable', 'self-organized', 'humans', 'explanation', 'instinct', 'accurately', 'cyber-society', 'link', 'classi\xef\xac\x81cation', 'semantics', 'effective', 'fundamental', 'signi\xef\xac\x81cant', 'future', 'machine-level', 'situation', 'interactive', 'generate', 'constant', 'process', 'sense', 'effectively', 'spaces', 'form', 'worldview', 'output', 'studying', 'individual', 'machine', 'concerns', 'build', 'outputs', 'solve', 'development', 'explaining', 'abstraction', 'turing', 'symbol', 'lens', 'levels', 'designed', 'society-level', 'structure', 'building', 'multi-disciplinary', 'natural', 'algorithms', 'principle', 'time', 'representation', 'researchers']
+#-------------------------------------------------
+
+
+f0012
+OnAbs: 0.0000%
+OnConc: 0.0000%
+OnAC: 0.0000%
+Abs2CE: 0.0000%
+Conc2CE: 0.0000%
+AC2CE: 0.0000%
+WAbs: 0.0000%
+WConc: 0.0000%
+WAC: 0.0000%
+ComWOnAbs: 
+[]
+ComWOnConc:  
+[]
+ComWOnAC:  
+[]
+#-------------------------------------------------
+
+
+f0013
+OnAbs: 61.2245%
+OnConc: 82.5000%
+OnAC: 70.7865%
+Abs2CE: 25.0399%
+Conc2CE: 20.0957%
+AC2CE: 26.9537%
+WAbs: 56.4103%
+WConc: 73.0769%
+WAC: 58.0000%
+ComWOnAbs: 
+['semantic', 'links', 'rule-constraint', 'web', 'network', 'proposed', 'relations', 'forms', 'potential', 'type', 'resources', 'schema', 'normal', 'concepts', 'derived', 'link', 'resource', 'rules', 'study', 'sln', 'algorithms', 'reasoning']
+ComWOnConc:  
+['regulates', 'semantic', 'proposed', 'manage', 'instances', 'networks', 'network', 'rule-constraint', 'relations', 'forms', 'algorithms', 'schema', 'normal', 'deriving', 'link', 'semantics', 'reasoning', 'sln', 'maintain']
+ComWOnAC:  
+['semantic', 'links', 'regulates', 'manage', 'networks', 'web', 'network', 'rule-constraint', 'relations', 'forms', 'potential', 'type', 'resources', 'schema', 'normal', 'concepts', 'derived', 'reasoning', 'rules', 'deriving', 'link', 'maintain', 'semantics', 'resource', 'instances', 'proposed', 'sln', 'algorithms', 'study']
+#-------------------------------------------------
+
+
+f0014
+OnAbs: 0.0000%
+OnConc: 0.0000%
+OnAC: 0.0000%
+Abs2CE: 0.0000%
+Conc2CE: 0.0000%
+AC2CE: 0.0000%
+WAbs: 0.0000%
+WConc: 0.0000%
+WAC: 0.0000%
+ComWOnAbs: 
+[]
+ComWOnConc:  
+[]
+ComWOnAC:  
+[]
+#-------------------------------------------------
+
+
+f0015
+OnAbs: 0.0000%
+OnConc: 65.7143%
+OnAC: 65.7143%
+Abs2CE: 0.0000%
+Conc2CE: 19.0372%
+AC2CE: 19.0372%
+WAbs: 0.0000%
+WConc: 54.7170%
+WAC: 54.7170%
+ComWOnAbs: 
+[]
+ComWOnConc:  
+['program', 'easier', 'bastards', 'designers', 'teller', 'automatic', 'pleasanter', 'mental', 'deal', 'humans', 'computer', 'humane', 'machines', 'psychology', 'programmers', 'terms', 'computers', 'control', 'create', 'apparent', 'understand', 'future', 'convenient', 'machine', 'users', 'fascist', 'understands', 'programs', 'qualities']
+ComWOnAC:  
+['program', 'easier', 'bastards', 'designers', 'teller', 'automatic', 'pleasanter', 'mental', 'deal', 'humans', 'computer', 'humane', 'machines', 'psychology', 'fascist', 'terms', 'computers', 'create', 'apparent', 'understand', 'future', 'control', 'convenient', 'machine', 'users', 'programmers', 'understands', 'programs', 'qualities']
+#-------------------------------------------------
+
+
+f0016
+OnAbs: 62.8019%
+OnConc: 0.0000%
+OnAC: 62.8019%
+Abs2CE: 48.9224%
+Conc2CE: 0.0000%
+AC2CE: 48.9224%
+WAbs: 47.5285%
+WConc: 0.0000%
+WAC: 47.5285%
+ComWOnAbs: 
+['lack', 'activated', 'reasoning', 'program', 'decide', 'telling', 'experimentally', 'idiots', 'bacterial', 'bacteria', 'current', 'told', 'modify', 'i.e', 'diagnoses', 'experience', 'amount', 'action', 'opinion', 'suitable', 'probabilities', 'successful', 'controlling', 'keeping', 'values', 'learn', 'accept', 'sense', 'fever', 'paper', 'production', 'systems', 'diseases', 'matches', '1958', 'matched', 'domain', 'idea', 'vibrio', 'performs', 'lecture', 'mycin', 'major', 'variables', 'hypothetical', 'doctors', 'representing', 'require', 'programs', 'patients', 'determined', 'sentences', 'programmers', 'infections', 'cholerae', 'knowledge', 'title', 'explain', 'written', 'entities', 'hope', 'cholera', 'common', 'wrote', 'set', 'intelligence', 'computer', 'close', 'expert', 'pattern', 'artificial', 'progress', 'knowing', 'ability', 'uncertainty', 'usable', 'relevant', 'prepared', 'innovations', 'offers', 'partly', 'understand', 'physician', 'advocating', 'suppose', 'smart', 'freely', 'discoveries', 'develop', 'doctor', 'avoids', 'consequence', 'difficult', 'hand', 'narrow', 'database', 'object', 'english', 'true', 'abilities', 'previous', 'treatment', 'excited', 'match', 'tests', 'rules', 'specific', 'misled', 'popular', 'limitations', 'measures', 'patient', 'ontology', 'ideology', 'dialog', 'intestines', 'ai', "''", 'formalism', 'field', 'compares', 'users', 'required', 'rule', 'diagnosis']
+ComWOnConc:  
+[]
+ComWOnAC:  
+['cholerae', 'lack', 'activated', 'reasoning', 'knowledge', 'title', 'explain', 'idiots', 'program', 'hope', 'cholera', 'decide', 'progress', 'telling', 'experimentally', 'common', 'wrote', 'set', 'intelligence', 'computer', 'close', 'bacterial', 'bacteria', 'pattern', 'artificial', 'current', 'written', 'previous', 'told', 'knowing', 'ability', 'modify', 'i.e', 'diagnoses', 'uncertainty', 'experience', 'discoveries', 'amount', 'action', 'opinion', 'suitable', 'relevant', 'treatment', 'innovations', 'ontology', 'entities', 'probabilities', 'offers', 'field', 'partly', 'successful', 'controlling', 'keeping', 'advocating', 'measures', 'values', 'learn', 'usable', 'accept', 'sense', 'specific', 'develop', 'doctor', 'consequence', 'difficult', 'fever', 'suppose', 'narrow', 'programs', 'english', 'abilities', 'true', 'paper', 'production', 'systems', 'freely', 'excited', 'smart', 'diseases', 'matches', 'avoids', '1958', 'matched', 'misled', 'popular', 'rules', 'domain', 'idea', 'physician', 'vibrio', 'tests', 'performs', 'lecture', 'limitations', 'object', 'patient', 'mycin', 'hand', 'ideology', 'dialog', 'major', 'variables', 'hypothetical', 'required', 'doctors', 'representing', 'intestines', 'require', 'database', 'patients', 'determined', 'ai', "''", 'sentences', 'formalism', 'match', 'compares', 'users', 'programmers', 'prepared', 'expert', 'infections', 'rule', 'diagnosis', 'understand']
+#-------------------------------------------------
+
+
+f0017
+OnAbs: 0.0000%
+OnConc: 0.0000%
+OnAC: 0.0000%
+Abs2CE: 0.0000%
+Conc2CE: 0.0000%
+AC2CE: 0.0000%
+WAbs: 0.0000%
+WConc: 0.0000%
+WAC: 0.0000%
+ComWOnAbs: 
+[]
+ComWOnConc:  
+[]
+ComWOnAC:  
+[]
+#-------------------------------------------------
+
+
+f0018
+OnAbs: 0.0000%
+OnConc: 0.0000%
+OnAC: 0.0000%
+Abs2CE: 0.0000%
+Conc2CE: 0.0000%
+AC2CE: 0.0000%
+WAbs: 0.0000%
+WConc: 0.0000%
+WAC: 0.0000%
+ComWOnAbs: 
+[]
+ComWOnConc:  
+[]
+ComWOnAC:  
+[]
+#-------------------------------------------------
+
+
+f0019
+OnAbs: 77.2727%
+OnConc: 0.0000%
+OnAC: 77.2727%
+Abs2CE: 15.7895%
+Conc2CE: 0.0000%
+AC2CE: 15.7895%
+WAbs: 76.1905%
+WConc: 0.0000%
+WAC: 76.1905%
+ComWOnAbs: 
+['human', 'ai', 'intelligence', 'hitherto', 'philosophical', 'organize', 'ideas', 'philosophy', 'ability', 'philosophers', 'level', 'studied', 'robot', 'experience', 'learn', 'view']
+ComWOnConc:  
+[]
+ComWOnAC:  
+['ai', 'intelligence', 'hitherto', 'philosophical', 'organize', 'human', 'learn', 'ideas', 'ability', 'philosophy', 'philosophers', 'level', 'studied', 'robot', 'experience', 'view']
+#-------------------------------------------------
+
+
+f0020
+OnAbs: 75.5556%
+OnConc: 17.7778%
+OnAC: 56.2963%
+Abs2CE: 38.3249%
+Conc2CE: 9.1371%
+AC2CE: 39.0863%
+WAbs: 68.2540%
+WConc: 14.2857%
+WAC: 44.5545%
+ComWOnAbs: 
+['concept', 'sentence', 'true', 'if-and-only-if', 'reasoning', 'knowledge', 'defining', 'whatif', 'common', 'truth', 'essential', 'mathematical', 'successively', 'approximates', 'describing', 'definite', 'denotes', 'mosquito', 'theory', 'objects', 'represented', 'article', 'ill-defined', 'logic', 'logical', 'learning', 'refined', 'approximate', 'complete', 'formalisms', 'everest', 'representing', 'harms', 'theories', 'concepts', 'well-defined', 'sense', 'mountain', 'object', 'involving', 'treats', 'definitions', 'notion']
+ComWOnConc:  
+['approximation', 'approximate', 'objects', 'theories', 'partly', 'concepts']
+ComWOnAC:  
+['concept', 'denotes', 'reasoning', 'knowledge', 'common', 'approximation', 'definite', 'objects', 'represented', 'article', 'logic', 'logical', 'learning', 'harms', 'theories', 'concepts', 'sense', 'definitions', 'sentence', 'true', 'if-and-only-if', 'defining', 'whatif', 'mosquito', 'truth', 'essential', 'mathematical', 'successively', 'approximates', 'describing', 'theory', 'ill-defined', 'refined', 'approximate', 'complete', 'formalisms', 'representing', 'everest', 'well-defined', 'partly', 'mountain', 'object', 'involving', 'treats', 'notion']
+#-------------------------------------------------
+
+
+f0021
+OnAbs: 65.3846%
+OnConc: 0.0000%
+OnAC: 65.3846%
+Abs2CE: 16.6960%
+Conc2CE: 0.0000%
+AC2CE: 16.6960%
+WAbs: 56.4103%
+WConc: 0.0000%
+WAC: 56.4103%
+ComWOnAbs: 
+['map', 'proposals', 'backtracking', 'coloring', 'regarded', 'expressed', 'program', 'controlled', 'normal', 'programmers', 'regard', 'control', 'controlling', 'porto', 'algorithm', 'pereira', 'programming', 'deduction', 'applied', 'algorithms', 'logic', 'prolog']
+ComWOnConc:  
+[]
+ComWOnAC:  
+['control', 'backtracking', 'coloring', 'regarded', 'program', 'controlled', 'regard', 'controlling', 'applied', 'porto', 'proposals', 'pereira', 'prolog', 'algorithm', 'algorithms', 'expressed', 'map', 'normal', 'programmers', 'programming', 'deduction', 'logic']
+#-------------------------------------------------
+
+
+f0022
+OnAbs: 77.7778%
+OnConc: 0.0000%
+OnAC: 77.7778%
+Abs2CE: 17.2414%
+Conc2CE: 0.0000%
+AC2CE: 17.2414%
+WAbs: 70.5882%
+WConc: 0.0000%
+WAC: 70.5882%
+ComWOnAbs: 
+['surrounding', 'chip', 'idea', 'relative', 'posing', 'functions', 'knowledge', 'informal', 'creativity', 'expressed', 'creative', 'program', 'concisely', 'statement', 'defining', 'ability', 'concepts', 'predicates', 'solver', 'solution', 'express', 'checkerboard', 'involves', 'piece']
+ComWOnConc:  
+[]
+ComWOnAC:  
+['knowledge', 'informal', 'creativity', 'program', 'statement', 'defining', 'express', 'solver', 'solution', 'concepts', 'piece', 'chip', 'idea', 'relative', 'surrounding', 'posing', 'functions', 'expressed', 'creative', 'concisely', 'ability', 'predicates', 'checkerboard', 'involves']
+#-------------------------------------------------
+
+
+f0023
+OnAbs: 63.4783%
+OnConc: 54.4218%
+OnAC: 56.9682%
+Abs2CE: 25.7796%
+Conc2CE: 36.7983%
+AC2CE: 41.3721%
+WAbs: 48.6486%
+WConc: 39.1304%
+WAC: 36.8644%
+ComWOnAbs: 
+['actions', 'alternative', 'based', 'deterministic', 'exhibits', 'sdfw', 'animal', 'choice', 'intelligence', 'computer', 'artificial', 'terms', 'theory', 'free', 'e.g', 'action', 'exercising', 'features', 'simple', 'properties', 'chooses', 'determinist', 'choices', 'behavior', 'situation', 'ai', 'formalism', 'criterion', 'chess', 'structure', 'consequences', 'programs', 'considered', 'person', 'involves', 'notion']
+ComWOnConc:  
+['considerations', 'text', 'move', 'actions', 'determine', 'human', 'alternative', 'decisions', 'apes', 'based', 'thinking', 'regarded', 'alternate', '5', 'sdfw', 'animal', 'choice', 'effects', 'difference', 'level', 'philosophical', 'theory', 'people', 'experiments', 'computer', 'nature', 'notion', 'free', 'positions', 'i.e', 'conversation', 'length', 'action', 'involves', 'deterministic', 'simple', 'indeterminate', 'matter', 'article', 'carry', 'table', 'dennett', 'comparing', 'opponent', 'partly', 'external', 'translation', 'quantitative', 'animals', 'programs', 'depends', 'choices', 'behavior', 'situation', 'program', 'compare', 'sense', 'involve', 'moves', 'tic-tac-toe', 'chess', 'forthcoming', 'systems', 'drescher', 'position', 'anticipated', 'structure', 'branching', 'dre06', 'consequences', 'phone', 'looked']
+ComWOnAC:  
+['decisions', 'deterministic', 'program', 'choice', 'difference', 'level', 'positions', 'i.e', 'involves', 'chooses', 'properties', 'comparing', 'animals', 'compare', 'involve', 'sense', 'tic-tac-toe', 'criterion', 'animal', 'move', 'apes', 'exhibits', 'systems', 'anticipated', 'effects', 'theory', 'free', 'e.g', 'conversation', 'length', 'features', 'philosophical', 'carry', 'indeterminate', 'dennett', 'translation', 'matter', 'chess', 'branching', 'consequences', 'considered', 'looked', 'notion', 'text', 'based', 'sdfw', 'experiments', 'intelligence', 'computer', 'forthcoming', 'position', 'artificial', 'terms', 'nature', 'article', 'simple', 'table', 'partly', 'drescher', 'external', 'determinist', 'choices', 'behavior', 'situation', 'moves', 'action', 'programs', 'person', 'quantitative', 'actions', 'human', 'alternative', 'thinking', 'regarded', 'alternate', 'exercising', 'depends', 'people', 'dre06', 'considerations', 'determine', 'opponent', 'ai', 'formalism', '5', 'structure', 'phone']
+#-------------------------------------------------
+
+
+f0024
+OnAbs: 55.7971%
+OnConc: 0.0000%
+OnAC: 55.7971%
+Abs2CE: 17.6205%
+Conc2CE: 0.0000%
+AC2CE: 17.6205%
+WAbs: 44.5545%
+WConc: 0.0000%
+WAC: 44.5545%
+ComWOnAbs: 
+['proposed', 'heavily', 'paper', 'expressed', 'knowledge', 'program', '1958', 'modifications', 'approach', 'idea', 'no-one', 'familiarity', 'written', 'lecture', 'common', 'database', 'approaches', 'search', 'language', 'discussed', 'length', 'survey', 'logic', 'opinion', 'involves', 'logical', 'proportional', '1986', 'expected', 'achieving', 'complete', 'form', "''", 'generality', 'ai', 'sense', 'ideas', 'criterion', 'objective', 'moving', 'relies', 'programs', '1971', 'axioms', 'time']
+ComWOnConc:  
+[]
+ComWOnAC:  
+['proposed', 'heavily', 'paper', 'knowledge', 'program', '1958', 'modifications', 'ai', 'common', 'idea', 'no-one', 'familiarity', 'expressed', 'written', 'approach', 'approaches', 'search', 'language', 'discussed', 'survey', 'programs', 'logic', 'opinion', 'involves', 'logical', 'proportional', '1986', 'lecture', 'expected', 'achieving', 'relies', 'complete', 'form', 'generality', "''", 'sense', 'ideas', 'length', 'criterion', 'objective', 'moving', 'database', '1971', 'axioms', 'time']
+#-------------------------------------------------
+
+
+f0025
+OnAbs: 44.2857%
+OnConc: 0.0000%
+OnAC: 44.2857%
+Abs2CE: 25.4658%
+Conc2CE: 0.0000%
+AC2CE: 25.4658%
+WAbs: 32.1429%
+WConc: 0.0000%
+WAC: 32.1429%
+ComWOnAbs: 
+['propositions', 'outermost', 'computer', 'ability', 'reason', 'objects', 'ist', 'context', 'logical', 'totality', 'mcc93', 'mcc96', 'true', 'transcend', 'sentences', 'formulas', 'contexts', 'programs']
+ComWOnConc:  
+[]
+ComWOnAC:  
+['logical', 'totality', 'propositions', 'outermost', 'true', 'transcend', 'mcc93', 'mcc96', 'computer', 'sentences', 'formulas', 'ability', 'reason', 'objects', 'contexts', 'programs', 'ist', 'context']
+#-------------------------------------------------
+
+
+f0026
+OnAbs: 32.7869%
+OnConc: 0.0000%
+OnAC: 32.7869%
+Abs2CE: 17.4242%
+Conc2CE: 0.0000%
+AC2CE: 17.4242%
+WAbs: 26.0870%
+WConc: 0.0000%
+WAC: 26.0870%
+ComWOnAbs: 
+['consciousness', 'human', 'processes', 'view', 'observable', 'intellectual', 'philosophical', 'require', 'ai', 'machine', 'animal', 'object']
+ComWOnConc:  
+[]
+ComWOnAC:  
+['consciousness', 'intellectual', 'philosophical', 'human', 'processes', 'require', 'view', 'ai', 'machine', 'animal', 'object', 'observable']
+#-------------------------------------------------
+
+
+f0027
+OnAbs: 27.7778%
+OnConc: 0.0000%
+OnAC: 27.7778%
+Abs2CE: 9.7087%
+Conc2CE: 0.0000%
+AC2CE: 9.7087%
+WAbs: 27.7778%
+WConc: 0.0000%
+WAC: 27.7778%
+ComWOnAbs: 
+['notebooks', 'scientific', 'analyse', 'data', 'databases']
+ComWOnConc:  
+[]
+ComWOnAC:  
+['databases', 'analyse', 'data', 'scientific', 'notebooks']
+#-------------------------------------------------
+
+
+f0028
+OnAbs: 0.0000%
+OnConc: 70.1923%
+OnAC: 70.1923%
+Abs2CE: 0.0000%
+Conc2CE: 45.3471%
+AC2CE: 45.3471%
+WAbs: 0.0000%
+WConc: 58.0882%
+WAC: 58.0882%
+ComWOnAbs: 
+[]
+ComWOnConc:  
+['code', 'bandwidth', 'netcdf', 'file', 'centers', 'previous', 'visualization', 'languages', 'systems', 'easy', 'extensive', 'questions', 'indexing', 'focus', 'community', 'performance', 'secondary', 'lineage', 'unifying', 'automatic', 'essential', 'people', 'visualize', 'describing', 'pace', 'analyze', 'access', 'scientists', 'metadata', 'terms', 'scientific', 'answers', 'standard', 'peta-scale', 'federations', 'central', 'programming', 'computational', 'instruments', 'analyzing', 'tools', 'management', 'system', '2', 'archives', 'vehicle', 'non-procedural', 'separated', 'serve', 'understand', 'keeping', 'datasets', 'science', 'database', 'hdf', 'remain', 'next-generation', 'embed', 'synthesis', 'enable', 'huge', 'algorithms', 'emphasis', 'io', 'object', 'collection', 'extending', 'moving', 'sql', 'fits', 'core', 'data', 'types', 'programs', 'analysis', 'provide', 'parallelism', 'databases', 'link']
+ComWOnAC:  
+['code', 'bandwidth', 'netcdf', 'questions', 'centers', 'previous', 'visualization', 'languages', 'systems', 'easy', 'extensive', 'indexing', 'focus', 'datasets', 'secondary', 'lineage', 'metadata', 'automatic', 'essential', 'people', 'visualize', 'describing', 'hdf', 'access', 'scientists', 'unifying', 'terms', 'scientific', 'answers', 'standard', 'federations', 'central', 'programming', 'computational', 'instruments', 'community', 'analyzing', 'tools', 'management', 'peta-scale', 'data', 'system', '2', 'archives', 'vehicle', 'analyze', 'non-procedural', 'separated', 'serve', 'understand', 'keeping', 'science', 'programs', 'pace', 'remain', 'next-generation', 'embed', 'synthesis', 'enable', 'file', 'huge', 'emphasis', 'performance', 'parallelism', 'io', 'object', 'collection', 'extending', 'moving', 'sql', 'fits', 'core', 'types', 'database', 'analysis', 'provide', 'algorithms', 'databases', 'link']
+#-------------------------------------------------
+
+
+f0029
+OnAbs: 53.1915%
+OnConc: 49.4624%
+OnAC: 51.3369%
+Abs2CE: 26.6476%
+Conc2CE: 28.3668%
+AC2CE: 33.8109%
+WAbs: 45.7143%
+WConc: 43.4211%
+WAC: 38.6792%
+ComWOnAbs: 
+['ephemeral', 'observational', 'cross-match', 'match', 'stationary', 'measurements', 'misses', 'masked', 'noise', 'missing', 'disappeared', 'step', 'objects', 'hits', 'classification', 'simply', 'table', 'instrument', 'bundles', 'observations', 'overlapping', 'corrupted', 'moved', 'compared', 'field', 'spatial', 'classify', 'footprints', 'object', 'bundle', 'observation', 'edge']
+ComWOnConc:  
+['threshold', 'observational', 'cross-match', 'match', '3', 'matches', 'runs', 'detection', 'implemented', 'misses', 'masked', 'sdss', 'noise', 'missing', 'disappeared', 'step', 'bundle', 'hits', 'classification', 'table', 'bundles', 'observations', 'corrupted', 'moved', 'ephemeral', 'field', '5', 'spatial', 'multiple', 'footprints', 'object', 'observation', 'edge']
+ComWOnAC:  
+['threshold', 'runs', 'detection', 'implemented', '3', 'missing', 'objects', 'hits', 'classification', 'simply', 'table', 'bundles', 'corrupted', 'classify', 'edge', 'ephemeral', 'observational', 'instrument', 'cross-match', 'match', 'matches', 'spatial', 'stationary', 'measurements', 'misses', 'masked', 'sdss', 'noise', 'disappeared', 'step', 'observations', 'overlapping', 'moved', 'compared', 'field', '5', 'multiple', 'footprints', 'object', 'bundle', 'observation']
+#-------------------------------------------------
+
+
+f0030
+OnAbs: 58.2090%
+OnConc: 65.3226%
+OnAC: 61.6279%
+Abs2CE: 25.6693%
+Conc2CE: 24.5669%
+AC2CE: 37.1654%
+WAbs: 50.0000%
+WConc: 56.9892%
+WAC: 50.2732%
+ComWOnAbs: 
+['phenomenon', 'increasingly', 'reviewed', 'scientist', 'distributed', 'instruments', 'local', 'grid', 'documented', 'schematized', 'common', 'subset', 'reference', 'frame', 'astronomer', 'uniform', '3', 'object', 'processing', 'objects', 'spare', 'peer', 'study', 'times', 'reside', 'sky', 'community', 'publishing', 'provenance', 'wonderful', 'archives', 'collected', 'corpus', 'cross-comparison', 'observations', 'form', 'copy', 'datasets', 'remain', 'petabyte', 'download', 'archive', '1', 'application', 'fairly', 'multiple', 'time', 'derived', 'inherently', 'astronomy', 'data', 'sets']
+ComWOnConc:  
+['virtual', 'computation', 'web', 'rapidly', 'effort', 'distributed', 'time-domain', 'scalable', 'observatory', 'grid', 'international', 'projects', 'sizes', 'architecture', 'constraints', 'individual', 'uniform', 'cross-identifications', 'content', 'preserve', 'varying', 'nature', 'objects', 'massive', 'tasks', 'community', 'instrument', 'archives', 'files', 'searches', 'authors', 'datasets', 'roles', 'science', 'cross-correlation', 'project', 'portals', 'archive', 'huge', 'provide', 'access', 'application', 'spatial', 'multiple', 'inherently', 'involving', 'services', 'astronomy', 'data', 'database', 'patterns', 'databases', 'typical']
+ComWOnAC:  
+['phenomenon', 'increasingly', 'reviewed', 'scientist', 'virtual', '1', 'rapidly', 'distributed', 'scalable', 'local', 'varying', 'community', 'datasets', 'grid', 'documented', 'projects', 'sizes', 'schematized', 'common', 'constraints', 'subset', 'preserve', 'computation', 'reference', 'frame', 'portals', 'astronomer', 'individual', 'access', 'project', 'nature', 'uniform', '3', 'cross-identifications', 'international', 'content', 'architecture', 'web', 'science', 'objects', 'spare', 'databases', 'peer', 'study', 'times', 'massive', 'reside', 'tasks', 'instruments', 'roles', 'effort', 'sky', 'publishing', 'instrument', 'data', 'provenance', 'archives', 'collected', 'corpus', 'observations', 'files', 'searches', 'form', 'observatory', 'provide', 'copy', 'cross-correlation', 'remain', 'petabyte', 'processing', 'cross-comparison', 'wonderful', 'download', 'archive', 'huge', 'patterns', 'application', 'time-domain', 'spatial', 'fairly', 'multiple', 'object', 'derived', 'inherently', 'authors', 'involving', 'services', 'astronomy', 'database', 'sets', 'time', 'typical']
+#-------------------------------------------------
+
+
+f0031
+OnAbs: 56.4103%
+OnConc: 0.0000%
+OnAC: 56.4103%
+Abs2CE: 16.0256%
+Conc2CE: 0.0000%
+AC2CE: 16.0256%
+WAbs: 48.4848%
+WConc: 0.0000%
+WAC: 48.4848%
+ComWOnAbs: 
+['accessible', 'instruments', 'computational', 'scientific', 'system', 'temporal', 'virtual', 'internet', 'discovery', 'worldwide', 'form', 'studies', 'astronomy', 'data', 'observatory', 'science']
+ComWOnConc:  
+[]
+ComWOnAC:  
+['accessible', 'instruments', 'computational', 'temporal', 'system', 'virtual', 'internet', 'discovery', 'worldwide', 'scientific', 'form', 'astronomy', 'data', 'observatory', 'science', 'studies']
+#-------------------------------------------------
+
+
+f0032
+OnAbs: 0.0000%
+OnConc: 0.0000%
+OnAC: 0.0000%
+Abs2CE: 0.0000%
+Conc2CE: 0.0000%
+AC2CE: 0.0000%
+WAbs: 0.0000%
+WConc: 0.0000%
+WAC: 0.0000%
+ComWOnAbs: 
+[]
+ComWOnConc:  
+[]
+ComWOnAC:  
+[]
+#-------------------------------------------------
+
+
+f0033
+OnAbs: 31.8182%
+OnConc: 60.9302%
+OnAC: 58.2278%
+Abs2CE: 6.7989%
+Conc2CE: 51.5581%
+AC2CE: 52.4079%
+WAbs: 28.5714%
+WConc: 56.2130%
+WAC: 53.5519%
+ComWOnAbs: 
+['total', '8k', 'transactions', 'bank', 'transaction', '1970']
+ComWOnConc:  
+['measurements', 'sqlserver', 'starves', 'disk', 'previous', '1', '100-deep', 'factor', 'folks', 'laptop', 'hope', 'rules', 'scaling', 'increases', 'relational', 'impressive', 'disks', 'tpc-a', 'boring', '10k', '10m', 'trend', 'cost', 'mandated', 'tasks', '3', 'version', 'approach', 'correct', 'ability', 'delivering', 'terminals', 'article', '100', 'log', 'generals', 'excluding', 'queue', 'requests', 'processor', 'involves', 'feed', 'fight', 'simple', 'impossible', 'service', 'reducing', 'outstanding', 'debitcredit', 'checkpoint', '2', 'rates', 'completes', 'memory', 'systems', 'life', 'benchmark', 'transaction', 'deep', '1990', '8ktps', '15', 'cell-phones', 'dramatically', 'dedicated', 'figure', 'messages', 'ram', 'delivers', 'fixes', 'gigabyte', 'result', 'storage', '2000', 'write', 'luxury', 'performance', '/tpsa', 'war', 'time', 'io', 'transactions', 'demonstrates', '1.9', 'fits', 'data', 'response', 'cpi', 'task', 'ghz', '1970', 'costs', 'algorithms', '2005', 'cpu']
+ComWOnAC:  
+['dramatically', '2005', 'sqlserver', 'performance', '15', 'disk', 'previous', 'write', 'debitcredit', 'factor', 'folks', 'laptop', 'hope', '3', '100-deep', 'scaling', 'increases', '8ktps', 'bank', 'impressive', 'disks', 'tpc-a', '10k', '10m', 'trend', 'mandated', 'demonstrates', 'measurements', 'version', 'relational', 'approach', '8k', 'ability', 'delivering', 'terminals', 'article', '100', 'generals', 'service', 'excluding', 'queue', 'correct', 'requests', 'processor', 'involves', 'feed', 'cell-phones', 'tasks', 'simple', 'io', 'gigabyte', 'total', 'checkpoint', 'log', 'reducing', '2', 'rates', 'memory', 'ghz', 'life', 'ram', 'benchmark', 'task', 'deep', '1990', 'boring', 'fight', 'cost', 'result', 'dedicated', 'figure', 'outstanding', 'messages', 'delivers', 'systems', 'fixes', 'cpi', 'impossible', 'storage', 'algorithms', '1', 'luxury', '/tpsa', 'war', 'time', 'completes', 'transactions', '1.9', 'fits', 'data', 'response', 'starves', 'transaction', 'rules', '1970', '2000', 'costs', 'cpu']
+#-------------------------------------------------
+
+
+f0034
+OnAbs: 74.2857%
+OnConc: 0.0000%
+OnAC: 74.2857%
+Abs2CE: 12.6408%
+Conc2CE: 0.0000%
+AC2CE: 12.6408%
+WAbs: 70.9677%
+WConc: 0.0000%
+WAC: 70.9677%
+ComWOnAbs: 
+['community', 'avalanche', 'computer', 'tools', 'techniques', 'visualize', 'telescope', 'sciences', 'technology', 'astronomy', 'scientists', 'analyze', 'building', 'manage', 'scientific', 'database', 'data', 'developing', 'science', 'peta-scale', 'domains', 'position']
+ComWOnConc:  
+[]
+ComWOnAC:  
+['community', 'avalanche', 'computer', 'tools', 'techniques', 'visualize', 'technology', 'astronomy', 'telescope', 'sciences', 'analyze', 'manage', 'scientific', 'scientists', 'peta-scale', 'data', 'building', 'database', 'science', 'developing', 'domains', 'position']
+#-------------------------------------------------
+
+
+f0035
+OnAbs: 68.0000%
+OnConc: 0.0000%
+OnAC: 68.0000%
+Abs2CE: 17.2043%
+Conc2CE: 0.0000%
+AC2CE: 17.2043%
+WAbs: 58.8235%
+WConc: 0.0000%
+WAC: 58.8235%
+ComWOnAbs: 
+['instruments', 'excellent', 'recognize', 'directly', 'tools', 'astronomy', 'active', 'archives', 'arrives', 'scientific', 'driven', 'produce', 'queries', 'data', 'self-organize', 'anomalous', 'analysis', 'examined', 'databases', 'scientists']
+ComWOnConc:  
+[]
+ComWOnAC:  
+['instruments', 'active', 'tools', 'archives', 'scientists', 'excellent', 'examined', 'directly', 'recognize', 'queries', 'arrives', 'scientific', 'driven', 'produce', 'astronomy', 'data', 'self-organize', 'anomalous', 'analysis', 'databases']
+#-------------------------------------------------
+
+
+f0036
+OnAbs: 68.6275%
+OnConc: 0.0000%
+OnAC: 68.6275%
+Abs2CE: 16.7002%
+Conc2CE: 0.0000%
+AC2CE: 16.7002%
+WAbs: 60.9756%
+WConc: 0.0000%
+WAC: 60.9756%
+ComWOnAbs: 
+['major', 'people', 'ram', 'trends', 'design', 'web', 'disk', 'networking', 'thumb', 'cache', 'storage', 'amdahl', 'systems', 'performance', 'save', 'rules', 'caching', 'ratio', 'data', 'network', 'database', 'bandwidth', 'costs', 'rule', 'time']
+ComWOnConc:  
+[]
+ComWOnAC:  
+['major', 'bandwidth', 'disk', 'web', 'networking', 'thumb', 'amdahl', 'cache', 'systems', 'save', 'rules', 'people', 'ram', 'trends', 'design', 'network', 'storage', 'performance', 'ratio', 'data', 'database', 'costs', 'rule', 'time', 'caching']
+#-------------------------------------------------
+
+
+f0037
+OnAbs: 0.0000%
+OnConc: 0.0000%
+OnAC: 0.0000%
+Abs2CE: 0.0000%
+Conc2CE: 0.0000%
+AC2CE: 0.0000%
+WAbs: 0.0000%
+WConc: 0.0000%
+WAC: 0.0000%
+ComWOnAbs: 
+[]
+ComWOnConc:  
+[]
+ComWOnAC:  
+[]
+#-------------------------------------------------
+
+
+f0038
+OnAbs: 0.0000%
+OnConc: 0.0000%
+OnAC: 0.0000%
+Abs2CE: 0.0000%
+Conc2CE: 0.0000%
+AC2CE: 0.0000%
+WAbs: 0.0000%
+WConc: 0.0000%
+WAC: 0.0000%
+ComWOnAbs: 
+[]
+ComWOnConc:  
+[]
+ComWOnAC:  
+[]
+#-------------------------------------------------
+
+
+f0039
+OnAbs: 0.0000%
+OnConc: 87.2727%
+OnAC: 87.2727%
+Abs2CE: 0.0000%
+Conc2CE: 13.6235%
+AC2CE: 13.6235%
+WAbs: 0.0000%
+WConc: 87.2340%
+WAC: 87.2340%
+ComWOnAbs: 
+[]
+ComWOnConc:  
+['sector', 'storage', 'xml', 'rapidly', 'systems', 'main', 'federation', 'datasets', 'interoperability', 'directories', 'standards', 'benefit', 'growth', 'ameliorate', 'access', '3', 'progress', 'commercial', 'times', 'community', 'fits', 'interchange', 'start', '2', 'archives', 'define', 'gap', 'observatory', 'hour', 'database', 'portals', 'scan', 'technology', 'processors', 'virtual', '1', 'soap', 'improving', 'astronomy', 'data', 'parallelism']
+ComWOnAC:  
+['sector', 'storage', 'xml', 'rapidly', 'systems', 'main', 'federation', 'datasets', 'interoperability', 'directories', 'standards', 'benefit', 'growth', 'ameliorate', 'access', '3', 'progress', 'commercial', 'times', 'community', 'improving', 'interchange', 'scan', 'start', '2', 'archives', 'define', 'gap', 'observatory', 'hour', 'portals', 'technology', 'processors', 'virtual', '1', 'soap', 'fits', 'astronomy', 'data', 'database', 'parallelism']
+#-------------------------------------------------
+
+

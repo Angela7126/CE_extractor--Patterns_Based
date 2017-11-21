@@ -540,230 +540,225 @@ p263
 I2
 tp264
 Rp265
+ag100
 ag1
-(V(.*) the(.*?)(?:reason|reasons) for (.*)
+(V(.*)the(.*?)(?:reason|reasons) for (.*)
 p266
 I2
 tp267
 Rp268
 ag1
-(V(.*)the(.*?)(?:reason|reasons) for (.*)
+(V(.*) reason why (.*?) because (.*)
 p269
 I2
 tp270
 Rp271
 ag1
-(V(.*) reason why (.*?) because (.*)
+(V(.*) by(.*?)(?:reason|reasons) of (.*)
 p272
 I2
 tp273
 Rp274
 ag1
-(V(.*) by(.*?)(?:reason|reasons) of (.*)
+(V(.*)by (?:reason|reasons) of (.*)
 p275
 I2
 tp276
 Rp277
 ag1
-(V(.*)by (?:reason|reasons) of (.*)
+(V(.*) reason (.*?) (?:that|because) (.*)
 p278
 I2
 tp279
 Rp280
 ag1
-(V(.*) reason (.*?) (?:that|because) (.*)
+(V(.*) (?:reason|reasons) why (.*)
 p281
 I2
 tp282
 Rp283
 ag1
-(V(.*) (?:reason|reasons) why (.*)
+(V(.*) (?:reason|reasons) for (.*)
 p284
 I2
 tp285
 Rp286
 ag1
-(V(.*) (?:reason|reasons) for (.*)
+(V(.*) reason why (.*)
 p287
 I2
 tp288
 Rp289
+ag286
+ag283
 ag1
-(V(.*) reason why (.*)
+(V(.*)(?:reason|reasons) for (.*)
 p290
 I2
 tp291
 Rp292
-ag289
-ag286
 ag1
-(V(.*)(?:reason|reasons) for (.*)
+(V(.*?) reason (.*)
 p293
 I2
 tp294
 Rp295
 ag1
-(V(.*?) reason (.*)
+(V(.*)(?:if|once) (.*?) , (.*)
 p296
 I2
 tp297
 Rp298
 ag1
-(V(.*)(?:if|once) (.*?) , (.*)
+(V(.*)if (.*?) then (.*)
 p299
 I2
 tp300
 Rp301
 ag1
-(V(.*)if (.*?) then (.*)
+(V(.*?) if (.*)
 p302
 I2
 tp303
 Rp304
 ag1
-(V(.*?) if (.*)
+(V(.*?) (?:enable|enables|enabled) (.*)
 p305
 I2
 tp306
 Rp307
 ag1
-(V(.*?) (?:enable|enables|enabled) (.*)
+(V(.*?) enables (.*)
 p308
 I2
 tp309
 Rp310
 ag1
-(V(.*?) enables (.*)
+(V(.*)due to the fact that (.*?) , (.*)
 p311
 I2
 tp312
 Rp313
 ag1
-(V(.*)due to the fact that (.*?) , (.*)
+(V(.*)it is(.*?)due to (.*?) that (.*)
 p314
 I2
 tp315
 Rp316
 ag1
-(V(.*)it is(.*?)due to (.*?) that (.*)
+(V(.*) due to the fact that (.*)
 p317
 I2
 tp318
 Rp319
 ag1
-(V(.*) due to the fact that (.*)
+(V(.*) due to (.*)
 p320
 I2
 tp321
 Rp322
+ag322
+ag322
 ag1
-(V(.*) due to (.*)
+(V(.*)due to (.*)
 p323
 I2
 tp324
 Rp325
-ag325
-ag325
+ag322
 ag1
-(V(.*)due to (.*)
+(V(.*) it is(.*?)in consequence of (.*?) that (.*)
 p326
 I2
 tp327
 Rp328
-ag325
 ag1
-(V(.*) it is(.*?)in consequence of (.*?) that (.*)
+(V(.*) (?:,|\u005c.|;|and) (.*?) in consequence
 p329
 I2
 tp330
 Rp331
 ag1
-(V(.*) (?:,|\u005c.|;|and) (.*?) in consequence
+(V(.*) (?:,|\u005c.|;|and) (.*?) in consequence(.*)
 p332
 I2
 tp333
 Rp334
 ag1
-(V(.*) (?:,|\u005c.|;|and) (.*?) in consequence(.*)
+(V(.*) in consequence of (.*)
 p335
 I2
 tp336
 Rp337
+ag337
 ag1
-(V(.*) in consequence of (.*)
+(V(.*)in consequence of (.*)
 p338
 I2
 tp339
 Rp340
-ag340
 ag1
-(V(.*)in consequence of (.*)
+(V(.*) in consequence (.*)
 p341
 I2
 tp342
 Rp343
 ag1
-(V(.*) in consequence (.*)
+(V(.*)owing to (.*?) , (.*)
 p344
 I2
 tp345
 Rp346
 ag1
-(V(.*)owing to (.*?) , (.*)
+(V(.*) owing to (.*)
 p347
 I2
 tp348
 Rp349
+ag349
+ag349
 ag1
-(V(.*) owing to (.*)
+(V(.*)owing to (.*)
 p350
 I2
 tp351
 Rp352
-ag352
-ag352
 ag1
-(V(.*)owing to (.*)
+(V(.*)based on (.*?) , (.*)
 p353
 I2
 tp354
 Rp355
 ag1
-(V(.*)based on (.*?) , (.*)
+(V(.*) based on (.*)
 p356
 I2
 tp357
 Rp358
+ag358
+ag358
 ag1
-(V(.*) based on (.*)
+(V(.*)according to (.*?) , (.*)
 p359
 I2
 tp360
 Rp361
-ag361
-ag361
 ag1
-(V(.*)according to (.*?) , (.*)
+(V(.*) according to (.*)
 p362
 I2
 tp363
 Rp364
 ag1
-(V(.*) according to (.*)
+(V(.*?)(?:by|through) (.*)
 p365
 I2
 tp366
 Rp367
 ag1
-(V(.*?)(?:by|through) (.*)
+(V(.*?) (?:by|through) (.*)
 p368
 I2
 tp369
 Rp370
-ag1
-(V(.*?) (?:by|through) (.*)
-p371
-I2
-tp372
-Rp373
 a.

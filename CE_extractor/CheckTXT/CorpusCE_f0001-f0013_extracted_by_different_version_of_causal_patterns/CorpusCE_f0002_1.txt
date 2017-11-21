@@ -1,0 +1,353 @@
+************************************************************
+f0002: Cause-Effect links
+************************************************************
+
+CASE: 1
+Stag: 0
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Recognizing and understanding knowledge flow between scientists is valuable for science .
+	Cause: Recognizing and understanding knowledge flow between scientists
+	Effect: is valuable for science .
+
+CASE: 2
+Stag: 1
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Discovering , managing , and utilizing such knowledge are advanced services of the e-science knowledge grid environment .
+	Cause: Discovering
+	Effect: managing , and utilizing such knowledge are advanced services of the e-science knowledge grid environment .
+
+CASE: 3
+Stag: 2
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Discovering , managing , and utilizing such knowledge are advanced services of the e-science knowledge grid environment . The knowledge flow network implicit in the citation network consists of knowledge flows between nodes that process knowledge , including resoning , fusing , generalizing , inventing , and problem solving , by authors and co-authors .
+	Cause: Discovering
+	Effect: managing , and utilizing such knowledge are advanced services of the e-science knowledge grid environment . The knowledge flow network implicit in the citation network consists of knowledge flows between nodes that process knowledge , including resoning , fusing , generalizing , inventing , and problem solving , by authors and co-authors .
+
+CASE: 4
+Stag: 3
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Encouraging unselfish cooperation is another stategy that helps a knowledge flow network reach its greatest effectiveness .
+	Cause: Encouraging unselfish cooperation
+	Effect: is another stategy that helps a knowledge flow network reach its greatest effectiveness .
+
+CASE: 5
+Stag: 4
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Encouraging unselfish cooperation is another stategy that helps a knowledge flow network reach its greatest effectiveness . Coordinating and fusing knowledge flows , data flows , and control flows , and integrating knowledge flows and workflows , are powerful means for making teamwork effective .
+	Cause: Encouraging unselfish cooperation
+	Effect: is another stategy that helps a knowledge flow network reach its greatest effectiveness . Coordinating and fusing knowledge flows , data flows , and control flows , and integrating knowledge flows and workflows , are powerful means for making teamwork effective .
+
+CASE: 6
+Stag: 5
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: Whether we are aware of it or not , knowledge flows within human society and in the Internet-mediated interconnection environment scientists increasingly rely on for research .
+	Cause: research
+	Effect: Whether we are aware of it or not , knowledge flows within human society and in the Internet-mediated interconnection environment scientists increasingly rely on
+
+CASE: 7
+Stag: 8
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: However , knowledge is dynamic -- it goes through human brains for knowing , invention , propagation , fusion , generalization , and problem solving .
+	Cause: knowing , invention , propagation , fusion , generalization , and problem solving
+	Effect: However , knowledge is dynamic -- it goes through human brains
+
+CASE: 8
+Stag: 11
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: The citations in scientific articles are objective data used , for example , by the Institute for Scientific Information 's Journal Citation Report , for assessing scientists , scientific articles , and journals -LSB- 5 -RSB- .
+	Cause: assessing scientists , scientific articles , and journals -LSB- 5 -RSB-
+	Effect: The citations in scientific articles are objective data used , for example , by the Institute for Scientific Information 's Journal Citation Report ,
+
+CASE: 9
+Stag: 22
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: -LRB- 5 -RRB- Authors who cited each other share some knowledge , as do co-authors of a paper .
+	Cause: do co-authors of a paper .
+	Effect: -LRB- 5 -RRB- Authors who cited each other share some knowledge
+
+CASE: 10
+Stag: 29
+	Pattern: 35 [['thus']]---- [['&C', '(,)', '(&AND)'], ['&R']]
+	sentTXT: Scientists can publish in several areas , and thus be involved in different knowledge flow networks .
+	Cause: Scientists can publish in several areas
+	Effect: be involved in different knowledge flow networks .
+
+CASE: 11
+Stag: 36
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: A knowledge node -LRB- scientist -RRB- can deliver knowledge to its peers by forwarding knowledge it has received -LRB- for example , forwarding an answer to the node that forwarded the query -RRB- , or by passing on knowledge it generates -LRB- for example , send the answer to the querying node directly -RRB- .
+	Cause: example , send the answer to the querying node directly
+	Effect: A knowledge node -LRB- scientist -RRB- can deliver knowledge to its peers by forwarding knowledge it has received -LRB- for example , forwarding an answer to the node that forwarded the query -RRB- , or by passing on knowledge it generates -LRB-
+
+CASE: 12
+Stag: 41
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: -LRB- 2 -RRB- Internal knowledge flow -- knowledge arising within a node as the result of processing . The functioning of the knowledge spiral is very similar to that of the hypercycle model -LSB- 8 -RSB- .
+	Cause: the result of processing . The functioning of the knowledge spiral is very similar to that of the hypercycle model -LSB- 8 -RSB-
+	Effect: -LRB- 2 -RRB- Internal knowledge flow -- knowledge arising within a node
+
+CASE: 13
+Stag: 49
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: Recording the evolution of knowledge flows among authors needs a semantic space of three dimensions : article , author , and time as shown in Figure 1 .
+	Cause: shown in Figure 1 .
+	Effect: the evolution of knowledge flows among authors needs a semantic space of three dimensions : article , author , and time
+
+CASE: 14
+Stag: 54
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: Invisible knowledge flow networks self-organize and evolve continuously and interact with each other through flows to form an autonomous knowledge space for providing advanced knowledge services .
+	Cause: providing advanced knowledge services
+	Effect: Invisible knowledge flow networks self-organize and evolve continuously and interact with each other through flows to form an autonomous knowledge space
+
+CASE: 15
+Stag: 58
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Reflecting the development of a discipline , the distribution of knowledge energy in a network changes as its citation network evolves .
+	Cause: Reflecting the development of a discipline
+	Effect: the distribution of knowledge energy in a network changes as its citation network evolves .
+
+CASE: 16
+Stag: 59
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Maintaining knowledge energy differences between knowledge nodes and ensuring that only needed knowledge is passed between nodes are critical to realizing an effective knowledge flow spiral .
+	Cause: Maintaining knowledge energy differences between knowledge nodes
+	Effect: and ensuring that only needed knowledge is passed between nodes are critical to realizing an effective knowledge flow spiral .
+
+CASE: 17
+Stag: 60
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Maintaining knowledge energy differences between knowledge nodes and ensuring that only needed knowledge is passed between nodes are critical to realizing an effective knowledge flow spiral . Maintaining openness is a strategy for the sustainable development of knowledge flow within a research community .
+	Cause: Maintaining knowledge energy differences between knowledge nodes
+	Effect: and ensuring that only needed knowledge is passed between nodes are critical to realizing an effective knowledge flow spiral . Maintaining openness is a strategy for the sustainable development of knowledge flow within a research community .
+
+CASE: 18
+Stag: 62
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: For the same reason , highly cited articles attract more citations as the citation network evolves .
+	Cause: the citation network evolves .
+	Effect: the same reason , highly cited articles attract more citations
+
+CASE: 19
+Stag: 73
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Encouraging unselfish cooperation is another strategy that helps a knowledge flow network reach its greatest effectiveness .
+	Cause: Encouraging unselfish cooperation
+	Effect: is another strategy that helps a knowledge flow network reach its greatest effectiveness .
+
+CASE: 20
+Stag: 74
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Encouraging unselfish cooperation is another strategy that helps a knowledge flow network reach its greatest effectiveness . Special knowledge spirals and their effect in science .
+	Cause: Encouraging unselfish cooperation
+	Effect: is another strategy that helps a knowledge flow network reach its greatest effectiveness . Special knowledge spirals and their effect in science .
+
+CASE: 21
+Stag: 75
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Distinguishing the following special knowledge flow spirals can help scientists explore knowledge evolution in research community development : -LRB- 1 -RRB- A rising spiral has an increasing rate of citations over time .
+	Cause: Distinguishing the following special knowledge flow spirals can help scientists explore knowledge evolution in research community development
+	Effect: : -LRB- 1 -RRB- A rising spiral has an increasing rate of citations over time
+
+CASE: 22
+Stag: 76
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Distinguishing the following special knowledge flow spirals can help scientists explore knowledge evolution in research community development : -LRB- 1 -RRB- A rising spiral has an increasing rate of citations over time .
+	Cause: Distinguishing the following special knowledge flow spirals can help scientists explore knowledge evolution in research community development
+	Effect: : -LRB- 1 -RRB- A rising spiral has an increasing rate of citations over time
+
+CASE: 23
+Stag: 91
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Searching the citation network among Web pages and in digital libraries can reveal knowledge flows among authors .
+	Cause: Searching the citation network among Web pages and in digital libraries
+	Effect: can reveal knowledge flows among authors .
+
+CASE: 24
+Stag: 92
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Searching the citation network among Web pages and in digital libraries can reveal knowledge flows among authors . By extracting and mining from scientific data , activities , and documents of an area ;
+	Cause: Searching the citation network among Web pages and in digital libraries
+	Effect: can reveal knowledge flows among authors . By extracting and mining from scientific data , activities , and documents of an area ;
+
+CASE: 25
+Stag: 93
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: analyzing the relationships between results to enrich a knowledge flow network ; and tracing its evolution , an e-science environment can provide scientists with the following services :
+	Cause: analyzing the relationships between results to enrich a knowledge flow network
+	Effect: ; and tracing its evolution , an e-science environment can provide scientists with the following services
+
+CASE: 26
+Stag: 94
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: analyzing the relationships between results to enrich a knowledge flow network ; and tracing its evolution , an e-science environment can provide scientists with the following services :
+	Cause: analyzing the relationships between results to enrich a knowledge flow network
+	Effect: ; and tracing its evolution , an e-science environment can provide scientists with the following services
+
+CASE: 27
+Stag: 98
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: The system can display users ' personal knowledge flow networks by finding their citations and their co-authors ' citations , classifying the articles involved by discipline and chronology , expressing the category semantics for advanced services , linking the categories with the citations , and revealing knowledge flows using the citation network .
+	Cause: advanced services
+	Effect: The system can display users ' personal knowledge flow networks by finding their citations and their co-authors ' citations , classifying the articles involved by discipline and chronology , expressing the category semantics
+
+CASE: 28
+Stag: 100
+	Pattern: 26 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem)'], ['(-if/-&adj/-&adv)', '&C@Complete@']]
+	sentTXT: This service can recommend references by retrieving documents from the Web and digital libraries , ranking them according to their citation rates and the roles of the authors , and tracing and analyzing their citation networks to show the references as a network rather than as a list . The network can be a hierarchy that enables people to zoom in and out of the research area .
+	Cause: a list . The network can be a hierarchy that enables people to zoom in and out of the research area
+	Effect: This service can recommend references by retrieving documents from the Web and digital libraries , ranking them according to their citation rates and the roles of the authors , and tracing and analyzing their citation networks to show the references as a network rather than
+
+CASE: 29
+Stag: 114
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: -LRB- 6 -RRB- Objectively and dynamically evaluate research . Criteria such as the number of citations , the number of articles , and the impact factor for journals are used to evaluate research .
+	Cause: journals
+	Effect: 6 -RRB- Objectively and dynamically evaluate research . Criteria such as the number of citations , the number of articles , and the impact factor
+
+CASE: 30
+Stag: 118
+	Pattern: 35 [['thus']]---- [['&C', '(,)', '(&AND)'], ['&R']]
+	sentTXT: Based on the evolution of relevant knowledge flow networks , this service enables scientists to simulate and estimate the development of a discipline , and thus helps them plan research .
+	Cause: Based on the evolution of relevant knowledge flow networks , this service enables scientists to simulate and estimate the development of a discipline
+	Effect: helps them plan research .
+
+CASE: 31
+Stag: 125
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: -LRB- d -RRB- Plan personal development , and make policies for the development of disciplines .
+	Cause: the development of disciplines
+	Effect: -LRB- d -RRB- Plan personal development , and make policies
+
+CASE: 32
+Stag: 127
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Extracting document fragments that contain authors , affiliations , and references , an escience knowledge grid environment can find useful semantic relationships between documents or document fragments .
+	Cause: Extracting document fragments that contain authors , affiliations , and references
+	Effect: an escience knowledge grid environment can find useful semantic relationships between documents or document fragments .
+
+CASE: 33
+Stag: 128
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Analyzing the relationship between authors , articles , and their citation network , the environment can automatically discover knowledge flow networks and can distinguish the type of knowledge nodes using ranking algorithms and trace their evolution .
+	Cause: Analyzing the relationship between authors , articles , and their citation network
+	Effect: the environment can automatically discover knowledge flow networks and can distinguish the type of knowledge nodes using ranking algorithms and trace their evolution .
+
+CASE: 34
+Stag: 129
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Analyzing the relationship between authors , articles , and their citation network , the environment can automatically discover knowledge flow networks and can distinguish the type of knowledge nodes using ranking algorithms and trace their evolution . By extracting comments and comparisons of the cited articles and then organizing them according to the time of publication , discovers and displays how the area has developed as a research literature .
+	Cause: Analyzing the relationship between authors , articles , and their citation network
+	Effect: the environment can automatically discover knowledge flow networks and can distinguish the type of knowledge nodes using ranking algorithms and trace their evolution . By extracting comments and comparisons of the cited articles and then organizing them according to the time of publication , discovers and displays how the area has developed as a research literature .
+
+CASE: 35
+Stag: 136
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: The environment records information flow such as email within a research team , extracts useful information flows , analyzes common interests and cooperation relations , and displays the evolution of the flows to help assess the teamwork 's effectiveness , for example , whether team members ' changing interests match their tasks .
+	Cause: example
+	Effect: The environment records information flow such as email within a research team , extracts useful information flows , analyzes common interests and cooperation relations , and displays the evolution of the flows to help assess the teamwork 's effectiveness ,
+
+CASE: 36
+Stag: 139
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: Figure 3 shows a tool for visualizing the semantic map where the center nodes can trace the user 's interest .
+	Cause: visualizing the semantic map where the center nodes can trace the user 's interest
+	Effect: Figure 3 shows a tool
+
+CASE: 37
+Stag: 142
+	Pattern: 265 [['so']]---- [['&C', '(,)', '(&AND)'], ['&R']]
+	sentTXT: Research has shown the contact network and the virus spread model determine the spread of epidemics -LSB- 11 -RSB- , so the evolution of the contact network influences an epidemic .
+	Cause: Research has shown the contact network and the virus spread model determine the spread of epidemics -LSB- 11 -RSB-
+	Effect: the evolution of the contact network influences an epidemic .
+
+CASE: 38
+Stag: 143
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Appropriately changing the contact network can control an epidemic .
+	Cause: Appropriately changing the contact network
+	Effect: can control an epidemic .
+
+CASE: 39
+Stag: 144
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Appropriately changing the contact network can control an epidemic . Knowledge flows along a semantic link network by such models as knowledge dissemination and query routing .
+	Cause: Appropriately changing the contact network
+	Effect: can control an epidemic . Knowledge flows along a semantic link network by such models as knowledge dissemination and query routing .
+
+CASE: 40
+Stag: 145
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Changing the semantic link network will influence the efficiency of query routing .
+	Cause: Changing the semantic link network
+	Effect: will influence the efficiency of query routing .
+
+CASE: 41
+Stag: 146
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Changing the semantic link network will influence the efficiency of query routing . The knowledge dissemination model resembles the spread of infectious diseases .
+	Cause: Changing the semantic link network
+	Effect: will influence the efficiency of query routing . The knowledge dissemination model resembles the spread of infectious diseases .
+
+CASE: 42
+Stag: 147
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Changing the semantic link network will influence the knowledge flowing through it .
+	Cause: Changing the semantic link network
+	Effect: will influence the knowledge flowing through it .
+
+CASE: 43
+Stag: 148
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Changing the semantic link network will influence the knowledge flowing through it . Unlike data and control flows in workflows , which are predefined or adapted according to activities and changes , knowledge flows are behind the interaction among team members and come with activity-level cooperation .
+	Cause: Changing the semantic link network
+	Effect: will influence the knowledge flowing through it . Unlike data and control flows in workflows , which are predefined or adapted according to activities and changes , knowledge flows are behind the interaction among team members and come with activity-level cooperation .
+
+CASE: 44
+Stag: 152
+	Pattern: 25 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: Coordinating and fusing knowledge flows , data flows , and control flows , and integrating knowledge flows and workflows , are powerful means for making teamwork effective .
+	Cause: making teamwork effective
+	Effect: Coordinating and fusing knowledge flows , data flows , and control flows , and integrating knowledge flows and workflows , are powerful means
+
+CASE: 45
+Stag: 160
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Interacting with scientists and their records , this environment will evolve in a novel way to help the development of science .
+	Cause: Interacting with scientists and their records
+	Effect: this environment will evolve in a novel way to help the development of science .
+
+CASE: 46
+Stag: 161
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Exploring the universe and human society are great challenges of 21st century science .
+	Cause: Exploring the universe and human society
+	Effect: are great challenges of 21st century science .
+
+CASE: 47
+Stag: 162
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Exploring the universe and human society are great challenges of 21st century science . This article explores the dynamic nature of knowledge , the power to promote and influence the development of human society , and the future interconnection environment .
+	Cause: Exploring the universe and human society
+	Effect: are great challenges of 21st century science . This article explores the dynamic nature of knowledge , the power to promote and influence the development of human society , and the future interconnection environment .
+
+CASE: 48
+Stag: 164
+	Pattern: 28 [['for']]---- [['&R', '(-call/-look/-pay)'], ['&NP@C@@NCPeople@@NCTime@']]
+	sentTXT: Such networks embody an autonomous knowledge grid , which supports individual and cooperative scientific research , helps investigate the evolution of knowledge and disciplines , and assists in planning for scientific research development .
+	Cause: scientific research development
+	Effect: Such networks embody an autonomous knowledge grid , which supports individual and cooperative scientific research , helps investigate the evolution of knowledge and disciplines , and assists in planning
+
+CASE: 49
+Stag: 165
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Using the rules of knowledge flow makes teamwork more effective and innovative , not only in an e-science environment but also in team management , as knowledge flow networking can generate knowledge during operation .
+	Cause: Using the rules of knowledge flow
+	Effect: makes teamwork more effective and innovative , not only in an e-science environment but also in team management , as knowledge flow networking can generate knowledge during operation .
+
+CASE: 50
+Stag: 166
+	Pattern: 30 []---- [['&V-ing@C@', '(,)', '&R']]
+	sentTXT: Using the rules of knowledge flow makes teamwork more effective and innovative , not only in an e-science environment but also in team management , as knowledge flow networking can generate knowledge during operation . However , many other scientific and technological issues relevant to knowledge flow , including human , philosophical , psychological , cognitive , economical , social , and management issues , are yet to be resolved , and are a major challenge to scientists .
+	Cause: Using the rules of knowledge flow
+	Effect: makes teamwork more effective and innovative , not only in an e-science environment but also in team management , as knowledge flow networking can generate knowledge during operation . However , many other scientific and technological issues relevant to knowledge flow , including human , philosophical , psychological , cognitive , economical , social , and management issues , are yet to be resolved , and are a major challenge to scientists .

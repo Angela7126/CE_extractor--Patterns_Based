@@ -1,0 +1,902 @@
+f0009:
+
+W_Fdic:
+the                 : 344     semantic            : 207     and                 : 155     of                  : 144     
+minimum             : 106     link                : 106     to                  : 104     is                  : 100     
+cpsocio-sln         : 95      links               : 90      -rcb-               : 90      -lcb-               : 89      
+-lrb-               : 88      -rrb-               : 88      in                  : 81      set                 : 66      
+be                  : 65      cover               : 55      can                 : 53      graph               : 48      
+spanning            : 47      operations          : 40      that                : 39      are                 : 38      
+closure             : 33      not                 : 32      for                 : 32      e2                  : 31      
+we                  : 31      on                  : 31      reasoning           : 29      if                  : 29      
+by                  : 27      this                : 26      -lsb-               : 25      -rsb-               : 25      
+adding              : 25      new                 : 24      should              : 24      basic               : 24      
+as                  : 23      e1                  : 22      e3                  : 22      hence               : 22      
+operation           : 21      e5                  : 21      resources           : 20      deleting            : 20      
+out                 : 19      it                  : 19      nodes               : 18      from                : 18      
+e4                  : 18      characteristic      : 18      all                 : 16      between             : 16      
+inter-resource      : 16      has                 : 16      's                  : 16      there               : 16      
+e10                 : 15      maintenance         : 15      algorithm           : 15      every               : 14      
+e11                 : 14      two                 : 14      space               : 14      based               : 14      
+add                 : 14      delete              : 14      an                  : 14      other               : 14      
+following           : 13      its                 : 13      then                : 13      one                 : 13      
+evolution           : 13      after               : 13      node                : 13      inter-attribute     : 12      
+may                 : 12      will                : 12      figure              : 11      process             : 11      
+network             : 11      have                : 11      any                 : 11      also                : 11      
+deleted             : 11      physical            : 11      important           : 11      cyber               : 10      
+change              : 10      derived             : 10      ?rst                : 10      e6                  : 10      
+these               : 10      sln                 : 10      same                : 10      rule                : 10      
+original            : 10      through             : 9       society             : 9       e7                  : 9       
+which               : 9       attributes          : 9       rules               : 9       or                  : 9       
+because             : 9       was                 : 9       no                  : 9       g1                  : 8       
+web                 : 8       addnode             : 8       e9                  : 8       relation            : 8       
+must                : 8       de?nition           : 8       e12                 : 8       cp-society          : 8       
+conformation        : 8       but                 : 8       with                : 8       time                : 8       
+query               : 7       they                : 7       ek                  : 7       e8                  : 7       
+reasoned            : 7       semantics           : 7       determined          : 7       includes            : 7       
+added               : 7       graphs              : 7       circulation         : 7       relational          : 7       
+according           : 7       theorem             : 7       ?nd                 : 7       environment         : 6       
+networks            : 6       use                 : 6       such                : 6       complexity          : 6       
+since               : 6       e.                  : 6       reason              : 6       determining         : 6       
+their               : 6       were                : 6       addlink             : 6       only                : 6       
+strategy            : 6       characteristics     : 6       know                : 6       sequence            : 6       
+does                : 6       update              : 6       calculate           : 5       dellink             : 5       
+rdf                 : 5       ontology            : 5       means               : 5       example             : 5       
+e.g.                : 5       high                : 5       shows               : 5       another             : 5       
+relations           : 5       do                  : 5       been                : 5       proposed            : 5       
+unique              : 5       input               : 5       world               : 5       some                : 5       
+equivalent          : 5       subgraph            : 5       storage             : 5       structure           : 5       
+relationships       : 4       include             : 4       form                : 4       cost                : 4       
+more                : 4       information         : 4       into                : 4       used                : 4       
+shown               : 4       given               : 4       isolated            : 4       take                : 4       
+d2                  : 4       d1                  : 4       q.                  : 4       approach            : 4       
+humans              : 4       nature              : 4       various             : 4       newaddlink          : 4       
+importance          : 4       in?uence            : 4       delnode             : 4       socio               : 4       
+different           : 4       things              : 4       ce                  : 4       step                : 4       
+output              : 4       called              : 4       generating          : 4       users               : 4       
+a.                  : 4       n1                  : 4       n2                  : 4       represent           : 3       
+leads               : 3       go                  : 3       condition           : 3       among               : 3       
+what                : 3       social              : 3       m.                  : 3       attribute           : 3       
+needs               : 3       how                 : 3       transforming        : 3       types               : 3       
+third               : 3       element             : 3       mental              : 3       series              : 3       
+static              : 3       dynamicity          : 3       uses                : 3       rank                : 3       
+ef?cient            : 3       way                 : 3       most                : 3       future              : 3       
+xml                 : 3       interconnection     : 3       addrule             : 3       ability             : 3       
+both                : 3       hyperlink           : 3       empty               : 3       changed             : 3       
+find                : 3       ef?ciently          : 3       completeness        : 3       changes             : 3       
+when                : 3       obtain              : 3       delrule             : 3       intersection        : 3       
+save                : 3       ...                 : 3       checking            : 3       follows             : 3       
+ruleid              : 3       discussed           : 3       introduced          : 3       pair                : 3       
+transform           : 3       check               : 3       cpsocio             : 3       implies             : 3       
+dynamic             : 2       issues              : 2       helps               : 2       stable              : 2       
+very                : 2       g.                  : 2       paternity           : 2       method              : 2       
+million             : 2       human               : 2       modify              : 2       equals              : 2       
+understanding       : 2       let                 : 2       represented         : 2       knowledge           : 2       
+obtained            : 2       study               : 2       usually             : 2       studies             : 2       
+emerge              : 2       analyzing           : 2       until               : 2       brings              : 2       
+ef?ciency           : 2       proof               : 2       want                : 2       provide             : 2       
+six                 : 2       machine             : 2       maintain            : 2       holds               : 2       
+help                : 2       paper               : 2       24                  : 2       cpsocio-slns        : 2       
+them                : 2       worlds              : 2       term                : 2       found               : 2       
+related             : 2       in?uences           : 2       research            : 2       model               : 2       
+advantages          : 2       already             : 2       gmin                : 2       number              : 2       
+instances           : 2       system              : 2       indicate            : 2       too                 : 2       
+relationship        : 2       part                : 2       10                  : 2       16                  : 2       
+distinguished       : 2       behaviors           : 2       need                : 2       identi?cation       : 2       
+satis?es            : 2       class               : 2       orderly             : 2       inconsistent        : 2       
+d3                  : 2       updating            : 2       merged              : 2       get                 : 2       
+roles               : 2       view                : 2       managing            : 2       conditions          : 2       
+ends                : 2       many                : 2       expression          : 2       simple              : 2       
+second              : 2       three               : 2       representative      : 2       value               : 2       
+result              : 2       complex             : 2       several             : 2       rfid                : 2       
+effect              : 2       thought             : 2       sets                : 2       using               : 2       
+previous            : 2       regard              : 2       community           : 2       proper              : 2       
+determine           : 2       support             : 2       describes           : 2       operating           : 2       
+storing             : 2       describe            : 2       covers              : 2       corresponding       : 2       
+exist               : 2       sl                  : 2       virtual             : 2       calculating         : 2       
+assume              : 2       neighbors           : 1       limited             : 1       getclosure          : 1       
+existing            : 1       gn                  : 1       saved               : 1       compose             : 1       
+updated             : 1       g2                  : 1       orthogonal          : 1       disjoin             : 1       
+emphasizes          : 1       difference          : 1       entire              : 1       solves              : 1       
+brother             : 1       large               : 1       convenience         : 1       small               : 1       
+assimilates         : 1       smaller             : 1       consistent          : 1       discover            : 1       
+rate                : 1       link-based          : 1       implemented         : 1       giving              : 1       
+selected            : 1       self-adaptive       : 1       gi                  : 1       above               : 1       
+net                 : 1       metadata            : 1       satisfy             : 1       evolving            : 1       
+notions             : 1       exchange            : 1       join                : 1       www.w3.org/xml      : 1       
+here                : 1       deletenode          : 1       studied             : 1       queue               : 1       
+ontology-change     : 1       re?ect              : 1       useful              : 1       modifying           : 1       
+put                 : 1       addressed           : 1       conjoint            : 1       tools               : 1       
+manipulate          : 1       languages           : 1       answered            : 1       browse              : 1       
+call                : 1       sharing             : 1       initiated           : 1       operators           : 1       
+carrying            : 1       capturing           : 1       evolves             : 1       coexist             : 1       
+labeled             : 1       harmonious          : 1       arcni               : 1       concepts            : 1       
+strategies          : 1       give                : 1       ecological          : 1       end                 : 1       
+orthogonality       : 1       unites              : 1       s.                  : 1       adjacent            : 1       
+answer              : 1       instead             : 1       explains            : 1       product             : 1       
+arcr                : 1       earlier             : 1       waves               : 1       meaningful          : 1       
+natural             : 1       investigates        : 1       light               : 1       so                  : 1       
+keeps               : 1       re-maintaining      : 1       order               : 1       pointed             : 1       
+mainly              : 1       www.w3.org/2004/owl/: 1       mentioned           : 1       existence           : 1       
+still               : 1       before              : 1       20                  : 1       22                  : 1       
+23                  : 1       interesting         : 1       top-k               : 1       actually            : 1       
+estimating          : 1       parts               : 1       pervade             : 1       life-form           : 1       
+animal              : 1       views               : 1       cek                 : 1       introduce           : 1       
+socio-natural       : 1       effects             : 1       compound            : 1       now                 : 1       
+realize             : 1       maintaining         : 1       successor           : 1       hereafter           : 1       
+intelligent         : 1       establishing        : 1       merge               : 1       reasonable          : 1       
+each                : 1       friendship          : 1       em                  : 1       domain              : 1       
+ei                  : 1       connect             : 1       reached             : 1       event               : 1       
+internet            : 1       cause               : 1       theory              : 1       maintains           : 1       
+mechanisms          : 1       possibility         : 1       beginning           : 1       interaction         : 1       
+could               : 1       iterative           : 1       keep                : 1       conducted           : 1       
+place               : 1       incorporated        : 1       first               : 1       simplifying         : 1       
+carry               : 1       impossible          : 1       open                : 1       priority            : 1       
+annotated           : 1       service             : 1       data                : 1       anyone              : 1       
+assumption          : 1       friend              : 1       simulate            : 1       than                : 1       
+11                  : 1       13                  : 1       12                  : 1       15                  : 1       
+14                  : 1       17                  : 1       19                  : 1       18                  : 1       
+imply               : 1       recording           : 1       matter              : 1       store               : 1       
+classi?ed           : 1       browser             : 1       motivation          : 1       unchanged           : 1       
+randomly            : 1       say                 : 1       www.w3.org/rdf      : 1       recover             : 1       
+relatively          : 1       attribute-based     : 1       built               : 1       latter              : 1       
+note                : 1       ideal               : 1       deletelinkupdate    : 1       peer-to-peer        : 1       
+worldwide           : 1       play                : 1       multiple            : 1       object              : 1       
+satisfying          : 1       connected           : 1       services            : 1       capacity            : 1       
+intrinsic           : 1       operate             : 1       originaladdlink     : 1       sometimes           : 1       
+re?ecting           : 1       text                : 1       obtains             : 1       bring               : 1       
+radio               : 1       ereasoning          : 1       e14                 : 1       cross-platform      : 1       
+explicitly          : 1       hypertext           : 1       predecessor         : 1       handle              : 1       
+overall             : 1       determines          : 1       areas               : 1       resource            : 1       
+remove              : 1       investigate         : 1       common              : 1       queries             : 1       
+where               : 1       questions           : 1       exists              : 1       see                 : 1       
+philosophy          : 1       detect              : 1       on-demand           : 1       visiting            : 1       
+smallest            : 1       routing             : 1       discovery           : 1       deletions           : 1       
+never               : 1       terms               : 1       extend              : 1       missing             : 1       
+component           : 1       however             : 1       p2p                 : 1       suggested           : 1       
+self-organizing     : 1       minds               : 1       otherwise           : 1       large-scale         : 1       
+had                 : 1       environments        : 1       simply              : 1       sequences           : 1       
+described           : 1       addition            : 1       create              : 1       much                : 1       
+waste               : 1       life                : 1       enable              : 1       versa               : 1       
+self-organized      : 1       formed              : 1       else                : 1       modi?ed             : 1       
+deepen              : 1       general             : 1       former              : 1       applied             : 1       
+re?ects             : 1       developing          : 1       characterizing      : 1       enriching           : 1       
+equal               : 1       itself              : 1       triple              : 1       make                : 1       
+clearly             : 1       emphasize           : 1       deletion            : 1       development         : 1       
+evolve              : 1       extended            : 1       reversion           : 1       levels              : 1       
+purpose             : 1       tracking            : 1       older               : 1       builder             : 1       
+variety             : 1       analysis            : 1       obviously           : 1       person              : 1       
+directly            : 1       costs               : 1       less                : 1       stored              : 1       
+atomic              : 1       yet                 : 1       regarded            : 1       point               : 1       
+initialize          : 1       except              : 1       transformed         : 1       addrules            : 1       
+build               : 1       easily              : 1       execute             : 1       early               : 1       
+grid                : 1       background          : 1       execution           : 1       harmoniously        : 1       
+necessary           : 1       agents              : 1       essential           : 1       ecology             : 1       
+understand          : 1       easy                : 1       economic            : 1       recognition         : 1       
+gradually           : 1       redo                : 1       extensively         : 1       select              : 1       
+assuming            : 1       ?ows                : 1       chains              : 1       core                : 1       
+communicate         : 1       expansion           : 1       i.e.                : 1       refers              : 1       
+about               : 1       eco-grid            : 1       people              : 1       meaning             : 1       
+union               : 1       automatically       : 1       owl                 : 1       inclusion           : 1       
+image               : 1       due                 : 1       appropriate         : 1       additions           : 1       
+quickly             : 1       networking          : 1       log                 : 1       queried             : 1       
+long                : 1       terminates          : 1       function            : 1       complete            : 1       
+differences         : 1       younger             : 1       speci?es            : 1       understandable      : 1       
+removed             : 1       versatile           : 1       places              : 1       whether             : 1       
+radio-frequency     : 1       record              : 1       growth              : 1       represents          : 1       
+suf?cient           : 1       problem             : 1       etc.                : 1       proved              : 1       
+consanguinity       : 1       universal           : 1       initial             : 1       at                  : 1       
+compared            : 1       role                : 1       conclusion          : 1       ecosystem           : 1       
+kinds               : 1       generated           : 1       aggregated          : 1       building            : 1       
+markup              : 1       designers           : 1       lead                : 1       vice                : 1       
+age                 : 1       implied             : 1       demonstrates        : 1       determination       : 1       
+
+
+WP_Fdic:
+['the', 'DT']                      : 344     ['semantic', 'JJ']                 : 194     ['and', 'CC']                      : 153     
+['of', 'IN']                       : 144     ['to', 'TO']                       : 103     ['is', 'VBZ']                      : 100     
+['link', 'NN']                     : 100     ['links', 'NNS']                   : 88      ['-lrb-', '-LRB-']                 : 88      
+['-rrb-', '-RRB-']                 : 87      ['minimum', 'JJ']                  : 86      ['-rcb-', '-RRB-']                 : 86      
+['-lcb-', '-LRB-']                 : 85      ['in', 'IN']                       : 80      ['be', 'VB']                       : 65      
+['can', 'MD']                      : 53      ['cover', 'NN']                    : 53      ['graph', 'NN']                    : 48      
+['set', 'NN']                      : 48      ['cpsocio-sln', 'NNP']             : 46      ['cpsocio-sln', 'NN']              : 39      
+['are', 'VBP']                     : 38      ['operations', 'NNS']              : 38      ['for', 'IN']                      : 32      
+['not', 'RB']                      : 32      ['we', 'PRP']                      : 31      ['closure', 'NN']                  : 31      
+['on', 'IN']                       : 31      ['if', 'IN']                       : 29      ['reasoning', 'NN']                : 28      
+['by', 'IN']                       : 27      ['this', 'DT']                     : 26      ['spanning', 'JJ']                 : 24      
+['should', 'MD']                   : 24      ['basic', 'JJ']                    : 24      ['new', 'JJ']                      : 23      
+['adding', 'VBG']                  : 22      ['operation', 'NN']                : 21      ['as', 'IN']                       : 21      
+['hence', 'RB']                    : 21      ['resources', 'NNS']               : 20      ['that', 'WDT']                    : 19      
+['it', 'PRP']                      : 19      ['-rsb-', 'NNS']                   : 19      ['that', 'IN']                     : 19      
+['from', 'IN']                     : 18      ['minimum', 'NN']                  : 18      ['nodes', 'NNS']                   : 18      
+['out', 'RP']                      : 18      ['between', 'IN']                  : 16      ['inter-resource', 'JJ']           : 16      
+['spanning', 'VBG']                : 16      ['there', 'EX']                    : 16      ['has', 'VBZ']                     : 16      
+["'s", 'POS']                      : 15      ['deleting', 'VBG']                : 15      ['e2', 'NNP']                      : 14      
+['an', 'DT']                       : 14      ['two', 'CD']                      : 14      ['based', 'VBN']                   : 14      
+['space', 'NN']                    : 14      ['other', 'JJ']                    : 14      ['every', 'DT']                    : 14      
+['after', 'IN']                    : 13      ['its', 'PRP$']                    : 13      ['evolution', 'NN']                : 13      
+['then', 'RB']                     : 13      ['e3', 'NNS']                      : 12      ['will', 'MD']                     : 12      
+['all', 'DT']                      : 12      ['characteristic', 'NN']           : 12      ['inter-attribute', 'JJ']          : 12      
+['may', 'MD']                      : 12      ['e2', 'NNS']                      : 12      ['set', 'VBN']                     : 12      
+['node', 'NN']                     : 11      ['maintenance', 'NN']              : 11      ['important', 'JJ']                : 11      
+['e1', 'NNP']                      : 11      ['process', 'NN']                  : 11      ['any', 'DT']                      : 11      
+['also', 'RB']                     : 11      ['delete', 'VB']                   : 10      ['one', 'CD']                      : 10      
+['these', 'DT']                    : 10      ['derived', 'VBN']                 : 10      ['same', 'JJ']                     : 10      
+['deleted', 'VBN']                 : 10      ['add', 'VB']                      : 10      ['sln', 'NNP']                     : 9       
+['or', 'CC']                       : 9       ['which', 'WDT']                   : 9       ['e5', 'NNS']                      : 9       
+['no', 'DT']                       : 9       ['following', 'VBG']               : 9       ['through', 'IN']                  : 9       
+['network', 'NN']                  : 9       ['original', 'JJ']                 : 9       ['cpsocio-sln', 'JJ']              : 9       
+['was', 'VBD']                     : 9       ['rule', 'NN']                     : 9       ['attributes', 'NNS']              : 8       
+['rules', 'NNS']                   : 8       ['with', 'IN']                     : 8       ['semantic', 'NNP']                : 8       
+['e4', 'NNS']                      : 8       ['but', 'CC']                      : 8       ['time', 'NN']                     : 8       
+['g1', 'NNP']                      : 8       ['-lsb-', 'CD']                    : 8       ['-lsb-', 'NNP']                   : 8       
+['must', 'MD']                     : 8       ['graphs', 'NNS']                  : 7       ['e10', 'NNS']                     : 7       
+['conformation', 'NN']             : 7       ['added', 'VBN']                   : 7       ['determined', 'VBN']              : 7       
+['addnode', 'NNP']                 : 7       ['algorithm', 'NN']                : 7       ['have', 'VB']                     : 7       
+['includes', 'VBZ']                : 7       ['society', 'NN']                  : 7       ['algorithm', 'NNP']               : 7       
+['semantics', 'NNS']               : 7       ['they', 'PRP']                    : 7       ['?nd', 'VB']                      : 7       
+['de?nition', 'NN']                : 7       ['according', 'VBG']               : 7       ['ek', 'NN']                       : 7       
+['circulation', 'NN']              : 7       ['figure', 'NN']                   : 6       ['were', 'VBD']                    : 6       
+['characteristics', 'NNS']         : 6       ['such', 'JJ']                     : 6       ['since', 'IN']                    : 6       
+['does', 'VBZ']                    : 6       ['reasoned', 'VBN']                : 6       ['their', 'PRP$']                  : 6       
+['relation', 'NN']                 : 6       ['e1', 'NNS']                      : 6       ['e9', 'NNS']                      : 6       
+['e11', 'NNS']                     : 6       ['e6', 'NNS']                      : 6       ['strategy', 'NN']                 : 6       
+['theorem', 'NN']                  : 6       ['relational', 'JJ']               : 6       ['environment', 'NN']              : 6       
+['only', 'RB']                     : 6       ['networks', 'NNS']                : 6       ['complexity', 'NN']               : 6       
+['e7', 'NNS']                      : 5       ['semantic', 'NN']                 : 5       ['know', 'VB']                     : 5       
+['determining', 'JJ']              : 5       ['rdf', 'NNP']                     : 5       ['high', 'JJ']                     : 5       
+['calculate', 'VB']                : 5       ['physical', 'NNP']                : 5       ['proposed', 'VBN']                : 5       
+['structure', 'NN']                : 5       ['web', 'NN']                      : 5       ['cyber', 'NNP']                   : 5       
+['another', 'DT']                  : 5       ['cp-society', 'NNP']              : 5       ['been', 'VBN']                    : 5       
+['physical', 'JJ']                 : 5       ['sequence', 'NN']                 : 5       ['means', 'VBZ']                   : 5       
+['world', 'NN']                    : 5       ['some', 'DT']                     : 5       ['example', 'NN']                  : 5       
+['subgraph', 'NN']                 : 5       ['storage', 'NN']                  : 5       ['reason', 'VB']                   : 5       
+['change', 'VB']                   : 5       ['because', 'IN']                  : 5       ['e12', 'NNS']                     : 5       
+['e.', 'NN']                       : 5       ['characteristic', 'NNP']          : 5       ['unique', 'JJ']                   : 5       
+['addlink', 'NNP']                 : 5       ['shows', 'VBZ']                   : 5       ['given', 'VBN']                   : 4       
+['cost', 'NN']                     : 4       ['called', 'VBN']                  : 4       ['?rst', 'NN']                     : 4       
+['set', 'VBD']                     : 4       ['shown', 'VBN']                   : 4       ['e3', 'NNP']                      : 4       
+['nature', 'NN']                   : 4       ['?rst', 'JJ']                     : 4       ['ce', 'NNP']                      : 4       
+['figure', 'NNP']                  : 4       ['equivalent', 'NN']               : 4       ['information', 'NN']              : 4       
+['used', 'VBN']                    : 4       ['input', 'NNP']                   : 4       ['a.', 'NN']                       : 4       
+['things', 'NNS']                  : 4       ['-lcb-', 'NNP']                   : 4       ['relations', 'NNS']               : 4       
+['link', 'NNP']                    : 4       ['because', 'RB']                  : 4       ['importance', 'NN']               : 4       
+['q.', 'NNP']                      : 4       ['query', 'NN']                    : 4       ['humans', 'NNS']                  : 4       
+['delete', 'VBP']                  : 4       ['various', 'JJ']                  : 4       ['different', 'JJ']                : 4       
+['cyber', 'NN']                    : 4       ['add', 'VBP']                     : 4       ['update', 'VB']                   : 4       
+['newaddlink', 'NNP']              : 4       ['-lsb-', 'VBG']                   : 4       ['users', 'NNS']                   : 4       
+['following', 'JJ']                : 4       ['output', 'NN']                   : 4       ['have', 'VBP']                    : 4       
+['into', 'IN']                     : 4       ['relationships', 'NNS']           : 4       ['do', 'VBP']                      : 3       
+['among', 'IN']                    : 3       ['cpsocio', 'NNP']                 : 3       ['discussed', 'VBN']               : 3       
+['static', 'JJ']                   : 3       ['ability', 'NN']                  : 3       ['maintenance', 'NNP']             : 3       
+['implies', 'VBZ']                 : 3       ['how', 'WRB']                     : 3       ['checking', 'VBG']                : 3       
+['e5', 'JJ']                       : 3       ['save', 'VB']                     : 3       ['follows', 'VBZ']                 : 3       
+['dellink', 'NNP']                 : 3       ['when', 'WRB']                    : 3       ['pair', 'NN']                     : 3       
+['social', 'JJ']                   : 3       ['cp-society', 'NN']               : 3       ['third', 'JJ']                    : 3       
+['one', 'NN']                      : 3       ['transform', 'VB']                : 3       ['web', 'NNP']                     : 3       
+['changed', 'VBN']                 : 3       ['changes', 'NNS']                 : 3       ['include', 'VB']                  : 3       
+['obtain', 'VB']                   : 3       ['rank', 'NN']                     : 3       ['transforming', 'VBG']            : 3       
+['delnode', 'NNP']                 : 3       ['series', 'NN']                   : 3       ['use', 'VB']                      : 3       
+['n2', 'NNS']                      : 3       ['isolated', 'VBN']                : 3       ['addrule', 'NNP']                 : 3       
+['spanning', 'NN']                 : 3       ['approach', 'NN']                 : 3       ['e5', 'NNP']                      : 3       
+['completeness', 'NNS']            : 3       ['e4', 'NNP']                      : 3       ['all', 'RB']                      : 3       
+['interconnection', 'NN']          : 3       ['change', 'NN']                   : 3       ['delrule', 'NNP']                 : 3       
+['e3', 'JJ']                       : 3       ['n1', 'NNS']                      : 3       ['e8', 'NNS']                      : 3       
+['e4', 'JJ']                       : 3       ['socio', 'NNP']                   : 3       ['go', 'VB']                       : 3       
+['hyperlink', 'NN']                : 3       ['empty', 'JJ']                    : 3       ['take', 'VB']                     : 3       
+['find', 'VB']                     : 3       ['ef?ciently', 'RB']               : 3       ['dynamicity', 'NN']               : 3       
+['types', 'NNS']                   : 3       ['condition', 'NN']                : 3       ['ruleid', 'NNP']                  : 3       
+['what', 'WP']                     : 3       ['leads', 'VBZ']                   : 3       ['future', 'JJ']                   : 3       
+['most', 'RBS']                    : 3       ['e10', 'NNP']                     : 3       ['way', 'NN']                      : 3       
+['uses', 'VBZ']                    : 3       ['helps', 'VBZ']                   : 2       ['e11', 'JJ']                      : 2       
+['determine', 'VB']                : 2       ['form', 'VBP']                    : 2       ['provide', 'VB']                  : 2       
+['ef?cient', 'JJ']                 : 2       ['previous', 'JJ']                 : 2       ['ends', 'VBZ']                    : 2       
+['virtual', 'JJ']                  : 2       ['machine', 'NN']                  : 2       ['network', 'NNP']                 : 2       
+['already', 'RB']                  : 2       ['cover', 'VBP']                   : 2       ['six', 'CD']                      : 2       
+['support', 'VB']                  : 2       ['emerge', 'VB']                   : 2       ['let', 'VB']                      : 2       
+['three', 'CD']                    : 2       ['satis?es', 'VBZ']                : 2       ['method', 'NN']                   : 2       
+['storing', 'VBG']                 : 2       ['more', 'RBR']                    : 2       ['adding', 'VB']                   : 2       
+['rfid', 'NNP']                    : 2       ['more', 'JJR']                    : 2       ['e11', 'CD']                      : 2       
+['do', 'VB']                       : 2       ['modify', 'VB']                   : 2       ['society', 'NNP']                 : 2       
+['mental', 'JJ']                   : 2       ['deleting', 'NNP']                : 2       ['step', 'VB']                     : 2       
+['e4', 'CD']                       : 2       ['e.g.', 'NN']                     : 2       ['check', 'VB']                    : 2       
+['term', 'NN']                     : 2       ['usually', 'RB']                  : 2       ['exist', 'VB']                    : 2       
+['describe', 'VB']                 : 2       ['obtained', 'VBN']                : 2       ['value', 'NN']                    : 2       
+['system', 'NN']                   : 2       ['inconsistent', 'JJ']             : 2       ['simple', 'JJ']                   : 2       
+['community', 'NN']                : 2       ['million', 'CD']                  : 2       ['related', 'VBN']                 : 2       
+['issues', 'NNS']                  : 2       ['ontology', 'JJ']                 : 2       ['relationship', 'NN']             : 2       
+['intersection', 'NN']             : 2       ['corresponding', 'JJ']            : 2       ['result', 'NN']                   : 2       
+['advantages', 'NNS']              : 2       ['-lsb-', 'VBZ']                   : 2       ['many', 'JJ']                     : 2       
+['number', 'NN']                   : 2       ['24', 'CD']                       : 2       ['them', 'PRP']                    : 2       
+['proper', 'JJ']                   : 2       ['brings', 'VBZ']                  : 2       ['operating', 'VBG']               : 2       
+['and', 'NNP']                     : 2       ['paternity', 'JJ']                : 2       ['get', 'VB']                      : 2       
+['part', 'NN']                     : 2       ['xml', 'NN']                      : 2       ['worlds', 'NNS']                  : 2       
+['both', 'PDT']                    : 2       ['-rcb-', 'VBZ']                   : 2       ['equals', 'VBZ']                  : 2       
+['16', 'CD']                       : 2       ['model', 'NN']                    : 2       ['stable', 'JJ']                   : 2       
+['introduced', 'VBN']              : 2       ['step', 'NN']                     : 2       ['generating', 'VBZ']              : 2       
+['query', 'VB']                    : 2       ['several', 'JJ']                  : 2       ['behaviors', 'NNS']               : 2       
+['operations', 'NNP']              : 2       ['effect', 'NN']                   : 2       ['analyzing', 'VBG']               : 2       
+['d1', 'NNS']                      : 2       ['covers', 'NNS']                  : 2       ['e.g.', 'NNP']                    : 2       
+['e5', 'CD']                       : 2       ['represented', 'VBN']             : 2       ['research', 'NN']                 : 2       
+['ef?ciency', 'NN']                : 2       ['-rsb-', 'JJ']                    : 2       ['dellink', 'NN']                  : 2       
+['as', 'RB']                       : 2       ['sets', 'NNS']                    : 2       ['conditions', 'NNS']              : 2       
+['complex', 'JJ']                  : 2       ['d2', 'NNS']                      : 2       ['describes', 'VBZ']               : 2       
+['updating', 'VBG']                : 2       ['help', 'VB']                     : 2       ['managing', 'VBG']                : 2       
+['...', ':']                       : 2       ['orderly', 'JJ']                  : 2       ['cpsocio-slns', 'NNS']            : 2       
+['until', 'IN']                    : 2       ['use', 'VBP']                     : 2       ['e8', 'JJ']                       : 2       
+['want', 'VBP']                    : 2       ['paper', 'NN']                    : 2       ['element', 'NN']                  : 2       
+['node', 'JJ']                     : 2       ['e7', 'JJ']                       : 2       ['roles', 'NNS']                   : 2       
+['d1', 'CD']                       : 2       ['ontology', 'NN']                 : 2       ['needs', 'VBZ']                   : 2       
+['e6', 'JJ']                       : 2       ['identi?cation', 'NN']            : 2       ['form', 'NN']                     : 2       
+['in?uence', 'VB']                 : 2       ['dynamic', 'JJ']                  : 2       ['using', 'VBG']                   : 2       
+['too', 'RB']                      : 2       ['attribute', 'NN']                : 2       ['proof', 'NNP']                   : 2       
+['calculating', 'VBG']             : 2       ['g.', 'NNP']                      : 2       ['d2', 'CD']                       : 2       
+['need', 'VBP']                    : 2       ['very', 'RB']                     : 2       ['maintain', 'VB']                 : 2       
+['e10', 'NN']                      : 2       ['10', 'CD']                       : 2       ['-lsb-', 'NNS']                   : 2       
+['assume', 'VB']                   : 2       ['represent', 'VB']                : 2       ['set', 'VB']                      : 2       
+['e11', 'NNP']                     : 2       ['holds', 'VBZ']                   : 2       ['generating', 'VBG']              : 2       
+['found', 'VBN']                   : 2       ['e12', 'CD']                      : 2       ['d3', 'NNS']                      : 2       
+['representative', 'NN']           : 2       ['maintenance', 'VB']              : 1       ['view', 'NN']                     : 1       
+['approach', 'VB']                 : 1       ['re?ects', 'VBZ']                 : 1       ['conjoint', 'JJ']                 : 1       
+['query', 'RB']                    : 1       ['motivation', 'NN']               : 1       ['e9', 'NNP']                      : 1       
+['difference', 'NN']               : 1       ['e1', 'VB']                       : 1       ['smallest', 'JJS']                : 1       
+['second', 'LS']                   : 1       ['evolving', 'VBG']                : 1       ['new', 'NNP']                     : 1       
+['log', 'NN']                      : 1       ['e1', 'JJ']                       : 1       ['described', 'VBN']               : 1       
+['mainly', 'RB']                   : 1       ['automatically', 'RB']            : 1       ['determination', 'NN']            : 1       
+['obtains', 'VBZ']                 : 1       ['triple', 'JJ']                   : 1       ['relation', 'NNP']                : 1       
+['giving', 'VBG']                  : 1       ['bring', 'VB']                    : 1       ['lead', 'VB']                     : 1       
+['deletenode', 'NN']               : 1       ['answered', 'VBN']                : 1       ['rules', 'NNPS']                  : 1       
+['second', 'JJ']                   : 1       ['understandable', 'JJ']           : 1       ['keep', 'VB']                     : 1       
+['15', 'CD']                       : 1       ['radio-frequency', 'JJ']          : 1       ['costs', 'VBZ']                   : 1       
+['carry', 'VB']                    : 1       ['economic', 'JJ']                 : 1       ['e.g.', 'RB']                     : 1       
+['attributes', 'NNPS']             : 1       ['spanning', 'VBZ']                : 1       ['g2', 'NNP']                      : 1       
+['top-k', 'NN']                    : 1       ['instances', 'NNP']               : 1       ['first', 'RB']                    : 1       
+['?ows', 'NNS']                    : 1       ['human', 'NN']                    : 1       ['etc.', 'FW']                     : 1       
+['friendship', 'NN']               : 1       ['class', 'NNP']                   : 1       ['record', 'VB']                   : 1       
+['convenience', 'NN']              : 1       ['i.e.', 'RB']                     : 1       ['disjoin', 'NN']                  : 1       
+['life', 'NN']                     : 1       ['gmin', 'VB']                     : 1       ['redo', 'VB']                     : 1       
+['routing', 'VBG']                 : 1       ['natural', 'JJ']                  : 1       ['understanding', 'VBG']           : 1       
+['now', 'RB']                      : 1       ['quickly', 'RB']                  : 1       ['relation', 'VBZ']                : 1       
+['e9', 'JJ']                       : 1       ['e10', 'CD']                      : 1       ['sequences', 'NNS']               : 1       
+['terminates', 'VBZ']              : 1       ['intersection', 'VBN']            : 1       ['ecology', 'NNP']                 : 1       
+['relatively', 'RB']               : 1       ['building', 'VBG']                : 1       ['www.w3.org/2004/owl/', 'NNP']    : 1       
+['attribute-based', 'JJ']          : 1       ['satisfying', 'VBG']              : 1       ['keeps', 'VBZ']                   : 1       
+['person', 'NN']                   : 1       ['concepts', 'NNS']                : 1       ['extended', 'VBN']                : 1       
+['agents', 'NNS']                  : 1       ['tracking', 'NN']                 : 1       ['e11', 'NN']                      : 1       
+['make', 'VB']                     : 1       ['ontology-change', 'JJ']          : 1       ['deletions', 'NNS']               : 1       
+['knowledge', 'NN']                : 1       ['applied', 'VBN']                 : 1       ['views', 'VBZ']                   : 1       
+['deleting', 'VB']                 : 1       ['neighbors', 'NNP']               : 1       ['object', 'NN']                   : 1       
+['itself', 'PRP']                  : 1       ['-rsb-', 'CD']                    : 1       ['distinguished', 'JJ']            : 1       
+['thought', 'NNP']                 : 1       ['additions', 'NNS']               : 1       ['expression', 'NN']               : 1       
+['than', 'IN']                     : 1       ['getclosure', 'NNP']              : 1       ['equivalent', 'JJ']               : 1       
+['generated', 'VBN']               : 1       ['studies', 'NNS']                 : 1       ['23', 'CD']                       : 1       
+['see', 'VB']                      : 1       ['data', 'NNS']                    : 1       ['open', 'JJ']                     : 1       
+['say', 'VBP']                     : 1       ['mechanisms', 'NNS']              : 1       ['effects', 'NNS']                 : 1       
+['simulate', 'VB']                 : 1       ['matter', 'NN']                   : 1       ['modifying', 'VB']                : 1       
+['built', 'VBN']                   : 1       ['meaning', 'NN']                  : 1       ['xml', 'NNP']                     : 1       
+['had', 'VBD']                     : 1       ['owl', 'NNP']                     : 1       ['18', 'CD']                       : 1       
+['-rsb-', 'RB']                    : 1       ['introduced', 'VBD']              : 1       ['initialize', 'VB']               : 1       
+['coexist', 'NN']                  : 1       ['questions', 'NNS']               : 1       ['vice', 'RB']                     : 1       
+['figure', 'NNS']                  : 1       ['transformed', 'VBN']             : 1       ['-rsb-', 'NN']                    : 1       
+['self-adaptive', 'JJ']            : 1       ['services', 'NNS']                : 1       ['carrying', 'VB']                 : 1       
+['expansion', 'NN']                : 1       ['e2', 'JJ']                       : 1       ['reason', 'NN']                   : 1       
+['sl', 'NN']                       : 1       ['addlink', 'NN']                  : 1       ['text', 'NN']                     : 1       
+['versatile', 'NN']                : 1       ['worldwide', 'JJ']                : 1       ['appropriate', 'JJ']              : 1       
+['www.w3.org/xml', 'NNP']          : 1       ['removed', 'VBN']                 : 1       ['use', 'NN']                      : 1       
+['radio', 'NN']                    : 1       ['originaladdlink', 'NNP']         : 1       ['update', 'VBZ']                  : 1       
+['suf?cient', 'JJ']                : 1       ['spanning', 'VBN']                : 1       ['operators', 'NNP']               : 1       
+['missing', 'VBG']                 : 1       ['capacity', 'NN']                 : 1       ['e12', 'NNP']                     : 1       
+['hypertext', 'NN']                : 1       ['maintains', 'VBZ']               : 1       ['update', 'NN']                   : 1       
+['addition', 'NN']                 : 1       ['unchanged', 'JJ']                : 1       ['re?ect', 'VB']                   : 1       
+['event', 'NN']                    : 1       ['conclusion', 'NN']               : 1       ['assimilates', 'JJ']              : 1       
+['spanning', 'NNP']                : 1       ['-rcb-', 'JJ']                    : 1       ['however', 'RB']                  : 1       
+['investigate', 'VB']              : 1       ['view', 'VBP']                    : 1       ['emphasize', 'VB']                : 1       
+['updated', 'VBN']                 : 1       ['14', 'CD']                       : 1       ['end', 'VBZ']                     : 1       
+['determining', 'VBG']             : 1       ['e2', 'VBZ']                      : 1       ['deepen', 'VB']                   : 1       
+['rule', 'VB']                     : 1       ['variety', 'NN']                  : 1       ['evolves', 'VBZ']                 : 1       
+['above', 'JJ']                    : 1       ['at', 'IN']                       : 1       ['...', 'CD']                      : 1       
+['essential', 'JJ']                : 1       ['light', 'NN']                    : 1       ['e5', 'FW']                       : 1       
+['theory', 'NN']                   : 1       ['deleted', 'JJ']                  : 1       ['chains', 'NNS']                  : 1       
+['interesting', 'JJ']              : 1       ['proved', 'VBN']                  : 1       ['sequence', 'NNP']                : 1       
+['initiated', 'VBN']               : 1       ['internet', 'NN']                 : 1       ['here', 'RB']                     : 1       
+['due', 'JJ']                      : 1       ['obviously', 'RB']                : 1       ['ereasoning', 'NNP']              : 1       
+['waves', 'NNS']                   : 1       ['compound', 'JJ']                 : 1       ['markup', 'NN']                   : 1       
+['reversion', 'NNP']               : 1       ['languages', 'NNS']               : 1       ['relations', 'NNPS']              : 1       
+['e14', 'NNS']                     : 1       ['could', 'MD']                    : 1       ['small', 'JJ']                    : 1       
+['capturing', 'VBG']               : 1       ['recover', 'VB']                  : 1       ['conformation', 'NNP']            : 1       
+['designers', 'NNS']               : 1       ['?rst', 'VB']                     : 1       ['indicate', 'VBP']                : 1       
+['easily', 'RB']                   : 1       ['background', 'NN']               : 1       ['complete', 'JJ']                 : 1       
+['e6', 'NNP']                      : 1       ['know', 'VBP']                    : 1       ['indicate', 'VB']                 : 1       
+['predecessor', 'NN']              : 1       ['deletion', 'NN']                 : 1       ['mentioned', 'JJ']                : 1       
+['assuming', 'VBG']                : 1       ['detect', 'VB']                   : 1       ['directly', 'RB']                 : 1       
+['relational', 'NN']               : 1       ['change', 'NNP']                  : 1       ['implied', 'VBN']                 : 1       
+['existing', 'VBG']                : 1       ['determines', 'VBZ']              : 1       ['equal', 'JJ']                    : 1       
+['discovery', 'NN']                : 1       ['e10', 'NNPS']                    : 1       ['reasonable', 'JJ']               : 1       
+['pointed', 'VBN']                 : 1       ['existence', 'NN']                : 1       ['stored', 'VBN']                  : 1       
+['beginning', 'NN']                : 1       ['philosophy', 'NN']               : 1       ['earlier', 'JJR']                 : 1       
+['labeled', 'JJ']                  : 1       ['yet', 'CC']                      : 1       ['growth', 'NN']                   : 1       
+['iterative', 'JJ']                : 1       ['include', 'VBP']                 : 1       ['formed', 'VBN']                  : 1       
+['annotated', 'RB']                : 1       ['ecosystem', 'NN']                : 1       ['thought', 'VBD']                 : 1       
+['arcni', 'NNP']                   : 1       ['link', 'VBP']                    : 1       ['build', 'VB']                    : 1       
+['e7', 'NNP']                      : 1       ['development', 'NN']              : 1       ['de?nition', 'NNP']               : 1       
+['simplifying', 'VBG']             : 1       ['12', 'CD']                       : 1       ['successor', 'NN']                : 1       
+['in?uence', 'NN']                 : 1       ['input', 'NN']                    : 1       ['on-demand', 'JJ']                : 1       
+['selected', 'VBN']                : 1       ['cross-platform', 'JJ']           : 1       ['tools', 'NNS']                   : 1       
+['about', 'IN']                    : 1       ['maintaining', 'VBG']             : 1       ['function', 'NN']                 : 1       
+['socio-natural', 'NNP']           : 1       ['-rsb-', 'NNP']                   : 1       ['kinds', 'NNS']                   : 1       
+['whether', 'IN']                  : 1       ['smaller', 'JJR']                 : 1       ['e3', 'NNPS']                     : 1       
+['e1', 'CD']                       : 1       ['closure', 'NNP']                 : 1       ['characterizing', 'VBG']          : 1       
+['estimating', 'VBG']              : 1       ['less', 'JJR']                    : 1       ['clearly', 'RB']                  : 1       
+['to', 'IN']                       : 1       ['13', 'CD']                       : 1       ['deletelinkupdate', 'NNP']        : 1       
+['where', 'WRB']                   : 1       ['all', 'PDT']                     : 1       ['queue', 'VB']                    : 1       
+['s.', 'NNP']                      : 1       ['places', 'NNS']                  : 1       ['merged', 'VBN']                  : 1       
+['recognition', 'NN']              : 1       ['except', 'IN']                   : 1       ['service', 'NN']                  : 1       
+['implemented', 'VBN']             : 1       ['e2', 'RB']                       : 1       ['in?uence', 'JJ']                 : 1       
+['in?uences', 'VBZ']               : 1       ['distinguished', 'VBN']           : 1       ['e3', 'CD']                       : 1       
+['eco-grid', 'NN']                 : 1       ['extensively', 'RB']              : 1       ['compared', 'VBN']                : 1       
+['regarded', 'VBN']                : 1       ['younger', 'JJR']                 : 1       ['necessary', 'JJ']                : 1       
+['change', 'VBP']                  : 1       ['ei', 'NNP']                      : 1       ['browser', 'NNP']                 : 1       
+['ontology', 'RB']                 : 1       ['addrules', 'VBZ']                : 1       ['?rst', 'VBP']                    : 1       
+['solves', 'VBZ']                  : 1       ['extend', 'VB']                   : 1       ['otherwise', 'RB']                : 1       
+['self-organizing', 'JJ']          : 1       ['22', 'CD']                       : 1       ['consanguinity', 'RB']            : 1       
+['isolated', 'JJ']                 : 1       ['unites', 'VBZ']                  : 1       ['that', 'DT']                     : 1       
+['reached', 'VBN']                 : 1       ['explains', 'VBZ']                : 1       ['grid', 'NNP']                    : 1       
+['e10', 'JJ']                      : 1       ['gn', 'PRP']                      : 1       ['net', 'NN']                      : 1       
+['cyber', 'JJ']                    : 1       ['role', 'NN']                     : 1       ['age', 'NN']                      : 1       
+['parts', 'NNS']                   : 1       ['link-based', 'JJ']               : 1       ['limited', 'VBN']                 : 1       
+['queried', 'VBN']                 : 1       ['early', 'RB']                    : 1       ['execute', 'VB']                  : 1       
+['19', 'CD']                       : 1       ['links', 'NN']                    : 1       ['resource', 'NN']                 : 1       
+['incorporated', 'VBN']            : 1       ['understand', 'VB']               : 1       ['www.w3.org/rdf', 'NNP']          : 1       
+['classi?ed', 'VBN']               : 1       ['self-organized', 'JJ']           : 1       ['enriching', 'VBG']               : 1       
+['builder', 'NNP']                 : 1       ['easy', 'VB']                     : 1       ['animal', 'NN']                   : 1       
+['execution', 'NN']                : 1       ['hence', 'NNP']                   : 1       ['e7', 'CD']                       : 1       
+['levels', 'NNS']                  : 1       ['cpsocio-sln', 'VBG']             : 1       ['m.', 'NNP']                      : 1       
+['older', 'JJR']                   : 1       ['re?ecting', 'VBG']               : 1       ['e1', 'NNPS']                     : 1       
+['play', 'VB']                     : 1       ['minds', 'NNS']                   : 1       ['sl', 'NNP']                      : 1       
+['11', 'CD']                       : 1       ['exchange', 'NN']                 : 1       ['store', 'VB']                    : 1       
+['meaningful', 'JJ']               : 1       ['class', 'NNPS']                  : 1       ['ef?cient', 'NN']                 : 1       
+['exists', 'VBZ']                  : 1       ['handle', 'VB']                   : 1       ['create', 'VB']                   : 1       
+['studies', 'VBZ']                 : 1       ['regard', 'VBP']                  : 1       ['universal', 'JJ']                : 1       
+['understanding', 'NN']            : 1       ['in?uences', 'NNS']               : 1       ['demonstrates', 'VBZ']            : 1       
+['both', 'DT']                     : 1       ['gi', 'NNP']                      : 1       ['harmonious', 'JJ']               : 1       
+['delnode', 'NNS']                 : 1       ['m.', 'NN']                       : 1       ['intelligent', 'NNP']             : 1       
+['discover', 'VB']                 : 1       ['so', 'RB']                       : 1       ['join', 'VBP']                    : 1       
+['imply', 'VB']                    : 1       ['e4', 'VBZ']                      : 1       ['brother', 'NN']                  : 1       
+['large', 'JJ']                    : 1       ['p2p', 'NNP']                     : 1       ["'s", 'VBZ']                      : 1       
+['n1', 'JJ']                       : 1       ['conducted', 'VBN']               : 1       ['e5', 'VBZ']                      : 1       
+['e2', 'NNPS']                     : 1       ['enable', 'VB']                   : 1       ['investigates', 'VBZ']            : 1       
+['algorithm', 'VBG']               : 1       ['20', 'CD']                       : 1       ['study', 'NN']                    : 1       
+['suggested', 'VBN']               : 1       ['e11', 'NNPS']                    : 1       ['reasoned', 'VBG']                : 1       
+['expression', 'VB']               : 1       ['sln', 'NN']                      : 1       ['realize', 'VB']                  : 1       
+['multiple', 'JJ']                 : 1       ['browse', 'VB']                   : 1       ['order', 'NN']                    : 1       
+['adjacent', 'JJ']                 : 1       ['simply', 'RB']                   : 1       ['refers', 'VBZ']                  : 1       
+['possibility', 'NN']              : 1       ['gradually', 'RB']                : 1       ['notions', 'NNS']                 : 1       
+['cause', 'NN']                    : 1       ['speci?es', 'VBZ']                : 1       ['modi?ed', 'VBN']                 : 1       
+['reasoning', 'NNP']               : 1       ['people', 'NNS']                  : 1       ['check', 'VBG']                   : 1       
+['friend', 'NN']                   : 1       ['environments', 'NNS']            : 1       ['recording', 'VBG']               : 1       
+['queries', 'NNS']                 : 1       ['addnode', 'NN']                  : 1       ['-lsb-', 'NN']                    : 1       
+['saved', 'VBN']                   : 1       ['operate', 'VB']                  : 1       ['long', 'RB']                     : 1       
+['general', 'JJ']                  : 1       ['harmoniously', 'RB']             : 1       ['union', 'NN']                    : 1       
+['e2', 'CD']                       : 1       ['initial', 'JJ']                  : 1       ['developing', 'VBG']              : 1       
+['put', 'VBN']                     : 1       ['take', 'VBP']                    : 1       ['spanning', 'CD']                 : 1       
+['product', 'NN']                  : 1       ['randomly', 'RB']                 : 1       ['emphasizes', 'VBZ']              : 1       
+['sometimes', 'RB']                : 1       ['theorem', 'NNP']                 : 1       ['ideal', 'NN']                    : 1       
+['knowledge', 'NNP']               : 1       ['areas', 'NNS']                   : 1       ['instances', 'NNS']               : 1       
+['arcr', 'NNP']                    : 1       ['component', 'NN']                : 1       ['overall', 'JJ']                  : 1       
+['-rrb-', 'NNS']                   : 1       ['before', 'RB']                   : 1       ['ecological', 'JJ']               : 1       
+['socio', 'NN']                    : 1       ['explicitly', 'RB']               : 1       ['establishing', 'VBG']            : 1       
+['orthogonal', 'JJ']               : 1       ['closure', 'VB']                  : 1       ['actually', 'RB']                 : 1       
+['evolve', 'VB']                   : 1       ['former', 'JJ']                   : 1       ['compose', 'VB']                  : 1       
+['e1', 'RB']                       : 1       ['merged', 'JJ']                   : 1       ['answer', 'VB']                   : 1       
+['hereafter', 'RB']                : 1       ['orthogonality', 'VB']            : 1       ['impossible', 'JJ']               : 1       
+['still', 'RB']                    : 1       ['anyone', 'NN']                   : 1       ['pervade', 'VBP']                 : 1       
+['assumption', 'NN']               : 1       ['connect', 'VB']                  : 1       ['e5', 'NNPS']                     : 1       
+['aggregated', 'VBN']              : 1       ['needs', 'NNS']                   : 1       ['give', 'VB']                     : 1       
+['else', 'RB']                     : 1       ['terms', 'NNS']                   : 1       ['physical', 'VBD']                : 1       
+['link', 'VB']                     : 1       ['m.', 'VBN']                      : 1       ['differences', 'NNS']             : 1       
+['life-form', 'NN']                : 1       ['remove', 'VB']                   : 1       ['instead', 'RB']                  : 1       
+['original', 'NNP']                : 1       ['regard', 'VB']                   : 1       ['manipulate', 'VB']               : 1       
+['re-maintaining', 'JJ']           : 1       ['interaction', 'NNS']             : 1       ['e5', 'NN']                       : 1       
+['element', 'VBG']                 : 1       ['em', 'PRP']                      : 1       ['problem', 'NN']                  : 1       
+['studied', 'VBN']                 : 1       ['communicate', 'VB']              : 1       ['domain', 'NN']                   : 1       
+['e3', 'RB']                       : 1       ['image', 'NN']                    : 1       ['strategies', 'NNS']              : 1       
+['much', 'JJ']                     : 1       ['gmin', 'NNP']                    : 1       ['core', 'NN']                     : 1       
+['inclusion', 'NN']                : 1       ['metadata', 'NN']                 : 1       ['latter', 'NN']                   : 1       
+['entire', 'JJ']                   : 1       ['adding', 'VBZ']                  : 1       ['intrinsic', 'JJ']                : 1       
+['waste', 'NN']                    : 1       ['out', 'IN']                      : 1       ['point', 'NN']                    : 1       
+['large-scale', 'JJ']              : 1       ['17', 'CD']                       : 1       ['visiting', 'VBG']                : 1       
+['consistent', 'JJ']               : 1       ['versa', 'RB']                    : 1       ['mental', 'VBD']                  : 1       
+['useful', 'JJ']                   : 1       ['atomic', 'JJ']                   : 1       ['purpose', 'NN']                  : 1       
+['satisfy', 'VB']                  : 1       ['connected', 'VBN']               : 1       ['minimum', 'NNP']                 : 1       
+['represents', 'VBZ']              : 1       ['-rcb-', 'NN']                    : 1       ['never', 'RB']                    : 1       
+['e8', 'NNP']                      : 1       ['priority', 'NN']                 : 1       ['study', 'VB']                    : 1       
+['networking', 'NN']               : 1       ['select', 'VB']                   : 1       ['e6', 'NN']                       : 1       
+['common', 'JJ']                   : 1       ['links', 'VBZ']                   : 1       ['rate', 'NN']                     : 1       
+['place', 'NN']                    : 1       ['call', 'VB']                     : 1       ['e4', 'NNPS']                     : 1       
+['sharing', 'VBG']                 : 1       ['e.', 'NNP']                      : 1       ['addressed', 'VBN']               : 1       
+['n2', 'JJ']                       : 1       ['merge', 'VB']                    : 1       ['represent', 'VBP']               : 1       
+['note', 'NN']                     : 1       ['minimum', 'VBN']                 : 1       ['introduce', 'VB']                : 1       
+['analysis', 'NN']                 : 1       ['deleting', 'VBZ']                : 1       ['e8', 'CD']                       : 1       
+['human', 'JJ']                    : 1       ['characteristic', 'JJ']           : 1       ['deleting', 'JJ']                 : 1       
+['cek', 'NNP']                     : 1       ['each', 'DT']                     : 1       ['attribute', 'NNP']               : 1       
+['in', 'RB']                       : 1       ['peer-to-peer', 'JJ']             : 1       
+
+W_Pdic:
+neighbors           : ['NNP']                            limited             : ['VBN']                            
+all                 : ['DT', 'RB', 'PDT']                semantic            : ['NNP', 'JJ', 'NN']                
+represent           : ['VB', 'VBP']                      getclosure          : ['NNP']                            
+dynamic             : ['JJ']                             existing            : ['VBG']                            
+leads               : ['VBZ']                            go                  : ['VB']                             
+gn                  : ['PRP']                            saved               : ['VBN']                            
+reasoning           : ['NN', 'NNP']                      issues              : ['NNS']                            
+relationships       : ['NNS']                            compose             : ['VB']                             
+calculate           : ['VB']                             graph               : ['NN']                             
+environment         : ['NN']                             to                  : ['TO', 'IN']                       
+helps               : ['VBZ']                            stable              : ['JJ']                             
+nodes               : ['NNS']                            include             : ['VB', 'VBP']                      
+resources           : ['NNS']                            updated             : ['VBN']                            
+dellink             : ['NN', 'NNP']                      g2                  : ['NNP']                            
+g1                  : ['NNP']                            orthogonal          : ['JJ']                             
+very                : ['RB']                             disjoin             : ['NN']                             
+emphasizes          : ['VBZ']                            every               : ['DT']                             
+g.                  : ['NNP']                            difference          : ['NN']                             
+condition           : ['NN']                             entire              : ['JJ']                             
+paternity           : ['JJ']                             solves              : ['VBZ']                            
+brother             : ['NN']                             large               : ['JJ']                             
+convenience         : ['NN']                             form                : ['NN', 'VBP']                      
+small               : ['JJ']                             assimilates         : ['JJ']                             
+deleting            : ['VB', 'VBZ', 'VBG', 'NNP', 'JJ']  smaller             : ['JJR']                            
+be                  : ['VB']                             consistent          : ['JJ']                             
+among               : ['IN']                             discover            : ['VB']                             
+cyber               : ['NNP', 'JJ', 'NN']                rate                : ['NN']                             
+cost                : ['NN']                             link-based          : ['JJ']                             
+query               : ['NN', 'VB', 'RB']                 inter-attribute     : ['JJ']                             
+implemented         : ['VBN']                            what                : ['WP']                             
+giving              : ['VBG']                            selected            : ['VBN']                            
+networks            : ['NNS']                            self-adaptive       : ['JJ']                             
+gi                  : ['NNP']                            above               : ['JJ']                             
+new                 : ['JJ', 'NNP']                      net                 : ['NN']                             
+method              : ['NN']                             metadata            : ['NN']                             
+satisfy             : ['VB']                             evolving            : ['VBG']                            
+million             : ['CD']                             notions             : ['NNS']                            
+exchange            : ['NN']                             join                : ['VBP']                            
+human               : ['NN', 'JJ']                       www.w3.org/xml      : ['NNP']                            
+modify              : ['VB']                             equals              : ['VBZ']                            
+here                : ['RB']                             understanding       : ['NN', 'VBG']                      
+deletenode          : ['NN']                             let                 : ['VB']                             
+web                 : ['NN', 'NNP']                      represented         : ['VBN']                            
+change              : ['NNP', 'VBP', 'VB', 'NN']         knowledge           : ['NN', 'NNP']                      
+obtained            : ['VBN']                            addnode             : ['NNP', 'NN']                      
+study               : ['NN', 'VB']                       studied             : ['VBN']                            
+queue               : ['VB']                             e11                 : ['NN', 'JJ', 'NNS', 'CD', 'NNP', 'NNPS']
+rdf                 : ['NNP']                            social              : ['JJ']                             
+usually             : ['RB']                             e9                  : ['NNP', 'NNS', 'JJ']               
+ontology-change     : ['JJ']                             studies             : ['NNS', 'VBZ']                     
+relation            : ['NNP', 'NN', 'VBZ']               re?ect              : ['VB']                             
+emerge              : ['VB']                             useful              : ['JJ']                             
+figure              : ['NN', 'NNP', 'NNS']               modifying           : ['VB']                             
+put                 : ['VBN']                            addressed           : ['VBN']                            
+analyzing           : ['VBG']                            conjoint            : ['JJ']                             
+tools               : ['NNS']                            manipulate          : ['VB']                             
+languages           : ['NNS']                            use                 : ['NN', 'VB', 'VBP']                
+ontology            : ['JJ', 'RB', 'NN']                 from                : ['IN']                             
+links               : ['NNS', 'VBZ', 'NN']               answered            : ['VBN']                            
+browse              : ['VB']                             e1                  : ['NNS', 'VB', 'NNP', 'CD', 'RB', 'NNPS', 'JJ']
+m.                  : ['NNP', 'NN', 'VBN']               two                 : ['CD']                             
+call                : ['VB']                             means               : ['VBZ']                            
+until               : ['IN']                             more                : ['JJR', 'RBR']                     
+sharing             : ['VBG']                            initiated           : ['VBN']                            
+brings              : ['VBZ']                            operators           : ['NNP']                            
+carrying            : ['VB']                             capturing           : ['VBG']                            
+must                : ['MD']                             evolves             : ['VBZ']                            
+ef?ciency           : ['NN']                             this                : ['DT']                             
+coexist             : ['NN']                             labeled             : ['JJ']                             
+harmonious          : ['JJ']                             can                 : ['MD']                             
+arcni               : ['NNP']                            concepts            : ['NNS']                            
+following           : ['JJ', 'VBG']                      strategies          : ['NNS']                            
+example             : ['NN']                             proof               : ['NNP']                            
+e.g.                : ['NN', 'RB', 'NNP']                give                : ['VB']                             
+process             : ['NN']                             attribute           : ['NNP', 'NN']                      
+high                : ['JJ']                             minimum             : ['NNP', 'JJ', 'NN', 'VBN']         
+want                : ['VBP']                            spanning            : ['JJ', 'VBG', 'CD', 'NNP', 'VBZ', 'NN', 'VBN']
+ecological          : ['JJ']                             information         : ['NN']                             
+needs               : ['VBZ', 'NNS']                     end                 : ['VBZ']                            
+provide             : ['VB']                             six                 : ['CD']                             
+orthogonality       : ['VB']                             machine             : ['NN']                             
+how                 : ['WRB']                            unites              : ['VBZ']                            
+s.                  : ['NNP']                            adjacent            : ['JJ']                             
+answer              : ['VB']                             instead             : ['RB']                             
+explains            : ['VBZ']                            product             : ['NN']                             
+arcr                : ['NNP']                            transforming        : ['VBG']                            
+earlier             : ['JJR']                            derived             : ['VBN']                            
+de?nition           : ['NN', 'NNP']                      waves               : ['NNS']                            
+such                : ['JJ']                             meaningful          : ['JJ']                             
+types               : ['NNS']                            ?rst                : ['JJ', 'VBP', 'NN', 'VB']          
+natural             : ['JJ']                             third               : ['JJ']                             
+investigates        : ['VBZ']                            light               : ['NN']                             
+element             : ['NN', 'VBG']                      complexity          : ['NN']                             
+maintain            : ['VB']                             so                  : ['RB']                             
+keeps               : ['VBZ']                            re-maintaining      : ['JJ']                             
+order               : ['NN']                             operations          : ['NNS', 'NNP']                     
+holds               : ['VBZ']                            help                : ['VB']                             
+pointed             : ['VBN']                            mainly              : ['RB']                             
+www.w3.org/2004/owl/: ['NNP']                            paper               : ['NN']                             
+through             : ['IN']                             mentioned           : ['JJ']                             
+existence           : ['NN']                             still               : ['RB']                             
+its                 : ['PRP$']                           before              : ['RB']                             
+24                  : ['CD']                             cpsocio-slns        : ['NNS']                            
+20                  : ['CD']                             22                  : ['CD']                             
+23                  : ['CD']                             interesting         : ['JJ']                             
+top-k               : ['NN']                             actually            : ['RB']                             
+estimating          : ['VBG']                            parts               : ['NNS']                            
+pervade             : ['VBP']                            life-form           : ['NN']                             
+into                : ['IN']                             then                : ['RB']                             
+them                : ['PRP']                            animal              : ['NN']                             
+views               : ['VBZ']                            cek                 : ['NNP']                            
+introduce           : ['VB']                             socio-natural       : ['NNP']                            
+effects             : ['NNS']                            they                : ['PRP']                            
+compound            : ['JJ']                             not                 : ['RB']                             
+now                 : ['RB']                             realize             : ['VB']                             
+maintaining         : ['VBG']                            successor           : ['NN']                             
+worlds              : ['NNS']                            term                : ['NN']                             
+hereafter           : ['RB']                             intelligent         : ['NNP']                            
+establishing        : ['VBG']                            merge               : ['VB']                             
+-lsb-               : ['CD', 'NNP', 'VBG', 'NNS', 'VBZ', 'NN']reasonable          : ['JJ']                             
+each                : ['DT']                             found               : ['VBN']                            
+friendship          : ['NN']                             em                  : ['PRP']                            
+domain              : ['NN']                             ei                  : ['NNP']                            
+mental              : ['JJ', 'VBD']                      ek                  : ['NN']                             
+series              : ['NN']                             related             : ['VBN']                            
+society             : ['NNP', 'NN']                      used                : ['VBN']                            
+static              : ['JJ']                             connect             : ['VB']                             
+reached             : ['VBN']                            operation           : ['NN']                             
+event               : ['NN']                             in?uences           : ['NNS', 'VBZ']                     
+out                 : ['RP', 'IN']                       shown               : ['VBN']                            
+network             : ['NN', 'NNP']                      space               : ['NN']                             
+since               : ['IN']                             research            : ['NN']                             
+may                 : ['MD']                             internet            : ['NN']                             
+cause               : ['NN']                             shows               : ['VBZ']                            
+model               : ['NN']                             e.                  : ['NN', 'NNP']                      
+theory              : ['NN']                             maintains           : ['VBZ']                            
+mechanisms          : ['NNS']                            possibility         : ['NN']                             
+reason              : ['VB', 'NN']                       advantages          : ['NNS']                            
+e8                  : ['NNP', 'NNS', 'JJ', 'CD']         e5                  : ['NNP', 'JJ', 'NNS', 'CD', 'VBZ', 'NNPS', 'FW', 'NN']
+e4                  : ['NNS', 'JJ', 'CD', 'NNP', 'VBZ', 'NNPS']e7                  : ['NNS', 'NNP', 'JJ', 'CD']         
+e6                  : ['NNS', 'NNP', 'JJ', 'NN']         beginning           : ['NN']                             
+e3                  : ['NNS', 'JJ', 'CD', 'NNP', 'RB', 'NNPS']e2                  : ['NNS', 'NNP', 'CD', 'RB', 'VBZ', 'NNPS', 'JJ']
+interaction         : ['NNS']                            determining         : ['JJ', 'VBG']                      
+could               : ['MD']                             iterative           : ['JJ']                             
+keep                : ['VB']                             conducted           : ['VBN']                            
+dynamicity          : ['NN']                             place               : ['NN']                             
+incorporated        : ['VBN']                            hence               : ['RB', 'NNP']                      
+uses                : ['VBZ']                            cpsocio-sln         : ['NNP', 'JJ', 'NN', 'VBG']         
+first               : ['RB']                             already             : ['RB']                             
+gmin                : ['VB', 'NNP']                      number              : ['NN']                             
+rank                : ['NN']                             one                 : ['CD', 'NN']                       
+instances           : ['NNP', 'NNS']                     another             : ['DT']                             
+simplifying         : ['VBG']                            carry               : ['VB']                             
+impossible          : ['JJ']                             open                : ['JJ']                             
+priority            : ['NN']                             given               : ['VBN']                            
+annotated           : ['RB']                             service             : ['NN']                             
+their               : ['PRP$']                           data                : ['NNS']                            
+system              : ['NN']                             relations           : ['NNS', 'NNPS']                    
+anyone              : ['NN']                             indicate            : ['VBP', 'VB']                      
+assumption          : ['NN']                             too                 : ['RB']                             
+reasoned            : ['VBN', 'VBG']                     friend              : ['NN']                             
+ef?cient            : ['JJ', 'NN']                       way                 : ['NN']                             
+relationship        : ['NN']                             that                : ['IN', 'WDT', 'DT']                
+part                : ['NN']                             simulate            : ['VB']                             
+than                : ['IN']                             semantics           : ['NNS']                            
+11                  : ['CD']                             10                  : ['CD']                             
+13                  : ['CD']                             12                  : ['CD']                             
+15                  : ['CD']                             14                  : ['CD']                             
+17                  : ['CD']                             16                  : ['CD']                             
+19                  : ['CD']                             18                  : ['CD']                             
+imply               : ['VB']                             recording           : ['VBG']                            
+matter              : ['NN']                             determined          : ['VBN']                            
+store               : ['VB']                             were                : ['VBD']                            
+distinguished       : ['VBN', 'JJ']                      classi?ed           : ['VBN']                            
+browser             : ['NNP']                            behaviors           : ['NNS']                            
+motivation          : ['NN']                             unchanged           : ['JJ']                             
+randomly            : ['RB']                             say                 : ['VBP']                            
+www.w3.org/rdf      : ['NNP']                            have                : ['VB', 'VBP']                      
+need                : ['VBP']                            addlink             : ['NNP', 'NN']                      
+recover             : ['VB']                             any                 : ['DT']                             
+relatively          : ['RB']                             includes            : ['VBZ']                            
+attribute-based     : ['JJ']                             built               : ['VBN']                            
+latter              : ['NN']                             isolated            : ['VBN', 'JJ']                      
+note                : ['NN']                             also                : ['RB']                             
+ideal               : ['NN']                             take                : ['VBP', 'VB']                      
+which               : ['WDT']                            deletelinkupdate    : ['NNP']                            
+peer-to-peer        : ['JJ']                             worldwide           : ['JJ']                             
+play                : ['VB']                             added               : ['VBN']                            
+multiple            : ['JJ']                             object              : ['NN']                             
+identi?cation       : ['NN']                             satis?es            : ['VBZ']                            
+most                : ['RBS']                            satisfying          : ['VBG']                            
+connected           : ['VBN']                            services            : ['NNS']                            
+capacity            : ['NN']                             future              : ['JJ']                             
+intrinsic           : ['JJ']                             class               : ['NNPS', 'NNP']                    
+operate             : ['VB']                             originaladdlink     : ['NNP']                            
+sometimes           : ['RB']                             cover               : ['VBP', 'NN']                      
+graphs              : ['NNS']                            orderly             : ['JJ']                             
+circulation         : ['NN']                             link                : ['NN', 'NNP', 'VB', 'VBP']         
+re?ecting           : ['VBG']                            text                : ['NN']                             
+obtains             : ['VBZ']                            bring               : ['VB']                             
+radio               : ['NN']                             inconsistent        : ['JJ']                             
+d2                  : ['CD', 'NNS']                      d3                  : ['NNS']                            
+d1                  : ['CD', 'NNS']                      xml                 : ['NN', 'NNP']                      
+interconnection     : ['NN']                             based               : ['VBN']                            
+ereasoning          : ['NNP']                            addrule             : ['NNP']                            
+e10                 : ['NN', 'NNS', 'JJ', 'CD', 'NNP', 'NNPS']e12                 : ['NNS', 'CD', 'NNP']               
+e14                 : ['NNS']                            cross-platform      : ['JJ']                             
+should              : ['MD']                             only                : ['RB']                             
+explicitly          : ['RB']                             updating            : ['VBG']                            
+hypertext           : ['NN']                             merged              : ['VBN', 'JJ']                      
+q.                  : ['NNP']                            predecessor         : ['NN']                             
+do                  : ['VBP', 'VB']                      handle              : ['VB']                             
+get                 : ['VB']                             overall             : ['JJ']                             
+relational          : ['JJ', 'NN']                       determines          : ['VBZ']                            
+areas               : ['NNS']                            closure             : ['NN', 'NNP', 'VB']                
+evolution           : ['NN']                             resource            : ['NN']                             
+roles               : ['NNS']                            approach            : ['NN', 'VB']                       
+remove              : ['VB']                             investigate         : ['VB']                             
+common              : ['JJ']                             queries             : ['NNS']                            
+where               : ['WRB']                            view                : ['NN', 'VBP']                      
+set                 : ['NN', 'VB', 'VBN', 'VBD']         questions           : ['NNS']                            
+exists              : ['VBZ']                            humans              : ['NNS']                            
+we                  : ['PRP']                            see                 : ['VB']                             
+are                 : ['VBP']                            -rsb-               : ['NNS', 'CD', 'JJ', 'NN', 'NNP', 'RB']
+philosophy          : ['NN']                             detect              : ['VB']                             
+on-demand           : ['JJ']                             visiting            : ['VBG']                            
+managing            : ['VBG']                            -rcb-               : ['JJ', '-RRB-', 'VBZ', 'NN']       
+nature              : ['NN']                             smallest            : ['JJS']                            
+various             : ['JJ']                             routing             : ['VBG']                            
+between             : ['IN']                             inter-resource      : ['JJ']                             
+conditions          : ['NNS']                            discovery           : ['NN']                             
+deletions           : ['NNS']                            newaddlink          : ['NNP']                            
+ends                : ['VBZ']                            never               : ['RB']                             
+terms               : ['NNS']                            ability             : ['NN']                             
+extend              : ['VB']                             missing             : ['VBG']                            
+importance          : ['NN']                             component           : ['NN']                             
+however             : ['RB']                             p2p                 : ['NNP']                            
+suggested           : ['VBN']                            both                : ['PDT', 'DT']                      
+hyperlink           : ['NN']                             many                : ['JJ']                             
+self-organizing     : ['JJ']                             according           : ['VBG']                            
+minds               : ['NNS']                            attributes          : ['NNPS', 'NNS']                    
+expression          : ['VB', 'NN']                       otherwise           : ['RB']                             
+and                 : ['CC', 'NNP']                      large-scale         : ['JJ']                             
+simple              : ['JJ']                             had                 : ['VBD']                            
+environments        : ['NNS']                            simply              : ['RB']                             
+sequences           : ['NNS']                            described           : ['VBN']                            
+second              : ['JJ', 'LS']                       addition            : ['NN']                             
+create              : ['VB']                             three               : ['CD']                             
+been                : ['VBN']                            strategy            : ['NN']                             
+much                : ['JJ']                             maintenance         : ['NN', 'VB', 'NNP']                
+basic               : ['JJ']                             waste               : ['NN']                             
+empty               : ['JJ']                             life                : ['NN']                             
+enable              : ['VB']                             in?uence            : ['VB', 'JJ', 'NN']                 
+versa               : ['RB']                             self-organized      : ['JJ']                             
+delnode             : ['NNP', 'NNS']                     formed              : ['VBN']                            
+else                : ['RB']                             modi?ed             : ['VBN']                            
+representative      : ['NN']                             deepen              : ['VB']                             
+general             : ['JJ']                             former              : ['JJ']                             
+applied             : ['VBN']                            has                 : ['VBZ']                            
+re?ects             : ['VBZ']                            developing          : ['VBG']                            
+these               : ['DT']                             value               : ['NN']                             
+will                : ['MD']                             sln                 : ['NNP', 'NN']                      
+socio               : ['NNP', 'NN']                      characterizing      : ['VBG']                            
+changed             : ['VBN']                            find                : ['VB']                             
+enriching           : ['VBG']                            characteristics     : ['NNS']                            
+is                  : ['VBZ']                            it                  : ['PRP']                            
+equal               : ['JJ']                             itself              : ['PRP']                            
+triple              : ['JJ']                             in                  : ['IN', 'RB']                       
+if                  : ['IN']                             result              : ['NN']                             
+different           : ['JJ']                             things              : ['NNS']                            
+make                : ['VB']                             same                : ['JJ']                             
+clearly             : ['RB']                             rules               : ['NNS', 'NNPS']                    
+complex             : ['JJ']                             emphasize           : ['VB']                             
+deletion            : ['NN']                             several             : ['JJ']                             
+development         : ['NN']                             evolve              : ['VB']                             
+extended            : ['VBN']                            cp-society          : ['NNP', 'NN']                      
+reversion           : ['NNP']                            rfid                : ['NNP']                            
+effect              : ['NN']                             levels              : ['NNS']                            
+ef?ciently          : ['RB']                             purpose             : ['NN']                             
+completeness        : ['NNS']                            tracking            : ['NN']                             
+older               : ['JJR']                            changes             : ['NNS']                            
+builder             : ['NNP']                            variety             : ['NN']                             
+analysis            : ['NN']                             obviously           : ['RB']                             
+thought             : ['VBD', 'NNP']                     person              : ['NN']                             
+directly            : ['RB']                             costs               : ['VBZ']                            
+sets                : ['NNS']                            the                 : ['DT']                             
+know                : ['VBP', 'VB']                      ce                  : ['NNP']                            
+proposed            : ['VBN']                            less                : ['JJR']                            
+when                : ['WRB']                            obtain              : ['VB']                             
+stored              : ['VBN']                            atomic              : ['JJ']                             
+delrule             : ['NNP']                            using               : ['VBG']                            
+yet                 : ['CC']                             previous            : ['JJ']                             
+adding              : ['VBG', 'VB', 'VBZ']               unique              : ['JJ']                             
+regarded            : ['VBN']                            point               : ['NN']                             
+initialize          : ['VB']                             except              : ['IN']                             
+add                 : ['VBP', 'VB']                      transformed         : ['VBN']                            
+addrules            : ['VBZ']                            theorem             : ['NN', 'NNP']                      
+input               : ['NNP', 'NN']                      intersection        : ['NN', 'VBN']                      
+save                : ['VB']                             build               : ['VB']                             
+...                 : ['CD', ':']                        easily              : ['RB']                             
+checking            : ['VBG']                            regard              : ['VBP', 'VB']                      
+execute             : ['VB']                             early               : ['RB']                             
+grid                : ['NNP']                            community           : ['NN']                             
+background          : ['NN']                             world               : ['NN']                             
+execution           : ['NN']                             harmoniously        : ['RB']                             
+necessary           : ['JJ']                             follows             : ['VBZ']                            
+agents              : ['NNS']                            essential           : ['JJ']                             
+ecology             : ['NNP']                            sequence            : ['NNP', 'NN']                      
+understand          : ['VB']                             easy                : ['VB']                             
+some                : ['DT']                             economic            : ['JJ']                             
+proper              : ['JJ']                             's                  : ['POS', 'VBZ']                     
+recognition         : ['NN']                             gradually           : ['RB']                             
+for                 : ['IN']                             ruleid              : ['NNP']                            
+redo                : ['VB']                             extensively         : ['RB']                             
+does                : ['VBZ']                            select              : ['VB']                             
+assuming            : ['VBG']                            ?ows                : ['NNS']                            
+chains              : ['NNS']                            core                : ['NN']                             
+deleted             : ['VBN', 'JJ']                      equivalent          : ['NN', 'JJ']                       
+communicate         : ['VB']                             conformation        : ['NNP', 'NN']                      
+expansion           : ['NN']                             step                : ['VB', 'NN']                       
+output              : ['NN']                             i.e.                : ['RB']                             
+refers              : ['VBZ']                            by                  : ['IN']                             
+after               : ['IN']                             on                  : ['IN']                             
+about               : ['IN']                             eco-grid            : ['NN']                             
+people              : ['NNS']                            of                  : ['IN']                             
+discussed           : ['VBN']                            meaning             : ['NN']                             
+union               : ['NN']                             introduced          : ['VBN', 'VBD']                     
+or                  : ['CC']                             automatically       : ['RB']                             
+owl                 : ['NNP']                            inclusion           : ['NN']                             
+image               : ['NN']                             due                 : ['JJ']                             
+pair                : ['NN']                             appropriate         : ['JJ']                             
+because             : ['RB', 'IN']                       determine           : ['VB']                             
+additions           : ['NNS']                            quickly             : ['RB']                             
+?nd                 : ['VB']                             networking          : ['NN']                             
+log                 : ['NN']                             queried             : ['VBN']                            
+support             : ['VB']                             there               : ['EX']                             
+transform           : ['VB']                             long                : ['RB']                             
+describes           : ['VBZ']                            terminates          : ['VBZ']                            
+was                 : ['VBD']                            function            : ['NN']                             
+complete            : ['JJ']                             subgraph            : ['NN']                             
+differences         : ['NNS']                            younger             : ['JJR']                            
+but                 : ['CC']                             speci?es            : ['VBZ']                            
+understandable      : ['JJ']                             -lrb-               : ['-LRB-']                          
+removed             : ['VBN']                            with                : ['IN']                             
+versatile           : ['NN']                             operating           : ['VBG']                            
+places              : ['NNS']                            whether             : ['IN']                             
+characteristic      : ['NN', 'NNP', 'JJ']                radio-frequency     : ['JJ']                             
+record              : ['VB']                             growth              : ['NN']                             
+represents          : ['VBZ']                            suf?cient           : ['JJ']                             
+problem             : ['NN']                             etc.                : ['FW']                             
+called              : ['VBN']                            delete              : ['VB', 'VBP']                      
+storing             : ['VBG']                            proved              : ['VBN']                            
+-rrb-               : ['-RRB-', 'NNS']                   consanguinity       : ['RB']                             
+universal           : ['JJ']                             describe            : ['VB']                             
+generating          : ['VBG', 'VBZ']                     covers              : ['NNS']                            
+an                  : ['DT']                             as                  : ['IN', 'RB']                       
+initial             : ['JJ']                             at                  : ['IN']                             
+corresponding       : ['JJ']                             exist               : ['VB']                             
+check               : ['VB', 'VBG']                      physical            : ['NNP', 'JJ', 'VBD']               
+compared            : ['VBN']                            -lcb-               : ['-LRB-', 'NNP']                   
+sl                  : ['NN', 'NNP']                      no                  : ['DT']                             
+storage             : ['NN']                             virtual             : ['JJ']                             
+other               : ['JJ']                             role                : ['NN']                             
+conclusion          : ['NN']                             node                : ['NN', 'JJ']                       
+ecosystem           : ['NN']                             kinds               : ['NNS']                            
+users               : ['NNS']                            calculating         : ['VBG']                            
+cpsocio             : ['NNP']                            time                : ['NN']                             
+update              : ['VBZ', 'NN', 'VB']                a.                  : ['NN']                             
+generated           : ['VBN']                            important           : ['JJ']                             
+n1                  : ['NNS', 'JJ']                      aggregated          : ['VBN']                            
+structure           : ['NN']                             building            : ['VBG']                            
+markup              : ['NN']                             designers           : ['NNS']                            
+implies             : ['VBZ']                            lead                : ['VB']                             
+algorithm           : ['NN', 'NNP', 'VBG']               vice                : ['RB']                             
+assume              : ['VB']                             age                 : ['NN']                             
+rule                : ['VB', 'NN']                       implied             : ['VBN']                            
+demonstrates        : ['VBZ']                            determination       : ['NN']                             
+n2                  : ['NNS', 'JJ']                      original            : ['JJ', 'NNP']                      

@@ -1,0 +1,354 @@
+************************************************************
+f0015: Cause-Effect links
+************************************************************
+
+CASE: 1
+Stag: 0 
+	Pattern: 44 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: When we interact with computers and other machines , we often use language ordinarily used for talking about people .
+	Cause: talking about people
+	Effect: When we interact with computers and other machines , we often use language ordinarily used
+
+CASE: 2
+Stag: 2 
+	Pattern: 76 [['because']]---- [['&R', '(,)', '(&ADV)'], ['&C']]
+	sentTXT: We may say of an automatic teller machine , ` It thinks I do n't have enough money in my account because it does n't yet know about the deposit I made this morning .
+	Cause: it does n't yet know about the deposit I made this morning .
+	Effect: We may say of an automatic teller machine , ` It thinks I do n't have enough money in my account
+
+CASE: 3
+Stag: 10 11 
+	Pattern: 80 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem/-regard/-regards/-regarded/-view/-views/-viewed/-denote/-denoted/-denotes)'], ['(-if/-follow/-follows/-&adv)', '&C@Complete@']]
+	sentTXT: It wo n't be necessary for most people to know very much about how they work internally , but what we will have to know about them in order to use them is more complex than what we need to know about electric lights and telephones . As our daily lives involve ever more sophisticated computers , we will find that ascribing little thoughts to machines will be increasingly useful in understanding how to get the most good out of them .
+	Cause: our daily lives involve ever more sophisticated computers , we will find that ascribing little thoughts to machines will be increasingly useful in understanding how to get the most good out of them .
+	Effect: It wo n't be necessary for most people to know very much about how they work internally , but what we will have to know about them in order to use them is more complex than what we need to know about electric lights and telephones .
+
+CASE: 4
+Stag: 12 
+	Pattern: 98 [['why']]---- [['&C', '(,/./;/--)', '(&AND)', '&THIS', '&BE'], ['&R']]
+	sentTXT: Much that we 'll need to know concerns the information stored in computers , which is why we find ourselves using psychological words like ` knows ' , ` thinks ' , and ` wants ' in referring to machines , even though machines are very different from humans and these words arose from the human need to talk about other humans .
+	Cause: Much that we 'll need to know concerns the information stored in computers
+	Effect: we find ourselves using psychological words like ` knows ' , ` thinks ' , and ` wants ' in referring to machines , even though machines are very different from humans and these words arose from the human need to talk about other humans .
+
+CASE: 5
+Stag: 13 
+	Pattern: 56 [['according', 'to'], [',']]---- [[], ['&NP@C@'], ['&R']]
+	sentTXT: According to some authorities , to use these words , the language of the mind , to talk about machines is to commit the error of anthropomorphism .
+	Cause: some authorities
+	Effect: to use these words , the language of the mind , to talk about machines is to commit the error of anthropomorphism .
+
+CASE: 6
+Stag: 15 16 
+	Pattern: 80 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem/-regard/-regards/-regarded/-view/-views/-viewed/-denote/-denoted/-denotes)'], ['(-if/-follow/-follows/-&adv)', '&C@Complete@']]
+	sentTXT: Ever since Descartes , philosophically minded people have wrestled with the question of whether it is possible for machines to think . As we interact more and more with computers -- both personal computers and others -- the questions of whether machines can think and what kind of thoughts they can have become ever more pertinent .
+	Cause: we interact more and more with computers -- both personal computers and others -- the questions of whether machines can think and what kind of thoughts they can have become ever more pertinent .
+	Effect: Ever since Descartes , philosophically minded people have wrestled with the question of whether it is possible for machines to think .
+
+CASE: 7
+Stag: 19 
+	Pattern: 115 [['based', 'on']]---- [['&V-ing/&NP@R@', '(&Clause@R@)', '&BE', '(&ADV)'], ['&NP@C@', '(&Clause@C@)']]
+	sentTXT: My answer is based on work in the field of artificial intelligence -LRB- usually abbreviated AI -RRB- which is the science and engineering of making computers solve problems and behave in ways generally considered to be intelligent .
+	Cause: work in the field of artificial intelligence -LRB- usually abbreviated AI -RRB- which is the science and engineering of making computers solve problems and behave in ways generally considered to be intelligent
+	Effect: My answer
+
+CASE: 8
+Stag: 24 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: Thinking about when they should do so led to the considerations of this article .
+	Cause: Thinking about when they should do
+	Effect: led to the considerations of this article .
+
+CASE: 9
+Stag: 29 
+	Pattern: 81 []---- [['&V-ing@C@', '(,)', '&R@Complete@']]
+	sentTXT: Adopting this principle of rationality , we see that different machines have intellectual qualities to differing extents .
+	Cause: Adopting this principle of rationality
+	Effect: we see that different machines have intellectual qualities to differing extents .
+
+CASE: 10
+Stag: 39 
+	Pattern: 78 [['since'], [',']]---- [[], ['&C@NCTime@'], ['&R@NCTime@']]
+	sentTXT: Since I advocate some anthropomorphism , I 'd better explain what I consider good and bad anthropomorphism .
+	Cause: I advocate some anthropomorphism
+	Effect: I 'd better explain what I consider good and bad anthropomorphism .
+
+CASE: 11
+Stag: 49 
+	Pattern: 89 [['the'], [['reason', 'reasons'], 'for']]---- [['(&OF)'], ['(&ADJ)'], ['&V-ing/&NP@R@', '&BE', '&NP/&TODO@C@']]
+	sentTXT: The reason for ascribing mental qualities and mental processes to machines is the same as for ascribing them to other people .
+	Cause: the same as for ascribing them to other people
+	Effect: ascribing mental qualities and mental processes to machines
+
+CASE: 12
+Stag: 51 52 
+	Pattern: 17 [['for'], [['reason', 'reasons']]]---- [['&C', '(,/;/./--)', '(&AND)'], ['(&this)'], ['(,/that)', '&R']]
+	sentTXT: Researchers in artificial intelligence -LRB- AI -RRB- are interested in the use of mental terms to describe machines for two reasons . First we want to provide machines with theories of knowledge and belief so they can reason about what their users know , do n't know , and want .
+	Cause: Researchers in artificial intelligence -LRB- AI -RRB- are interested in the use of mental terms to describe machines
+	Effect: . First we want to provide machines with theories of knowledge and belief so they can reason about what their users know , do n't know , and want
+
+CASE: 13
+Stag: 52 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: First we want to provide machines with theories of knowledge and belief so they can reason about what their users know , do n't know , and want .
+	Cause: First we want to provide machines with theories of knowledge and belief
+	Effect: they can reason about what their users know , do n't know , and want .
+
+CASE: 14
+Stag: 55 
+	Pattern: 75 [['because'], [',']]---- [[], ['&C'], ['&R']]
+	sentTXT: I may make statements about it like , ` It wo n't give me any cash because it knows there 's no money in my account , ' or , ` It knows who I am because I gave it my secret number ' .
+	Cause: it knows there 's no money in my account
+	Effect: ' or , ` It knows who I am because I gave it my secret
+
+CASE: 15
+Stag: 55 
+	Pattern: 76 [['because']]---- [['&R', '(,)', '(&ADV)'], ['&C']]
+	sentTXT: ' or , ` It knows who I am because I gave it my secret
+	Cause: I gave it my secret
+	Effect: ' or , ` It knows who I am
+
+CASE: 16
+Stag: 57 
+	Pattern: 15 [[['if', 'once']], [',']]---- [[], ['&C@Complete@'], ['&R@Complete@']]
+	sentTXT: But it was designed to act as if it has that belief , and if I want to figure out how to make it give me cash in the future , I should treat it as if it knows that sort of thing .
+	Cause: I want to figure out how to make it give me cash in the future
+	Effect: I should treat it as if it knows that sort of thing .
+
+CASE: 17
+Stag: 57 
+	Pattern: 14 [['if']]---- [['&R@Complete@'], ['&C@Complete@']]
+	sentTXT: I should treat it as if it knows that sort of thing .
+	Cause: it knows that sort of thing .
+	Effect: I should treat it as
+
+CASE: 18
+Stag: 58 
+	Pattern: 76 [['because']]---- [['&R', '(,)', '(&ADV)'], ['&C']]
+	sentTXT: It 's difficult to be rigorous about whether a machine really ` knows ' , ` thinks ' , etc. , because we 're hard put to define these things .
+	Cause: we 're hard put to define these things .
+	Effect: It 's difficult to be rigorous about whether a machine really ` knows ' , ` thinks ' , etc.
+
+CASE: 19
+Stag: 62 
+	Pattern: 44 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: Certain formulas of this logic are then axioms giving relations between the concepts and conditions for ascribing them .
+	Cause: ascribing them
+	Effect: Certain formulas of this logic are then axioms giving relations between the concepts and conditions
+
+CASE: 20
+Stag: 66 
+	Pattern: 80 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem/-regard/-regards/-regarded/-view/-views/-viewed/-denote/-denoted/-denotes)'], ['(-if/-follow/-follows/-&adv)', '&C@Complete@']]
+	sentTXT: Our object is to account for as much behavior as possible by saying the machine or person or animal does what it thinks will achieve its goals .
+	Cause: much behavior as possible by saying the machine or person or animal does what it thinks will achieve its
+	Effect: Our object is to account for
+
+CASE: 21
+Stag: 66 
+	Pattern: 67 [[['by', 'through']]]---- [[], ['&V-ing@C@', '&R']]
+	sentTXT: much behavior as possible by saying the machine or person or animal does what it thinks will achieve its
+	Cause: saying the machine or person or animal does what it thinks
+	Effect: will achieve its
+
+CASE: 22
+Stag: 68 
+	Pattern: 14 [['if']]---- [['&R@Complete@'], ['&C@Complete@']]
+	sentTXT: Namely , the language must be able to express the information our program can actually get about a person 's or machine 's ` state of mind ' -- not just what might be obtainable if the neurophysiology of the human or the design of the machine were more accessible .
+	Cause: the neurophysiology of the human or the design of the machine were more accessible .
+	Effect: Namely , the language must be able to express the information our program can actually get about a person 's or machine 's ` state of mind ' -- not just what might be obtainable
+
+CASE: 23
+Stag: 69 
+	Pattern: 76 [['because']]---- [['&R', '(,)', '(&ADV)'], ['&C']]
+	sentTXT: In general we can not give definitions , because the concepts form a system that we fit as a whole to phenomena .
+	Cause: the concepts form a system that we fit as a whole to phenomena .
+	Effect: In general we can not give definitions
+
+CASE: 24
+Stag: 75 
+	Pattern: 14 [['if']]---- [['&R@Complete@'], ['&C@Complete@']]
+	sentTXT: Intends -- We say that a machine intends to do something if we can regard it as believing that it will attempt to do it .
+	Cause: we can regard it as believing that it will attempt to do it .
+	Effect: We say that a machine intends to do something
+
+CASE: 25
+Stag: 80 
+	Pattern: 15 [[['if', 'once']], [',']]---- [[], ['&C@Complete@'], ['&R@Complete@']]
+	sentTXT: If the machine may do something we do n't know about but that can laterbe explained in relation to a goal , we have no choice but to use ` is trying ' or some synonym to explain the behavior .
+	Cause: the machine may do something we do n't know about but that can laterbe explained in relation to a goal
+	Effect: we have no choice but to use ` is trying ' or some synonym to explain the behavior .
+
+CASE: 26
+Stag: 97 98 
+	Pattern: 1 [['therefore']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(,)', '&R']]
+	sentTXT: Also animals can not be shown to have more than a few . Therefore , many present and future programs can best be described as partially self-conscious .
+	Cause: Also animals can not be shown to have more than a few
+	Effect: many present and future programs can best be described as partially self-conscious .
+
+CASE: 27
+Stag: 101 
+	Pattern: 76 [['because']]---- [['&R', '(,)', '(&ADV)'], ['&C']]
+	sentTXT: The statement is n't shorthand for something the dog did , because there are many ways of knowing that a dog wants to go out .
+	Cause: there are many ways of knowing that a dog wants to go out .
+	Effect: The statement is n't shorthand for something the dog did
+
+CASE: 28
+Stag: 104 105 
+	Pattern: 29 [['because', 'of']]---- [['&C', '(,/;/./--)', '(&ADV)'], ['(&THIS)', '&NP', '&R']]
+	sentTXT: It is useful because of its connection with all of these things and because what it says about the dog corresponds in an informative way with similar statements about people . It does n't commit the person who said it to an elaborate view of the mind of a dog .
+	Cause: It is useful
+	Effect: . It does n't commit the person who said it to an elaborate view of the mind of a dog
+
+CASE: 29
+Stag: 110 
+	Pattern: 15 [[['if', 'once']], [',']]---- [[], ['&C@Complete@'], ['&R@Complete@']]
+	sentTXT: If the control is placed on a radiator or radiant heated floors , it will ` think ' the entire room is hot and will lower your blanket temperature , making your bed too cold .
+	Cause: the control is placed on a radiator or radiant heated floors
+	Effect: it will ` think ' the entire room is hot and will lower your blanket temperature , making your bed too cold .
+
+CASE: 30
+Stag: 111 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: If the control is placed on the window sill in a cold draft , it will ` think ' the entire room is cold and will heat up your bed so it will be too hot .
+	Cause: If the control is placed on the window sill in a cold draft , it will ` think ' the entire room is cold and will heat up your bed
+	Effect: it will be too hot .
+
+CASE: 31
+Stag: 111 
+	Pattern: 15 [[['if', 'once']], [',']]---- [[], ['&C@Complete@'], ['&R@Complete@']]
+	sentTXT: If the control is placed on the window sill in a cold draft , it will ` think ' the entire room is cold and will heat up your bed
+	Cause: the control is placed on the window sill in a cold draft
+	Effect: it will ` think ' the entire room is cold and will heat up your bed
+
+CASE: 32
+Stag: 112 
+	Pattern: 2 [['thus']]---- [['&C', '(,/;/./--)', '(&AND)'], ['&R']]
+	sentTXT: I suppose some philosophers , psychologists , and English teachers would maintain that the blanket manufacturer is guilty of anthropomorphism and some will claim that great harm can come from thus ascribing to machines qualities which only humans can have .
+	Cause: I suppose some philosophers , psychologists , and English teachers would maintain that the blanket manufacturer is guilty of anthropomorphism and some will claim that great harm can come from
+	Effect: ascribing to machines qualities which only humans can have .
+
+CASE: 33
+Stag: 116 
+	Pattern: 76 [['because']]---- [['&R', '(,)', '(&ADV)'], ['&C']]
+	sentTXT: The example is extreme , because most people do n't need the word ` think ' to understand how a thermostatic control works .
+	Cause: most people do n't need the word ` think ' to understand how a thermostatic control works .
+	Effect: The example is extreme
+
+CASE: 34
+Stag: 123 
+	Pattern: 15 [[['if', 'once']], [',']]---- [[], ['&C@Complete@'], ['&R@Complete@']]
+	sentTXT: If we had only thermostats to think about , we would n't bother with the concept of belief at all .
+	Cause: we had only thermostats to think about
+	Effect: we would n't bother with the concept of belief at all .
+
+CASE: 35
+Stag: 124 
+	Pattern: 15 [[['if', 'once']], [',']]---- [[], ['&C@Complete@'], ['&R@Complete@']]
+	sentTXT: And if all we wanted to think about were zero and one , we would n't bother with the concept of number .
+	Cause: all we wanted to think about were zero and one
+	Effect: we would n't bother with the concept of number .
+
+CASE: 36
+Stag: 129 
+	Pattern: 55 [['according', 'to']]---- [['&R', '(,)'], ['&NP@C@']]
+	sentTXT: Perhaps Honeywell discovers that these compromises should be modified according to a social rank formula devised by its psychologists and determined by patterns of speech loudness .
+	Cause: a social rank formula devised by its psychologists and determined by patterns of speech loudness
+	Effect: Perhaps Honeywell discovers that these compromises should be modified
+
+CASE: 37
+Stag: 133 
+	Pattern: 76 [['because']]---- [['&R', '(,)', '(&ADV)'], ['&C']]
+	sentTXT: 1 -RRB- It 's trying to do the right thing , but it ca n't because the valve is stuck .
+	Cause: the valve is stuck .
+	Effect: -RRB- It 's trying to do the right thing , but it ca n't
+
+CASE: 38
+Stag: 143 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: A more elaborate automatic teller that handles loans , loan payments , traveler 's checks , and so forth , may have beliefs like , ` The payment was n't made on time , ' or , ` This person is a good credit risk .
+	Cause: that handles loans , loan payments , traveler 's checks
+	Effect: forth , may have beliefs like , ` The payment was n't made on time , ' or , ` This person is a good credit risk .
+
+CASE: 39
+Stag: 145 
+	Pattern: 44 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: A person who does n't know Chinese memorizes a book of rules for manipulating Chinese characters .
+	Cause: manipulating Chinese characters
+	Effect: does n't know Chinese memorizes a book of rules
+
+CASE: 40
+Stag: 148 
+	Pattern: 29 [['because', 'of']]---- [['&C', '(,/;/./--)', '(&ADV)'], ['(&THIS)', '&NP', '&R']]
+	sentTXT: He is repeatedly given Chinese sentences , to which he applies the rules , and gives back what turn out , because of the clever rules , to be Chinese sentences that are appropriate replies .
+	Cause: He is repeatedly given Chinese sentences , to which he applies the rules , and gives back what turn out
+	Effect: , to be Chinese sentences that are appropriate replies .
+
+CASE: 41
+Stag: 149 
+	Pattern: 82 [['so'], ['that']]---- [['&C'], ['&adj/&adv@C@'], ['&R']]
+	sentTXT: We suppose that the rules result in a Chinese conversation so intelligent that the person giving and receiving the sentences ca n't tell him from an intelligent Chinese .
+	Cause: We suppose that the rules result in a Chinese conversation so intelligent
+	Effect: the person giving and receiving the sentences ca n't tell him from an intelligent Chinese .
+
+CASE: 42
+Stag: 151 
+	Pattern: 79 [['since']]---- [['&R@NCTime@', '(,)'], ['&C@NCTime@']]
+	sentTXT: Searle says that since the person in the example does n't understand Chinese -- even though he can produce intelligent Chinese conversation by following rules -- a computer can not be said to ` understand ' things .
+	Cause: the person in the example does n't understand Chinese -- even though he can produce intelligent Chinese conversation by following rules -- a computer can not be said to ` understand ' things .
+	Effect: Searle says that
+
+CASE: 43
+Stag: 153 
+	Pattern: 14 [['if']]---- [['&R@Complete@'], ['&C@Complete@']]
+	sentTXT: I would argue that the set of rules understands Chinese , and , analogously , a computer program may be said to understand things , even if the computer does not .
+	Cause: the computer does not .
+	Effect: understands Chinese , and , analogously , a computer program may be said to understand things , even
+
+CASE: 44
+Stag: 160 
+	Pattern: 81 []---- [['&V-ing@C@', '(,)', '&R@Complete@']]
+	sentTXT: Looking at a thermostat from this point of view , we 'd want to understand the working of the bimetal strip that most thermostats use .
+	Cause: Looking at a thermostat from this point of view
+	Effect: we 'd want to understand the working of the bimetal strip that most thermostats use .
+
+CASE: 45
+Stag: 174 
+	Pattern: 44 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: The third is called the intentional stance , and this is what we 'll often need for understanding computer programs .
+	Cause: understanding computer programs
+	Effect: The third is called the intentional stance , and this is what we 'll often need
+
+CASE: 46
+Stag: 175 
+	Pattern: 68 [[['by', 'through']]]---- [['&R@Complete@'], ['&V-ing@C@']]
+	sentTXT: In this we try to understand the behavior of a system by ascribing to it beliefs , goals , intentions , likes and dislikes , and other mental qualities .
+	Cause: ascribing to it beliefs , goals , intentions , likes and dislikes , and other mental qualities
+	Effect: In this we try to understand the behavior of a system
+
+CASE: 47
+Stag: 177 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: We say things like , ` The store 's billing computer wants me to pay up , so it intends to frighten me by sending me threatening letters ' .
+	Cause: We say things like , ` The store 's billing computer wants me to pay up
+	Effect: it intends to frighten me by sending me threatening letters
+
+CASE: 48
+Stag: 177 
+	Pattern: 68 [[['by', 'through']]]---- [['&R@Complete@'], ['&V-ing@C@']]
+	sentTXT: it intends to frighten me by sending me threatening letters
+	Cause: sending me threatening letters
+	Effect: it intends to frighten me
+
+CASE: 49
+Stag: 190 
+	Pattern: 14 [['if']]---- [['&R@Complete@'], ['&C@Complete@']]
+	sentTXT: Computers will end up with the psychology that is convenient to their designers -- -LRB- and they 'll be fascist bastards if those designers do n't think twice -RRB- .
+	Cause: those designers do n't think twice
+	Effect: their designers -- -LRB- and they 'll be fascist bastards
+
+CASE: 50
+Stag: 193 
+	Pattern: 15 [[['if', 'once']], [',']]---- [[], ['&C@Complete@'], ['&R@Complete@']]
+	sentTXT: If designers and programmers think about the apparent mental qualities that their programs will have , they 'll create programs that are easier and pleasanter -- more humane -- to deal with .
+	Cause: designers and programmers think about the apparent mental qualities that their programs will have
+	Effect: they 'll create programs that are easier and pleasanter -- more humane -- to deal with .
+

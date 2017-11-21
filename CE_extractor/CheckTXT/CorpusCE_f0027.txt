@@ -1,0 +1,130 @@
+************************************************************
+f0027: Cause-Effect links
+************************************************************
+
+CASE: 1
+Stag: 2 
+	Pattern: 77 [['so', 'that']]---- [['&C'], ['&R']]
+	sentTXT: Scientists are trained early to keep careful records in their laboratory notebooks -- recording both experimental procedures and observations , so that they can analyse their results and so that others can replicate what they have done .
+	Cause: are trained early to keep careful records in their laboratory notebooks -- recording both experimental procedures and observations , so that they can analyse their results and
+	Effect: others can replicate what they have done .
+
+CASE: 2
+Stag: 2 
+	Pattern: 77 [['so', 'that']]---- [['&C'], ['&R']]
+	sentTXT: are trained early to keep careful records in their laboratory notebooks -- recording both experimental procedures and observations , so that they can analyse their results and
+	Cause: are trained early to keep careful records in their laboratory notebooks -- recording both experimental procedures and observations ,
+	Effect: they can analyse their results and
+
+CASE: 3
+Stag: 12 13 
+	Pattern: 80 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem/-regard/-regards/-regarded/-view/-views/-viewed/-denote/-denoted/-denotes)'], ['(-if/-follow/-follows/-&adv)', '&C@Complete@']]
+	sentTXT: But none of these programs scale up to handle millions of data records -- and they are primitive by most standards . As data volumes grow , it is increasingly arduous to extract knowledge .
+	Cause: data volumes grow , it is increasingly arduous to extract knowledge .
+	Effect: -- and they are primitive by most standards .
+
+CASE: 4
+Stag: 24 
+	Pattern: 80 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem/-regard/-regards/-regarded/-view/-views/-viewed/-denote/-denoted/-denotes)'], ['(-if/-follow/-follows/-&adv)', '&C@Complete@']]
+	sentTXT: Experiments are themselves becoming electronic as computers become essential parts of scientific instruments ;
+	Cause: computers become essential parts of scientific
+	Effect: Experiments are themselves becoming electronic
+
+CASE: 5
+Stag: 31 32 
+	Pattern: 80 [['as']]---- [['&R@Complete@', '(,)', '(-such/-same/-seem/-regard/-regards/-regarded/-view/-views/-viewed/-denote/-denoted/-denotes)'], ['(-if/-follow/-follows/-&adv)', '&C@Complete@']]
+	sentTXT: both Matlab and GenBankwill change enormously in that time . As experiments yield more data , and analysis becomes more complex , data become increasingly difficult to document and reproduce .
+	Cause: experiments yield more data , and analysis becomes more complex , data become increasingly difficult to document and reproduce .
+	Effect: both Matlab and GenBankwill change enormously in that time .
+
+CASE: 6
+Stag: 33 34 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: One might argue that complex biological experiments have always been difficult to reproduce , as there are so many variables . But we believe that with current trends it is nearly impossible to reproduce experiments .
+	Cause: One might argue that complex biological experiments have always been difficult to reproduce , as there are
+	Effect: many variables . But we believe that with current trends it is nearly impossible to reproduce experiments
+
+CASE: 7
+Stag: 36 
+	Pattern: 90 [[['concern', 'concerns', 'concerned', 'require', 'requires', 'required', 'request', 'requests', 'requested']]]---- [['&R', '(,/./;/--)', '&this', '(&adj)', '(&N)', '(&CAN/have/has/had)', '(&ADV)'], ['(about)', '&V-ing/&NP@C@']]
+	sentTXT: Increasingly , scientists are analysing complex systems that require data to be combined from several groups and even several disciplines .
+	Cause: data
+	Effect: Increasingly , scientists are analysing complex systems
+
+CASE: 8
+Stag: 42 43 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: Standards are essential at several levels : in formatting , so that data written by one group can be easily read and understood by others ;
+	Cause: are essential at several levels : in formatting
+	Effect: that data written by one group can be easily read and understood by others ;
+
+CASE: 9
+Stag: 43 44 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: in formatting , so that data written by one group can be easily read and understood by others ; in semantics , so that a term used by one group can be translated -LRB- often automatically -RRB- by another without its meaning being distorted ;
+	Cause: formatting , so that data written by one group can be easily read and understood by others ; in semantics
+	Effect: that a term used by one group can be translated -LRB- often automatically -RRB- by another without its meaning being distorted ;
+
+CASE: 10
+Stag: 44 45 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: in semantics , so that a term used by one group can be translated -LRB- often automatically -RRB- by another without its meaning being distorted ; and in workflows , so that analysis steps can be executed across the Internet and reproduced by others at a later date .
+	Cause: semantics , so that a term used by one group can be translated -LRB- often automatically -RRB- by another without its meaning being distorted ; and in workflows
+	Effect: that analysis steps can be executed across the Internet and reproduced by others at a later date .
+
+CASE: 11
+Stag: 47 
+	Pattern: 44 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: We are helping to build a system for measuring long-term environmental trends that affect soil biodiversity -LRB- www.lifeunderyourfeet.org ;
+	Cause: measuring long-term environmental trends that affect soil biodiversity -LRB- www.lifeunderyourfeet.org ;
+	Effect: We are helping to build a system
+
+CASE: 12
+Stag: 52 
+	Pattern: 44 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: Multidisciplinary databases also provide a rich environment for performing science ;
+	Cause: performing science
+	Effect: Multidisciplinary databases also provide a rich environment
+
+CASE: 13
+Stag: 57 58 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: The speed of the Internet has not kept pace with the growth of scientific datasets . And so large data archives are becoming increasingly ` isolated ' in the network sense -- one can copy gigabytes across the Internet today , but not petabytes .
+	Cause: The speed of the Internet has not kept pace with the growth of scientific datasets
+	Effect: large data archives are becoming increasingly ` isolated ' in the network sense -- one can copy gigabytes across the Internet today , but not petabytes .
+
+CASE: 14
+Stag: 62 63 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: Are we reaching the limits of what one scientist , or one lab , can expect to achieve in data handling and analysis ? If so , this will have implications for how we review and publish our work .
+	Cause: we reaching the limits of what one scientist , or one lab , can expect to achieve in data handling and analysis ? If
+	Effect: this will have implications for how we review and publish our work .
+
+CASE: 15
+Stag: 68 
+	Pattern: 44 [['for']]---- [['&R'], ['&V-ing@C@']]
+	sentTXT: But there is , as yet , no standard for publishing large volumes of data .
+	Cause: publishing large volumes of data
+	Effect: But there is , as yet , no standard
+
+CASE: 16
+Stag: 72 73 
+	Pattern: 90 [[['concern', 'concerns', 'concerned', 'require', 'requires', 'required', 'request', 'requests', 'requested']]]---- [['&R', '(,/./;/--)', '&this', '(&adj)', '(&N)', '(&CAN/have/has/had)', '(&ADV)'], ['(about)', '&V-ing/&NP@C@']]
+	sentTXT: Astronomers created the International Virtual Observatory Alliance -LRB- www.IVOA.net -RRB- , integrating most of the world 's medium and large astronomy archives . This required new standards for data exchange , and a semantic dictionary that offers a controlled vocabulary of astronomy terms .
+	Cause: new standards for data exchange , and a semantic dictionary that offers a controlled vocabulary of astronomy terms
+	Effect: Astronomers created the International Virtual Observatory Alliance -LRB- www.IVOA.net -RRB- , integrating most of the world 's medium and large astronomy archives
+
+CASE: 17
+Stag: 80 81 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: Likely computer-performance improvements by 2011 include tenfold more processing , storage and network bandwidth per dollar . So we can expect tentimes more data .
+	Cause: Likely computer-performance improvements by 2011 include tenfold more processing , storage and network bandwidth per dollar
+	Effect: we can expect tentimes more data .
+
+CASE: 18
+Stag: 93 94 
+	Pattern: 0 [['so']]---- [['&C', '(,/;/./--)', '(&AND)'], ['(-far)', '(,)', '&R']]
+	sentTXT: it is universal . And so although some subdisciplines may reach a plateau in data generation , other technological innovations will take their place .
+	Cause: it is universal
+	Effect: although some subdisciplines may reach a plateau in data generation , other technological innovations will take their place .
+

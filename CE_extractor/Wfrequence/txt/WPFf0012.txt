@@ -1,0 +1,276 @@
+f0012:
+
+W_Fdic:
+the                 : 29      semantic            : 22      of                  : 20      sln                 : 20      
+and                 : 13      is                  : 12      in                  : 10      to                  : 9       
+-lsb-               : 9       -rsb-               : 9       links               : 8       nodes               : 7       
+paper               : 6       it                  : 6       reasoning           : 5       network             : 5       
+for                 : 5       link                : 5       communities         : 4       be                  : 4       
+or                  : 4       an                  : 4       discovering         : 3       resources           : 3       
+rules               : 3       not                 : 3       world               : 3       discovery           : 3       
+are                 : 3       research            : 3       by                  : 3       mantic              : 3       
+can                 : 3       from                : 3       application         : 3       model               : 3       
+se                  : 3       web                 : 2       also                : 2       only                : 2       
+richness            : 2       between             : 2       semantically        : 2       consisting          : 2       
+automatic           : 2       idea                : 2       special             : 2       relational          : 2       
+approach            : 2       method              : 2       applies             : 2       on                  : 2       
+opinion             : 2       relevant            : 2       relations           : 2       addition            : 2       
+naturally           : 2       suspicious          : 2       but                 : 2       construction        : 2       
+-lrb-               : 2       with                : 2       semantics           : 2       this                : 2       
+interconnected      : 2       -rrb-               : 2       citation            : 2       different           : 2       
+class               : 2       section             : 2       represent           : 1       linked              : 1       
+hierarchy           : 1       dynamic             : 1       existing            : 1       including           : 1       
+human               : 1       reflect             : 1       query               : 1       localized           : 1       
+group               : 1       knowledge           : 1       graph               : 1       components          : 1       
+removal             : 1       forms               : 1       helps               : 1       has                 : 1       
+into                : 1       which               : 1       existences          : 1       semantics-aware     : 1       
+records             : 1       they                : 1       new                 : 1       resource            : 1       
+like                : 1       proposes            : 1       supports            : 1       guage               : 1       
+accelerating        : 1       specific            : 1       queries             : 1       page                : 1       
+domain              : 1       methods             : 1       distinguished       : 1       some                : 1       
+related             : 1       second              : 1       recommendation      : 1       c-sln               : 1       
+targets             : 1       even                : 1       lish                : 1       estab               : 1       
+space               : 1       furthermore         : 1       does                : 1       fifth               : 1       
+sup                 : 1       net                 : 1       metadata            : 1       available           : 1       
+creating            : 1       ory                 : 1       sixth               : 1       reason              : 1       
+formation           : 1       key                 : 1       based               : 1       ontology            : 1       
+inductive           : 1       change              : 1       topology            : 1       about               : 1       
+slns                : 1       created             : 1       phishing            : 1       correctness         : 1       
+minds               : 1       ports               : 1       suggests            : 1       important           : 1       
+due                 : 1       social              : 1       suitable            : 1       studies             : 1       
+first               : 1       among               : 1       primitive           : 1       useful              : 1       
+image               : 1       rule-constraint     : 1       ized                : 1       gregating           : 1       
+tools               : 1       lan                 : 1       management          : 1       decentral           : 1       
+support             : 1       system              : 1       construct           : 1       defined             : 1       
+describes           : 1       characteristics     : 1       type                : 1       reflects            : 1       
+networks            : 1       direction           : 1       analogical          : 1       webpage             : 1       
+incorporates        : 1       forming             : 1       normalized          : 1       than                : 1       
+those               : 1       evolves             : 1       characteristic      : 1       work                : 1       
+will                : 1       interrelated        : 1       three               : 1       promising           : 1       
+schema              : 1       similar             : 1       interactive         : 1       ag                  : 1       
+process             : 1       discussed           : 1       dynamically         : 1       organized           : 1       
+autonomously        : 1       ap                  : 1       feasible            : 1       technology          : 1       
+operation           : 1       ing                 : 1       self-organized      : 1       rather              : 1       
+large               : 1       self                : 1       six                 : 1       when                : 1       
+small-world         : 1       virtual             : 1       any                 : 1       complex             : 1       
+role                : 1       fourth              : 1       papers              : 1       objective           : 1       
+algorithms          : 1       ordinary            : 1       intelligent         : 1       pursues             : 1       
+hyperlink           : 1       evolve              : 1       play                : 1       used                : 1       
+intend              : 1       description         : 1       normal              : 1       may                 : 1       
+object              : 1       effect              : 1       includes            : 1       deriving            : 1       
+applications        : 1       proaches            : 1       user                : 1       propagated          : 1       
+goal                : 1       especially          : 1       third               : 1       makes               : 1       
+traditional         : 1       object-oriented     : 1       inherits            : 1       allow               : 1       
+form                : 1       things              : 1       organization        : 1       
+
+WP_Fdic:
+['the', 'DT']                      : 29      ['semantic', 'JJ']                 : 21      ['of', 'IN']                       : 20      
+['sln', 'NNP']                     : 19      ['and', 'CC']                      : 13      ['is', 'VBZ']                      : 12      
+['in', 'IN']                       : 10      ['to', 'TO']                       : 9       ['links', 'NNS']                   : 8       
+['-rsb-', 'NNS']                   : 8       ['nodes', 'NNS']                   : 7       ['it', 'PRP']                      : 6       
+['paper', 'NN']                    : 6       ['for', 'IN']                      : 5       ['reasoning', 'NN']                : 5       
+['communities', 'NNS']             : 4       ['network', 'NN']                  : 4       ['or', 'CC']                       : 4       
+['link', 'NN']                     : 4       ['be', 'VB']                       : 4       ['an', 'DT']                       : 4       
+['discovering', 'VBG']             : 3       ['are', 'VBP']                     : 3       ['not', 'RB']                      : 3       
+['mantic', 'JJ']                   : 3       ['resources', 'NNS']               : 3       ['rules', 'NNS']                   : 3       
+['from', 'IN']                     : 3       ['model', 'NN']                    : 3       ['research', 'NN']                 : 3       
+['application', 'NN']              : 3       ['can', 'MD']                      : 3       ['discovery', 'NN']                : 3       
+['world', 'NN']                    : 3       ['-lsb-', 'VBG']                   : 3       ['by', 'IN']                       : 3       
+['also', 'RB']                     : 2       ['automatic', 'JJ']                : 2       ['semantically', 'RB']             : 2       
+['addition', 'NN']                 : 2       ['consisting', 'VBG']              : 2       ['relations', 'NNS']               : 2       
+['se', 'NNP']                      : 2       ['-lsb-', 'CD']                    : 2       ['with', 'IN']                     : 2       
+['suspicious', 'JJ']               : 2       ['on', 'IN']                       : 2       ['method', 'NN']                   : 2       
+['special', 'JJ']                  : 2       ['citation', 'NN']                 : 2       ['construction', 'NN']             : 2       
+['-rrb-', '-RRB-']                 : 2       ['naturally', 'RB']                : 2       ['between', 'IN']                  : 2       
+['semantics', 'NNS']               : 2       ['relevant', 'JJ']                 : 2       ['opinion', 'NN']                  : 2       
+['this', 'DT']                     : 2       ['class', 'NN']                    : 2       ['section', 'NN']                  : 2       
+['interconnected', 'JJ']           : 2       ['applies', 'VBZ']                 : 2       ['idea', 'NN']                     : 2       
+['different', 'JJ']                : 2       ['richness', 'NN']                 : 2       ['-lrb-', '-LRB-']                 : 2       
+['but', 'CC']                      : 2       ['approach', 'NN']                 : 2       ['helps', 'VBZ']                   : 1       
+['ized', 'JJ']                     : 1       ['among', 'IN']                    : 1       ['related', 'VBN']                 : 1       
+['traditional', 'JJ']              : 1       ['when', 'WRB']                    : 1       ['useful', 'JJ']                   : 1       
+['hierarchy', 'NN']                : 1       ['autonomously', 'RB']             : 1       ['reflect', 'VBP']                 : 1       
+['query', 'RB']                    : 1       ['feasible', 'JJ']                 : 1       ['only', 'JJ']                     : 1       
+['queries', 'NNS']                 : 1       ['relational', 'JJ']               : 1       ['effect', 'NN']                   : 1       
+['like', 'IN']                     : 1       ['includes', 'VBZ']                : 1       ['represent', 'VB']                : 1       
+['network', 'NNP']                 : 1       ['applications', 'NNS']            : 1       ['-lsb-', 'JJ']                    : 1       
+['inductive', 'JJ']                : 1       ['system', 'NN']                   : 1       ['six', 'CD']                      : 1       
+['new', 'JJ']                      : 1       ['dynamic', 'JJ']                  : 1       ['lan', 'NN']                      : 1       
+['-lsb-', 'VBZ']                   : 1       ['papers', 'NNS']                  : 1       ['accelerating', 'VBG']            : 1       
+['organization', 'NN']             : 1       ['form', 'VB']                     : 1       ['role', 'NN']                     : 1       
+['gregating', 'VBG']               : 1       ['components', 'NNS']              : 1       ['pursues', 'VBZ']                 : 1       
+['space', 'NN']                    : 1       ['c-sln', 'NNP']                   : 1       ['change', 'NN']                   : 1       
+['ports', 'NNS']                   : 1       ['second', 'JJ']                   : 1       ['ap', 'NN']                       : 1       
+['evolves', 'VBZ']                 : 1       ['deriving', 'VBG']                : 1       ['discussed', 'VBN']               : 1       
+['-lsb-', 'NNP']                   : 1       ['self', 'NN']                     : 1       ['those', 'DT']                    : 1       
+['linked', 'VBN']                  : 1       ['into', 'IN']                     : 1       ['technology', 'NN']               : 1       
+['evolve', 'VB']                   : 1       ['group', 'NN']                    : 1       ['supports', 'VBZ']                : 1       
+['will', 'MD']                     : 1       ['-lsb-', 'NNS']                   : 1       ['objective', 'JJ']                : 1       
+['furthermore', 'RB']              : 1       ['which', 'WDT']                   : 1       ['schema', 'NN']                   : 1       
+['used', 'VBN']                    : 1       ['management', 'NN']               : 1       ['inherits', 'VBZ']                : 1       
+['ordinary', 'JJ']                 : 1       ['forms', 'NNS']                   : 1       ['describes', 'VBZ']               : 1       
+['forming', 'VBG']                 : 1       ['intend', 'VB']                   : 1       ['hyperlink', 'RB']                : 1       
+['se', 'FW']                       : 1       ['object', 'VBP']                  : 1       ['direction', 'NN']                : 1       
+['resource', 'NN']                 : 1       ['promising', 'JJ']                : 1       ['studies', 'NNS']                 : 1       
+['similar', 'JJ']                  : 1       ['allow', 'VBP']                   : 1       ['organized', 'VBN']               : 1       
+['self-organized', 'JJ']           : 1       ['analogical', 'JJ']               : 1       ['proaches', 'NNS']                : 1       
+['semantic', 'NNP']                : 1       ['operation', 'NN']                : 1       ['metadata', 'NN']                 : 1       
+['available', 'JJ']                : 1       ['ory', 'VBN']                     : 1       ['web', 'JJ']                      : 1       
+['incorporates', 'VBZ']            : 1       ['propagated', 'VBN']              : 1       ['first', 'JJ']                    : 1       
+['primitive', 'JJ']                : 1       ['proposes', 'VBZ']                : 1       ['defined', 'VBN']                 : 1       
+['normal', 'JJ']                   : 1       ['characteristic', 'NN']           : 1       ['recommendation', 'NN']           : 1       
+['rule-constraint', 'JJ']          : 1       ['domain', 'NN']                   : 1       ['may', 'MD']                      : 1       
+['normalized', 'JJ']               : 1       ['sup', 'JJ']                      : 1       ['image', 'NN']                    : 1       
+['relational', 'NN']               : 1       ['removal', 'NN']                  : 1       ['algorithms', 'NNS']              : 1       
+['play', 'VB']                     : 1       ['existing', 'VBG']                : 1       ['including', 'VBG']               : 1       
+['suitable', 'JJ']                 : 1       ['semantics-aware', 'JJ']          : 1       ['minds', 'NNS']                   : 1       
+['slns', 'NNS']                    : 1       ['knowledge', 'NN']                : 1       ['created', 'VBN']                 : 1       
+['has', 'VBZ']                     : 1       ['sixth', 'JJ']                    : 1       ['based', 'VBN']                   : 1       
+['does', 'VBZ']                    : 1       ['webpage', 'NN']                  : 1       ['net', 'NN']                      : 1       
+['makes', 'VBZ']                   : 1       ['phishing', 'VBG']                : 1       ['page', 'NN']                     : 1       
+['distinguished', 'JJ']            : 1       ['targets', 'NNS']                 : 1       ['construct', 'VB']                : 1       
+['ag', 'NN']                       : 1       ['social', 'JJ']                   : 1       ['-rsb-', 'JJ']                    : 1       
+['interactive', 'JJ']              : 1       ['large', 'JJ']                    : 1       ['interrelated', 'JJ']             : 1       
+['rather', 'RB']                   : 1       ['user', 'NN']                     : 1       ['virtual', 'JJ']                  : 1       
+['type', 'NN']                     : 1       ['even', 'RB']                     : 1       ['creating', 'VBG']                : 1       
+['object-oriented', 'JJ']          : 1       ['fourth', 'JJ']                   : 1       ['intelligent', 'JJ']              : 1       
+['existences', 'NNS']              : 1       ['fifth', 'JJ']                    : 1       ['specific', 'JJ']                 : 1       
+['than', 'IN']                     : 1       ['third', 'JJ']                    : 1       ['correctness', 'NNS']             : 1       
+['they', 'PRP']                    : 1       ['complex', 'NN']                  : 1       ['key', 'JJ']                      : 1       
+['link', 'NNP']                    : 1       ['three', 'CD']                    : 1       ['lish', 'VB']                     : 1       
+['things', 'NNS']                  : 1       ['ing', 'NN']                      : 1       ['localized', 'JJ']                : 1       
+['estab', 'VB']                    : 1       ['methods', 'NNS']                 : 1       ['any', 'DT']                      : 1       
+['work', 'NN']                     : 1       ['especially', 'RB']               : 1       ['small-world', 'JJ']              : 1       
+['only', 'RB']                     : 1       ['ontology', 'NN']                 : 1       ['goal', 'NN']                     : 1       
+['tools', 'NNS']                   : 1       ['characteristics', 'NNS']         : 1       ['about', 'IN']                    : 1       
+['sln', 'NN']                      : 1       ['web', 'NN']                      : 1       ['formation', 'NN']                : 1       
+['important', 'JJ']                : 1       ['process', 'NN']                  : 1       ['dynamically', 'RB']              : 1       
+['graph', 'NN']                    : 1       ['reflects', 'VBZ']                : 1       ['due', 'JJ']                      : 1       
+['networks', 'NNS']                : 1       ['guage', 'NN']                    : 1       ['human', 'JJ']                    : 1       
+['some', 'DT']                     : 1       ['support', 'VBP']                 : 1       ['description', 'NN']              : 1       
+['topology', 'JJ']                 : 1       ['reason', 'NN']                   : 1       ['decentral', 'JJ']                : 1       
+['suggests', 'VBZ']                : 1       ['records', 'VBZ']                 : 1       
+
+W_Pdic:
+represent           : ['VB']                             semantic            : ['NNP', 'JJ']                      
+linked              : ['VBN']                            hierarchy           : ['NN']                             
+dynamic             : ['JJ']                             existing            : ['VBG']                            
+communities         : ['NNS']                            paper               : ['NN']                             
+including           : ['VBG']                            human               : ['JJ']                             
+reflect             : ['VBP']                            query               : ['RB']                             
+reasoning           : ['NN']                             localized           : ['JJ']                             
+web                 : ['JJ', 'NN']                       group               : ['NN']                             
+knowledge           : ['NN']                             also                : ['RB']                             
+graph               : ['NN']                             components          : ['NNS']                            
+removal             : ['NN']                             forms               : ['NNS']                            
+to                  : ['TO']                             only                : ['JJ', 'RB']                       
+helps               : ['VBZ']                            discovering         : ['VBG']                            
+nodes               : ['NNS']                            has                 : ['VBZ']                            
+into                : ['IN']                             resources           : ['NNS']                            
+which               : ['WDT']                            richness            : ['NN']                             
+rules               : ['NNS']                            existences          : ['NNS']                            
+between             : ['IN']                             semantics-aware     : ['JJ']                             
+records             : ['VBZ']                            they                : ['PRP']                            
+new                 : ['JJ']                             not                 : ['RB']                             
+world               : ['NN']                             semantically        : ['RB']                             
+resource            : ['NN']                             like                : ['IN']                             
+proposes            : ['VBZ']                            supports            : ['VBZ']                            
+guage               : ['NN']                             accelerating        : ['VBG']                            
+consisting          : ['VBG']                            specific            : ['JJ']                             
+-lsb-               : ['CD', 'VBG', 'JJ', 'VBZ', 'NNS', 'NNP']queries             : ['NNS']                            
+discovery           : ['NN']                             automatic           : ['JJ']                             
+page                : ['NN']                             the                 : ['DT']                             
+domain              : ['NN']                             methods             : ['NNS']                            
+distinguished       : ['JJ']                             some                : ['DT']                             
+idea                : ['NN']                             related             : ['VBN']                            
+second              : ['JJ']                             are                 : ['VBP']                            
+recommendation      : ['NN']                             c-sln               : ['NNP']                            
+-rsb-               : ['NNS', 'JJ']                      targets             : ['NNS']                            
+special             : ['JJ']                             even                : ['RB']                             
+lish                : ['VB']                             estab               : ['VB']                             
+network             : ['NNP', 'NN']                      for                 : ['IN']                             
+space               : ['NN']                             furthermore         : ['RB']                             
+research            : ['NN']                             does                : ['VBZ']                            
+fifth               : ['JJ']                             sup                 : ['JJ']                             
+relational          : ['JJ', 'NN']                       net                 : ['NN']                             
+approach            : ['NN']                             method              : ['NN']                             
+metadata            : ['NN']                             available           : ['JJ']                             
+be                  : ['VB']                             creating            : ['VBG']                            
+ory                 : ['VBN']                            sixth               : ['JJ']                             
+applies             : ['VBZ']                            reason              : ['NN']                             
+formation           : ['NN']                             key                 : ['JJ']                             
+based               : ['VBN']                            ontology            : ['NN']                             
+inductive           : ['JJ']                             by                  : ['IN']                             
+change              : ['NN']                             topology            : ['JJ']                             
+on                  : ['IN']                             about               : ['IN']                             
+slns                : ['NNS']                            created             : ['VBN']                            
+phishing            : ['VBG']                            of                  : ['IN']                             
+correctness         : ['NNS']                            minds               : ['NNS']                            
+ports               : ['NNS']                            suggests            : ['VBZ']                            
+important           : ['JJ']                             due                 : ['JJ']                             
+social              : ['JJ']                             opinion             : ['NN']                             
+suitable            : ['JJ']                             studies             : ['NNS']                            
+or                  : ['CC']                             mantic              : ['JJ']                             
+first               : ['JJ']                             among               : ['IN']                             
+primitive           : ['JJ']                             relevant            : ['JJ']                             
+useful              : ['JJ']                             can                 : ['MD']                             
+image               : ['NN']                             rule-constraint     : ['JJ']                             
+ized                : ['JJ']                             relations           : ['NNS']                            
+gregating           : ['VBG']                            tools               : ['NNS']                            
+lan                 : ['NN']                             management          : ['NN']                             
+from                : ['IN']                             links               : ['NNS']                            
+decentral           : ['JJ']                             addition            : ['NN']                             
+support             : ['VBP']                            system              : ['NN']                             
+construct           : ['VB']                             defined             : ['VBN']                            
+describes           : ['VBZ']                            characteristics     : ['NNS']                            
+type                : ['NN']                             is                  : ['VBZ']                            
+reflects            : ['VBZ']                            naturally           : ['RB']                             
+networks            : ['NNS']                            direction           : ['NN']                             
+suspicious          : ['JJ']                             analogical          : ['JJ']                             
+webpage             : ['NN']                             incorporates        : ['VBZ']                            
+forming             : ['VBG']                            but                 : ['CC']                             
+construction        : ['NN']                             link                : ['NNP', 'NN']                      
+normalized          : ['JJ']                             -lrb-               : ['-LRB-']                          
+with                : ['IN']                             than                : ['IN']                             
+those               : ['DT']                             semantics           : ['NNS']                            
+evolves             : ['VBZ']                            this                : ['DT']                             
+characteristic      : ['NN']                             work                : ['NN']                             
+will                : ['MD']                             sln                 : ['NNP', 'NN']                      
+interrelated        : ['JJ']                             three               : ['CD']                             
+promising           : ['JJ']                             schema              : ['NN']                             
+similar             : ['JJ']                             interconnected      : ['JJ']                             
+interactive         : ['JJ']                             and                 : ['CC']                             
+ag                  : ['NN']                             -rrb-               : ['-RRB-']                          
+process             : ['NN']                             discussed           : ['VBN']                            
+dynamically         : ['RB']                             citation            : ['NN']                             
+organized           : ['VBN']                            it                  : ['PRP']                            
+autonomously        : ['RB']                             an                  : ['DT']                             
+ap                  : ['NN']                             in                  : ['IN']                             
+feasible            : ['JJ']                             technology          : ['NN']                             
+operation           : ['NN']                             different           : ['JJ']                             
+ing                 : ['NN']                             self-organized      : ['JJ']                             
+rather              : ['RB']                             large               : ['JJ']                             
+self                : ['NN']                             six                 : ['CD']                             
+when                : ['WRB']                            small-world         : ['JJ']                             
+virtual             : ['JJ']                             any                 : ['DT']                             
+application         : ['NN']                             complex             : ['NN']                             
+role                : ['NN']                             fourth              : ['JJ']                             
+papers              : ['NNS']                            objective           : ['JJ']                             
+algorithms          : ['NNS']                            ordinary            : ['JJ']                             
+intelligent         : ['JJ']                             pursues             : ['VBZ']                            
+hyperlink           : ['RB']                             evolve              : ['VB']                             
+play                : ['VB']                             used                : ['VBN']                            
+intend              : ['VB']                             description         : ['NN']                             
+normal              : ['JJ']                             may                 : ['MD']                             
+object              : ['VBP']                            effect              : ['NN']                             
+includes            : ['VBZ']                            deriving            : ['VBG']                            
+applications        : ['NNS']                            proaches            : ['NNS']                            
+user                : ['NN']                             propagated          : ['VBN']                            
+class               : ['NN']                             goal                : ['NN']                             
+especially          : ['RB']                             third               : ['JJ']                             
+makes               : ['VBZ']                            traditional         : ['JJ']                             
+object-oriented     : ['JJ']                             inherits            : ['VBZ']                            
+allow               : ['VBP']                            form                : ['VB']                             
+things              : ['NNS']                            organization        : ['NN']                             
+model               : ['NN']                             section             : ['NN']                             
+se                  : ['NNP', 'FW']                      
