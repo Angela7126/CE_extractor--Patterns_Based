@@ -199,7 +199,7 @@ def FilePaser():
     # errorfilepath = os.path.join(os.getcwd(),'errorfile2.txt')
     # errorfile = codecs.open(errorfilepath,'w','utf8')
 
-    for fi in [21, 27, 28,  32, 33]:#filenum):
+    for fi in filenum:
         print "start process " + file_pn[fi] + '...'
         fname, ftype = os.path.splitext(os.path.basename(file_pn[fi]))  # fname is the file name of file_pn[fi]
         fp = ReadFile(os.path.join(TXTcorpdir, file_pn[fi]))  # get the text of file_pn[fi]

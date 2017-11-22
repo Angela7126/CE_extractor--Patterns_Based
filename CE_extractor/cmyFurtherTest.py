@@ -199,7 +199,7 @@ def GetPaperTest():
         PaperTestList.append(curpapertest)
 
     ### ---- Save lists into pickle files ----
-    Dumppickle(os.path.join(DICpkdir, "KGPaperTestList_FurtherText.pk"), PaperTestList)
+    Dumppickle(os.path.join(DICpkdir, "KGPaperTextList_FurtherTest.pk"), PaperTestList)
     return PaperTestList
 
 
@@ -208,8 +208,8 @@ def GetPaperTest():
 #######################################################################################       
 if __name__ == "__main__":
     # PaperTestList = GetPaperTest()
-    # Dumppickle(os.path.join(DICpkdir, "KGPaperTestList_FurtherText.pk"), PaperTestList)
-    PaperTestList = Loadpickle(os.path.join(DICpkdir, "KGPaperTestList_FurtherText.pk"))
+    # Dumppickle(os.path.join(DICpkdir, "KGPaperTextList_FurtherTest.pk"), PaperTestList)
+    PaperTestList = Loadpickle(os.path.join(DICpkdir, "KGPaperTextList_FurtherTest.pk"))
     # Recfp = os.path.join(ctxtdir, 'CESec_Distribution_LargeCorpus.txt')
     # CESecDistribution2TXT(Recfp, PaperTestList)
     # FCoWord = []

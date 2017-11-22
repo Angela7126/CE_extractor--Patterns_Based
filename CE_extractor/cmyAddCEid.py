@@ -63,11 +63,6 @@ def ShowCESentInfo(f):
         print "manCEidlst", s.manCEidlst
     print "\n"
 
-class ManCESec:
-    def __init__(self, ftag):
-        self.Ftag = ftag
-        self.CESeclst = []
-
 def GetManCEonSec():
     CEPaperList = Loadpickle(os.path.join(DICpkdir, "KGCEPaperList.pk"))
     manCE_FtagList = ReadDB_Ftaglist()

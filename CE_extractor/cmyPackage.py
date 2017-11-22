@@ -289,38 +289,39 @@ class CELink2:
 class FText:
     def __init__(self, ftag, abs_text, conc_text, ce_text):
         self.Ftag = ftag
-        self.AbsText = abs_text
-        self.ConcText = conc_text
-        self.CEText = ce_text
-        self.CE_A_Text = []
-        self.CE_B_Text = []
+        self.AbsText = abs_text  # store the text in Abstract section
+        self.ConcText = conc_text  # store the text in Conclusion section
+        self.CEText = ce_text  # store the sentences' text which contains cause-effect link
+        self.CE_A_Text = []   # store the cause texts for each cause-effect links.
+        self.CE_B_Text = []   # store the effect texts for each cause-effect links.
+        #  The corresponding between cause texts and effect texts lies in their location in the list.
 
 
 class FWordDic:
     def __init__(self, ftag, absworddic, concworddic, acworddic, ceworddic):
         self.Ftag = ftag
-        self.AbsWordDic = absworddic
-        self.ConcWordDic = concworddic
-        self.A_CWordDic = acworddic
-        self.CEWordDic = ceworddic
+        self.AbsWordDic = absworddic  # dic object, key is words in Abstract, and value is the occurrence frequency of the word.
+        self.ConcWordDic = concworddic  # dic object, key is words in Conclusion, and value is the occurrence frequency of the word.
+        self.A_CWordDic = acworddic  # dic object, merge words and their occurrence frequency in AbsWordDic and ConcWordDic.
+        self.CEWordDic = ceworddic  # dic object, key is words in cause-effect sentences, and value is the occurrence frequency.
 
 
 class CoWords:
     def __init__(self, FWDic, OnAbs, Abs2CE, OnConc, Conc2CE, OnAC, AC2CE, wAbs, wConc, wAC, comwonabs, comwonconc,
                  comwonac):
-        self.FWDic = FWDic
-        self.OnAbs = OnAbs
-        self.OnConc = OnConc
-        self.OnAC = OnAC
-        self.Abs2CE = Abs2CE
-        self.Conc2CE = Conc2CE
-        self.AC2CE = AC2CE
-        self.WAbs = wAbs
-        self.WConc = wConc
-        self.WAC = wAC
-        self.ComWOnAbs = comwonabs
-        self.ComWOnConc = comwonconc
-        self.ComWOnAC = comwonac
+        self.FWDic = FWDic  # The FWordDic object for the paper.
+        self.OnAbs = OnAbs  # The common words occurrence frequency in Abstract section
+        self.OnConc = OnConc  # The common words occurrence frequency in Conclusion section
+        self.OnAC = OnAC  # The common words occurrence frequency in both Abstract and Conclusion section
+        self.Abs2CE = Abs2CE  # The occurrence frequency in CElinks of common words with Abstract
+        self.Conc2CE = Conc2CE  # The occurrence frequency in CElinks of common words with Conclusion
+        self.AC2CE = AC2CE  # The occurrence frequency in CElinks of common words with both Abstract and Conclusion
+        self.WAbs = wAbs  # The percentage of common words on Abstract, i.e. how many words in Abstract are common words
+        self.WConc = wConc  # The percentage of common words on Conclusion, i.e. how many words in Conclusion are common words
+        self.WAC = wAC  # The percentage of common words on both Abstract and Conclusion
+        self.ComWOnAbs = comwonabs  # The common words list with Abstract
+        self.ComWOnConc = comwonconc  # The common words list with Conclusion
+        self.ComWOnAC = comwonac  # The common words list with both Abstract and Conclusion
 
 #######################################################################################
 # ---------------------------- KG Further Test Related Classes ---------------------- #
@@ -334,13 +335,19 @@ class CEonSec:
         self.CEsent = []
 
 
+class ManCESec:
+    def __init__(self, ftag):
+        self.Ftag = ftag
+        self.CESeclst = []
+
+
 class PaperTest:
     def __init__(self, paperinfo):
-        self.Paperinfo = paperinfo
-        self.CESeclst = []
-        self.ftext = None
-        self.CE_AC_WDic = None
-        self.CE_AC_CoWord = None
+        self.Paperinfo = paperinfo   # store the Paper object
+        self.CESeclst = []   # store the CEonSec object list
+        self.ftext = None   # store the FText object
+        self.CE_AC_WDic = None  # store the FWordDic object list
+        self.CE_AC_CoWord = None  # store the CoWords object list
 
 #######################################################################################
 # -------------------------- WORDS & POS_TAG & Frequency ---------------------------- #
