@@ -357,3 +357,11 @@ class WPF:
         self.W_Pdic = {}  # key为words，value为该words对应的pos-tag组成的list对象
         self.W_Fdic = {}  # key为words,value为该words在一篇文章中出现的词频
         self.WP_Fdic = {}  # key为(words,pos-tag)构成的tuple, value是一篇文章中该words取该postag时的词频
+
+#######################################################################################
+# -------------------------- Patterns usage in some files --------------------------- #
+#######################################################################################
+class PtsCount:
+    def __init__(self, CEpklst, ptscount):
+        self.CEpkLst = CEpklst  # store the pickle file-paths of several documents' CELink list
+        self.PtsNums = ptscount  # a list store each patterns usage times in CEpklst.
