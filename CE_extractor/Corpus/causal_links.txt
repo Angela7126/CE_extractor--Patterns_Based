@@ -97,17 +97,17 @@
 
 3 1 1 1 2 {&C ,/./;/and &R as a (&ADJ) result of &THIS (&NP)} [Amazing things will happen. One gift that I received recently was given as a result of this sort of thinking.]
 
-0 1 1 1 2 {&C (,/;/./--) (&AND) &R as a (&ADJ) consequence (of &THIS (&NP))} []
+0 1 1 1 2 {&C (,/;/./--) (&AND) &R as a (&ADJ) consequence (of &THIS (&NP))} [This eventually came true and the entire planet is a changed place as a consequence of it.]
 
 0 1 1 1 2 {&C ,/./;/and &R in consequence (of &THIS (&NP))} [She was found guilty, and lost her job in consequence of it.]
 
 2 1 1 1 2 {&C ,/./;/and &R (,) on that account} [I have been uneasy in the belief that I have offended you, and that you are going away on that account.]
 
-2 1 1 1 2 {&C (,/;/./--) (&AND) on that account (,) &R} [] 
+2 1 1 1 2 {&C (,/;/./--) (&AND) on that account (,) &R} [The notion is generally associated in our minds with abstract generality, and on that account it is often described as a general conception.] 
 
 1 1 1 1 2 {&C (,/;/./--) (&AND) (&ADV) because of &THIS (,) &R} [Mother's Day is the No 1 holiday for flower purchases. Then there are the various commodities, ranging from jewelry and clothes to cosmetics and washing powder, that take advantage of tlie promotion opportunities. Because of this, Jarvis spent the last 40 years of her life trying to stop Mother's Day.]
 
-1 1 1 1 2 {&C (,/;/./--) (&AND) &R (&ADV) because of &THIS} []
+1 1 1 1 2 {&C (,/;/./--) (&AND) &R (&ADV) because of &THIS} [Renewable energy use has nearly doubled, and thousands of Americans have jobs because of it. ]
 
 1 1 1 1 2 {&C (,/;/./--) on &this ground/grounds (,) &R} [Amazing things will happen. On those grounds, no one can question his contribution to medicine over the past century. ]
 
@@ -115,15 +115,15 @@
 
 0 1 1 1 2 {&C (,/;/./--) owing to &THIS (,) &R} [Life is a process full of pities, owing to which life itself becomes so delicately colorful and wonderful.]
 
-1 1 1 1 3 {&C (,/;/./--) (&ADV) because of (&THIS) &NP &R} [] 
+1 1 1 1 3 {&C (,/;/./--) (&ADV) because of (&THIS) &NP &R} [Golden Gai has remained the same ever since, with 80 tenants in the area forming a society to protect the area from development. Because of this resistance to change, many of the two-storey buildings are originals from the 1960s.] 
 
-1 1 1 1 3 {&C (,/;/./--) (&AND) &R (&ADV) because of (&THIS) &NP} []
+1 1 1 1 3 {&C (,/;/./--) (&AND) &R (&ADV) because of (&THIS) &NP} [Flu viruses are especially prone to this and some pandemics have emerged because of this genetic mixing.]
 
 1 1 1 1 3 {&C (,/;/./--) (&AND) owing to &this &NP (,) &R} [Amazing things will happen. Owing to this point, study on the effectiveness of interest rate policy has been taken as a front-line subject of theoretical research.]  
 
 1 1 1 1 3 {&R (,/;/./--) (&AND) owing to (&THIS) &NP@C@ (&Clause@C@)} [This was a very important issue owing to the fact that records could exist in the case of formal meetings.] [He was in a fevered state of mind, owing to the blight his wife's action threatened to cast upon his entire future.]
 
-0 1 1 1 3 {&C (,/;/./--) (&AND) in consequence of &this &NP (,) &R} []
+0 1 1 1 3 {&C (,/;/./--) (&AND) in consequence of &this &NP (,) &R} [She was found guilty and lost her job in consequence of this sentence.]
 
 0 1 1 1 3 {&C (,/;/./--) (&AND) as a (&ADJ) result of &this &NP (,) &R} [Amazing things will happen. As a result of this meeting, he made his first record.][Amazing things will happen. As a result of these changes, we have been able to push finances that were on the verge of collapse back to a safe position.]
 
